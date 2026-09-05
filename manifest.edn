@@ -57,7 +57,7 @@
              ["paren-shadows 4,225 files (Mózes class) — posture PENDING"
               "case-suffix ratification (shared ro+hu+kk)"
               "1 Sam 4:7 / Deut 32:4 / 1 Chr 11:35 witness ambiguities"]},
-            :status :rendering,
+            :status :live,
             :adjudication
             {:chair 59,
              :date "2026-09-04",
@@ -73,10 +73,10 @@
             :version "v1",
             :lineage
             {:git
-             {:repo nil,
+             {:repo "selah-project/selah-hu",
               :ref "v1-final",
-              :commit nil,
-              :tags [],
-              :branches []},
+              :commit "d7c2615e",
+              :tags ["v1-final"],
+              :branches ["main"]},
              :parents []},
             :lang :hu}
