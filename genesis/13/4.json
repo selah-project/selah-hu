@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "⟨Az⟩ oltár helyéhez, amelyet ott készített először, és ott hívta Avram a Nevet, Jahvét.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "⟨Az⟩ oltár helyéhez"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helyéhez"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltár"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "először"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és hívta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a Nevet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:24.209486640Z",
+  "model": "glm-5.3"
+}

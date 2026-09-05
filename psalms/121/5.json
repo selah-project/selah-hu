@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 121,
+  "translation": "Jahve a te őrződ, Jahve a te árnyékod a te jobb kezed fölött.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "a te őrződ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "a te árnyékod"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kezén"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jobb"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:27.844947049Z",
+  "model": "glm-5.3"
+}

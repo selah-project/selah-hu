@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "és ⟨את⟩ a két vesét, és ⟨את⟩ a rajtuk lévő zsírt, amely rajta van a csípőkön, és ⟨את⟩ a máj függelékét a máj felett, a vesékkel együtt — elveszi azt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a két vesét"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "két"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "vesét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "zsírt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "rajtuk van"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "a csípőkön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a máj függelékét"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "a máj függelékét"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "a máj"
+    },
+    {
+      "surface": "על",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "a vesékkel"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "elveszi azt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:47.426570630Z",
+  "model": "glm-5.3"
+}

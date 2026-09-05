@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Felbőledés fogott el a istentelenek miatt, akik elhagyják Tora-dat.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "felbőledés"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "fogott el"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "a istentelenek miatt"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "akik elhagyják"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora-dat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:11.673490511Z",
+  "model": "glm-5.3"
+}

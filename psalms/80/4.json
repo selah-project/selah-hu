@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Elohim, fordíts vissza minket, és világítsd meg orcádat, és megszabadulunk!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "fordíts vissza minket"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "és világítsd meg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "és megszabadulunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:39.792666724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Mindnyájan hozzád fülelnek, hogy adj eledelmet nekik a maga idejében.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "várakoznak"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "adj"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "eledelük"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "a maga idejében"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:46.789738598Z",
+  "model": "glm-5.3"
+}

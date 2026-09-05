@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 39:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Nem látott a börtönház felügyelője ⟨את⟩ semmi dolgot a keze alatt, mivelhogy Jahve ⟨את⟩ ⟨volt⟩ vele, és amit ő tesz, Jahve sikerre viszi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "שר",
+      "gloss": "felügyelője"
+    },
+    {
+      "surface": "בית",
+      "gloss": "-ház"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "a börtön(nek)"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semmi dolgot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "dolog(at)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a keze alatt"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "mivelhogy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (vele)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tesz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "sikerre viszi"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:18.975717620Z",
+  "model": "glm-5.3"
+}

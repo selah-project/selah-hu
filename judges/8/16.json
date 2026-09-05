@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És fogta ⟨את⟩ a város véneit, és ⟨את⟩ a pusztatöviseket és ⟨את⟩ a tövisbokrokat, és velük megleckéztette ⟨את⟩ Szukkot férfiait.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És fogta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a város véneit"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "véneit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a pusztatöviseket"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "töviseit"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "a pusztának"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a tövisbokrokat"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "a tövisbokrokat"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "megleckéztette"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szukkot férfiait"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiait"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Szukkot"
+    }
+  ],
+  "timestamp": "2026-09-04T18:53:13.768383651Z",
+  "model": "glm-5.3"
+}

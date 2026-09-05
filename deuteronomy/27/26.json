@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Átkozott, aki nem tartja fenn ⟨את⟩ e Tora szavait, hogy megcselekedje ⟨את⟩ azokat — és mondja az egész nép: Ámen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Átkozott"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "tartja fenn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e Tora szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "e Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy megcselekedje"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azokat"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:17.587982093Z",
+  "model": "glm-5.3"
+}

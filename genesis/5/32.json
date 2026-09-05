@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És volt Noach ötszáz éves, és nemzett Noach ⟨את⟩ Semet, ⟨את⟩ Chamot és ⟨את⟩ Jáfetet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És volt"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "… éves"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "éves"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzett"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Semet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Semet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chamot"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jáfetet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jáfetet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:18.229314349Z",
+  "model": "glm-5.3"
+}

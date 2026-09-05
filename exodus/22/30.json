@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Szent emberei legyetek nekem; a mezőn ⟨széttépett⟩ húst ne egyétek — a kutyának dobjátok ⟨את⟩ azt.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "emberei"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "legyetek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "és húst"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "széttépettet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyétek"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "a kutyának"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "dobjátok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:40.865562922Z",
+  "model": "glm-5.3"
+}

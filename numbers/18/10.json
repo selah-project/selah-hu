@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "A szentség szentjében edd meg ⟨azt⟩; minden férfi eheti ⟨את⟩ ⟨azt⟩; szent lesz neked.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "szentségében"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "szentjében"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "eszed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eheti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (az áldozatot)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T17:37:43.084700507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És megütötte ⟨את⟩ őket Bável (Babilon) királya, és megölette őket Rivlában, Hamat földjén; és fogságba hurcolta Jehudát a saját földjéről.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "megütötte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bável"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "megölette"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivlában"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "fogságba hurcolta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudát"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "saját földjéről"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:07.562003109Z",
+  "model": "glm-5.3"
+}

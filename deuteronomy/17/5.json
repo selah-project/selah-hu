@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Akkor vezesd ki ⟨את⟩ azt a férfit vagy ⟨את⟩ azt az asszonyt, akik megcselekedték ⟨את⟩ ezt a gonosz dolgot, a kapuidhoz — ⟨את⟩ a férfit vagy ⟨את⟩ az asszonyt —, és kövezd meg őket kövekkel, és haljanak meg.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "vezesd ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt a férfit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "azt a férfit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azt"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt az asszonyt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "azt az asszonyt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "megcselekedték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a gonosz dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dolgot"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "a kapuid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a férfit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfit"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asszonyt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszonyt"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "és kövezd meg"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kövekkel"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "és haljanak meg"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:51.455004596Z",
+  "model": "glm-5.3"
+}

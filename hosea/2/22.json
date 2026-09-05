@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És eljegyezlek magamnak hűségben, és megismered ⟨את⟩ Jahvét.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "és eljegyezlek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "magamnak"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "hűségben"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "és megismered"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:18:52.472739983Z",
+  "model": "glm-5.3"
+}

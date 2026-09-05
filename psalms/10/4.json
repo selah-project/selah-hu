@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A hitvány orcája gőgjétől fogva nem keres — „nincs Elohim” minden terveiben.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "A hitvány"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "gőgjének magasságától"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "orcája"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "keres"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "terveiben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:21.553906218Z",
+  "model": "glm-5.3"
+}

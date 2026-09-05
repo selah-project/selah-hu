@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és ⟨את⟩ jeleit és ⟨את⟩ tetteit, amelyeket Micrajim (Egyiptom) közepében cselekedett Paró (Fáraó), Micrajim királya és egész földje ellenében,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "jeleit"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "jeleit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "tetteit"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "tetteit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekedett"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepében"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paró ellenében"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "földjére"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:24.691667344Z",
+  "model": "glm-5.3"
+}

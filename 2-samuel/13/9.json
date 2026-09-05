@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És vette ⟨את⟩ a fazekat, és kiöntötte az elé, de ő nem akart enni. És monda Amnón: „Vigyétek ki minden férfit mellőlem!” És kiment minden férfi mellőle.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fazekat"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "a fazekat"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "és kiöntötte"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "az elé"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "de ő nem akart"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "enni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnón"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Vigyétek ki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfit"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "mellőlem"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "És kiment"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "mellőle"
+    }
+  ],
+  "timestamp": "2026-09-04T23:31:15.959631683Z",
+  "model": "glm-5.3"
+}

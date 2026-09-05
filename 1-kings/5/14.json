@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És jöttek minden népekből, hogy hallják ⟨את⟩ Selomo (Salamon) bölcsességét, a föld minden királyaitól ⟨את⟩, akik hallották ⟨את⟩ az ő bölcsességét.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "és jöttek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden…-ből"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hallani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selomo bölcsességét"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bölcsességét"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-tól",
+      "marks": "a föld minden királyaitól"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyaitól"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hallották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő bölcsességét"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "bölcsességét"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:31.328038434Z",
+  "model": "glm-5.3"
+}

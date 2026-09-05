@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megáldotta ⟨את⟩ őket Elohim, és mondta nekik Elohim: „Szaporodjatok és sokasodjatok, és töltsétek meg ⟨את⟩ a földet, és hódítsátok meg; és uralkodjatok a tenger halain, és az ég madarain, és minden élőlényen, ami a földön csúszik-mászik.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldotta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "szaporodjatok"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "és sokasodjatok"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "és töltsétek meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "és hódítsátok meg"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "és uralkodjatok"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "a halain"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "és a madarain"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "élőlényen"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "ami csúszik-mászik"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:57.456213761Z",
+  "model": "glm-5.3"
+}

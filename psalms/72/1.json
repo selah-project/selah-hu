@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Shelomo (Salamon) ⟨zsoltára⟩. Elohim, a királynak add meg ⟨a⟩ te ítéleteidet, és a király fiának a te igazságodat.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomónak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ítéleteidet"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "תן",
+      "gloss": "add"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "és igazságodat"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fiának"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.401641331Z",
+  "model": "glm-5.3"
+}

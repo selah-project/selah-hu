@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És a filiszteus ránézett, és látta ⟨את⟩ Dávidot, és megvetette őt, mert ifjú volt ⟨az⟩, vöröses, és egyben szép küllemű.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "és ránézett"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "a filiszteus"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "és megvetette őt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ifjú"
+    },
+    {
+      "surface": "ואדמוני",
+      "gloss": "vöröses"
+    },
+    {
+      "surface": "עם",
+      "gloss": "és egyben"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "szép"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "küllemű"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:54.831053561Z",
+  "model": "glm-5.3"
+}

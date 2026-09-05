@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Így volt szüntesen: a felhő beborította ⟨azt⟩, és a tűz látvája éjjel.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Így"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntesen"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "a felhő"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "beborította ⟨azt⟩"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "és a látvája"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:14.342964312Z",
+  "model": "glm-5.3"
+}

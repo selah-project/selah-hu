@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Mert meghallgatja a király, hogy megszabadítsa ⟨את⟩ szolgálóleányát annak az embernek a kezéből — elveszejtéssel engem és ⟨את⟩ fiamat együtt az Elohim örökségéből.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "meghallgatja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "hogy megszabadítsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgálóleányát"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "szolgálóleányát"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "a kezéből"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "annak az embernek"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "elveszejtéssel"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiamat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiamat"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "az örökségből"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:29:12.489164047Z",
+  "model": "glm-5.3"
+}

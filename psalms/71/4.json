@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Elohimem, szabadíts ki a gazda kezéből, a törvénytelent és erőszakost markából.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "szabadíts ki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gazda"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "markából"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "a törvénytelent"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "és erőszakost"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:26.109511592Z",
+  "model": "glm-5.3"
+}

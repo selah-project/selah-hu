@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És megmentette őket a gyűlölő kezéből, és megváltotta őket az ellenség kezéből.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "és megmentette őket"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "a gyűlölő"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "és megváltotta őket"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:14.166227775Z",
+  "model": "glm-5.3"
+}

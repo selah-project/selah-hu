@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És mondta a király: Halállal halj meg, Ahimelek, te és egész atyád háza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "halj meg"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    }
+  ],
+  "timestamp": "2026-09-04T19:16:25.003478536Z",
+  "model": "glm-5.3"
+}

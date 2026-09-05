@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És hívtok ⟨את⟩ engem, és eljártok, és imádkoztok hozzám, és meghallgatlak titeket.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "És hívtok"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "hívtok engem"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "és eljártok"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "és imádkoztok"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "és meghallgatlak"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:43:46.283464962Z",
+  "model": "glm-5.3"
+}

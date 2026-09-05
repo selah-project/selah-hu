@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Jahve Cevaót! Áldott ⟨az⟩ ember, aki benned bízik!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bízik"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:45.942369621Z",
+  "model": "glm-5.3"
+}

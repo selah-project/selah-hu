@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 61,
+  "translation": "Megszállok sátradban örökké-örökké, szárnyaid rejtekébe rejtőzöm. Szela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Megszállok"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sátradban"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "örökké-örökké"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "rejtőzöm"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "rejtekébe"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "szárnyaid"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:54.335773400Z",
+  "model": "glm-5.3"
+}

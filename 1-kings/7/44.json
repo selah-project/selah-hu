@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "és ⟨את⟩ az egy tengert, és ⟨את⟩ a tizenkét ökröt a tenger alatt",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az egy tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengert"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a tizenkét ökröt"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "az ökröket"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "két"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:25.688713872Z",
+  "model": "glm-5.3"
+}

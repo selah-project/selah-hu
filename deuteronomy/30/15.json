@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Lásd, elébed adtam ma ⟨את⟩ az életet és ⟨את⟩ a jót, és ⟨את⟩ a halált és ⟨את⟩ a rosszat —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "elébed"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az életet"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az életet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jót"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "a jót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a halált"
+    },
+    {
+      "surface": "המות",
+      "gloss": "a halált"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a rosszat"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a rosszat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:57.200370445Z",
+  "model": "glm-5.3"
+}

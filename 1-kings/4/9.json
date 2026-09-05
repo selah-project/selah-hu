@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Ben-Deker a Makazban, a Saalvimban, a Bet-Semesben, és Elón Bet-Chánánban.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "a Makazban"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "és a Saalvimban"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "és Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semes"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "és Elón"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chánán"
+    }
+  ],
+  "timestamp": "2026-09-05T00:11:41.944851013Z",
+  "model": "glm-5.3"
+}

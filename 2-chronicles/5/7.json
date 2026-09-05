@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És bevitték a papok ⟨את⟩ Jahve szövetségének ládáját a helyére, a ház Debirjébe, a szentségek szentjébe, a kerubok szárnyai alá.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "bevitték"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szövetségének ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetségének"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "helyéhez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "szentségesek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alá"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "szárnyainak"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "a kerubok"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:42.372275959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És Ester tovább beszélt a király színe előtt, és leesett lábai elé, és sírt, és esedezett neki, hogy űzze el Hámán agági ⟨את⟩ rosszaságát és ⟨את⟩ az ő szándékát, amelyet a zsidók ellen gondolt ki.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "és tovább"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "és leesett"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lábai"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "és sírt"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "és esedezett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "hogy űzze el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rosszaságát"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "rosszaságát"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámán"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "agági"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő szándékát"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "az ő szándékát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "gondolt ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "a zsidók"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:32.924452632Z",
+  "model": "glm-5.3"
+}

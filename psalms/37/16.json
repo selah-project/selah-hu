@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Jobb a kevés ⟨annak⟩, ki az igaz, mint a sok gonoszság bősége.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Jobb"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "a kevés"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "⟨annak⟩, ki az igaz"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "mint a bősége"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gonoszoknak"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:46.756123696Z",
+  "model": "glm-5.3"
+}

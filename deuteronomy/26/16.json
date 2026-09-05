@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Ma ezen a napon Jahve, a te Elohimod megparancsolja neked, hogy megtedd ⟨את⟩ ezeket a rendelkezéseket és ⟨את⟩ a törvényeket; és megőrzöd és megteszed ⟨את⟩ azokat teljes szíveddel és teljes lényeddel.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezen a napon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "megparancsolja neked"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy megtedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket a rendelkezéseket"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "a rendelkezéseket"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a törvényeket"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "a törvényeket"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "és megőrzöd"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és megteszed"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azokat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "szíveddel"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és teljes"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lényeddel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:49.847195803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Atyáitok — hol vannak ⟨ők⟩? És a próféták — örökké élnek-e?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "atyáitok"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hol"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ők⟩"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "és a próféták"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "élnek-e"
+    }
+  ],
+  "timestamp": "2026-09-04T21:33:53.359986375Z",
+  "model": "glm-5.3"
+}

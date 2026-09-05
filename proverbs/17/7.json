@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Nem méltó a balgataghoz a kiváló ajak, sőt még kevésbé a nemeshez a hazug ajak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "méltó"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "a balgataghoz"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ajak"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kiváló"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "még kevésbé"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "a nemeshez"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ajak"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazug"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:08.660309364Z",
+  "model": "glm-5.3"
+}

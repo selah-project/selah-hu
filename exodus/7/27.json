@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ha megtagadod ⟨את⟩ az elbocsátást, íme, én megverem ⟨את⟩ egész határodat békákkal.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "megtagadod"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "az elbocsátást"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "megverem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész határodat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "határodat"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "békákkal"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:16.859175084Z",
+  "model": "glm-5.3"
+}

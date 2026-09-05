@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Látják ⟨ezt⟩ az egyenesek, és örvendenek, és minden gonoszság befogja a száját.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "látják"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "az egyenesek"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "és örvendenek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "gonoszság"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "befogja"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "a száját"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:51.825982805Z",
+  "model": "glm-5.3"
+}

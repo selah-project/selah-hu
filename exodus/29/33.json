@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És megeszik ⟨את⟩ azokat, amelyekkel engesztelés történt ⟨értük⟩, hogy betöltsék ⟨את⟩ kezüket, hogy megszenteljék ⟨את⟩ őket; de idegen ne egyék meg, mert szentség azok.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "És megeszik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyekkel"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "engesztelés történt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨értük⟩"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "hogy betöltsék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezüket"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kezüket"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "hogy megszenteljék"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "de idegen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "egyék meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentség"
+    },
+    {
+      "surface": "הם",
+      "gloss": "azok"
+    }
+  ],
+  "timestamp": "2026-09-04T16:56:54.838048106Z",
+  "model": "glm-5.3"
+}

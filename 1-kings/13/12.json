@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És atyjuk így szólt hozzájuk: „Merre ment ⟨az⟩ az út?” És fiai meglátták ⟨את⟩ az utat, amelyen az Elohim embere elment, aki Júdából jött.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "atyjuk"
+    },
+    {
+      "surface": "אי",
+      "gloss": "merre"
+    },
+    {
+      "surface": "זה",
+      "gloss": "az"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "az út"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ment"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "és meglátták"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az utat"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "az utat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Júdából"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:34.016757725Z",
+  "model": "glm-5.3"
+}

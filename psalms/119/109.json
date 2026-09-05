@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Életem ⟨az⟩ én kezemben van szüntelen, de a Te Tórádat (Törvényedet) nem felejtettem el.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "életem"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "kezemen"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "de Tórádat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "felejtettem el"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:43.470210533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És eltemették őt ⟨את⟩ az ő sírjában, az Uzza (Uzza) kertjében; és uralkodott Josijjáhu (Józsiás), az ő fia, helyette.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "És eltemették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "az ő sírjában"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "a kertjében"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzzának (Uzza)"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "és uralkodott"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josijjáhu (Józsiás)"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:21.395752181Z",
+  "model": "glm-5.3"
+}

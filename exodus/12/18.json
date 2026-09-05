@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Az elsőben, a hónap tizennegyedik napján, estefelé egyetek mácót, egészen a hónap huszonegyedik napjáig, estefelé.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "az elsőben"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "tizennégy(edik)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…tíz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónap"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "estefelé"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyetek"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mácót"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napjáig"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huszonegy(edik)… az egy"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónap"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "estefelé"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:34.431281316Z",
+  "model": "glm-5.3"
+}

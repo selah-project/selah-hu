@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Mert minden férfi, akiben fogyatékosság ⟨van⟩, ne közelídjék: vak férfi, vagy sánta, vagy csorba orrú, vagy túlhosszú tagú.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "מום",
+      "gloss": "fogyatékosság"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "közelídjék"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "vak"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "sánta"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "csorba orrú"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "túlhosszú tagú"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:22.097314902Z",
+  "model": "glm-5.3"
+}

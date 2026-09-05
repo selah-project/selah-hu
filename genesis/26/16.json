@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És mondta Avimelech Jichaknak (Izsáknak): Menj el tőlünk, mert jóval hatalmasabbá lettél nálunk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak (Izsák)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "tőlünk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "hatalmasabbá lettél"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nálunk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "jóval"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:23.134924850Z",
+  "model": "glm-5.3"
+}

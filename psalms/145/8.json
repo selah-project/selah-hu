@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Kegyes és irgalmas Jahve, hosszú orrú ⟨türelmes haragú⟩, és nagy a heszed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "kegyes"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "és irgalmas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "orrú"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "és nagy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "a heszed"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:58.502308601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Íme, vétekben formálódtam, és bűnben fogant engem anyám.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "vétekben"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "formálódtam"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "és bűnben"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "fogant engem"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anyám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:45.638459763Z",
+  "model": "glm-5.3"
+}

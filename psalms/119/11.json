@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Szívemben elrejtettem a te igédet, hogy ne vétkezzem ellened.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "Szívemben"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "elrejtettem"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "a te igédet"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "vétkezzem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ellened"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:45.473912445Z",
+  "model": "glm-5.3"
+}

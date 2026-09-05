@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Ezért elhagyja a férfi ⟨את⟩ apját és ⟨את⟩ anyját, és ragaszkodik feleségéhez, és lesznek egy hússá.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "…ért"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "elhagyja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apját"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anyját"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "és ragaszkodik"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "feleségéhez"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "és lesznek"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "hússá"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eggyé"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:13.167134397Z",
+  "model": "glm-5.3"
+}

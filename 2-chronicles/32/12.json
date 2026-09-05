@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Nem ő-e az, Jechizkijáhu, aki eltávolította ⟨את⟩ az ő magas helyeit és ⟨את⟩ az ő oltárait, és ezt mondta Júdának és Jeruzsálemnek: Egy oltár előtt boruljatok le, és azon füstölögöztetek?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nem-e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jechizkijáhu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "eltávolította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magas helyeit"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "magas helyeit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "oltárait"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "oltárait"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Júdának"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "és Jeruzsálemnek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltár"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "boruljatok le"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "és azon"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "füstölögöztetek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:22:14.509319694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És vett Dávid ⟨את⟩ az összes juhot és a szarvasmarhát: hajtották ⟨azok⟩ előtt, a prémes állatok előtt, és mondták: „Ez Dávid zsákmánya.”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és vett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes juhot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "juhot"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "és a szarvasmarhát"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "hajtották"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "a jószág"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "annak"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondták"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "zsákmánya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    }
+  ],
+  "timestamp": "2026-09-04T23:30:19.161918778Z",
+  "model": "glm-5.3"
+}

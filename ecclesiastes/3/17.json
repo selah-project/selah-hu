@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Én azt mondtam a szívemben: ⟨את⟩ az igazat és ⟨את⟩ a hitszegőt megítéli az Elohim, mert idője van minden szándéknak, és ott minden tettnek.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "a szívemben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az igazat"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "az igazat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hitszegőt"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "a hitszegőt"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "megítéli"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עת",
+      "gloss": "idője"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "szándéknak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "tettnek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:40.972842310Z",
+  "model": "glm-5.3"
+}

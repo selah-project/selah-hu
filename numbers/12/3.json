@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Az ember pedig, Moshe, nagyon alázatos volt, minden ember közül, aki a föld színén ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Az ember pedig"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "alázatos"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden… közül"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "על",
+      "gloss": "színén"
+    },
+    {
+      "surface": "פני",
+      "gloss": "felszínén"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:05.601164209Z",
+  "model": "glm-5.3"
+}

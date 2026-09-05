@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ⟨a⟩ férfi, aki hálást ad ⟨az⟩ állattal: halállal haland meg, és ⟨את⟩ az állatot öljétek meg.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "hálását"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "állattal"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haland meg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "az állatot"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "öljétek meg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:51.694103592Z",
+  "model": "glm-5.3"
+}

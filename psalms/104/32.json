@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "⟨Aki⟩ rátekint a földre, és az megremeg; megérinti a hegyeket, és azok füstölnek.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "⟨Aki⟩ rátekint"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "és az megremeg"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "megérinti"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "a hegyeket"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "és azok füstölnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:39.105246963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És megverte az ország népe ⟨את⟩ mindazokat, akik összeesküdtek Amon királya ellen, és királlyá tette az ország népe ⟨את⟩ Jósijáhut, az ő fiát, helyette.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "és megverte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazokat"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "akik összeesküdtek"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "és királlyá tette"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jósijáhut"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jósijáhut"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:34.424816887Z",
+  "model": "glm-5.3"
+}

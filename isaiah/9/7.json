@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Szót küldött Adonáj Jaakóv (Jákob) közé, és leszállt Jiszráélben (Izrael).",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Szót"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "küldött"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakóv közé"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "és leszállt"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jiszráélben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:24.981237159Z",
+  "model": "glm-5.3"
+}

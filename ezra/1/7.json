@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És Koresh király kivitette ⟨את⟩ Jahve házának edényeit, amelyeket Nevuhadneccar vitt ki Jeruzsálemből, és helyezte el őket az ő istene házában.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "és a király"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "kivitette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az edényeit (כלי)"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edényeit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "vitt ki"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevuhadneccar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jeruzsálemből"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "és helyezte el őket"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házában"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "az ő istene"
+    }
+  ],
+  "timestamp": "2026-09-04T22:48:30.922997938Z",
+  "model": "glm-5.3"
+}

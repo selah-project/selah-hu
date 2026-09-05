@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Az elrendeléseidben elmélkedem, és figyelem az ösvényeidet.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "az elrendeléseidben"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "elmélkedem"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "és figyelem"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "az ösvényeidet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:42.492587496Z",
+  "model": "glm-5.3"
+}

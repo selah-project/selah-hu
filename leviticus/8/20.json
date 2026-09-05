@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ⟨את⟩ a kost darabokra vágta fel, és füstölővé tette Moshe (Mózes) ⟨את⟩ a fejet, ⟨את⟩ a darabokat és ⟨את⟩ a kövérjét.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kost"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a kost"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "darabokra vágta fel"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "darabjaira"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "füstölővé tette"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fejet"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "a fejet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a darabokat"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "a darabokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a kövérjét"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "a kövérjét"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:06.837029589Z",
+  "model": "glm-5.3"
+}

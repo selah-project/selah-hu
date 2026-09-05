@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "A Jahve házának udvaraiban, a te bensődben, Jerusálájim! Hallelu-Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "udvaraiban"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "a te bensődben"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálájim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:55.002781974Z",
+  "model": "glm-5.3"
+}

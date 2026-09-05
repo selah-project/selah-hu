@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 15:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Ha lesz közötted egy szegény egyik testvéred közül egyik kapudban, a te földeden, amelyet Jahve, a te Elohimod ad neked, ne keményítsd meg ⟨את⟩ szívedet, és ne zárd össze ⟨את⟩ kezedet testvéredtől, a szegénytől.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "בך",
+      "gloss": "közötted"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "egy szegény"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "egyik ... közül"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "egyik"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "kapudban"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "földeden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "keményítsd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szívedet"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "szívedet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תקפץ",
+      "gloss": "zárd össze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezedet"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "testvéredtől"
+    },
+    {
+      "surface": "האביון",
+      "gloss": "a szegénytől"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:00.839442709Z",
+  "model": "glm-5.3"
+}

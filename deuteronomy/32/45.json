@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És bevégezte Moshe (Mózes) ⟨את⟩ minden e szavak beszédét egész Izráélhez.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "bevégezte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "beszédét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden e szavak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "e szavak"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráélhez"
+    }
+  ],
+  "timestamp": "2026-09-04T18:31:41.566767708Z",
+  "model": "glm-5.3"
+}

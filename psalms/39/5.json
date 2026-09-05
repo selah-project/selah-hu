@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Ismertesd meg velem, Jahve, ⟨az⟩ én végemet, és ⟨a⟩ napjaim mértékét — mi ⟨az⟩? Hadd tudjam, mily múlandó ⟨vagyok⟩ én.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Ismertesd meg velem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "⟨az⟩ én végemet"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "és ⟨a⟩ mértékét"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjaim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "hadd tudjam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mily"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "múlandó"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨vagyok⟩ én"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:29.502155722Z",
+  "model": "glm-5.3"
+}

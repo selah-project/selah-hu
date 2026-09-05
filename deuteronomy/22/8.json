@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha új házat építesz, készíts korlátot a tetődnek, hogy ne vess vért a házadon, ha leesik onnan az, aki leesik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "építesz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házat"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "készíts"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "korlátot"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "a tetődnek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "vess"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "vért"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a házadon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "leesik"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "az, aki leesik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:24.464826177Z",
+  "model": "glm-5.3"
+}

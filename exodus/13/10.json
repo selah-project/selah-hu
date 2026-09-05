@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És megtartod ⟨את⟩ e rendeletet a maga idején, napról napra ⟨évről évre⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "És megtartod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e rendeletet"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "a rendeletet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "a maga idején"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "napról"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "napra"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:32.895505153Z",
+  "model": "glm-5.3"
+}

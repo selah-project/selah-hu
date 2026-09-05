@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Küldd el fényedet és igazságodat: azok vezetnek engem, elhoznak szent hegyedre és sátoraidhoz.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Küldd el"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "fényedet"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "és igazságodat"
+    },
+    {
+      "surface": "המה",
+      "gloss": "azok"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "vezetnek engem"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "elhoznak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑ra"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyedre"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "szent"
+    },
+    {
+      "surface": "וואל",
+      "gloss": "és ‑hoz"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "sátoraidhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:31.325085043Z",
+  "model": "glm-5.3"
+}

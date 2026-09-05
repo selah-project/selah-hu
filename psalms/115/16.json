@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Az egek, az egek Jahvééi, ⟨a⟩ földet pedig az ember fiainak adta.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvééi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "és a földet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "… fiainak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:17.467763713Z",
+  "model": "glm-5.3"
+}

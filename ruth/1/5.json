@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És meghaltak mindketten is, Machlon (Mahlon) és Kiljon (Kiljón); és megmaradt az asszony ⟨az⟩ ⟨két⟩ fiától és a férjétől.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "És meghaltak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindketten"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "és Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "és megmaradt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "משני",
+      "gloss": "⟨két⟩ fiától"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "fiától"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "és a férjétől"
+    }
+  ],
+  "timestamp": "2026-09-04T22:31:53.836585550Z",
+  "model": "glm-5.3"
+}

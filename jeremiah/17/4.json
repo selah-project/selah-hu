@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 17:4",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És magadtól el fogod hagyni örökségedet, amelyet adtam neked, és szolgálatra fognak téged ellenségeidnek ⟨את⟩ abban a földben, amelyet nem ismertél, mert tüzet gyújtottatok haragomban, örökké ég majd.",
+  "tokens": [
+    {
+      "surface": "ושמטתה",
+      "gloss": "elhagyod"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "és magadtól"
+    },
+    {
+      "surface": "מנחלתך",
+      "gloss": "örökségedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "והעבדתיך",
+      "gloss": "szolgálatra fognak téged"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellenségeid"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeidnek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "abban a földben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ismertél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüzet"
+    },
+    {
+      "surface": "קדחתם",
+      "gloss": "gyújtottatok"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "haragomban"
+    },
+    {
+      "surface": "עד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨örökre⟩"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ég majd"
+    }
+  ],
+  "timestamp": "2026-09-04T20:40:18.352366361Z",
+  "model": "glm-5.3"
+}

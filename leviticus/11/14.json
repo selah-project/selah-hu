@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és ⟨את⟩ a héját, és ⟨את⟩ a sólymot a maga fajtája szerint",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a héját"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "a héját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a sólymot"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "a sólymot"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "a maga fajtája szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:00.013635894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Utána visszatérnek Izráel fiai, és keresik Jahvét, az Elohimjukat, és ⟨את⟩ Dávidot, a királyukat, és rettegve jönnek Jahvéhoz és az ő jóságához az utolsó napokban.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Utána"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "visszatérnek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "és keresik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét, az Elohimjukat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "az Elohimjukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Dávidot, a királyukat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "a királyukat"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "és rettegve jönnek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvéhoz (előljáró)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és …hoz"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "az ő jóságához"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "az utolsó"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "napokban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:17:50.271319483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És felelt Jehónátán Saulnak, az ő atyjának, és azt mondta neki: „Miért haljon meg? Mit tett?”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehónátán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sault"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sault"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő atyjának"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és azt mondta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon meg"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:38.563940410Z",
+  "model": "glm-5.3"
+}

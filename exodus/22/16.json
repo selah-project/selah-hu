@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha megtagadja — bizony megtagadja — az apja, hogy neki adja őt, pénzt mérjen a szüzek jegyajándéka szerint.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "megtagadja"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "az apja"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "adni őt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénzt"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "mérjen"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "a jegyajándék szerint"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "a szüzek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:37.789099677Z",
+  "model": "glm-5.3"
+}

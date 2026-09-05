@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne fosszad meg a gyermeket a fenyítéstől, mert ha megvered ⟨את⟩ őt bottal, nem hal meg.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "fosszad meg"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "a gyermeket"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "a fenyítéstől"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "megvered"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bottal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:51.672190040Z",
+  "model": "glm-5.3"
+}

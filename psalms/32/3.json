@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Mikor hallgattam, elhasználódtak csontjaim ordításomtól egész ⟨a⟩ nap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mikor"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "hallgattam"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "elhasználódtak"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "csontjaim"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ordításomtól"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a nap"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:20.776277958Z",
+  "model": "glm-5.3"
+}

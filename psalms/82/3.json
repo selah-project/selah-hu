@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 82,
+  "translation": "Igazságot szolgáltattok ⟨a⟩ gyenge és árva ⟨felett⟩? ⟨A⟩ nyomorult és szegény ⟨ügyét⟩ tegyétek igazzá!",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Igazságot szolgáltattok"
+    },
+    {
+      "surface": "דל",
+      "gloss": "gyenge"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "és árva"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorult"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "és szegény"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "tegyétek igazzá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:21.292205964Z",
+  "model": "glm-5.3"
+}

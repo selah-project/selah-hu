@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És ezek voltak Ahóliváma fiainak az anyja: Aná leánya, Cibón leánya, Esav felesége; és ő szült Esavnak ⟨את⟩ Jeust és ⟨את⟩ Jaalámot és ⟨את⟩ Korachot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "És ezek"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Ahóliváma"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leánya"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Aná"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leánya"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Cibón"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "felesége"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavnak"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeust"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jaalámot"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Korachot"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:44.160301326Z",
+  "model": "glm-5.3"
+}

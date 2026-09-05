@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Nem lát engem többé a szem, amely látott, szemeid reám vannak, és én már nem vagyok.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "lát engem"
+    },
+    {
+      "surface": "עין",
+      "gloss": "a szem"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "amely látott"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "szemeid"
+    },
+    {
+      "surface": "בי",
+      "gloss": "reám"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "és én már nem vagyok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:09.338802262Z",
+  "model": "glm-5.3"
+}

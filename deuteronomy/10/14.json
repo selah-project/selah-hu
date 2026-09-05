@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Íme, Jahvéhoz, a te Elohimodhoz tartozik az ég és az egek egje, a föld és minden, ami ⟨rajta⟩ van.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodhoz"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "és az egje"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "egek"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨rajta⟩ van"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:33.660698033Z",
+  "model": "glm-5.3"
+}

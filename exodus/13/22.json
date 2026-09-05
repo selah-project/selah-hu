@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Nem vonult el a felhő oszlopa nappal, sem a tűz oszlopa éjjel, a nép színe elől.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "vonult el"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "oszlopa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "a felhő"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "sem",
+      "note": "placeholder"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "oszlopa"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "האש",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "a nép színe elől",
+      "note": "placeholder"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:36.746611329Z",
+  "model": "glm-5.3"
+}

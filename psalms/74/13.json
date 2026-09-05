@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Te széttörted erőddel ⟨את⟩ a tengert, összezúztad a tanninok fejeit a vizek felett.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "széttörted"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "erőddel"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tengert"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "összezúztad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejeit"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "a tanninok"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:44.383985639Z",
+  "model": "glm-5.3"
+}

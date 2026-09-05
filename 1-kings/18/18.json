@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És ⟨ő⟩ így szólt: Nem én forgattam fel ⟨את⟩ Izraelt, hanem te és atyád háza, amikor elhagytátok ⟨את⟩ Jahve parancsolatait, és a Baalok után jártatok.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És ⟨ő⟩ így szólt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "én forgattam fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hanem ⟨(kiemelés)⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "és háza"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyádnak"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "amikor elhagytátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parancsolatait"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsolatait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "és jártatok"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "a Baalok"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:42.592262208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És elhagyom ⟨את⟩ örökségem maradékát, és kezükbe adom őket — ellenségeik kezébe —, és zsákmányul és prédául lesznek minden ellenségüknek.",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "és elhagyom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örökségem maradékát"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "maradékát"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "örökségem"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "és adom őket"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ellenségeik"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "és lesznek"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "zsákmányul"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "és prédául"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ellenségüknek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:04.542684320Z",
+  "model": "glm-5.3"
+}

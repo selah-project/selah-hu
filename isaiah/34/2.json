@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Mert indulat ⟨van⟩ Jahvénak minden nemzetre, és ingerültség minden seregükre: ⟨את⟩ őket kiirtotta, odaadta ⟨az⟩ őket mészárlásra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "indulat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "על",
+      "gloss": "minden nemzetre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nemzetre"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "és ingerültség"
+    },
+    {
+      "surface": "על",
+      "gloss": "minden seregükre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "seregükre"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "kiirtotta",
+      "marks": "őket"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "odaadta"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "mészárlásra"
+    }
+  ],
+  "timestamp": "2026-09-05T00:29:17.070484564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És ⟨את⟩ az asztalt és ⟨את⟩ minden edényét, és ⟨את⟩ a gyertyatartót és ⟨את⟩ minden edényét, és ⟨את⟩ a füstölő-oltárt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az asztalt"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "az asztalt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden edényét (az asztalét)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a gyertyatartót"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "a gyertyatartót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden edényét (a gyertyatartóét)"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "edényeit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a füstölő-oltárt"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárát"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "a füstölésnek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:15.270961173Z",
+  "model": "glm-5.3"
+}

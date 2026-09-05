@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És féltek a bábák ⟨את⟩ az Elohimot, és nem tették, ahogyan beszélt hozzájuk Micrajim (Egyiptom) királya, hanem életben tartották ⟨את⟩ a gyermekeket.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "és féltek"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "a bábák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohimot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohimot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tették"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "hanem életben tartották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyermekeket"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "a gyermekeket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:26.102565083Z",
+  "model": "glm-5.3"
+}

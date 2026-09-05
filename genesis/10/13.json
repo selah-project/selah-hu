@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Micrajim (Egyiptom) nemzette ⟨את⟩ a Ludikat és ⟨את⟩ az Anamikat és ⟨את⟩ a Lehavikat és ⟨את⟩ a Naftuhikat.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "És Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Ludikat"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "a Ludikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az Anamikat"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "az Anamikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Lehavikat"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "a Lehavikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Naftuhikat"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "a Naftuhikat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:46.810004460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Nem királyoknak való, Lemuél, nem királyoknak való a bor ivása, sem a főembereknek [szeretni] a részegítő italt —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "királyoknak való"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "királyoknak való"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "az ivása"
+    },
+    {
+      "surface": "יין",
+      "gloss": "a bornak"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "sem a főembereknek"
+    },
+    {
+      "surface": "או",
+      "gloss": "[szeretni]"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "a részegítő ital"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:43.669518164Z",
+  "model": "glm-5.3"
+}

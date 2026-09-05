@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "A hiábavalóságból ⟨szerzett⟩ vagyon megfogyatkozik, de aki kézzel gyűjt, megsokasítja.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "vagyon"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "hiábavalóságból"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "megfogyatkozik"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "de aki gyűjt"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨által⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kézzel"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "megsokasítja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:20.627835476Z",
+  "model": "glm-5.3"
+}

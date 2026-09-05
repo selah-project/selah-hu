@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Jahve, Elohim Cevaót (a seregek Elohimja), ki van hozzád hasonló? Erős Jah! És a te hűséged körülvesz téged.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hozzád hasonló"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "erős"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "és a te hűséged"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "körülvesz téged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:48.886716689Z",
+  "model": "glm-5.3"
+}

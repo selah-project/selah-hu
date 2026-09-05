@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 12:31",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És felvittem ⟨את⟩ Jehúda fejedelmeit a falra, és felállítottam két nagy hálaadó-kórust és meneteket a jobb kéz felől, a falon, a szemétkapuhoz.",
+  "tokens": [
+    {
+      "surface": "ואעלה",
+      "gloss": "És felvittem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúda fejedelmeit"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmeit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "[fel]...a falra"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "a falra"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "és felállítottam"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kettőt"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "hálaadó-kórust"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "nagy[at]"
+    },
+    {
+      "surface": "ותהלכת",
+      "gloss": "és meneteket"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "a jobb kéz felől"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a falon"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "[a falon]"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "a ... kapuhoz"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "szemét[-kapuhoz]"
+    }
+  ],
+  "timestamp": "2026-09-04T22:57:44.570565713Z",
+  "model": "glm-5.3"
+}

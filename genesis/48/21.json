@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "És szólt Izráél Jószéfnek: Íme, meghalok, de Elohim lesz veletek, és visszahoz titeket ⟨את⟩ ősatyáitok földjére.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nek"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalok"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "és visszahoz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ősatyáitok"
+    }
+  ],
+  "timestamp": "2026-09-05T00:24:06.609405751Z",
+  "model": "glm-5.3"
+}

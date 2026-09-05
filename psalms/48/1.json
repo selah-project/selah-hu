@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Ének, zsoltár a Kórach fiainak.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ének"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a … fiainak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kórach"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:12.479741197Z",
+  "model": "glm-5.3"
+}

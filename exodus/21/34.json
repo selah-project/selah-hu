@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "⟨a⟩ gödör tulajdonosa fizesse meg: ezüstöt adjon vissza annak tulajdonosának, és a döglött ⟨állat⟩ legyen az övé.",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "tulajdonosa"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "⟨a⟩ gödörnek"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizesse meg"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüstöt"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "adjon vissza"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "annak tulajdonosának"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "és a döglött"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:31.578824359Z",
+  "model": "glm-5.3"
+}

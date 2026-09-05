@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "A karmesternek, a gititra; zsoltár Dávidtól.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gititra"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:03.415815423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Ne mondják szívükben: „Hah, ⟨azt⟩ akartuk!” — ne mondják: „Elnyeltük őt!”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mondják"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "szívükben"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "⟨azt⟩ akartunk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mondják"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "Elnyeltük őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:58.948121303Z",
+  "model": "glm-5.3"
+}

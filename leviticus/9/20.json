@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És rátették ⟨את⟩ a zsírokat a mellrészekre, és füstölővé tette ⟨az⟩ oltáron a zsírokat.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "rátették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a zsírokat"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "a zsírokat"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "a mellrészekre"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "füstölővé tette"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "a zsírokat"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨az⟩ oltáron"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:20.588388218Z",
+  "model": "glm-5.3"
+}

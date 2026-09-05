@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Gyűlölet éleszti a viszályt, de minden vétket elfed a szeretet.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "Gyűlölet"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "éleszti"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "a viszályt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "de ⟨folott⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "vétkén"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "elfed"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "a szeretet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:08.652923498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ne menj fel lépcsőn az oltáromra, hogy ne fedessék fel meztelenséged azon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És ne"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "menj fel"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "lépcsőn"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "oltárom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fedessék fel"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "meztelenséged"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "azon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:37.285437195Z",
+  "model": "glm-5.3"
+}

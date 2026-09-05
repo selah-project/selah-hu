@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "vitézt és harcost, bírót és prófétát, jóst és vénembert",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "vitézt"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "harcost"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "bírót"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "és prófétát"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "jóst"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "és vénembert"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:00.398790240Z",
+  "model": "glm-5.3"
+}

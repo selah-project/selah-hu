@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És elküldte Jahve ⟨את⟩ a népre a kígyókat, az égőket, és megmarták ⟨את⟩ a népet, és meghalt a népből sok, Jiszráelből.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "a népre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kígyókat"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "a kígyókat"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "az égőket"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "és megmarták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sok"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jiszráelből"
+    }
+  ],
+  "timestamp": "2026-09-04T17:40:01.319117776Z",
+  "model": "glm-5.3"
+}

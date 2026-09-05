@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 17:12",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Mondd csak a lázadó háznak: Nem tudjátok-é, mit ⟨jelentenek⟩ ezek? Mondd: Íme, Bável (Babilónia) királya Jerusalájmhoz (Jeruzsálem) jött, és elvitte ⟨את⟩ annak királyát és ⟨את⟩ főembereit, és magával vitte ⟨את⟩ őket Bávelba.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mondd"
+    },
+    {
+      "surface": "נא",
+      "gloss": "csak"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "lázadó"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nem-é"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tudjátok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Mondd"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bávelnak"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalájmhoz"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és elvitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak királyát"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "főembereit"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "főembereit"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és vitte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket (a királyt és a főembereket)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "magához"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bávelba"
+    }
+  ],
+  "timestamp": "2026-09-04T21:04:34.253053562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Mert atyám és anyám elhagytak engem, de Jahve egybegyűjt engem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "és anyám"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "elhagytak engem"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "egybegyűjt engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:26.498673129Z",
+  "model": "glm-5.3"
+}

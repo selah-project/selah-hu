@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Hamis szót gyűlöli az igaz, a gonosz pedig bűzlik és szégyenbe jut.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "szót"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hamis"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "gyűlöli"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "bűzlik"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "és szégyenbe jut"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:05.620790149Z",
+  "model": "glm-5.3"
+}

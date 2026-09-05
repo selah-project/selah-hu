@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Csak a ⟨vérét⟩ — ⟨את⟩ a vérét ne edd, a földre ontsd ki, mint a vizet.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vérét"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "a vérét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "edd"
+    },
+    {
+      "surface": "על",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ontsd ki"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "mint a vizet"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:59.416859369Z",
+  "model": "glm-5.3"
+}

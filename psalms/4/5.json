@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Reszkessetek, és ne vétkezzetek; mondjátok szívetekben ágyashelyeteken, és hallgassatok. Szela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Reszkessetek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "vétkezzetek"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mondjátok"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "szívetekben"
+    },
+    {
+      "surface": "על",
+      "gloss": "ágyashelyeteken"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "[fekvőhelyeteken]"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "és hallgassatok"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:24.687676505Z",
+  "model": "glm-5.3"
+}

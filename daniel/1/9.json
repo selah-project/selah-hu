@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És adta az Elohim ⟨את⟩ Danielt heszedért és irgalomért a főudvarmester színe előtt.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Danielt"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danielt"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "heszedért"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "és irgalomért"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "שר",
+      "gloss": "fő-"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "udvarmester"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:13.485582135Z",
+  "model": "glm-5.3"
+}

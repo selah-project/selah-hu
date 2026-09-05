@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Mögöttem és előttem körülszorítottál, és rám tetted tenyeredet.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "mögöttem"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "és előttem"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "körülszorítottál"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "és tetted"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "tenyered"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:57.147744639Z",
+  "model": "glm-5.3"
+}

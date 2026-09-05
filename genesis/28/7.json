@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "és hogy hallgatott Jaakob az apjára és az anyjára, és elment Paddan-Aramba —",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "hallgatott"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az apjá"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és -ra"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az anyjá"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aramba"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:00.996390772Z",
+  "model": "glm-5.3"
+}

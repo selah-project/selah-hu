@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 11:6",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Az egyenesek igazsága megszabadítja őket, de hűtlenek saját romlásukban fognak el.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "igazsága"
+    },
+    {
+      "surface": "יירים",
+      "gloss": "az egyeneseknek"
+    },
+    {
+      "surface": "תצילם",
+      "gloss": "megszabadítja őket"
+    },
+    {
+      "surface": "ובהות",
+      "gloss": "de romlásukban"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "a hűtlenek"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "elfogatnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:20.144182905Z",
+  "model": "glm-5.3"
+}

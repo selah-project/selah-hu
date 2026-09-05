@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És felrakták ⟨את⟩ gabonájukat szamaraikra, és elmentek onnan.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "És felrakták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gabonájukat"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "gabonájukat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "szamaraikra"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:36.895142826Z",
+  "model": "glm-5.3"
+}

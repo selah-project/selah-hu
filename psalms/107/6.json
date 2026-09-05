@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "És kiáltottak Jahvéhoz szorongságukban; nyomorúságaikból megmentette ⟨őket⟩.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "És kiáltottak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "szorongságukban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "az ő"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "nyomorúságaikból"
+    },
+    {
+      "surface": "ייצילם",
+      "gloss": "megmentette"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:01.422856506Z",
+  "model": "glm-5.3"
+}

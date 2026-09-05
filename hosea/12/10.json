@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Én pedig ⟨vagyok⟩ Jahve, a te Elohimod, Micrajim földjétől fogva; még visszalakatlak sátrakba, mint a kijelölt ünnep napjait.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Én pedig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjétől"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "visszalakatlak"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "sátrakba"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "mint a napjait"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a kijelölt ünnepnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:33.522651546Z",
+  "model": "glm-5.3"
+}

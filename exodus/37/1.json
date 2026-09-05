@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És megcsinálta Betsalel ⟨את⟩ a ládát sittimfából: két és fél könyök ⟨volt⟩ a hossza, könyök és fél a szélessége, és könyök és fél a magassága.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcsinálta"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ládát"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "a ládát"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "két könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "a magassága"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:09.687411076Z",
+  "model": "glm-5.3"
+}

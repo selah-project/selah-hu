@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Én pedig szegény vagyok és nyomorult; Adonáj, gondolkodik rólam: segítségem és megmentőm ⟨te⟩ vagy, Elohimom — ne késlekedj!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én-pedig"
+    },
+    {
+      "surface": "עני",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és-nyomorult"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "gondolkodik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rólam"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "segítségem"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "és-mentőm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "késlekedj"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:43.989094597Z",
+  "model": "glm-5.3"
+}

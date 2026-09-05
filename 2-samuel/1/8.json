@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És monda néki: Kicsoda vagy te? És monda ő néki: Amáleki vagyok én.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "néki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kicsoda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "vagy te"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda ő"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amáleki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "vagyok én"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:42.247910081Z",
+  "model": "glm-5.3"
+}

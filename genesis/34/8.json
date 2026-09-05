@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És szólt Hamor ⟨את⟩ hozzájuk, mondván: Sékem, az én fiam — a lelke vágyakozik a ti leányotok után; adjátok ⟨את⟩ őt neki feleségül, kérlek.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hozzájuk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sékem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "az én fiam"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "vágyakozik"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a lelke"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "a ti leányotok után"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "adjátok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:55.529192464Z",
+  "model": "glm-5.3"
+}

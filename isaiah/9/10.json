@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És fölmagasztalta Jahve ⟨את⟩ Recin szorítóit őellene, és ⟨את⟩ ellenségeit felbőszítette.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "és fölmagasztalta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Recin szorítóit"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "szorítóit"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "őellene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "ellenségeit"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ellenségeit"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "felbőszítette"
+    }
+  ],
+  "timestamp": "2026-09-04T20:10:23.008000966Z",
+  "model": "glm-5.3"
+}

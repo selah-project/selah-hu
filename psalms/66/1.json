@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "A karmesternek. Ének, mizmor. Zengjetek az Elohimnak, egész föld!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Ének"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Zengjetek"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "az Elohimnak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:49.397735270Z",
+  "model": "glm-5.3"
+}

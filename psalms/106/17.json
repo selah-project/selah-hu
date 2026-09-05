@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Kinyílt a föld, és elnyelte Datánt (Dátánt), és betakarta Avirám (Abírám) gyülekezetét.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "kinyílt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "és elnyelte"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datánt"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "és betakarta"
+    },
+    {
+      "surface": "על",
+      "gloss": "(felett)"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezetét"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Avirám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:19.176691832Z",
+  "model": "glm-5.3"
+}

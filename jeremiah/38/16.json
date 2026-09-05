@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 38:16",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És megesküdött a király, Cidkijáhu, Jirmejáhunak titokban, mondván: Él Jahve ⟨את⟩, aki alkotta nekünk ⟨את⟩ ezt az életet — ha megöllek téged, és ha adlak téged e férfiak kezébe, akik keresik ⟨את⟩ az életedet!",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "És megesküdött"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejáhunak"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "titokban"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Él"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aki alkotta nekünk ezt az életet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alkotta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt az életet"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "az élet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אמיתך",
+      "gloss": "megöllek téged"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "adlak téged"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a férfiak"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "keresik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az életedet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "életedet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:40:37.318185687Z",
+  "model": "glm-5.3"
+}

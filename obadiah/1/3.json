@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "obadiah 1:3",
+  "book": "obadiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Szíved gőgje félrevezetett téged, aki a szikla hasadékaiban laksz, magasságban lakóhelyed — így szól szívében: »Ki hoz le engem a földre?«",
+  "tokens": [
+    {
+      "surface": "זדון",
+      "gloss": "gőgje"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "szíved"
+    },
+    {
+      "surface": "השיאך",
+      "gloss": "félrevezetett"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "aki laksz"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "a hasadékaiban"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "szikla"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "magasságban"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "lakóhelyed"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "szívében"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יורדני",
+      "gloss": "hoz le engem"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:45.455105483Z",
+  "model": "glm-5.3"
+}

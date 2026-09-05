@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 54,
+  "translation": "Elohim, hallgasd meg imádságomat, figyelj föl szavaimra.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgasd meg"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "imádságomat"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "figyelj föl"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "szavaimra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "(a száméból)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:44.113561120Z",
+  "model": "glm-5.3"
+}

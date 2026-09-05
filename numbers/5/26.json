@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És vegyen marokkal a pap az ételáldozatból ⟨את⟩ annak emlékeztető részét, és füstöltesse fel az oltáron, és azután itassa meg ⟨את⟩ az asszonyt ⟨את⟩ a vízzel.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "És vegyen marokkal"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "az ételáldozat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak emlékeztető részét"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "annak emlékeztető részét"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "és füstöltesse fel"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és azután"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "itassa meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asszonyt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszonyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vízzel"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vízzel"
+    }
+  ],
+  "timestamp": "2026-09-04T17:30:18.880701199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Gátban ne mondjátok el, ne sírjatok, Bayit-Leafrában — porban hempergedjetek!",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gátban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "mondjátok el"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "sírjatok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "sírjatok"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bayit-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leafrában"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "porban"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "hempergedjetek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:54.206397074Z",
+  "model": "glm-5.3"
+}

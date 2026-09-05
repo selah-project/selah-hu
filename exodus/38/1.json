@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És megcsinálta ⟨את⟩ az égőáldozat oltárát sittafából; öt könyök a hossza, és öt könyök a szélessége, négyzetes, és három könyök a magassága.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcsinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárát"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "égőáldozat-"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitta-"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "ווחמש",
+      "gloss": "és öt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "négyzetes"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "és három"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "a magassága"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:44.598439156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Érjen véget, kérlek, a gonosz gonoszsága, és ⟨álljon⟩ meg az igaz; ⟨mert⟩ a szívek és vesék vizsgálója ⟨az⟩ igaz Elohim.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "érjen véget"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gonoszsága"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonosznak"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "és ⟨álljon⟩ meg"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "és vizsgálója"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "a szívek"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "és a vesék"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igaz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:26.050025815Z",
+  "model": "glm-5.3"
+}

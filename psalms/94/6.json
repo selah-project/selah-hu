@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Özvegyet és jövevényt ölnek meg, és árvákat gyilkolnak.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "özvegyet"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "és jövevény"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ölnek meg"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "és árvákat"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "gyilkolnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:19.198153822Z",
+  "model": "glm-5.3"
+}

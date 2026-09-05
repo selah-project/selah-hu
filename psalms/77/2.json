@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Hangom Elohimhoz, és kiáltok; hangom Elohimhoz, és ⟨meg⟩hallgat engem.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Hangom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimhoz"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "és kiáltok"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hangom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimhoz"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "és ⟨meg⟩hallgat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "engem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:27.032493382Z",
+  "model": "glm-5.3"
+}

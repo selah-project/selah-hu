@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És tedd ⟨את⟩ a medencét a találkozás sátra és az oltár közé, és tégy oda vizet.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "és tedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a medencét"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "a medencét"
+    },
+    {
+      "surface": "בין",
+      "gloss": "közé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a találkozásnak"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és (közé)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "és tégy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:12.620189342Z",
+  "model": "glm-5.3"
+}

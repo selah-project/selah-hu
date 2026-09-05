@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Az én apám megesketett engem, mondván: Íme, én meghalok; a síromban, amelyet ástam magamnak Kenaan földjén, ott temess el engem. Most tehát hadd menjek fel, kérlek, és temessem el ⟨את⟩ az apámat, és visszatérek.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "apám"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "megesketett engem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalok"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "a síromban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "ástam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "magamnak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "temess el engem"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Most tehát"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "menjek fel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "és temessem el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az apámat"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apámat"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "és visszatérek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:19.994258877Z",
+  "model": "glm-5.3"
+}

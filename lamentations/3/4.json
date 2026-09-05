@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Elmorzsolta testemet és bőrömet, összetörte csontjaimat.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Elmorzsolta"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "testemet"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "és bőrömet"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "összetörte"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "csontjaimat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:46.707535706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És így egyétek ⟨את⟩: csípőtek felkötve, saruitok a lábatokon és bototok a kezetekben, és egyétek ⟨את⟩ sietve; peszach ⟨ez⟩ Jahve számára.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "És így"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyétek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ő (a peszach-áldozat)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "csípőtek"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "felkötve"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "saruitok"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "a lábatokon"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "és bototok"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "a kezetekben"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "és egyétek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ő (a peszach-áldozat)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "sietve"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "peszach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve számára"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:35.161109150Z",
+  "model": "glm-5.3"
+}

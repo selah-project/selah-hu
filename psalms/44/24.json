@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Ébredj! Miért alszol, Adonáj? Kelj fel, ne taszíts el bennünket örökre!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ébredj!"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "alszol"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "taszíts el"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:40.825865124Z",
+  "model": "glm-5.3"
+}

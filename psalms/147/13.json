@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Mert megerősítette kapuid záróréteit, megáldotta fiaidat benned.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "megerősítette"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "záróréteit"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "kapuid"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "megáldotta"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaidat"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "benned"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:10.248305716Z",
+  "model": "glm-5.3"
+}

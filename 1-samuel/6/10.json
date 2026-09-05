@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És úgy cselekedtek az emberek, és vettek két szoptatós tehenet, és odakötötték ⟨azokat⟩ a szekérhez, és ⟨את⟩ borjaikat bezárták a házba.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "és cselekedtek"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "és vettek"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "két"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "tehenet"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "szoptatós"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "és odakötötték őket"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "a szekérhez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "borjaikat"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "borjaikat"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bezárták"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:36.536209604Z",
+  "model": "glm-5.3"
+}

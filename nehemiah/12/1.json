@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És ezek a papok és a léviták, akik felmentek Zerubbávvel (Zerubbabel), Sealtiél fiával, és Jesuával: Serájá, Jirmejá, Ezrá (Ezra).",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "És ezek"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "és a léviták"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "felmentek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-vel"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbávvel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Sealtiél"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "és Jesuával"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serájá"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jirmejá"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezrá"
+    }
+  ],
+  "timestamp": "2026-09-04T22:57:22.427434834Z",
+  "model": "glm-5.3"
+}

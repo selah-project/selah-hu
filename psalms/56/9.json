@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Bolyongásomat feljegyezted — te; tedd könnyeimet tömlődbe; vajon nincsenek ⟨-e⟩ a te könyvedben?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "bolyongásomat"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "feljegyezted"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "tedd"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "könnyeimet"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "tömlődbe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "vajon nincsenek-e"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "könyvedben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:52.794489320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne nézd a bort, ha vöröslik, ha színét adja a pohárban, ha egyenest folyik le!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "nézd"
+    },
+    {
+      "surface": "יין",
+      "gloss": "a bort"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "vöröslik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adja"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "a pohárban"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "szemét"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "folyik le"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "egyenest"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:44.219981399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És szólt Jahve Moshe (Mózes) és Ahron (Áron) elé: Vegyetek magatoknak tenyeretek teljétével kemence-hamut, és Moshe szórja fel az ég felé Paró szeme láttára.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elő"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ... elé"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron (Áron)"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Vegyetek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatoknak"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "teljétével"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "tenyeretek"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "hamut"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "kemence-"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "és szórja fel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "az ég felé"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "szeme láttára"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:12.295023361Z",
+  "model": "glm-5.3"
+}

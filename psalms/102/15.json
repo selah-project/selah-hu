@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Mert kedvelték szolgáid ⟨את⟩ köveit, és ⟨את⟩ porát megkönyörülték.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "kedvelték"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köveit"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "köveit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "porát"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "porát"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "megkönyörülték"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:43.715558935Z",
+  "model": "glm-5.3"
+}

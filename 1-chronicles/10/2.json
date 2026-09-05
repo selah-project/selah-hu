@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És a nyomába tapadtak a filiszteusok Saúlnak (Saulnak) és az ő fiai után, és lesújtottak a filiszteusok ⟨את⟩ Jonatánt és ⟨את⟩ Avinadávot és ⟨את⟩ Malki-Súát — Saúl fiait.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "És a nyomába tapadtak"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiszteusok"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúlnak"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "és után"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és lesújtottak"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiszteusok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatánt"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatánt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Avinadávot"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadávot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Malki-Súát"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Súát"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúlnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:03:41.307580141Z",
+  "model": "glm-5.3"
+}

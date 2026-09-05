@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És történt, mikor Ízável kiirtotta ⟨את⟩ Jahve prófétáit, hogy Ovadjáhu vett száz prófétát, és elrejtette őket, ötvenen egy barlangban, és táplálta őket kenyérrel és vízzel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "mikor kiirtotta"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ízável"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve prófétáit"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "prófétáit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hogy … vett"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadjáhu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prófétát"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "és elrejtette őket"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötvenen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "személy"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "barlangban"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "és táplálta őket"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyérrel"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "és vízzel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:43.687992631Z",
+  "model": "glm-5.3"
+}

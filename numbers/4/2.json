@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "„Emeld fel ⟨את⟩ a Kehát (Kehát) fiainak fejét a Lévi (Lévi) fiainak közül, családjaik szerint, atyáik házai szerint:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Emeld fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Kehát fiainak fejét"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejét"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehát"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "a közül"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "családjaik szerint"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "házai szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:02.926990655Z",
+  "model": "glm-5.3"
+}

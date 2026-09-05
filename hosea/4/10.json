@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És esznek, és nem laknak jóll; paráznáskodtak, és nem szaporodnak, mert ⟨את⟩ Jahvét elhagyták, hogy ⟨ne⟩ őrizzék ⟨⟨a⟩ törvény ⟨és⟩ parancs⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "És esznek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "laknak jóll"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "paráznáskodtak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "szaporodnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "elhagyták"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hogy ⟨ne⟩ őrizzék"
+    }
+  ],
+  "timestamp": "2026-09-04T23:44:40.573222207Z",
+  "model": "glm-5.3"
+}

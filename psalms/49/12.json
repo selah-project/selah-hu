@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Belsejük szerint házaik ⟨állnak⟩ örökre, lakóhelyeik nemzedékről nemzedékre; a nevüket hirdették a földeken.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "belsejük"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "házaik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "lakóhelyeik"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "és nemzedékre"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hirdették"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "a nevüket"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "földeken"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:54.651157799Z",
+  "model": "glm-5.3"
+}

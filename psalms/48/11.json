@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Mint ⟨a⟩ neved, Elohim, úgy ⟨a⟩ dicséreted el a föld széleiig; igazság tölti meg jobbodat.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Mint neved"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "dicséreted"
+    },
+    {
+      "surface": "על",
+      "gloss": "el"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "széleiig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazság"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tölti meg"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jobbod"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:04.437977365Z",
+  "model": "glm-5.3"
+}

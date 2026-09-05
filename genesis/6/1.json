@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És történt, mikor az ember sokasodni kezdett a föld színén, és leányok születtek nekik,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mikor"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kezdett"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sokasodni"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színén"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "és leányok"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "születtek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:34.225478426Z",
+  "model": "glm-5.3"
+}

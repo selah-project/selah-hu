@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Ha a fejedelem szelleme fellobban ellened, ne hagyd el a helyedet, mert a gyógyítás lecsillapít nagy vétket.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szelleme"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "a fejedelemnek"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "fellobban"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "a helyedet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "hagyd el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "a gyógyítás"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "lecsillapít"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "vétket"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:53.608778928Z",
+  "model": "glm-5.3"
+}

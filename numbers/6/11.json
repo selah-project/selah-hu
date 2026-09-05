@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 6:11",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És a kohen készít egyet vétekáldozatul és egyet egészen égőáldozatul, és engesztel érte, mert vétkezett ⟨a lélek⟩ miatt, és megszenteli ⟨את⟩ a fejét azon a napon.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "És készít"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "vétekáldozatul"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "és egyet"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "égőáldozatul"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "érte"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vétkezett"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨a lélek⟩"
+    },
+    {
+      "surface": "וקדש",
+      "gloss": "és megszenteli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fejét"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "a fejét"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:29:20.814997028Z",
+  "model": "glm-5.3"
+}

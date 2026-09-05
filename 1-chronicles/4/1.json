@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Jehúda (Júda) fiai: Perec, Hecron, Karmi, Húr és Sobál.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perec"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hecron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "és Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "és Húr"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "és Sobál"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:49.037452802Z",
+  "model": "glm-5.3"
+}

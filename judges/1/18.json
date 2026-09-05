@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És elfoglaltaeh Jehúda ⟨את⟩ Azzát és ⟨את⟩ annak határát, és ⟨את⟩ Askalont és ⟨את⟩ annak határát, és ⟨את⟩ Ekront és ⟨את⟩ annak határát.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "És elfoglalta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzát"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak határát"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "annak határát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Askalont"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Askalont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak határát"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "annak határát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ekront"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekront"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak határát"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "annak határát"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:38.509866497Z",
+  "model": "glm-5.3"
+}

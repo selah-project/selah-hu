@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Bízzál Jahvéban, és cselekedj jót; lakjál a földön, és legelj hűséget!",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Bízzál"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és cselekedj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "lakjál"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "és legelj"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "hűséget"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:00.113323528Z",
+  "model": "glm-5.3"
+}

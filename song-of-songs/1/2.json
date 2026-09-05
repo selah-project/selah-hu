@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Csókoljon meg engem szája csókjaival, mert szerelmeid (dodé) jobbak a bornál!",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Csókoljon meg engem"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "csókjaival"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "szája"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "jobbak"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "szerelmeid (dodé)"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "a bornál"
+    }
+  ],
+  "timestamp": "2026-09-04T22:29:36.580929167Z",
+  "model": "glm-5.3"
+}

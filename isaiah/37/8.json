@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És visszatért Ravsáké, és megtalálta ⟨את⟩ Assur királyát, amint Livna ellen harcolt, mert hallotta, hogy elvonult Lakisból.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "sáké"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "és megtalálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assur királyát"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "harcolt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallotta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "elvonult"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakisból"
+    }
+  ],
+  "timestamp": "2026-09-04T23:35:40.923970218Z",
+  "model": "glm-5.3"
+}

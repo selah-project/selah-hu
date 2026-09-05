@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 138,
+  "translation": "Jahve bevégzi értem; Jahve, a heszed-ed örökké ⟨tart⟩; kezeid munkáit ⟨ne⟩ hagyd el!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "bevégzi"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "értem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszed-ed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "munkái"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "kezeid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "hagyd el"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:23.407083236Z",
+  "model": "glm-5.3"
+}

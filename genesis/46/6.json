@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "És vitték ⟨את⟩ jószágukat és ⟨את⟩ vagyonukat, amelyet Kenaán földjén szereztek, és bementek Micrajimba Jaakob és minden utóda ⟨את⟩ vele.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jószágukat"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "jószágukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "vagyonukat"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "vagyonukat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "szereztek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaán"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bementek"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micrajimba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "utóda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:07.962189034Z",
+  "model": "glm-5.3"
+}

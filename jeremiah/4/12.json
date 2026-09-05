@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Teljes szél ezekből jő hozzám; most én is kimondom ⟨את⟩ az ítéleteket rájuk.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "szél"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Teljes"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ezekből"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jő"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "kimondom"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "az ítéleteket"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ rájuk",
+      "marks": "az ítéleteket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:32:19.549591643Z",
+  "model": "glm-5.3"
+}

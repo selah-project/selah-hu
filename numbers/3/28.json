@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 3:28",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "A szám szerint minden férfit egy hónapos kortól és fölfelé: nyolcezer-hatszázan, a szentség őrzésének őrzői.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "szám szerint"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kortól"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "egy hónapos"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "és fölfelé"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "nyolc"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és hat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "őrzői"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "őrzésének"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentség"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:29.943875711Z",
+  "model": "glm-5.3"
+}

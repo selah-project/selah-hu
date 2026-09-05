@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Mert a helyen, ahova ⟨את⟩ őt foglyul vitték, ott hal meg, és ⟨את⟩ ezt az országot nem látja többé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a helyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahova"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "foglyul vitték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "ezt az országot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az országot"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "látja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:13.043262820Z",
+  "model": "glm-5.3"
+}

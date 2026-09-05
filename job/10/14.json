@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Ha vétkeztem, akkor megőrzöl ⟨engem⟩, és vétkemből nem mentesz fel ⟨engem⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétkeztem"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "és megőrzöl engem"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "és vétkemből"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "mentesz fel engem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:52:05.346749785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Dicsérjétek Jah-t, dicsérjétek ⟨את⟩ Jahve nevét, dicsérjétek, Jahve szolgái!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dicsérjétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve nevét"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dicsérjétek"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:16.349229908Z",
+  "model": "glm-5.3"
+}

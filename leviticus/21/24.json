@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És szólt Moshe (Mózes) Aharonnak (Áronnak) és az ő fiainak és Izráel minden fiainak.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…nak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Áronnak)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és …nak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "az ő fiai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és …nek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:12.991774365Z",
+  "model": "glm-5.3"
+}

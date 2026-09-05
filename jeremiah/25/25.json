@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "és ⟨את⟩ Zimri összes királyait és ⟨את⟩ Elam összes királyait és ⟨את⟩ Média összes királyait",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Zimri összes királyait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyait"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Elam összes királyait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyait"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Média összes királyait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyait"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Média"
+    }
+  ],
+  "timestamp": "2026-09-04T20:42:06.289817363Z",
+  "model": "glm-5.3"
+}

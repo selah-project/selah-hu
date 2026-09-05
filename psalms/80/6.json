@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Etetted őket ⟨את⟩ a könnyek kenyerével, és itattad őket harmad-⟨rész⟩ mértékkel való könnyekkel.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Etetted"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerével"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "a könnyek"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "és itattad őket"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "könnyekkel"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "harmad-⟨rész⟩ mértékkel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:22.121872367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És visszatette ⟨את⟩ a pohárnokok fejedelmét pohárnoki szolgálatára, és ⟨ő⟩ odanyújtotta a poharat Paróh (Fáraó) tenyerébe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "visszatette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a pohárnokok fejedelmét"
+    },
+    {
+      "surface": "שר",
+      "gloss": "fejedelmét"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "a pohárnokok"
+    },
+    {
+      "surface": "על",
+      "gloss": "pohárnoki"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "szolgálatára"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és odanyújtotta"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "a poharat"
+    },
+    {
+      "surface": "על",
+      "gloss": "be(lés)"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tenyeré"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróh"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:43.539984234Z",
+  "model": "glm-5.3"
+}

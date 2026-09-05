@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Te ⟨vagy⟩ rejtekhelyem, a szorongatásból megőrzöl engem, szabadulás-énekekkel körülveszel engem. Szelá.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "rejtekhely"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem\/enyém"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "szorongatásból"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "megőrzöl engem"
+    },
+    {
+      "surface": "רני",
+      "gloss": "énekei"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "szabadulás"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "körülveszel engem"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:13.891437180Z",
+  "model": "glm-5.3"
+}

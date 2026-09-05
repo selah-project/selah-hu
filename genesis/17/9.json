@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És szólt Elohim Avrahámmal (Ábrahámmal): „Te pedig ⟨את⟩ szövetségemet megtartod, te és magod utánad, nemzedékeikre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahámmal (Ábrahámmal)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Te pedig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemet"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "megtartod"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "és magod"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "utánad"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nemzedékeikre"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:12.503653831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Sőt már a naptól fogva én ⟨ő⟩ vagyok, és nincs, aki a kezemből kimentsen; cselekszem, és ki fordíthatja vissza?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "a naptól fogva"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "a kezemből"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kimentsen"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "cselekszem"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "fordíthatja vissza"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:12.192559543Z",
+  "model": "glm-5.3"
+}

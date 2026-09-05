@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 26:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "akkor én is ezt teszem veletek: rémületet rendeltek fölébe, ⟨את⟩ a sorvadást és ⟨את⟩ a lázkórt, amelyek megemésztik a szemeket, és megnyomorítják az életet; és hiába vetitek veteményeteket, mert ellenségeitek megeszik azt.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "megteszem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "והפקדתי",
+      "gloss": "és rendeltek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fölébe"
+    },
+    {
+      "surface": "בהלה",
+      "gloss": "rémületet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sorvadást"
+    },
+    {
+      "surface": "השחפת",
+      "gloss": "a sorvadást"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lázkórt"
+    },
+    {
+      "surface": "הקדחת",
+      "gloss": "a lázkórt"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "amelyek megemésztik"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "a szemeket"
+    },
+    {
+      "surface": "ומדיבת",
+      "gloss": "és megnyomorítják"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "az életet"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "és vetitek"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "hiába"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "veteményeteket"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "megeszik"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ellenségeitek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:21.696585212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Mert áldásokká teszed őt ⟨◌⟩ mindörökre; örömmel örvendezteted őt arcoddal ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "teszed őt"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "áldásokká"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mindörökre"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "örvendezteted őt"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "örömmel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcoddal"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "arcoddal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:57.348816227Z",
+  "model": "glm-5.3"
+}

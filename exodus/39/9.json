@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Négyszögű volt, kettévágva csinálták ⟨את⟩ a hosent: egy tenyér ⟨volt⟩ a hosszúsága és egy tenyér a szélessége, kettévágva.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "négyszögű"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kettévágva"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "csinálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hosent"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a hosent"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "egy tenyér"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hosszúsága"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "és egy tenyér"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kettévágva"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:48.824999238Z",
+  "model": "glm-5.3"
+}

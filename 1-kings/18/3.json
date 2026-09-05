@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És hívatott Ahav Ovadjáhut (Abdiás), aki ⟨a⟩ ház ⟨felöl⟩ volt, és Ovadjáhu férfé volt Jahvétól ⟨⟨את⟩⟩ nagyon.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És hívatott"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadjáhut (Abdiás)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨felöl⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨a⟩ ház"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "és Ovadjáhu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "férfé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvétól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:43.687758504Z",
+  "model": "glm-5.3"
+}

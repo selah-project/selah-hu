@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És visszatértem én, és láttam hiábavalóságot a nap alatt.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "és visszatértem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "és láttam"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hiábavalóságot"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:19.863344182Z",
+  "model": "glm-5.3"
+}

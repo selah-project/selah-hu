@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És elmesélte Acháb (Acháb) Izevelnek (Izabel) ⟨את⟩ mindazt, amit Elija (Illés) tett, és ⟨את⟩ mindazt, hogy megölte ⟨את⟩ az összes prófétát kardhal.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "És elmesélte"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Acháb"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izevelnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "megölte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "prófétát"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardhal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:19.811938046Z",
+  "model": "glm-5.3"
+}

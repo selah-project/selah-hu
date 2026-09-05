@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "A második folyó neve pedig Gichon (Gihon) — az az, amely körülfogja ⟨את⟩ Kús egész földjét.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "neve pedig"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "a folyó"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "körülfogja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kús egész földjét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kúsnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:21.434218374Z",
+  "model": "glm-5.3"
+}

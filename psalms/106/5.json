@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Hogy lássam választottaid javát, hogy örvendjek néped örömében, hogy dicsekedjem örökségeddel együtt.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "hogy lássam"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "javát"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "választottaid"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "hogy örvendjek"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "örömében"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "hogy dicsekedjem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "örökségeddel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:04.121977288Z",
+  "model": "glm-5.3"
+}

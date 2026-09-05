@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Jahve kedveli ⟨azt⟩, akik félik őt — ⟨azt⟩, akik az ő heszedjére várnak.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "kedveli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azokat, akik félik őt"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "akik félik őt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azokat, akik várnak"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "akik várnak"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "az ő heszedjére"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:44.625571461Z",
+  "model": "glm-5.3"
+}

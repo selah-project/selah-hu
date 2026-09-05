@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Lábam egyenes helyen áll; a gyülekezetekben áldom Jahvét.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Lábam"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "áll"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "egyenes helyen"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "a gyülekezetekben"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "áldom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:28.238504534Z",
+  "model": "glm-5.3"
+}

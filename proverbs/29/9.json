@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Bölcs ember ⟨את⟩ a balga emberrel pereltetik — ⟨az⟩ megharagszik és nevet, és nincs nyugalom.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "pereltetik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a balga emberrel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "balga"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "és megharagszik"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "és nevet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nyugalom"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:58.112062286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 34:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Azért ti értelmű férfiak, halljatok rám: távol legyen az El-től a gonoszság, és a Saddáj-tól a hamisság!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Azért"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiak"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "értelmű"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "halljatok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "távol legyen"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "az El-től"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "a gonoszság"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "és a Saddáj-tól"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "a hamisság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:26:19.338353584Z",
+  "model": "glm-5.3"
+}

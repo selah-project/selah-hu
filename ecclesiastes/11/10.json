@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És vesd ki szívedből a bosszúságot, és távoztasd el testedből a rosszat, mert a gyermekkor és a feketehajúság hével.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "És vesd ki"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bosszúságot"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "szívedből"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "és távoztasd el"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "testedből"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "a gyermekkor"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "és a feketehajúság"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hével"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:42.161519910Z",
+  "model": "glm-5.3"
+}

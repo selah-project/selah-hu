@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "amilyen nem számláltathatik meg az ég serege, és nem mérhető meg a tenger homokja, úgy sokasítom meg ⟨את⟩ Dávidnak, az én szolgámnak a magját, és ⟨את⟩ a lévitákat, az én szolgálóimat, akik ⟨את⟩ engem szolgálnak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amilyen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "számláltathatik meg"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "serege"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az égnek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ימד",
+      "gloss": "mértethetik meg"
+    },
+    {
+      "surface": "חול",
+      "gloss": "homokja"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengernek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "sokasítom meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a magját"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magját"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgámnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lévitákat"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a lévitákat"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "szolgálóim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:46:37.448921607Z",
+  "model": "glm-5.3"
+}

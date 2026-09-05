@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "A karmesternek, a saminit-re ⟨⟨⟩⟩ ⟨a⟩ nyolcadik ⟨hangnemre⟩; Dávid zsoltára.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "a karmesternek"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "saminitre"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:25.401326582Z",
+  "model": "glm-5.3"
+}

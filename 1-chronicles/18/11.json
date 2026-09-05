@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Azokat is ⟨את⟩ felszentelte a király, Davíd, Jahvénak, az ezüsttel és az arannyal együtt, amit vitt az összes népektől — Edomból és Moábból és az Ámmon fiaiból és a Filiszteusokból és Amálekből.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "felszentelte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "az ezüsttel"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "és az arannyal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "vitt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "népektől"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edomból"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "és Moábból"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "és a fiaiból"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ámmon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "és a Filiszteusokból"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "és Amálekból"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:22.494626283Z",
+  "model": "glm-5.3"
+}

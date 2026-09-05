@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "A népek bálványai ezüstből és aranyból ⟨vannak⟩, emberkezek munkái.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "bálványai"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüstből"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "és aranyból"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "munkái"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:03.614616172Z",
+  "model": "glm-5.3"
+}

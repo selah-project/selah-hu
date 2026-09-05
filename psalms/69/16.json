@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Ne öntsön el engemet a vizek árja, és el ne nyeljen a mélység, és ne zárja be felettem a kút az ő száját.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "öntsön el engemet"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "árja"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "el ne nyeljen"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "a mélység"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "ne zárja be"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "felettem"
+    },
+    {
+      "surface": "באר",
+      "gloss": "a kút"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "száját"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:48.275353259Z",
+  "model": "glm-5.3"
+}

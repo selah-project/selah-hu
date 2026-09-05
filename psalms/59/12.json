@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Ne öld meg őket, hogy el ne felejtse népem; ingasd meg őket hatalmaddal, és hozd le őket, pajzsunk, Adonáj!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "öld meg őket"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy... ne"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "el ne felejtse"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ingasd meg őket"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "hatalmaddal"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "és hozd le őket"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "pajzsunk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:05.573663677Z",
+  "model": "glm-5.3"
+}

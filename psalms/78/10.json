@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Nem tartották ⟨את⟩ az Elohim szövetségét, és a Torájában (Törvényében) megtagadták a járást.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "tartották"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetségét"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "és a Torájában"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "megtagadták"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "a járást"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:36.672576070Z",
+  "model": "glm-5.3"
+}

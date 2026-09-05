@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És te elnekedted ma, ⟨את⟩ amit tettél velem ⟨את⟩ — jót; ⟨את⟩ amikor Jahve kézre adott engem a kezedbe, és nem öltél meg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és te"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "elnekedted"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "tettél"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "jót"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amikor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "kézre adott engem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "a kezedbe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "öltél meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:56.179156096Z",
+  "model": "glm-5.3"
+}

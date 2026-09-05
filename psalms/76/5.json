@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 76,
+  "translation": "Ragyogó vagy te, hatalmasabb ⟨mint⟩ a ragadozás hegyeinél.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Ragyogó"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "hatalmasabb"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "a hegyeinél"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ragadozás"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:45.859593461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És monda Paroh: „Ki ⟨az⟩ Jahve, hogy hallgassak ⟨az⟩ ő szavára, ⟨hogy⟩ elbocsássam Izraelt? Nem ismerem ⟨את⟩ Jahvét, és ⟨את⟩ Izraelt sem bocsátom el.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hallgassak"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "elbocsássam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismerem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és ... sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "bocsátom el"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:57.179705580Z",
+  "model": "glm-5.3"
+}

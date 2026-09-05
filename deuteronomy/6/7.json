@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ismételgesd azokat fiaidnak, és beszélj róluk, amikor hazugsz a házadban, amikor úton jársz, amikor lefekszel és amikor felkelsz.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "És ismételgesd"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "fiaidnak"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "és beszélj"
+    },
+    {
+      "surface": "בם",
+      "gloss": "róluk"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "amikor hazugsz"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a házadban"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "amikor jársz"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "amikor lefekszel"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "és amikor felkelsz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:05.467977763Z",
+  "model": "glm-5.3"
+}

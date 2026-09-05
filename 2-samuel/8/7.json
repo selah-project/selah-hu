@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És fogta Dávid ⟨את⟩ az arany-pajzsokat, amelyek Hadadézer szolgáin voltak, és elhozta őket Jerusálajimba (Jeruzsálem).",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az arany-pajzsokat"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "pajzsokat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "arany-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nál\/-n"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "és elhozta őket"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajimba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:23:19.386305132Z",
+  "model": "glm-5.3"
+}

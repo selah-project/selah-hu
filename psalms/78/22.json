@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "mert nem hittek Elohimban, és nem bíztak az ő szabadításában,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "hittek"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bíztak"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "az ő szabadításában"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:37.952853987Z",
+  "model": "glm-5.3"
+}

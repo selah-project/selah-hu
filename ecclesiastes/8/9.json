@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Mindezt láttam, és ⟨את⟩ szívemet adtam minden tettre, amely történt a nap alatt: időt, amelykor az ember az emberen uralkodott annak rosszára.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "és adtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szívemet"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemet"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tettre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "történt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "עת",
+      "gloss": "időt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelykor"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "uralkodott"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "az emberen"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "rosszára"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:40.558365276Z",
+  "model": "glm-5.3"
+}

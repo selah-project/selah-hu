@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És fogságba vitte ⟨את⟩ egész Jerusálájt, és ⟨את⟩ minden főembert, és ⟨את⟩ minden vitéz harcost — tízezer fogoly —, és minden mesterembert és kovácsot; nem maradt hátra, kivéve a föld népének szegény rétegét.",
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "És fogságba vitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Jerusálájt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálájt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden főembert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "főembert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden vitéz harcost"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "harcost"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "fogoly"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "mesterembert"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "és kovácsot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "maradt hátra"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "kivéve"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "szegény rétegét"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népének"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T20:05:11.566931121Z",
+  "model": "glm-5.3"
+}

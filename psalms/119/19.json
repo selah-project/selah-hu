@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Jövevény ⟨én⟩ a földön; ne rejtsd el előlem parancsolataidat.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Jövevény"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "rejtsd el"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "előlem"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parancsolataidat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:53.393548597Z",
+  "model": "glm-5.3"
+}

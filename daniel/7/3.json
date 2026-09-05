@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És négy hatalmas vadállat jött fel a tengerből, különbözőek ⟨voltak⟩, egyik a másiktól.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "és négy"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "vadállat"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "jött fel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "különbözőek"
+    },
+    {
+      "surface": "דא",
+      "gloss": "egyik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "דא",
+      "gloss": "a másiktól"
+    }
+  ],
+  "timestamp": "2026-09-04T22:46:16.981942088Z",
+  "model": "glm-5.3"
+}

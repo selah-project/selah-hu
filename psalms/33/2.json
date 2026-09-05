@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Adjatok hálát Jahvénak lanttal, tízhúrú névelen zenéljetek néki.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Adjatok hálát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "lanttal"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "névelén"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tízhúrú"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zenéljetek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:31.456605641Z",
+  "model": "glm-5.3"
+}

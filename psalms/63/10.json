@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 63,
+  "translation": "És ők pusztulásra keresik az életemet, a föld mélységeibe mennek be.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "és ők"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "pusztulásra"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "keresik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "az életemet"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "mennek be"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "a mélységeibe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:27.604475136Z",
+  "model": "glm-5.3"
+}

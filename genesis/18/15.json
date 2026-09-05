@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Sára pedig tagadta, mondván: Nem nevettem — mert félt. És ⟨ő⟩ mondta: Nem úgy ⟨van⟩, csakugyan nevettél.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "tagadta"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "nevettem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "félt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És ⟨ő⟩ mondta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem úgy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "csakugyan"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "nevettél"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:47.726238577Z",
+  "model": "glm-5.3"
+}

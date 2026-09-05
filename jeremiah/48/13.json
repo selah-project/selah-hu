@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "És szégyenkezik Moáv Kemós miatt, ahogy szégyenkezett Izráél háza Bét-El miatt, bizodalmuk miatt.",
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "És szégyenkezik"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáv"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "Kemós miatt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "szégyenkezett"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Bét-El miatt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Bét-)El"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "bizodalmuk miatt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:53:34.040138543Z",
+  "model": "glm-5.3"
+}

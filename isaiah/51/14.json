@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Sietve megy a bujdokoló, hogy kinyittassék, és nem hal meg a gödörben, és nem fogy el a kenyere.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "sietve"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "a bujdokoló"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "hogy kinyittassék"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "a gödörben"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "fogy el"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "a kenyere"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:45.910534038Z",
+  "model": "glm-5.3"
+}

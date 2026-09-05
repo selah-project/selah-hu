@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És meghallotta a táborozó nép, mondván: „Zimri összeesküdvén megütötte ⟨את⟩ a királyt is” — ezért egész Izráel királlyá tette ⟨את⟩ Omrit, a hadsereg vezérét, Izráel fölött, aznap, a táborban.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "És meghallotta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "a táborozó"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "összeesküdvén"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "is"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "megütötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ezért királlyá tette"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omrit"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrit"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vezérét"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "a hadsereg"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "aznap"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a táborban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:08.387902021Z",
+  "model": "glm-5.3"
+}

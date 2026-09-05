@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Nem te ⟨את⟩ kerítetted körül őt, és házát, és mindazt, ami az övé, körös-körül? Kezének munkáját megáldottad, és jószága elszaporodott a földön.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nem-e"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "kerítetted körül"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "kerítetted körül"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "és"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "házát"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "és"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "körös-körül"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "munkáját"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kezének"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "megáldottad"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "és jószága"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "elszaporodott"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.214695175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne kerekítsétek le fejetek szélét, és ne rongáljátok ⟨את⟩ szakállatok szélét.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "kerekítsétek"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "szélét"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "fejetek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és-ne"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "rongáljátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szakállatok szélét"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "szélét"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "szakállatok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:11.712535768Z",
+  "model": "glm-5.3"
+}

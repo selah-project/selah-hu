@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 20:18",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És szóltam fiaikhoz a pusztában: atyáitok rendelkezései szerint ne járjatok, és ⟨את⟩ ítéleteiket ne tartsátok, és bálványaikkal ne tisztátalanítsátok magatokat.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És szóltam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiaikhoz"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "בחוקי",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "atyáitok rendelkezései"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "járjatok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "ítéleteiket"
+    },
+    {
+      "surface": "משפטיהם",
+      "gloss": "ítéleteiket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tartsátok"
+    },
+    {
+      "surface": "ובגלוליהם",
+      "gloss": "és bálványaikkal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "tisztátalanítsátok magatokat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:05:13.118539313Z",
+  "model": "glm-5.3"
+}

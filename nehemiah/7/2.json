@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És megparancsoltam ⟨את⟩ Hananit (Hanáni), fivéremet, és ⟨את⟩ Hananját, a várkastély főnökét, Jerusálajim (Jeruzsálem) élén, mert ő hűséges ember ⟨van⟩, és féli ⟨את⟩ az Elohimot, sokaknál jobban.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "És megparancsoltam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hananit"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hananit"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "fivéremet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hananját"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananját"
+    },
+    {
+      "surface": "שר",
+      "gloss": "főnökét"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "a várkastélynak"
+    },
+    {
+      "surface": "על",
+      "gloss": "élén"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "mint ember"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "hűséges"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és féli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohimot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohimot"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "sokaknál jobban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:56:01.675566872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "A gyógyító nyelv az élet fája, de a torzítgatás benne a lélek törése.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "gyógyító"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nyelv"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fája"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "az élet"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "de a torzítgatás"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "a törése"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "a léleknek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:02.286684254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 140,
+  "translation": "Ne add, Jahve, a bűnös kívánságait, tervét ne engedd kimenjedni — fel ne magasodjanak. Szela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "add"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "kívánságait"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a bűnös"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "tervét"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "engedd kimenjedni"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "felmagasodjanak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:46.389585431Z",
+  "model": "glm-5.3"
+}

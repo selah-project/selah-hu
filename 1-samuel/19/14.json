@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És elküldte Sául a követeket, hogy vegyék el ⟨את⟩ Dávidot, és ⟨ő⟩ mondta: beteg ő.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "követeket"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hogy vegyék el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "beteg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:46.990476370Z",
+  "model": "glm-5.3"
+}

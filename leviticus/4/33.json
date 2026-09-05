@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ráteszi a kezét a chattát-áldozat fejére, és levágja azt chattát-áldozatul, azon a helyen, ahol ⟨את⟩ az égőáldozatot levágják.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "és ráteszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá…-ra"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejére"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a chattát-áldozat"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "és levágja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (chattát-áldozatul)"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "chattát-áldozatul"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "azon a helyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "levágják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatot"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:54.911256395Z",
+  "model": "glm-5.3"
+}

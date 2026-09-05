@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És legyen Jahve bírául, és ítéljen köztem és közted, és lásson, és vivja ⟨את⟩ az én pörömet, és szolgáltasson igazat nekem a te kezedből.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "És legyen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "bírául"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "és ítéljen"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "köztem"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "és közted"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és lásson"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "és vivja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az én pörömet"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "az én pörömet"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "és szolgáltasson igazat nekem"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "a te kezedből"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:26.856455037Z",
+  "model": "glm-5.3"
+}

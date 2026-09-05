@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 99,
+  "translation": "Dicsérjék Nevedet, a nagyot és félelmeset — szent ő!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Dicsérjék"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Nevedet"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "a nagyot"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "és félelmeset"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:21.032140487Z",
+  "model": "glm-5.3"
+}

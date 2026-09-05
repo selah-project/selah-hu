@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 31:15",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Nemde az anyaméhben formált ⟨engem⟩, az formálta ⟨őt⟩, és ⟨egy⟩ alkotott minket a méhben?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "az anyaméhben"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "formált engem"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "formálta őt"
+    },
+    {
+      "surface": "ויכננו",
+      "gloss": "és alkotott minket"
+    },
+    {
+      "surface": "ברחם",
+      "gloss": "a méhben"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    }
+  ],
+  "timestamp": "2026-09-04T22:25:45.722609137Z",
+  "model": "glm-5.3"
+}

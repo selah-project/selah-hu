@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Olyanok legyenek, mint ők, őket készítőik; mindenki, aki ⟨azokra⟩ bízik.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "mint ők"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "őket készítőik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bízik"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨azokra⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:24.661823357Z",
+  "model": "glm-5.3"
+}

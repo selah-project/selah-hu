@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha tűz tör ki, és töviseket ér el, és elég ⟨a⟩ kéve, vagy az álló gabona, vagy a mező: teljesen fizessen a gyújtogató ⟨את⟩ az égés kárát.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tör ki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "és elér"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "töviseket"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "és elég"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "kéve"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "az álló gabona"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "teljesen"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizessen"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "a gyújtogató"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égés kárát"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "az égés kárát"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:51.103095616Z",
+  "model": "glm-5.3"
+}

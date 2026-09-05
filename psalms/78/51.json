@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És megverte Micrajimben (Egyiptomban) minden elsőszülöttet — erejük kezdetét Chám (Hám) sátraiban.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "És megverte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "elsőszülöttet"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimben"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "kezdetét"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "erejük"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "sátraiban"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:54.677514056Z",
+  "model": "glm-5.3"
+}

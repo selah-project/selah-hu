@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Zúgnak, tajtoznak vizei, megrendülnek a hegyek annak gőgjében. Szela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Zúgnak"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "tajtoznak"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "vizei"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "megrendülnek"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "annak gőgjében"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:53.149433205Z",
+  "model": "glm-5.3"
+}

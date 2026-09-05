@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 87,
+  "translation": "Jahve megszámolja, amikor felírja a népeket: „ez itt született ott”. Szelah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "megszámolja"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "amikor felírja"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "a népeket"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez itt"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "született"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelah"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:20.687589638Z",
+  "model": "glm-5.3"
+}

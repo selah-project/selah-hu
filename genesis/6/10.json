@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És nemzett Noach három fiat: ⟨את⟩ Sémet, ⟨את⟩ Chámot és ⟨את⟩ Jáfetet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "És nemzett"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sémet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sém"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chámot"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jáfetet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jáfet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:46.376156513Z",
+  "model": "glm-5.3"
+}

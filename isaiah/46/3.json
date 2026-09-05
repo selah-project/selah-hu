@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Halljatok rám, Jákób háza, és Izráel házának egész maradéka, akik a méhtől megrakattatok, az anyaméhtől hordoztattatok!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Halljatok"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és … egész"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "maradéka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "megrakattatok"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "a méhtől"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "hordoztattatok"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "az anyaméhtől"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:42.834557012Z",
+  "model": "glm-5.3"
+}

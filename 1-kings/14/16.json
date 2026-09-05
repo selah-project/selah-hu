@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És átadja ⟨את⟩ Jiszráélt Járovám bűnei miatt, amelyekkel vétkezett, és amelyekkel vétkezésre vitte Jiszráélt.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És átadja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélt"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "bűnei"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Járovám"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyekkel"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vétkezett"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amelyekkel"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "vétkezésre vitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:03.903037439Z",
+  "model": "glm-5.3"
+}

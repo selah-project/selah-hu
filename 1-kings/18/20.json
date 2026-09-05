@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És Ahav elküldött ⟨hírnököket⟩ Izrael minden fiához, és összegyűjtötte ⟨את⟩ a prófétákat a Kármel hegyére.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldött ⟨hírnököket⟩"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiához"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "és összegyűjtötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a prófétákat"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a prófétákat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(a) hegyére"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyére"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "a Kármel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:42.592723758Z",
+  "model": "glm-5.3"
+}

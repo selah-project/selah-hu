@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ⟨את⟩ a város szántóföldjét és ⟨את⟩ udvarait adták Kálévnek, Jefunne fiának.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a város szántóföldjét"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "szántóföldjét"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "udvarait"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "udvarait"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "adták"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kálévnek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunnénak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:06.689677623Z",
+  "model": "glm-5.3"
+}

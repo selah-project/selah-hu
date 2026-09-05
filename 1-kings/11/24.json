@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És gyűjtött magához embereket, és lett csapatvezér, amikor Dávid megölte ⟨את⟩ őket; és elmentek Damaszkuszba, és laktak ott, és uralkodtak Damaszkuszban.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "gyűjtött"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "magához"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "embereket"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vezére"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "csapatnak"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "midőn megölte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaszkuszba"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "és laktak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "és uralkodtak"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Damaszkuszban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:30.088613001Z",
+  "model": "glm-5.3"
+}

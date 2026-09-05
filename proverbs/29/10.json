@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Véres emberek gyűlölik ⟨את⟩ a tisztát, de az egyenesek keresik az ⟨ő⟩ életét.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "emberei"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "véres"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "gyűlölik"
+    },
+    {
+      "surface": "תם",
+      "gloss": "a tisztát"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "de az egyenesek"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "keresik"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "az életét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:58.112346633Z",
+  "model": "glm-5.3"
+}

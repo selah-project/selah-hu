@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És elkészítette ⟨את⟩ az efodot: aranyból, kékből, bíborból, karmazsin-skarlátból és sodrott lenből.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "és elkészítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az efodot"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "az efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "kék"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "és bíbor"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "és karmazsin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "skarlát"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és len"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "sodrott"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:37.667723044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Nap és hold álltak lakhelyükön; nyilaid fényében jártak el, lándzsád villanásának fényében.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Nap"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "és hold"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "álltak"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "lakhelyükön"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "fényében"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "nyilaid"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "jártak el"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "villanásának fényében"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "villanás"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "lándzsád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:30:00.195871582Z",
+  "model": "glm-5.3"
+}

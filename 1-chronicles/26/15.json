@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Oved-Edomnak délre, és az ő fiaihoz ⟨az⟩ Asuppim háza.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "Oved-Edomnak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "(Edom)"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "délre"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "és az ő fiaihoz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "az Asuppim"
+    }
+  ],
+  "timestamp": "2026-09-04T23:09:03.466850583Z",
+  "model": "glm-5.3"
+}

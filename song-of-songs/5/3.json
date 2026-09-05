@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Levetettem ⟨את⟩ ingemet — hogyan öltsem fel újra? Megmostam ⟨את⟩ lábaimat — hogyan piszkítsam be őket?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Levetettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingemet"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "ingemet"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hogyan"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "öltsem fel"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Megmostam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lábaimat"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lábaimat"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hogyan"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "piszkítsam be"
+    }
+  ],
+  "timestamp": "2026-09-04T22:31:25.597768513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Tudtam, hogy nincs bennük jó, csak ⟨az⟩, hogy örüljenek és jót cselekedjenek az életükben.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Tudtam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bennük"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem…"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…csak"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "hogy örüljenek"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "és cselekedjenek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "az életükben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:06.619519811Z",
+  "model": "glm-5.3"
+}

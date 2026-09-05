@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Egy rest ember szántóföldje mellett mentem el, és egy esztelen ⟨ember⟩ szőlője mellett.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "szántóföldje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "rest"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "mentem el"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és mellett"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "szőlője"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "esztelen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "⟨értelme⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:27.572551105Z",
+  "model": "glm-5.3"
+}

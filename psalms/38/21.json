@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És a rosszat a jó helyett megfizetői vádaskodnak ellenem, mert a jót követem.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "és a megfizetői"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "jót"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "vádolnak engem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "követem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a jót"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:31.076217863Z",
+  "model": "glm-5.3"
+}

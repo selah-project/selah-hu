@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És letörték mind ⟨a⟩ népből az arany karikákat, amelyek fülükben voltak, és bevitték ⟨azokat⟩ Aharonhoz.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "és letörték"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az arany karikákat"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "karikáit"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az arany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "fülükben"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "és bevitték"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:06.956176400Z",
+  "model": "glm-5.3"
+}

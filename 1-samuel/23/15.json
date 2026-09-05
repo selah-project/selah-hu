@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És látta David, hogy kijött Saul az ő életét keresni — ⟨את⟩ az ő nefesét; David pedig a Zif-pusztában volt, a Horesában.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kijött"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "keresni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő nefesét"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "az ő nefesét"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David pedig"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif-"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "a Horesában"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:13.039603570Z",
+  "model": "glm-5.3"
+}

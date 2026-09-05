@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Mert Jahve megítéli népét, és szolgái fölött megvigasztalódik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "megítéli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "megvigasztalódik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:03.614482066Z",
+  "model": "glm-5.3"
+}

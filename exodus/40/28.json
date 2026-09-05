@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És helyezte ⟨את⟩ a bejárat függönyét a lakó sátorhoz.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "és helyezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bejárat függönyét"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "függönyét"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "a bejárat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "a lakó sátorhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:00.383505049Z",
+  "model": "glm-5.3"
+}

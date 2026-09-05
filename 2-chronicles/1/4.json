@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "csakhogy az Elohim ládáját Dávid felvitte Kirjat-Jeárimból, amikor Dávid ⟨helyet⟩ készített neki, mert sátrat állított neki Jeruzsálemben.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "csakhogy"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "felvitte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yeárimból"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "amikor elkészített"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "kiterített"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrat"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jeruzsálemben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:43.918012309Z",
+  "model": "glm-5.3"
+}

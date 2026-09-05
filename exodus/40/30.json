@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És letette ⟨את⟩ a medencét a gyülekezés sátora és az oltár közé, és adott oda vizet mosakodásra.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "és letette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a medencét"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "a medencét"
+    },
+    {
+      "surface": "בין",
+      "gloss": "közé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátora"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "gyülekezés"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "mosakodásra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:30.426512683Z",
+  "model": "glm-5.3"
+}

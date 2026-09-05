@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "A pénz szeretője nem lakik jól pénzzel, és aki a bőséget szereti, annak nincs jövedelme — ez is hável.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "szeretője"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "lakik jól"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénzzel"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és aki"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "a bőséget"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "jövedelme"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hável"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:10.490439624Z",
+  "model": "glm-5.3"
+}

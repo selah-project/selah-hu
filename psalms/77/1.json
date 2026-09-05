@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "A karnagynak, Jedutun szerint, Aszáf (Ászáf) zsoltára",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Aszáf (Ászáf)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:27.032272525Z",
+  "model": "glm-5.3"
+}

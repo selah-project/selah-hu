@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "Néked ⟨az⟩ a csendes dicséret, Elohim, Cionban, és néked teljesíttetik ⟨a⟩ fogadalom.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Néked"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "csendes"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "dicséret"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cionban"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "és néked"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "teljesíttetik"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "fogadalom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:04.799917723Z",
+  "model": "glm-5.3"
+}

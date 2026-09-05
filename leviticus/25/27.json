@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "akkor számolja el ⟨את⟩ eladása éveit, és adja vissza ⟨את⟩ a fölösleget annak az embernek, akinek eladta, és térjen vissza birtokára.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "számolja el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eladása éveit"
+    },
+    {
+      "surface": "שני",
+      "gloss": "éveit"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "eladásának"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "és adja vissza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fölösleget"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "fölösleget"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "annak az embernek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "eladta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "és térjen vissza"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "birtokára"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:12.360697359Z",
+  "model": "glm-5.3"
+}

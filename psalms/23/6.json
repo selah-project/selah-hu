@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Bizony, jó és heszed követ engem életem minden napján, és lakom Jahve házában hosszú napokig.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "és heszed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "követ engem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "életem"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "és lakom"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napokig"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:02.158872725Z",
+  "model": "glm-5.3"
+}

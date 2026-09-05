@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És a rossz megjelenésű és sovány húsú tehenek megették ⟨את⟩ a hét szép megjelenésű és kövér tehenet, és felriadt Paroh.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "És megették"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "a tehenek"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "megjelenésű"
+    },
+    {
+      "surface": "ודקת",
+      "gloss": "és sovány"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "húsú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hét szép megjelenésű és kövér tehenet"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "a hét"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "tehenet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "szép"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "megjelenésű"
+    },
+    {
+      "surface": "והבריאת",
+      "gloss": "és kövér"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "és felriadt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:07.408553834Z",
+  "model": "glm-5.3"
+}

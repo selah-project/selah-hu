@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Íme, ezek a gonoszok, és a mindig gondtalanok vagyont szereznek.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gonoszok"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "és gondtalanok"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mindig"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "szereznek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vagyont"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:18.509143094Z",
+  "model": "glm-5.3"
+}

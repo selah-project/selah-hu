@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És elment a pusztában, és megkerülte ⟨את⟩ Edom földjét és ⟨את⟩ Moáb földjét, és napkelet felől jött Moáb földjére, és táboroztak az Arnón túlpartján; de nem mentek be Moáb határába, mert az Arnón Moáb határa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "megkerülte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Moáb földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "napkelet felől"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "nap"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "táboroztak"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "túlpartján"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "az Arnón"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "mentek be"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "határába"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "az Arnón"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "határa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    }
+  ],
+  "timestamp": "2026-09-04T18:57:21.251236675Z",
+  "model": "glm-5.3"
+}

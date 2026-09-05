@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És ⟨את⟩ a Négevet, és ⟨את⟩ a környéket: Jerikó völgyét, a pálmafák városát, egészen Coárig.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Negevet"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "a Négevet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a környéket"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "a környéket"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "völgye"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jerikó"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városa"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "a pálmafáknak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–ig"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Coár"
+    }
+  ],
+  "timestamp": "2026-09-04T18:35:05.111572426Z",
+  "model": "glm-5.3"
+}

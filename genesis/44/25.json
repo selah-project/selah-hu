@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És mondta atyánk: Térjetek vissza, szerezjetek nekünk egy kevés ételt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atyánk"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Térjetek vissza"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "szerezjetek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "egy kevés"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ételt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:02.397938437Z",
+  "model": "glm-5.3"
+}

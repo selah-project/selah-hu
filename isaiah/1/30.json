@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert lesztek mint a hervadó levelű fa, és mint ⟨a⟩ kert, amelynek nincs vize.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "lesztek"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "mint ⟨a⟩ fa"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "hervadó"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "levelű"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "és mint ⟨a⟩ kert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelynek"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vize"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨neki⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:11.477868448Z",
+  "model": "glm-5.3"
+}

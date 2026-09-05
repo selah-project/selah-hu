@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És mondta Moshe Jahvének: Nem tud a nép felmenni a Szináj hegyére, mert te figyelmeztettél minket, mondván: Határold körül ⟨את⟩ a hegyet, és szenteld meg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "tud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "felmenni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegy"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Szináj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "figyelmeztettél"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "minket"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "Határold körül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hegyet"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegyet"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "és szenteld meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:56.340295417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Kis város, és kevés ember benne, és eljött hozzá egy nagy király, és körülvette ⟨את⟩, és épített ellene nagy ostromtornyokat.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kis"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "és ember"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "és eljött"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "és körülvette"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "őt (a várost)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "és épített"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ellene"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "ostromtornyokat"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:47.956620127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "És mondta Jiszráél Jószéfnek: A te orcádat látni nem gondoltam, és íme, megmutatott engem ⟨את⟩ Elohim, a te magodat is ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéfnek"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "a te orcádat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "gondoltam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "megmutatott"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "engem ⟨את⟩",
+      "marks": "Elohim áll az alany — az אתי a látottat jelöli: 'engem'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te magodat"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "a te magodat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:08.261592571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Amikor Elijon örökséget adott a népeknek, amikor szétválasztotta az ember fiait, megszabta a népek határait az Izrael fiainak száma szerint.",
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "amikor örökséget adott"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a népeknek"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "amikor szétválasztotta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "megszabta"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "határait"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "a népeknek"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "száma szerint"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T18:31:57.589236004Z",
+  "model": "glm-5.3"
+}

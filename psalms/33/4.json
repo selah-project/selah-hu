@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Mert egyenes Jahve szava, és minden cselekedete hűségben ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "egyenes"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "cselekedete"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "hűségben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:19.803550045Z",
+  "model": "glm-5.3"
+}

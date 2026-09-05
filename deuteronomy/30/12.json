@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Nem az egekben ⟨van⟩ ⟨ő⟩, hogy ezt mondd: „Ki menne fel nekünk az egekbe, és venné el ⟨את⟩ nekünk, és meghallgatná ⟨את⟩ velünk, hogy megcselekedjük?”",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az egekben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨van⟩ ⟨ő⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hogy ezt mondd"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "menne fel"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "az egekbe"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "és venné el"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "és meghallgatná"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "velünk (a meghallgatott szó)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "hogy megcselekedjük"
+    }
+  ],
+  "timestamp": "2026-09-04T18:31:31.880035475Z",
+  "model": "glm-5.3"
+}

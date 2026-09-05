@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És mondta Saul (Sául) Semuelnek (Sámuel): „Vétkeztem, mert áthágtam Jahve száját és ⟨את⟩ a te szavaidat, mert féltem ⟨את⟩ a népet, és hallgattam a szavukra.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul (Sául)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nek"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuel (Sámuel)"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétkeztem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "áthágtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve száját"
+    },
+    {
+      "surface": "פי",
+      "gloss": "száját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a te szavaidat"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "a te szavaidat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "féltem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "és hallgattam"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "a szavukra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:54.483437449Z",
+  "model": "glm-5.3"
+}

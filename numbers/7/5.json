@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "„Vedd el tőlük ⟨את⟩, és legyenek a Találkozás Sátrának szolgálatát szolgálni, és add őket a levitáknak, felelként az ő szolgálatja szerint.”",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Vedd"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ tőlük"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "és legyenek"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "szolgálni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgálatát"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "a szolgálatát"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a Találkozás"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "és add"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "a levitákhoz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(a)hoz"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a leviták"
+    },
+    {
+      "surface": "איש",
+      "gloss": "felel"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "az ő szolgálatja"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:53.172806498Z",
+  "model": "glm-5.3"
+}

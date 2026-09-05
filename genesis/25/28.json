@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És szereté Jichak ⟨את⟩ Esavot, mert vad volt a szájában; Rivka (Rebeka) pedig szerette ⟨את⟩ Jaakobot.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "és szereté"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavot"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "vad"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "az ő szájában"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "és Rivka (Rebeka)"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "szerette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:31:03.638283815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 138,
+  "translation": "Dávidnak ⟨zsoltára⟩. Hálát adok neked egész szívemből, az istenek előtt zengek neked.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "hálát adok neked"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemből"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az istenek"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "zengek neked"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:24.036354718Z",
+  "model": "glm-5.3"
+}

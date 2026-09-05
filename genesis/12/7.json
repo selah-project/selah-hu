@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És megjelent Jahve Avramnak, és mondta: „A te magodnak adom ⟨את⟩ ezt a földet.” És épített ott oltárt Jahvénak, a neki megjelent ⟨nek⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És megjelent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "a te magodnak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "és épített"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "a megjelent"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:48.430345012Z",
+  "model": "glm-5.3"
+}

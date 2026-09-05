@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Ne add az asszonyoknak erődet, és útaidat a királyok kitörlésére!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "add"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "az asszonyoknak"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "erődet"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "és útaidat"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "a kitörlésére"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "királyoknak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:43.669374629Z",
+  "model": "glm-5.3"
+}

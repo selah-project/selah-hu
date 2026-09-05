@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "minden hímnemű a papok közül eheti ⟨את⟩ ⟨azt⟩; szentségek szentsége ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hímnemű"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "a papok közül"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eheti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a mincha-áldozatot)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentsége"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentségek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:04.708190273Z",
+  "model": "glm-5.3"
+}

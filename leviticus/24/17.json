@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És ⟨ha⟩ egy ember megüt bármely emberi nefest, halállal haljon.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ha⟩"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "megüt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bármely"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefest"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "emberi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:59.513403675Z",
+  "model": "glm-5.3"
+}

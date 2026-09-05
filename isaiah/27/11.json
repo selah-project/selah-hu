@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Amikor elszáradnak ágainak végei, megtörnek az asszonyok, akik jönnek, és meggyújtják ⟨את⟩ őt; mert nem értő nép ⟨ez⟩, azért nem irgalmaz neki alkotója, és formálója nem kegyelmez neki.",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "Amikor elszáradnak"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ágainak végei"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "megtörnek"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "az asszonyok"
+    },
+    {
+      "surface": "באות",
+      "gloss": "akik jönnek"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "és meggyújtják"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ őt",
+      "marks": "azt (a népet)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "értő"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨azért⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "irgalmaz neki"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "alkotója"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "és formálója"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "kegyelmez neki"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:26.632310066Z",
+  "model": "glm-5.3"
+}

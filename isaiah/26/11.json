@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Jahve, magasan ⟨van⟩ a kezed — nem látják; majd meglátják és megszégyenülnek a nép ⟨iránti⟩ buzgalmadat, sőt a tűz elfogyasztja ellenségeidet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "magasan van"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a kezed"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "látják"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "majd meglátják"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "és megszégyenülnek"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "buzgalmadat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "ellenségeidet"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "elfogyasztja őket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:42.214717643Z",
+  "model": "glm-5.3"
+}

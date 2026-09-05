@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Az egek végéről ⟨van⟩ kimenetele, és kerülete azok végein ⟨ér végig⟩; és nincs elrejtve ⟨semmi⟩ a hevétől.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "végéről"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "kimenetele"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "és kerülete"
+    },
+    {
+      "surface": "על",
+      "gloss": "–en"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "végein"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "elrejtve"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "a hevétől"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:12.165368127Z",
+  "model": "glm-5.3"
+}

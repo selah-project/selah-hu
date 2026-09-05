@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Kicsinyenként, kicsinyenként űzöm ki őket elédől, míg meg nem szaporodol, és birtokba nem veszed ⟨את⟩ a földet.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "kicsinyenként"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kicsinyenként"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "űzöm ki őket"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "elédől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "meg nem szaporodol"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "és birtokba nem veszed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:46.046876661Z",
+  "model": "glm-5.3"
+}

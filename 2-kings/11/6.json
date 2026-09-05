@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és a harmadrész a Szur kapunál, és a harmadrész a kapunál a futók mögött, és őrzitek ⟨את⟩ a ház őrségét, védősávként —",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "és a harmadrész"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kapunál"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Szur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "és a harmadrész"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kapunál"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mögött"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "a futóknak"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "és őrzitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ház őrségét"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "az őrséget"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "védősávként"
+    }
+  ],
+  "timestamp": "2026-09-04T19:59:00.869966310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És mondta Semuél (Sámuel): Gyűjtsétek össze ⟨את⟩ egész Jisraélt (Izráel) Micpába (Mícpa), és imádkozom értetek Jahvéhoz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Gyűjtsétek össze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Jisraélt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraélt"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Micpába"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "és imádkozom"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "értetek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz (Jahvéhoz)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:05:08.310201054Z",
+  "model": "glm-5.3"
+}

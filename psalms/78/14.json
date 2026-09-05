@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Nappal felhővel vezette őket, és az egész éjjelt tűz fényével.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "és vezette őket"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "felhővel"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "באור",
+      "gloss": "fényével"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:45.194864825Z",
+  "model": "glm-5.3"
+}

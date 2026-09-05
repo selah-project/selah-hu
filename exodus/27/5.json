@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És tedd ⟨את⟩ azt az oltár pereme alá, alulról, és a háló ⟨legyen⟩ az oltár közepéig.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "és tedd"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (a hálót)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alá"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "pereme"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "alulról"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "a háló"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "közepéig"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:56.851559603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Jobb egy száraz falat és nyugalom vele, mint teli ház áldozathúsokkal-veszeksédéssel.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "פת",
+      "gloss": "egy falat"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "száraz"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "és nyugalom"
+    },
+    {
+      "surface": "בה",
+      "gloss": "vele"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mint ház"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "teli"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "áldozathúsokkal"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "veszeksédéssel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:15.563084142Z",
+  "model": "glm-5.3"
+}

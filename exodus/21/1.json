@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ezek az ítéletek, amelyeket eléjük teszel:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "és ezek"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "az ítéletek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "teszel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "eléjük"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:41.850194194Z",
+  "model": "glm-5.3"
+}

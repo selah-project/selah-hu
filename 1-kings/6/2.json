@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És a ház, amelyet megépített Selomo király Jahvének: hatvan könyök ⟨volt⟩ a hossza, és húsz a szélessége, és harminc könyök a magassága.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "És a ház"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "megépített"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "hatvan"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "a magassága"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:49.351251894Z",
+  "model": "glm-5.3"
+}

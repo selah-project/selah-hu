@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 111,
+  "translation": "Dicsérjétek ⟨a⟩ Jah-t! Hálát adok Jahvénak teljes szívből, ⟨a⟩egyenesek tanácsában és ⟨a⟩gyülekezetben.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Hálát adok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívből"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "tanácsában"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "egyeneseknek"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "és gyülekezet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:48.744095529Z",
+  "model": "glm-5.3"
+}

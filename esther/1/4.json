@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "amikor megmutatta ⟨את⟩ királysága dicsőségének gazdagságát és ⟨את⟩ nagysága ékességének fényét — sok napon át, nyolcvan és száz napig.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "amikor megmutatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "királysága dicsőségének gazdagságát"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gazdagságát"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőségének"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "királysága"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "nagysága ékességének fényét"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "fényét"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ékességének"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "nagysága"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nap"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "nyolcvan"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "és száz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napig"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:08.651226289Z",
+  "model": "glm-5.3"
+}

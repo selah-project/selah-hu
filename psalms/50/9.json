@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Nem veszem el házadból a bikát, aklaidból a bakkecskéket.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "veszem el"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "házadból"
+    },
+    {
+      "surface": "פר",
+      "gloss": "a bikát"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "aklaidból"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "a bakkecskéket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:32.691479462Z",
+  "model": "glm-5.3"
+}

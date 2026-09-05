@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És kiáltott Jahvéhoz, és mondta: Jahve, Elohimem, ⟨vajon⟩ az özvegyre is, akivel én vendégeskedem, rosszat tettél, hogy megöld ⟨את⟩ a fiát?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És kiáltott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "⟨vajon⟩ … is"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "az özvegyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akivel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "vendégeskedem"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "vele"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "rosszat tettél"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "hogy megöld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiát"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a fiát"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:34.856551311Z",
+  "model": "glm-5.3"
+}

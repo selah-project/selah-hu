@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És szólt Jahve Moshe (Mózes) felé: Menj be Paróhoz, mert én nehézzé tettem ⟨את⟩ az ő szívét és ⟨את⟩ az ő szolgáinak szívét, azért, hogy ezekeket a jeleimet közéjük helyezzem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Menj be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "nehézzé tettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő szívét"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "az ő szívét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "az ő szolgáinak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "azért, hogy"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "elhelyezzem"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "a jeleimet"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "közéjük"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:36.179864178Z",
+  "model": "glm-5.3"
+}

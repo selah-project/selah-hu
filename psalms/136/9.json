@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "⟨את⟩ a holdat és a csillagokat, hogy uralkodjanak éjjel, mert örökké tart az ő heszedje.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a holdat"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "a holdat"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "és a csillagokat"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "hogy uralkodjanak"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "az ő heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:32.417608324Z",
+  "model": "glm-5.3"
+}

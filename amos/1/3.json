@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Így szólt Jahve: Dámászek (Damascus) három vétségéért, és négyért nem fordítom vissza, mert vasboronákkal kicsépeltek ⟨את⟩ Gileádot (Gileád).",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ért"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "vétségéért"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dámászek"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ... ér"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "négy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "fordítom vissza"
+    },
+    {
+      "surface": "על",
+      "gloss": "mert"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "kicsépeltek"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "boronákkal"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileádot"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileádot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:23:33.174412267Z",
+  "model": "glm-5.3"
+}

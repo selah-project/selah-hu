@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És ⟨את⟩ Khamort és ⟨את⟩ Sekhemet a fiát kardéllel ölték meg, és elvitték ⟨את⟩ Dinát Sekhem házából, és kimentek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Khamort"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Sekhemet"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekhemet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a fiát"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ölték meg"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kardéllel"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "és elvitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinát"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinát"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekhem"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "és kimentek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:20.907499495Z",
+  "model": "glm-5.3"
+}

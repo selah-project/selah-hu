@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "A jubileum ezen évében térjetek vissza, kiki ⟨a⟩ birtokára.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "évében"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "a jubileum"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "terjetek vissza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "birtokára"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:44.922403449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A kezed formált ⟨engem⟩, és megalkotott ⟨engem⟩; adj értelmet ⟨nekem⟩, és megtanulom parancsolataidat.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "formált (engem)"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "és megalkotott (engem)"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "adj értelmet (nekem)"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "és megtanulom"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parancsolataidat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:22.270823291Z",
+  "model": "glm-5.3"
+}

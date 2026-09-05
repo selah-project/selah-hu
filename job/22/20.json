@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Nemde elpusztult ellenfelünk, és a maradékukat a tűz emésztette meg?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nemde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "elpusztult"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "ellenfelünk"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "és maradékuk"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "emésztette meg"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a tűz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:23:30.244342946Z",
+  "model": "glm-5.3"
+}

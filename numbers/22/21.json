@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És felkelt Bilám (Bálám) reggel, és felnyergelte ⟨את⟩ a szamarát, és elment Moáb fejedelmeivel.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilám"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "és felnyergelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szamarát"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "a szamarát"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmeivel"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    }
+  ],
+  "timestamp": "2026-09-04T17:39:46.561013252Z",
+  "model": "glm-5.3"
+}

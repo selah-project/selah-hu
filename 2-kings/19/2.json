@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És elküldte ⟨את⟩ Eljakimot, aki a ház ⟨felett áll⟩, és Sebnát (Sebná) az írnokot, és ⟨את⟩ a papok véneit, akik zsákba burkolóznak, Jesajáhu (Ézsaiás) prófétához, Amóc fiához.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakimot"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakimot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨felett⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "és Sebnát"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "az írnokot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a papok véneit"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "véneit"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papoknak"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "burkolózók"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "zsákokban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajáhuhoz"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "a próféta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amócnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:03:58.459027773Z",
+  "model": "glm-5.3"
+}

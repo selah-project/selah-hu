@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "Sőt, szívetekben gonoszságot cselekedtek, a földön kezeitek erőszakját méritek.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sőt"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "szívetekben"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "gonoszságot"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "cselekedtek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszakját"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "kezeitek"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "méritek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:51.863252702Z",
+  "model": "glm-5.3"
+}

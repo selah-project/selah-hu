@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Légy irgalmas hozzám, Adonáj, mert hozzád kiáltok egész nap.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Légy irgalmas hozzám"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:05.915547625Z",
+  "model": "glm-5.3"
+}

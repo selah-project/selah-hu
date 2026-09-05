@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Jobb a hosszú orrú ⟨a haragban türelmes⟩, mint ⟨a⟩ vitéz, és ⟨aki⟩ uralkodik a lelkén, mint ⟨aki⟩ várost foglal.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "orrú ⟨haragban türelmes⟩"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "mint ⟨a⟩ vitéz"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "és uralkodik"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "a lelkén"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "mint ⟨aki⟩ foglal"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "várost"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:17.321363493Z",
+  "model": "glm-5.3"
+}

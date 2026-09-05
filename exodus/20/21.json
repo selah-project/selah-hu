@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És álldogált a nép messziről, Moshe (Mózes) pedig közeledett a sűrű felhőhöz, ahol ott volt az Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "és álldogált"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "messziről"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "és Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "közeledett"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "a sűrű felhőhöz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "volt az Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:43.221606578Z",
+  "model": "glm-5.3"
+}

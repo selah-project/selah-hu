@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És nem hallgatott Amacjáhu, mert az Elohimtól volt ez, ⟨hogy⟩ ⟨őt⟩ kézbe adják — mert keresték ⟨את⟩ Edom isteneit.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatott"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacjáhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "az Elohimtól"
+    },
+    {
+      "surface": "היא",
+      "gloss": "volt ez"
+    },
+    {
+      "surface": "למען",
+      "gloss": "azért"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "kézbe adják"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kézbe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "keresték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom isteneit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "isteneit"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T23:19:39.815692257Z",
+  "model": "glm-5.3"
+}

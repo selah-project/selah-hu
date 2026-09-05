@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Mert a zsarolás megbolondítja a bölcset, és az ajándék elpusztítja ⟨את⟩ a szívet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "a zsarolás"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "megbolondítja"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a bölcs"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "és elpusztítja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szívet"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a szív"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "az ajándék"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:13.141674984Z",
+  "model": "glm-5.3"
+}

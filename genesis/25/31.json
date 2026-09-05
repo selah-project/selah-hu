@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És mondta Jaakov: „Add el már ma ⟨את⟩ elsőszülöttségedet nekem.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "add el"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elsőszülöttségedet"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "elsőszülöttségedet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:43.079862141Z",
+  "model": "glm-5.3"
+}

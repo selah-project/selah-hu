@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És megtartsátok ⟨את⟩ e szövetség igéit, és megcselekszitek ⟨את⟩ azokat — azért, hogy sikeresen járjatok el ⟨את⟩ mindenben, amit cselekesztek.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "és megtartsátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e szövetség igéit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "igéit"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "szövetség"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "és megcselekszitek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "azért, hogy"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "sikeresen járjatok el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindenben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden(dent)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "cselekesztek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:43.374265509Z",
+  "model": "glm-5.3"
+}

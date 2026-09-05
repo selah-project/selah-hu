@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És voltak mindketten mezítelenek, ⟨a⟩ háadám és ⟨a⟩ felesége, és nem szégyelték ⟨magukat⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "És voltak"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindketten"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "mezítelenek"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨a⟩ háadám"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "és ⟨a⟩ felesége"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "szégyelték ⟨magukat⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:39.525017632Z",
+  "model": "glm-5.3"
+}

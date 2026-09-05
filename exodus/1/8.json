@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És felkelt új király Micrajim (Egyiptom) fölé, aki nem ismerte ⟨את⟩ Josefet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismerte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefet"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:19.680045593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "⟨את⟩ Jehúda (Júda) házát pedig megkegyelmezem, és megmentem őket Jahve által, az ő Elohimja által; és nem mentem meg őket ívvel, sem karddal, sem háborúval, lovakkal és lovasokkal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jehúda házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "megkegyelmezem"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "és megmentem őket"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve által"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "az ő Elohimja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "mentem meg őket"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ívvel"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "sem karddal"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "sem háborúval"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "lovakkal"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "és lovasokkal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:20.233380124Z",
+  "model": "glm-5.3"
+}

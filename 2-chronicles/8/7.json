@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Az egész népből, amely megmaradt a hittiták, emoriták, periziták, hivviták és jebusziták közül, akik nem Izráelből valók voltak ⟨azok⟩ —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "amely megmaradt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a hittiták"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "és az emoriták"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "és a periziták"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "és a hivviták"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "és a jebusziták"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Izráelből"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨azok⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T23:13:53.220005149Z",
+  "model": "glm-5.3"
+}

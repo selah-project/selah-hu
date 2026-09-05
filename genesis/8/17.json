@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 8:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Minden élőlényt, ami ⟨את⟩ veled van, minden testből, madárból és állatból, és minden csúszó-mászóból, ami rajta mozog a földön, hozz ki ⟨את⟩ magaddal, és nyüzsögjenek a földön, gyarapodjanak és sokasodjanak a földön.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "élőlényt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled",
+      "marks": "élőlényt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "testből"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "madárból"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "és állatból"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "csúszó-mászóból"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "mozgóból"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "hozz ki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ magaddal",
+      "marks": "élőlényt"
+    },
+    {
+      "surface": "ושרצו",
+      "gloss": "és nyüzsögjenek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "és gyarapodjanak"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "és sokasodjanak"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:29.197808379Z",
+  "model": "glm-5.3"
+}

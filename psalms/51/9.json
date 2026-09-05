@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Tisztíts meg izsóppal, és ⟨leszek⟩ tiszta; moss ki engem, és hófehérre leszek ⟨a⟩ hónál.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "tisztíts meg"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "izsóppal"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "és tiszta leszek"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "moss ki engem"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "és a hónál"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "hófehérre leszek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:25.341467808Z",
+  "model": "glm-5.3"
+}

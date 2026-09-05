@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megemlékezett Elohim ⟨את⟩ Noáról (Noé) és ⟨את⟩ minden élőlényről és ⟨את⟩ minden állatról, amely ⟨את⟩-vele volt a bárkában; és szelét vontatott Elohim a föld fölött, és csillapodtak a vizek.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "és megemlékezett"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noáról"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden élőlényről"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "élőlényről"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden állatról"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "állatról"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-vele"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "a bárkában"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "és vontatott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szelét"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "és csillapodtak"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:06.663977013Z",
+  "model": "glm-5.3"
+}

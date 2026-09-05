@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És történt Avraham halála után, hogy Elohim megáldotta ⟨את⟩ Jichakot, a fiát; és Jichak a Lachai-Rói forrásánál lakott.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halála"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamnak"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldotta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jichakot"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichakot"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és lakott"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-nál"
+    },
+    {
+      "surface": "באר",
+      "gloss": "forrásánál"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Rói"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:42.422745870Z",
+  "model": "glm-5.3"
+}

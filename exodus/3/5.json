@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta: Ne közelíts ide! Húzd le saruidat a lábadról, mert a hely, amelyen te állsz rajta, szent talaj az.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "közelíts"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ide"
+    },
+    {
+      "surface": "של",
+      "gloss": "húzd le"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "saruidat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "a lábad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a hely"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "állsz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "talaj"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:38.712963361Z",
+  "model": "glm-5.3"
+}

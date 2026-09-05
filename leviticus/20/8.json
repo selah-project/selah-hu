@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És tartsátok ⟨את⟩ rendeleteimet, és cselekedjétek ⟨את⟩ azokat: én Jahve, a ti megszentelőtök.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "És tartsátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rendeleteimet"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rendeleteimet"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "és cselekedjétek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azokat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "a ti megszentelőtök"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:36.568670181Z",
+  "model": "glm-5.3"
+}

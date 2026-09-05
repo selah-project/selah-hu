@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "A hónap első napján, az első hónapban állítsd fel ⟨את⟩ a lakás-sátor eleinek a sátrát, a találkozás sátrát.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "A napján"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "a hónapnak"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "az első"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "az elsőján"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónapnak"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "állítsd fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lakás-sátor"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "a lakás-sátor"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:31.344259191Z",
+  "model": "glm-5.3"
+}

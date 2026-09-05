@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Fiam, őrizd beszédeimet, és parancsolataimat ⟨את⟩ rejtsd el magadnál.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiam"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "őrizd"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "beszédeimet"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "és parancsolataimat"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "rejtsd el"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ magadnál",
+      "marks": "magadnál — héber prépositio, a belső megőrzés célja"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:39.885777105Z",
+  "model": "glm-5.3"
+}

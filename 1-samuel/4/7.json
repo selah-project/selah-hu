@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És a plistimok féltek, mert mondák: „Istenek érkeztek a táborba.” És mondák: „Jaj nekünk, mert nem így volt ez tegnap és tegnapelőtt!”",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "féltek"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "a plistimok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mondák"
+    },
+    {
+      "surface": "בא",
+      "gloss": "érkeztek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Istenek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a táborba"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a táborba"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondák"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "így"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "tegnap"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "tegnapelőtt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:24.096489065Z",
+  "model": "glm-5.3"
+}

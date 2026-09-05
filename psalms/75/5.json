@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "Ezt mondtam a balgáknak: ne viselkedjetek balgán, és a gonoszoknak: ne emeljétek fel a szarvat.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ezt mondtam"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "a balgáknak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "viselkedjetek balgán"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "és a gonoszoknak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "emeljétek fel"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "a szarvat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:03.205867253Z",
+  "model": "glm-5.3"
+}

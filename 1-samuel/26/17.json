@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És felismerte Saul ⟨את⟩ Dávid hangját, és mondta: Vajon a te hangod ez, fiam, Dávid? És Dávid mondta: Hangom ⟨az⟩, uram, a király!",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "és felismerte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávid hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "a te hangod"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hangom"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T19:18:43.499957118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És jártál Jiszráél (Izráel) királyainak útján, és paráznává tetted ⟨את⟩ Jehúdát és ⟨את⟩ Jeruzsálem lakóit, ahogyan paráználkodott Aháv háza; és ⟨את⟩ testvéreidet, atyád házát, akik jobbák ⟨voltak⟩ nálad, megölted.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "és jártál"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "és paráznává tetted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúdát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jeruzsálem lakóit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakóit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálem"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "ahogyan paráználkodott"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháv"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreidet"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéreidet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "akik jobbák"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nálad"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "megölted"
+    }
+  ],
+  "timestamp": "2026-09-04T23:17:53.075455106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És lett a legények vétke nagyon nagy ⟨את⟩ Jahve színe előtt, mert megútálták az emberek ⟨את⟩ Jahve ételáldozatát.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "vétke"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "a legényeknek"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve színe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "megútálták"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ételáldozatát"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ételáldozatát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:42.009080918Z",
+  "model": "glm-5.3"
+}

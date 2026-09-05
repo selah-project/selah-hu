@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És vegye a felkent pap ⟨את⟩ a vért a bikából, és vigye be ⟨את⟩ azt a találkozás sátrába.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "És vegye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "a felkent"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "a vérből"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bikából"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "és vigye be"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "a vért"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:37.929993339Z",
+  "model": "glm-5.3"
+}

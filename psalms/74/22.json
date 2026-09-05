@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Kelj fel, Elohim, vídd ⟨את⟩ peredet; emlékezz gyalázkodásodra, ⟨amely⟩ a balgatagtól ⟨ér⟩ egész napon át.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "vídd"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "peredet"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "emlékezz"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "gyalázkodásodra"
+    },
+    {
+      "surface": "מני",
+      "gloss": "‑tól"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "a balgatag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon át"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:57.091709275Z",
+  "model": "glm-5.3"
+}

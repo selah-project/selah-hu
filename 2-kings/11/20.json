@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És örvendezett az ország egész népe, és a város megnyugodott; ⟨את⟩ Atalját pedig karddal ölték meg a király házában.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "És örvendezett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ország"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "és a város"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "megnyugodott"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Atalját"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalját"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "megölték"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "karddal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T19:59:39.643004002Z",
+  "model": "glm-5.3"
+}

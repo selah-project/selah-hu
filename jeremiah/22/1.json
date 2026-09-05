@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Így szólt Jahve: Menj le a jehúdai király házába, és szólj ott ⟨את⟩ ezt az igét:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Menj le"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "jehúdai"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "és szólj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt az igét"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az igét"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:40:47.629677634Z",
+  "model": "glm-5.3"
+}

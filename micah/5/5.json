@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Legelni fogják ⟨את⟩ Assur földjét karddal, és ⟨את⟩ Nimród földjét annak kapuinál; és megszabadít ⟨את⟩ minket Assurtól, amikor bejön földünkre, és amikor átlépi határainkat.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "legelni fogják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assur földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "karddal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Nimród földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimród"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "kapuinál"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "és megszabadít"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Assurtól"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bejön"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "földünkre"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "és amikor"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "átlépi"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "határainkon"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:54.571329306Z",
+  "model": "glm-5.3"
+}

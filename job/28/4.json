@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 28:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Patak tör elő az idegenek lakhelyétől; a láb elől elfeledett ⟨helyeken⟩; megrendültek, az emberektől messze bolyonganak.",
+  "tokens": [
+    {
+      "surface": "פרץ",
+      "gloss": "tör elő"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "patak"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "az ... lakhelyétől"
+    },
+    {
+      "surface": "גר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "הנשכחים",
+      "gloss": "elfeledett ⟨helyeken⟩"
+    },
+    {
+      "surface": "מני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "a láb"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "megrendültek"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "az emberektől"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "bolyonganak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:24:46.990129668Z",
+  "model": "glm-5.3"
+}

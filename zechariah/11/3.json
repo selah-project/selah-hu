@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "A pásztorok jajkiáltásának hangja, mert kifosztatott díszük; a fiatal oroszlánok bömbölésének hangja, mert kifosztatott a Jardén (Jordán) büszkesége!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "A hangja"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "jajkiáltásának"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "a pásztoroknak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "kifosztatott"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "díszeik"
+    },
+    {
+      "surface": "קול",
+      "gloss": "a hangja"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "bömbölésének"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "a fiatal oroszlánok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "kifosztatott"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "büszkesége"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardén"
+    }
+  ],
+  "timestamp": "2026-09-04T21:34:44.498420604Z",
+  "model": "glm-5.3"
+}

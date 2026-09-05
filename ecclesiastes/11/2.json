@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Adj részt a hétnek, és a nyolcnak is, mert nem tudod, mi lesz a rossz a földön.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Adj"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "részt"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "a hétnek"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és … is"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "a nyolcnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "a rossz"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:56.742095259Z",
+  "model": "glm-5.3"
+}

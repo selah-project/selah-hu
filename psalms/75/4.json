@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "Megolvad a föld és minden lakója: én szilárdítom meg oszlopait. Szela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Megolvad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "lakója"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "szilárdítom meg"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "oszlopait"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.928902758Z",
+  "model": "glm-5.3"
+}

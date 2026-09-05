@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Vétkemet tudtodra adom néked, és bűnömet nem takartam el. Mondtam: vallomást teszek áthágásaimról Jahvénak, és te hordoztad bűnöm vétkét. Szelá.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "vétkemet"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "tudtodra adom néked"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "és bűnömet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "takartam el"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "vallomást teszek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "–ról"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "áthágásaim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "és te"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "hordoztad"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vétkét"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "bűnömet"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:13.890868207Z",
+  "model": "glm-5.3"
+}

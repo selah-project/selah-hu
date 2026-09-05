@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Csak féljétek ⟨את⟩ Jahvét, és szolgáljátok ⟨את⟩ őt igazsággal, egész szívetekkel; mert láttátok ⟨את⟩ azt, amit veletek nagyokká tett.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "féljétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "és szolgáljátok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "igazsággal"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "szívetekkel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "láttátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit veletek nagyokká tett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nagyokká tett"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "veletek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:45.151304510Z",
+  "model": "glm-5.3"
+}

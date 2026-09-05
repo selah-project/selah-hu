@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Az ő Elohimja kenyeréből ehet: a szentség szentségeiből és a szent dolgokból ehet.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "kenyeréből"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "az ő Elohimja"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "a szentség szentségeiből"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "…"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és …ből"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szent dolgokból"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehet"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:12.990794480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Mit kellett volna még tenni szőlőskertemért, amit nem tettem benne? Miért vártam, hogy szőlőt teremjen, de vadszőlőt termett?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tenni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "szőlőskertemért"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tettem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miért"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "vártam"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "teremnie"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "szőlőt"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "de termett"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "vadszőlőt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:09:14.917502317Z",
+  "model": "glm-5.3"
+}

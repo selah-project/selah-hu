@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és ⟨את⟩ Hadorámot és ⟨את⟩ Uzált és ⟨את⟩ Diklát",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hadorámot"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadorámot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Uzált"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzált"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Diklát"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:12.342851990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És nevezte Elohim ⟨את⟩ a fényt nappalnak, és a sötétséget nevezte éjszakának; és lett este, és lett reggel: egy nap.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevezte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "a fényt"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nappalnak"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "és a sötétséget"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nevezte"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjszakának"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "este"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:07.682220078Z",
+  "model": "glm-5.3"
+}

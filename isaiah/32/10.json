@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Napok múlva, egy esztendőn túl, megremegtek, bizakodók, mert vége ⟨van⟩ a szüretnek, a gyüjtés nem jön el.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "napok"
+    },
+    {
+      "surface": "על",
+      "gloss": "túl"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőn"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "megremegtek"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "bizakodók"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vége van"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "a szüretnek"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "a gyüjtés"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jön el"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:22.466877139Z",
+  "model": "glm-5.3"
+}

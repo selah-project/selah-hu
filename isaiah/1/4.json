@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Jaj, vétkes nemzedék, bűnnel terhelt nép, gonosztevők magzata, romlásnak indult fiak! Elhagyták ⟨את⟩ Jahvét, megvetették ⟨את⟩ Izráél Szentjét, hátat fordítottak.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nemzedék"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vétkes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "terhelt"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bűnnel"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magzata"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "gonosztevők"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiak"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "romlásnak indult"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Elhagyták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "megvetették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráél Szentjét"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Szentjét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "hátat fordítottak"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:36:15.280977420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 10:6",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És történt, amikor megparancsolta ⟨את⟩ a vászonba öltözött embernek, mondván: Vegyél tüzet a kerékmű közül, a kerubok közül — és bement, és megállt a kerék mellett.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "בצותו",
+      "gloss": "amikor megparancsolta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vászonba öltözött embert"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "öltözött"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "a vászonba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vegyél"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüzet"
+    },
+    {
+      "surface": "מבינות",
+      "gloss": "közül"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "a kerékmű"
+    },
+    {
+      "surface": "מבינות",
+      "gloss": "közül"
+    },
+    {
+      "surface": "לכרובים",
+      "gloss": "a kerubok"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és bement"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "és megállt"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "a kerék"
+    }
+  ],
+  "timestamp": "2026-09-04T21:00:15.337647924Z",
+  "model": "glm-5.3"
+}

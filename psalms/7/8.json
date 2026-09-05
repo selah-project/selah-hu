@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És a népek gyülekezete vegyen körül téged, és föléjük térj vissza a magasságba.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "és gyülekezete"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "vegyen körül téged"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "és föléjük"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "a magasságba"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "térdj vissza"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:23.161590582Z",
+  "model": "glm-5.3"
+}

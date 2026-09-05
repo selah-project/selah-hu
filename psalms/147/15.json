@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Aki elküldi szavát a földre, nagyon hamar fut az ő igéje.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Aki elküldi"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "hamar"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "fut"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "az ő igéje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:10.248777253Z",
+  "model": "glm-5.3"
+}

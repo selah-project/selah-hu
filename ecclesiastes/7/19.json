@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "A bölcsesség erőt ad a bölcsnek, többet tíz uralkodónál, akik a városban voltak.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "A bölcsesség"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "erőt ad"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "a bölcsnek"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "tíznél"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "uralkodónál"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:43.700840526Z",
+  "model": "glm-5.3"
+}

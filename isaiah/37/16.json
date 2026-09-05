@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "„Jahve Cevaót, Izráel Elohimja, a kerubokon trónoló, te vagy ⟨az⟩ Elohim, egyedül te, a föld minden királyságai között; te alkottad ⟨את⟩ az egeket és ⟨את⟩ a földet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "trónoló"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "a kerubokon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "egyedül te"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "királyságai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "alkottad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egeket"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:42.169535033Z",
+  "model": "glm-5.3"
+}

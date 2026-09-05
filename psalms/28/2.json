@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Halld esedezésem hangját, amikor kiáltok hozzád, amikor kezeimet a te szent Debírod (a szentély belső szentélye) felé emelem.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "halld"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "esedezésem"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "amikor kiáltok"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "amikor emelem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezeimet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debírod"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "szent (szentélyed)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:01.228994615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És szólította Jahve Elohim az embert (Ádámot), és monda neki: „Hol vagy?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És szólította"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert (Ádámot)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és monda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Hol vagy?"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:48.226239513Z",
+  "model": "glm-5.3"
+}

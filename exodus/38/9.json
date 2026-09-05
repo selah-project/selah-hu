@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És megcsinálta ⟨את⟩ a udvart a déli oldal felé, délre: az udvar függönyei csavart lenből, száz sing hosszan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcsinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a udvart"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "a udvart"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "az oldal felé"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "déli"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "délre"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "függönyei"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvarnak"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lenből"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "csavart"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "sing hosszan"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:29.374742763Z",
+  "model": "glm-5.3"
+}

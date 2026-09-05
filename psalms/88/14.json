@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Én pedig hozzád kiáltottam, Jahve, és reggel őrződött előtted az imádságom.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én pedig"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kiáltottam"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "és reggel"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "imádságom"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "előtted őrződött"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:07.914856347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "A föld megrázkódott, még az egek is csepegtek az Elohim színe előtt — ez a Szináj —, az Elohim színe előtt, Jiszráél Elohimja.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "megrázkódott"
+    },
+    {
+      "surface": "אף",
+      "gloss": "még…is"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "csepegtek"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "a Szináj"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:25.470257780Z",
+  "model": "glm-5.3"
+}

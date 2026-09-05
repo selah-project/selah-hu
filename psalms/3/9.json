@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Jahvéé ⟨az⟩ szabadítás; népeden ⟨van⟩ áldásod. Szela.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéé"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "⟨az⟩ szabadítás"
+    },
+    {
+      "surface": "על",
+      "gloss": "népeden ⟨van⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népeden"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "áldásod"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:35:46.785200877Z",
+  "model": "glm-5.3"
+}

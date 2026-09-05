@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És a fejedelmek hozták ⟨את⟩ a sohám-köveket és ⟨את⟩ a foglalat köveit — az efódhoz és a hosenhez.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "és a fejedelmek"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "hozták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sohám-köveket"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "a köveket"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "a sohám-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a foglalat köveit"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "a köveit"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a foglalat"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "az efódhoz"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "és a hosenhez"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:38.622808081Z",
+  "model": "glm-5.3"
+}

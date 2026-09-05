@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Halljátok ⟨את⟩ a szót, amelyet szólt Jahve rólatok, Izráel háza!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szót"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a szót"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "rólatok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-04T20:36:08.192369518Z",
+  "model": "glm-5.3"
+}

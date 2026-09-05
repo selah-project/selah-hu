@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Az egész népet, amely megmaradt az emoriból, a hittitából, a perizziből, a hivviből és a jebusziból, akik nem Izrael fiai közül valók ők —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "amely megmaradt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emori"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a hittita"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "a perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "a hivvi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "és a jebuszi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "fiai közül"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:49.928273855Z",
+  "model": "glm-5.3"
+}

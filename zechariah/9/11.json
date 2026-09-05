@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Te is — a szövetséged vérében elküldtem foglyaidat a veremből, amelyben nincs víz.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "a szövetséged vérében"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vérében"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "szövetséged"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "elküldtem"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "foglyaidat"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "a veremből"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:34:43.227667114Z",
+  "model": "fable-5-hand"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És minden idegen ne egyék szent dolgokból; a papnál lakó jövevény és a bérmunkás ne egyék szent dolgokból.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "És minden"
+    },
+    {
+      "surface": "זר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "egyék"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent dolgokból"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "papnál lakó jövevény"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "és bérmunkás"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "egyék"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent dolgokból"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:11.793556430Z",
+  "model": "glm-5.3"
+}

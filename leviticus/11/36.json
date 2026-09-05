@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Csak a forrás és a gödör, vízgyűjtő hely, tiszta lesz; de aki dögükhöz ér, tisztátalan lesz.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "forrás"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "és gödör"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "vízgyűjtő"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "de aki ér"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "dögükhöz"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tisztátalan lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:01.715582839Z",
+  "model": "glm-5.3"
+}

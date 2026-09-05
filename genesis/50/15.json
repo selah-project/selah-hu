@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "És látták Jószéf testvérei, hogy meghalt az ő atyjuk, és mondották: „Bárcsak gyűlölne minket Jószéf, és bizonyosan megbüntetné ⟨את⟩ rajtunk mindazt a rosszat, amit ⟨את⟩ vele tettünk.”",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "és látták"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvérei"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "az ő atyjuk"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondották"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bárcsak"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "gyűlölne minket"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "és visszafizetne"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bizonyosan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt a rosszat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "tettünk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "—"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:26.303799668Z",
+  "model": "glm-5.3"
+}

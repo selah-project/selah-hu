@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Jahve szavától lettek ⟨meg⟩ az egek, és az ő szájának leheletétől minden seregük.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "szavától"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "lettek ⟨meg⟩"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "és … leheletétől"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "az ő szájának"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "seregük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:58.656736179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Tiéd ⟨az⟩ erős kar, a hatalommal; erős a kezed, felemelkedik jobb kezed.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tiéd"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "kar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a hatalommal"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "hatalom"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "erős"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a kezed"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "felemelkedik"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jobb kezed"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:54.839758872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "De te, Izráel, az én szolgám, Jaakov (Jákob), akit kiválasztottalak, Avraham (Ábrahám) magva, az én szerettem —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "de te"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "az én szolgám"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "kiválasztottalak"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magva"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "az én szerettem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:00.710489422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 21:27",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És történt, mikor Aháv meghallotta ⟨את⟩ e szavakat, megszaggatta ruháit, és zsákot tett testére, és böjtölt, és zsákban aludt, és lassan járt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mikor meghallotta"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "szavakat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "megszaggatta"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és tett"
+    },
+    {
+      "surface": "שק",
+      "gloss": "zsákot"
+    },
+    {
+      "surface": "על",
+      "gloss": "erre"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "testére"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "és böjtölt"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "és aludt"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "zsákban"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "és járt"
+    },
+    {
+      "surface": "אט",
+      "gloss": "lassan"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:48.942375668Z",
+  "model": "glm-5.3"
+}

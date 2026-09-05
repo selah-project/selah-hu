@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és darabolja fel ⟨את⟩ annak darabjaira, és ⟨את⟩ annak fejét, és ⟨את⟩ annak kövérjét; és rendezze el a pap ⟨את⟩ azokat a fákra, amelyek a tűzön vannak, amely az oltáron van.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "és darabolja fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "darabjaira (az állatot)"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "darabjaira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak fejét"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "annak fejét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak kövérjét"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "annak kövérjét"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "és rendezze el"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "a fákra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "על",
+      "gloss": "…on"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "…on"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltáron"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:25.750441062Z",
+  "model": "glm-5.3"
+}

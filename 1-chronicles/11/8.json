@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És építette ⟨a⟩ várost köröskörül, a Millótól egészen ⟨a⟩ környékig; és Joáv életre keltette ⟨את⟩ a város többi részét.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "És építette"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨a⟩ várost"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "⟨a⟩ Milló"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "⟨a⟩ környékig"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "és Joáv"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "életre keltette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a város többi részét"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "többi részét"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨a⟩ városnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:58.104972663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És a király ezt mondta Amásának: Hívd össze nekem ⟨את⟩ Júda embereit három nap alatt, és te itt maradj meg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amásának"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "Hívd össze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Júda embereit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embereit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "és te"
+    },
+    {
+      "surface": "פה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "maradj meg"
+    }
+  ],
+  "timestamp": "2026-09-04T19:32:52.393471883Z",
+  "model": "glm-5.3"
+}

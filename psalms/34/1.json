@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Dávidé (Dávid zsoltára), amikor megváltoztatta ⟨את⟩ az érzelmét Avímelek (Abimelek) előtt, és az kiűzte őt, és elment.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "amikor megváltoztatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az érzelmét"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "az érzelmét"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avímelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "és kiűzte őt"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:37.228969809Z",
+  "model": "glm-5.3"
+}

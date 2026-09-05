@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Elküld Jahve ellened ⟨את⟩ az átkot, ⟨את⟩ a zűrzavart és ⟨את⟩ a szidást mindenben, ami kezedet nyújtod hozzá, amit teszel — míg meg nem semmisülsz és el nem pusztulsz gyorsan, gonosz cselekedeteid színe előtt, amelyekkel elhagytál engem.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Elküld"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az átkot"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "az átkot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a zűrzavart"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "a zűrzavart"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szidást"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "a szidást"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mindenben"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ami... nyújtod"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teszel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "meg nem semmisülsz"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és míg"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "el nem pusztulsz"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gyorsan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "cselekedeteid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyekkel"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "elhagytál engem"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:11.549233593Z",
+  "model": "glm-5.3"
+}

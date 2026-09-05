@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Vezeti az alázatosokat a jog ⟨benne⟩, és megtanítja az alázatosokat az ő útjára.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "Vezeti"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "az alázatosokat"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "a jog"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "és megtanítja"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "az alázatosokat"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "az ő útjára"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:42.547626789Z",
+  "model": "glm-5.3"
+}

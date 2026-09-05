@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És szenteld ⟨őt⟩, mert ⟨את⟩ a te Elohimod kenyerét ⟨ő⟩ mutatja be; szent legyen neked, mert szent vagyok én, Jahve, aki megszentellek titeket.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "És szenteld őt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te Elohimod kenyerét"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "mutatja be"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "megszentellek titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:40.344966562Z",
+  "model": "glm-5.3"
+}

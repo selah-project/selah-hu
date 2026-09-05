@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És kiáltottak Izráel fiai Jahvéhoz, mondván: Vétkeztünk ellened, mert elhagytuk ⟨את⟩ Elohimunkat, és szolgáltuk ⟨את⟩ a Baalokat.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "és kiáltottak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "vétkeztünk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "elhagytuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimunkat"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunkat"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "és szolgáltuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Baalokat"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "a Baalokat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:55:44.077927596Z",
+  "model": "glm-5.3"
+}

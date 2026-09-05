@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Nem örökké perlekedik, és nem mindörökké őrzi ⟨haragját⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "perlekedik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mindörökké"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "őrzi ⟨haragját⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:36.300546123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És kiáltott Moshe Jahvéhoz, mondván: Mit tegyek ezzel a néppel? Még egy kevés, és megköveznek!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "és kiáltott"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "tegyek"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "e néppel"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "egy kevés"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "és megköveznek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:52.629109077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 67,
+  "translation": "Megáld minket Elohim, és féljék ⟨את⟩ őt a föld összes határai",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Megáld minket"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "és féljék"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt — a föld összes határait jelöli ki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "határai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:17.967069512Z",
+  "model": "glm-5.3"
+}

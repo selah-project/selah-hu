@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És pusztasággá teszem ⟨את⟩ Széír hegyét, puszta földdé, és kiirtom belőle az átutazót és a hazatérőt.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "és teszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Széír hegyét"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyét"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Széír"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "pusztasággá"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "puszta földdé"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "és kiirtom"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átutazót"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "és hazatérőt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:12:43.197315667Z",
+  "model": "glm-5.3"
+}

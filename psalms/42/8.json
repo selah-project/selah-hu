@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Mélység a mélységet hívja zuhatagjaid hangjára; minden habod és hullámaid átmentek rajtam.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Mélység"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "mélységet"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "hívja"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "hangjára"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "zuhatagjaid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "habod"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "és hullámaid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rajtam"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "átmentek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:53.361797600Z",
+  "model": "glm-5.3"
+}

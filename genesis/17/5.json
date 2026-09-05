@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És nem hívják többé ⟨את⟩ nevedet Avrám, és lesz neved Avraham (Ábrahám), mert népek sokaságának atyjává tettelek.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És nem"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "hívják"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevedet"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nevedet"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrám"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neved"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אב",
+      "gloss": "atyjává"
+    },
+    {
+      "surface": "המון",
+      "gloss": "sokaságának"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népeknek"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "tettelek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:28:06.953500779Z",
+  "model": "glm-5.3"
+}

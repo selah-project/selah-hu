@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "hogy az én vétkemet kutatod, és az én bűnömet nyomozol?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תבקשׁ",
+      "gloss": "kutatod"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "az-én-vétkemet"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "és-az-én-bűnömet"
+    },
+    {
+      "surface": "תדרושׁ",
+      "gloss": "nyomozol"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:54.385158459Z",
+  "model": "glm-5.3"
+}

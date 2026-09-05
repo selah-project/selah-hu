@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Én lefeküdtem és aludtam, felébredtem, mert Jahve tart engem.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "lefeküdtem"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "és aludtam"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "felébredtem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "tart engem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:00.451019673Z",
+  "model": "glm-5.3"
+}

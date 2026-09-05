@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És az egész föld Selomo arcát kereste ⟨את⟩, hogy hallja ⟨את⟩ bölcsességét, amelyet Elohim adott az ő szívébe.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "kereste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selomo arcát"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcát"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hogy hallja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bölcsességét"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "bölcsességét"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "az ő szívébe"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:08.203793691Z",
+  "model": "glm-5.3"
+}

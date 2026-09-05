@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Megverem őket dögvésszel, és megfosztom őket ⟨az örökségtől⟩, és téged ⟨את⟩ nagy és hatalmas néppé teszek, hatalmasabbá mint az.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Megverem"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dögvésszel"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "és megfosztom őket"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "és teszlek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "téged…néppé"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "néppé"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "és hatalmas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mint az"
+    }
+  ],
+  "timestamp": "2026-09-04T17:34:28.454238419Z",
+  "model": "glm-5.3"
+}

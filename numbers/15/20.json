@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "A ti liszttetek elsőjéből lepényt emeljetek felajánlásként; mint a szérű felajánlását, úgy emeljétek fel ⟨את⟩ azt.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "elsőjéből"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "a ti liszttetek"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "lepényt"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "emeljetek"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "felajánlásként"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "mint a felajánlását"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "szérű"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "emeljétek fel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a lepényt)"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:29.373346983Z",
+  "model": "glm-5.3"
+}

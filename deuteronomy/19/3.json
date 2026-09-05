@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Készítsd el magadnak az utat, és háromfelé osszd ⟨את⟩ földednek határát, amelyet örökül ad neked Jahve, a te Elohimod, hogy oda menekülhessen minden gyilkos.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Készítsd el"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "az utat"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "és háromfelé osszd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "határát"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "határát"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "földednek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "örökül ad neked"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "menekülésre"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "gyilkos"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:23.859830485Z",
+  "model": "glm-5.3"
+}

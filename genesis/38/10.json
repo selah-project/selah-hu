@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És gonosznak látszott Jahve szemeiben, amit tett, és meghalt ő is.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "És gonosznak látszott"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemeiben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ő"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:08.985595098Z",
+  "model": "glm-5.3"
+}

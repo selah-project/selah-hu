@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És felment Moshe a hegyre, és befedte a felhő ⟨את⟩ a hegyet.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "és felment"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arra"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegyre"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "és befedte"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "a felhő"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hegyet"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegyet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:32.656124295Z",
+  "model": "glm-5.3"
+}

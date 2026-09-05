@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "A ragyogásból, ami ⟨előtte⟩ volt, elvonultak ⟨az⟩ ő felhői — jégeső és parázs-lángok.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "a ragyogásból"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "⟨előtte⟩"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "felhői"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "elvonultak"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "jégeső"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "és parázs-lángok"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:16.788592233Z",
+  "model": "glm-5.3"
+}

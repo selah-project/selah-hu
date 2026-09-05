@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Ne támadjatok rájuk, mert nem adok nektek földjükből még egy láb talpának tapodásányit sem, mert birtokul adtam Esávnak ⟨את⟩ a Széír hegyét.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "támadjatok"
+    },
+    {
+      "surface": "בם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "földjükből"
+    },
+    {
+      "surface": "עד",
+      "gloss": "még"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tapodásányit"
+    },
+    {
+      "surface": "כף",
+      "gloss": "talpának"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "láb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "birtokul"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esávnak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Széír hegyét"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyét"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Széír"
+    }
+  ],
+  "timestamp": "2026-09-04T17:50:56.267964042Z",
+  "model": "glm-5.3"
+}

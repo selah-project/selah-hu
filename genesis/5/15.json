@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És élt Mahalalel öt esztendőt és hatvan esztendőt, és nemzette ⟨את⟩ Jered-et (Járedet).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "és hatvan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jered-et"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered-et (Járedet)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:42.083180048Z",
+  "model": "glm-5.3"
+}

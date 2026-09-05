@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Attai nemzette ⟨את⟩ Natánt, és Natán nemzette ⟨את⟩ Zábádot.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "és Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natánt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natánt"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és Natán"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zábádot"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zábádot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:44.093287845Z",
+  "model": "glm-5.3"
+}

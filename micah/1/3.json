@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert íme, Jahve kijön az ő helyéből, és leszáll, és rátapod a föld magaslataira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kijön"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "az ő helyéből"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "és leszáll"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "és rátapod"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "magaslataira"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:27:19.806899046Z",
+  "model": "glm-5.3"
+}

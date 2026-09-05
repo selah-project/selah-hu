@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "Csak pára ⟨az⟩ emberek fiai, hazugság ⟨a⟩ férfiak fiai; mérlegen — ha felmennek, ők együtt könnyebbek a páránál.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pára"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "hazugság"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a fiai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfiak"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "mérlegen"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ha felmennek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "a páránál"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:27.014013357Z",
+  "model": "glm-5.3"
+}

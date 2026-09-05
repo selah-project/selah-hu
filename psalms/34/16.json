@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Jahve szemei ⟨az⟩ igazak felé ⟨néznek⟩, és fülei az ő kiáltásukhoz ⟨fordulnak⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "szemei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "⟨az⟩ igazak"
+    },
+    {
+      "surface": "ו אזניו",
+      "gloss": "és fülei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kiáltásukhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:28.697845168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Atyáink Micrajimban (Egyiptomban) nem értették csodáidat, nem emlékeztek ⟨את⟩ heszedjeid bőségére, és lázadtak a tengeren, a Szuf-tengernél.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Atyáink"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "értették"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "csodáidat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "emlékeztek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heszedjeid bőségére"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bőségére"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "heszedjeid"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "és lázadtak"
+    },
+    {
+      "surface": "על",
+      "gloss": "a tengeren"
+    },
+    {
+      "surface": "ים",
+      "gloss": ""
+    },
+    {
+      "surface": "בים",
+      "gloss": "a Szuf-tengernél"
+    },
+    {
+      "surface": "סוף",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:04.122438977Z",
+  "model": "glm-5.3"
+}

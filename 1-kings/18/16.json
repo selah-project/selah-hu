@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És elment Obádjáhu Ahávval szembe, és megjelentette neki; és Aháv elment Élijáhival szembe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obádjáhu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "szembe"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháv"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és megjelentette"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháv"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "szembe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Élijáhu"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:03.681747478Z",
+  "model": "glm-5.3"
+}

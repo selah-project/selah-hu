@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És birtokba vették ⟨את⟩ az emoriak egész határát, az Arnóntól a Jabbókig, és a pusztától a Jardánig.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "és birtokba vették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az emoriak egész határát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "határát"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emoriak"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "az Arnóntól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és egészen"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "a Jabbókig"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és attól"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "a pusztától"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és egészen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardánig"
+    }
+  ],
+  "timestamp": "2026-09-04T18:55:45.160523055Z",
+  "model": "glm-5.3"
+}

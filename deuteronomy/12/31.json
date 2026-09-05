@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ne tegyél így Jahve, a te Elohimod felé, mert minden utálatosságot, amelyet Jahve gyűlöl, elkövettek az isteneiknek, mert még ⟨את⟩ fiaikat és ⟨את⟩ leányaikat is tűzben elégetik az isteneiknek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tegyél"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve felé"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "utálatosságot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "gyűlöl"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "elkövettek"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "az isteneiknek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גם",
+      "gloss": "még"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaikat"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiaikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "leányaikat"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "leányaikat"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "tűzben elégetik"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "az isteneiknek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:39.174309177Z",
+  "model": "glm-5.3"
+}

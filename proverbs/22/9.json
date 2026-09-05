@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Jó szemű ⟨az⟩ megáldatik, mert ad kenyeréből a szegénynek.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Jó"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szemű"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "megáldatik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "kenyeréből"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "a szegénynek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:43.866944352Z",
+  "model": "glm-5.3"
+}

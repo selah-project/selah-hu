@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 14:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És ⟨את⟩ a gyilkosok fiait nem ölette meg, ahogyan írva van Moshe (Mózes) Tórájának könyvében, amelyet megparancsolt Jahve, mondván: Ne ölettessenek meg atyák fiakért, és fiak ne ölettessenek meg atyákért, hanem mindenki a maga bűnéért haljon meg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a gyilkosok fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "a gyilkosok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ölette meg"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ahogyan írva van"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "könyvében"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tórájának"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ölettessenek meg"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "atyák"
+    },
+    {
+      "surface": "על",
+      "gloss": "fiakért"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiak"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "és fiak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ölettessenek meg"
+    },
+    {
+      "surface": "על",
+      "gloss": "atyákért"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "atyák"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨csak⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "a maga bűnéért"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "haljon meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:31.274745746Z",
+  "model": "glm-5.3"
+}

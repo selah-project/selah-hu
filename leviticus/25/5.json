@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "⟨את⟩ aratásod önjáró utótermését ne aratnod, és ⟨את⟩ elhagyott szőlőd fürtjeit ne szedned: szabbát-nyugalom éve lesz a földnek.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "önjáró utótermését"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "önjáró utótermését"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "aratásodnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "aratnod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fürtjeit"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "fürtjeit"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "elhagyott szőlődnek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "szedned"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "éve"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "szabbát-nyugalomnak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földnek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:04.078931147Z",
+  "model": "glm-5.3"
+}

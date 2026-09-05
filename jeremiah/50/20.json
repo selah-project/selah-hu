@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Azokban a napokban és abban az időben — Jahve szavával — keresni fogják ⟨את⟩ Izrael bűnét, és nem lesz meg, és ⟨את⟩ Jehúda (Júda) vétkeit, és nem találják meg, mert megbocsátok azoknak, akiket meghagyok.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "azokban a napokban"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "azok"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "és abban az időben"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "abban"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Jahve szavával"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "keresni fogják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael bűnét"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bűnét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "és nem lesz meg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jehúda vétkeit"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "vétkeit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "találják meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "megbocsátok"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "azoknak, akiket"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "meghagyok"
+    }
+  ],
+  "timestamp": "2026-09-04T20:54:42.352197837Z",
+  "model": "glm-5.3"
+}

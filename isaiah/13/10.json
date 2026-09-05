@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Mert az ég csillagai és csillagképei nem fénylenek, elsötétül a nap felkeltében, és a hold nem ragyogtatja fényét.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "csillagai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "csillagképei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "fénylenek"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "fényüket"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "elsötétül"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "felkeltében"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "a hold"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "ragyogtatja"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "fényét"
+    }
+  ],
+  "timestamp": "2026-09-04T20:09:40.101719647Z",
+  "model": "glm-5.3"
+}

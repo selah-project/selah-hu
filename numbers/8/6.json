@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Vedd ⟨את⟩ a lévitákat Izrael fiai közül, és tisztítsd meg ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Vedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lévitákat"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a lévitákat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "közül"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "és tisztítsd meg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:54.174811436Z",
+  "model": "glm-5.3"
+}

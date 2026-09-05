@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Előtte hajtsanak térdet a pusztai lakók, és ellenségei nyalják a port.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "hajtsanak térdet"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "pusztai lakók"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "és ellenségei"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "port"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "nyalják"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:16.485499805Z",
+  "model": "glm-5.3"
+}

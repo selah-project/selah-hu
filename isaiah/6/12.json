@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És messze taszítja Jahve ⟨את⟩ az embert, és nagy lesz az elhagyatottság a föld közepén.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "És messze taszítja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "és nagy lesz"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "az elhagyatottság"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepén"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:25.568576898Z",
+  "model": "glm-5.3"
+}

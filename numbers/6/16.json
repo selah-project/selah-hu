@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És a pap eléhozza azokat Jahve elé, és megteszi ⟨את⟩ az ő bűnáldozatát és ⟨את⟩ az ő égőáldozatát.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "És eléhozza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és megteszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő bűnáldozatát"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "az ő bűnáldozatát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő égőáldozatát"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "az ő égőáldozatát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:29:12.299456190Z",
+  "model": "glm-5.3"
+}

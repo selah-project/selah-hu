@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megparancsolta Jehósua (Józsué) ⟨את⟩ a nép felügyelőinek, mondván:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehósua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép felügyelőinek"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "a felügyelői"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T18:35:10.112254657Z",
+  "model": "glm-5.3"
+}

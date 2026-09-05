@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "Félelmetes dolgokat cselekedtél, ⟨amiket⟩ nem vártunk — alászálltál, orcádtól a hegyek megrendültek.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "amikor cselekedtél"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "félelmeteseket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "vártuk"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "alászálltál"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "orcádtól"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "megrendültek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:11.876802496Z",
+  "model": "glm-5.3"
+}

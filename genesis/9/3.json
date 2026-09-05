@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Minden mozgó állat, amely él — nektek lesz étellé; mint a zöld fűvel, úgy adtam nektek ⟨את⟩ mindent.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mozgó állat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "él"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "étellé"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "mint a zöddel"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "fűvel"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:17.168447021Z",
+  "model": "glm-5.3"
+}

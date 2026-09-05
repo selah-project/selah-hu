@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "és életben tartotok ⟨את⟩ az apámat és ⟨את⟩ az anyámat és ⟨את⟩ a fivéreimet és ⟨את⟩ a nővéreimet és ⟨את⟩ mindazt, ami az övék, és megmentitek ⟨את⟩ a lelkünket a haláltól.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "és életben tartotok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az apámat"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "az apámat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az anyámat"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "az anyámat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fivéreimet"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "a fivéreimet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nővéreimet"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "a nővéreimet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "להם",
+      "gloss": "az övék"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "és megmentitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lelkünket"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "a lelkünket"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "a haláltól"
+    }
+  ],
+  "timestamp": "2026-09-04T18:35:39.298133614Z",
+  "model": "glm-5.3"
+}

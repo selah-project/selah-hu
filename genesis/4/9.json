@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondta Jahve Káinnak: Hol ⟨van⟩ Hevel (Ábel), a testvéred? És mondta ⟨ő⟩: Nem tudom; őrzője vagyok-e testvéremnek én?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Káin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Hol"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "őrzője"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvéremnek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:30.901572991Z",
+  "model": "glm-5.3"
+}

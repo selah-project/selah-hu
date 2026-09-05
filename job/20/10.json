@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 20:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Fiai kedvére tesznek a szegényeknek, és kezei visszaadják ⟨את⟩ vagyonát.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "kedvére tesznek"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "szegényeknek"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "és kezei"
+    },
+    {
+      "surface": "תשבנה",
+      "gloss": "visszaadják"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "vagyonát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:22:30.099761802Z",
+  "model": "glm-5.3"
+}

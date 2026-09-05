@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És felelt Nával ⟨את⟩ Dávid szolgáit, és mondta: Ki ⟨az⟩ Dávid, és ki Jisáj (Jesse) fia? Ma megsokasodtak a szolgák, akik kitörnek, ki-ki az ő ura színe elől.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "és felelt"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nával"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávid szolgáit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgáit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisáj"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "megszokasodtak"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgák"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "akik kitörnek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ki-ki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "az ő ura"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:43.677601564Z",
+  "model": "glm-5.3"
+}

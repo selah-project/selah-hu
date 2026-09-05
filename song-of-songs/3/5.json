@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Esküt vettem rátok, Jerusálajim (Jeruzsálem) leányai, az őzségek vagy a mező szarvasünői által, hogy ne ébresszétek és ne gerjesszétek fel ⟨את⟩ a szerelmet, míg ⟨ő⟩ nem kívánja.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "esküt vettem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ rátok",
+      "marks": "Jerusálajim leányai"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leányai"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "az őzségek"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "szarvasünői"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mező"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ne ébresszétek"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és hogy"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "ne gerjesszétek fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szerelem"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "a szerelem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "nem kívánja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:30:23.841154284Z",
+  "model": "glm-5.3"
+}

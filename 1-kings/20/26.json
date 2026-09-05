@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És történt az év fordulóján, hogy Ben-Hadad számba vette ⟨את⟩ Arámot, és felvonult Afekába, hadakozni a Jisraéllel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "fordulóján"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "az év"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "számba vette"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arámot"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arámot"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "és felvonult"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afekába"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hada­kozni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vele szemben"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Jisraéllel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:10.216251745Z",
+  "model": "glm-5.3"
+}

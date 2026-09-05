@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Te megnyitottad a forrást és a patakot, Te kiszárítottad az erős folyamokat.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "megnyitottad"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "a forrást"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "és a patakot"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "kiszárítottad"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "folyamokat"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "az erős"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:44.384365397Z",
+  "model": "glm-5.3"
+}

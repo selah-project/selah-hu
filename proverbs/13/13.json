@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Aki megveti a szót, megkötözik ⟨érte⟩, és aki féli a micvét, ⟨ő⟩ megjutalmaztatik.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "megveti"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a szót"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "megkötözik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "érte"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és féli"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "a micvét"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "megjutalmaztatik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:14.683030458Z",
+  "model": "glm-5.3"
+}

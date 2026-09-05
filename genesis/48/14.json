@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 48:14",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "És kinyújtotta Izráel ⟨את⟩ jobb kezét, és rátette Efrájm fejére — ⟨ő⟩ a fiatalabb —, és ⟨את⟩ bal kezét Menassé fejére; okosan keresztezte kezeit, mert Menassé volt az elsőszülött.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És kinyújtotta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jobb kezét"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "jobb kezét"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "és rátette"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejére"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájm"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "— ⟨ő⟩"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "a fiatalabb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "bal kezét"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "bal kezét"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejére"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menassé"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "okosan keresztezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezeit"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kezeit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menassé"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "az elsőszülött"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:30.624320469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Az ember a párához hasonló, napjai mint az elmulató árnyék.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Az ember"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "a párához"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "hasonló"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "napjai"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "mint árnyék"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "elmulató"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:22.935578079Z",
+  "model": "glm-5.3"
+}

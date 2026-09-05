@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És a föld pusztaság volt és üresség, és sötétség ⟨a⟩ mélység arcán, és Elohim lelke lebegett a vizek arcán.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "És a föld"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "pusztaság"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "és üresség"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "és sötétség"
+    },
+    {
+      "surface": "על",
+      "gloss": "ott ⟨a⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcán"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "mélység"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "és … lelke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "lebegett"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcán"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:09.799781941Z",
+  "model": "glm-5.3"
+}

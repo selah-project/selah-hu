@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Nővéred nemzettségét — apád leányát vagy anyád leányát, otthon születettet vagy kívül születettet — ne fedd fel annak nemzettségét.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nemzettségét"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "nővéred"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leányát"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apád"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leányát"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anyád"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "születettet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "otthon"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "születettet"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fedd fel"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "nemzettségét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:46.554089946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Békét vártunk, és nincs jó; gyógyulás idejét vártuk — és íme, rettentés!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "vártunk"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "békét"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "idejét"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "gyógyulásnak"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "rettegés"
+    }
+  ],
+  "timestamp": "2026-09-04T20:35:49.218783406Z",
+  "model": "glm-5.3"
+}

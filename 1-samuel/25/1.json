@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És meghalt Shemuel (Sámuel), és összegyűlt egész Jiszráél (Izrael), és gyászt ültek ⟨érte⟩, és eltemették őt a házában, Rámában; és felkelt David (Dávid), és lement a Párán pusztájába.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "És meghalt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "és összegyűlt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "és gyászt ültek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨érte⟩"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "és eltemették őt"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "a házában"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Rámában"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "és lement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztájába"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Párán"
+    }
+  ],
+  "timestamp": "2026-09-04T19:18:29.875047634Z",
+  "model": "glm-5.3"
+}

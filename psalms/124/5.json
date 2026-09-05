@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 124,
+  "translation": "Akkor átzúdult volna lelkünk felett a víz, az öntelt ár,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Akkor"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átzúdult volna"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "lelkünk"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a víz"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "az öntelt (ár)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:01.088488426Z",
+  "model": "glm-5.3"
+}

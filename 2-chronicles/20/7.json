@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Nem te vagy-é a mi Elohimunk? ⟨Te⟩ kiűzted ⟨את⟩ e föld lakóit néped, Izráel színe elől, és adtad azt Avraham (Ábrahám) magvának, aki téged szeret, örökre.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nem-é"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunk"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "kiűzted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e föld lakóit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakóit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "és adtad"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "magvának"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "aki téged szeret"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T23:16:55.561099662Z",
+  "model": "glm-5.3"
+}

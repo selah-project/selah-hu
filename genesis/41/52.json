@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És ⟨את⟩ a második nevét Efráimnak hívta, mert gyümölcsösködött engem Elohim az én nyomorúságom földjén.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a második nevét"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hívta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efráimnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "gyümölcsösködött engem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földjén"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "az én nyomorúságomnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:51.239345847Z",
+  "model": "glm-5.3"
+}

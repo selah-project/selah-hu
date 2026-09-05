@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Hálát adok ⟨neked⟩ nagy gyülekezetben, hatalmas nép között dicsérlek téged.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "hálát adok ⟨neked⟩"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "gyülekezetben"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "dicsérlek téged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:55.151152118Z",
+  "model": "glm-5.3"
+}

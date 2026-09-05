@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Mindannyian egy embernek a fiai vagyunk ⟨mi⟩; becsületesek ⟨vagyunk⟩ mi; nem voltak a te szolgáid kémek.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Mindannyian"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy embernek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "becsületesek"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáid"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "kémek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:54.775177694Z",
+  "model": "glm-5.3"
+}

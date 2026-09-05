@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És ⟨az⟩ ő keze alatt Jehochánan (Jóhánán), a fejedelem, és vele kétszáznyolcvanezer.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "És ⟨az⟩ … alatt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ő keze"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Jehochánan"
+    },
+    {
+      "surface": "השר",
+      "gloss": "a fejedelem"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "és vele"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kétszáz"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "és nyolcvan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    }
+  ],
+  "timestamp": "2026-09-05T00:00:56.567695852Z",
+  "model": "glm-5.3"
+}

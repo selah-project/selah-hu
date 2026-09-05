@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Szeretem, mert meghallgatja Jahve ⟨את⟩ hangomat, könyörgésemet.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Szeretem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "meghallgatja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hangomat"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hangomat"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "könyörgésemet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:42.013633983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És háború volt Ászá és Básá, Izrael királya között, minden napjukon.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "És háború"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Ászá"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Básá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "napjukon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:09.754772443Z",
+  "model": "glm-5.3"
+}

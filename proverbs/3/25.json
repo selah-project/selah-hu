@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ne félj a hirtelen rémülettől, és a bűnösök romlásától, amikor eljön.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "félj"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "rémülettől"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "hirtelen"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "és a romlásától"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a bűnösök"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "eljön"
+    }
+  ],
+  "timestamp": "2026-09-04T22:08:03.013488038Z",
+  "model": "glm-5.3"
+}

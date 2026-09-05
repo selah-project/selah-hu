@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És megmondatott Saúlnak (Saul), hogy Dávid Keilába jött; és mondta Saúl: „Kiszolgáltatta Elohim ⟨את⟩ őt a kezembe, mert bezárattatott, mivel városba jött be, amely kapukkal és retesszel ⟨bírtatik⟩.”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "És megmondatott"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saúlnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilába"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "Kiszolgáltatta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt (Dávid)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "a kezembe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "bezárattatott"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "jöve be"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "városba"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "kapukkal"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "és retesszel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:06.483137461Z",
+  "model": "glm-5.3"
+}

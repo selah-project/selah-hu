@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És bementek a házba, ő pedig feküdt az ő ágyán a hálószobájában, és megütötték, és megölték őt, és levették ⟨את⟩ az ő fejét, és vették ⟨את⟩ az ő fejét, és elmentek az Arava útján egész éjszaka.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "és bementek"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házba"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ő pedig"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "feküdt"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "az ő ágyán"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "a szobában"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "az ő fekvőhelyé"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "és megütötték"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "és megölték őt"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "és levették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő fejét"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "az ő fejét"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "és vették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő fejét"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "az ő fejét"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "az Arava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "éjszaka"
+    }
+  ],
+  "timestamp": "2026-09-04T19:24:54.297111796Z",
+  "model": "glm-5.3"
+}

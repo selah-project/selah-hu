@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Fogadalmaimat Jahvénak megfizetem, igen, most az ő egész népe színe előtt.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Fogadalmaimat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "megfizetem"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "נא",
+      "gloss": "igen, most"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népe"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:01.716505654Z",
+  "model": "glm-5.3"
+}

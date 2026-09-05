@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És tegye a kezét a bak fejére, és vágja le ⟨את⟩ őt azon a helyen, ahol az égőáldozatot vágják le Jahve színe előtt; vétekáldozat az.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "és tegye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejére"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "a bak"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "és vágja le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "azon a helyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "vágják le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "vétekáldozat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:36.882163757Z",
+  "model": "glm-5.3"
+}

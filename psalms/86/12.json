@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Hálát adok neked, Adonáj, Elohimom, egész szívemből, és dicsőítem nevedet mindörökké.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hálát adok neked"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "szívemből"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "és dicsőítem"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nevedet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mindörökké"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:02.361591362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És most: atyám nehéz igát rakott rátok, én pedig hozzáteszek a ti igátokhoz; atyám ostorokkal fenyített ⟨את⟩ titeket, én pedig skorpiókkal fenyítelek ⟨את⟩ titeket.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "rakott"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "rátok"
+    },
+    {
+      "surface": "על",
+      "gloss": "igát"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nehéz"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "hozzáteszek"
+    },
+    {
+      "surface": "על",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ti igátokhoz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "fenyített"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "ostorokkal fenyített titeket"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ostorokkal"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "fenyítelek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "skorpiókkal fenyítelek titeket"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "skorpiókkal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:53.667437878Z",
+  "model": "glm-5.3"
+}

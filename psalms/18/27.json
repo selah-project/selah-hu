@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "A csavarttal csavarosan bánsz, és a görbével görbén vetsződsz.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "vmivel"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "csavarttal"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "csavarosan bánsz"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és vmivel"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "görbével"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "görbén vetsződsz"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:52.683265643Z",
+  "model": "glm-5.3"
+}

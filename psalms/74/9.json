@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Jeinket nem láttuk, nincs többé próféta, és nincs ⟨את⟩ velünk, aki tudja, meddig.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "jeinket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "láttunk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "próféta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "velünk"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:17.882805768Z",
+  "model": "glm-5.3"
+}

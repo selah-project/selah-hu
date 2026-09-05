@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Őrizd ⟨את⟩ az Ávív hónapját, és végezz páskát Jahvénak, a te Elohimodnak, mert az Ávív hónapjában hozott ki téged Jahve, a te Elohimod, Micrajimból (Egyiptomból), éjjel.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Őrizd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Ávív hónapját"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "hónapját"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "az Ávív"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és végezz"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "páskát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "hónapjában"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "az Ávív"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "hozott ki téged"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból (Egyiptomból)"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:07.529732076Z",
+  "model": "glm-5.3"
+}

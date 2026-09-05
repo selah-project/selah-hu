@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Ne hajlítsd szívemet rossz dologra, gonosz cselekedetek művelésére ⟨את⟩ emberekkel, az álnokság művelőivel, és ne egyem gyönyörűségeikből.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "hajítsd"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemet"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dologra"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "művelésére"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "cselekedetek"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emberekkel"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "emberekkel"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "művelőivel"
+    },
+    {
+      "surface": "און",
+      "gloss": "álnokság"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "egyem"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "gyönyörűségeikből"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:24.156356462Z",
+  "model": "glm-5.3"
+}

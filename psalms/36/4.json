@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Szája szavai gonoszság és csalás; megszűnt bölcsességre és jót tenni.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "szavai"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "Szája"
+    },
+    {
+      "surface": "און",
+      "gloss": "gonoszság"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "és csalás"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "megszűnt"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "bölcsességre"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "és jót tenni"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:15.195590813Z",
+  "model": "glm-5.3"
+}

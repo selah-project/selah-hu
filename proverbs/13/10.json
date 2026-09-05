@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Csak gőgből támad viszály, de a tanácskozókkal ⟨את⟩ ⟨van⟩ ⟨a⟩ bölcsesség.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "gőgből"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "támad"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "viszály"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a tanácskozók"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "a tanácskozók"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcsesség"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:20.627687051Z",
+  "model": "glm-5.3"
+}

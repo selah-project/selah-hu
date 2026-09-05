@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Elkáná az ő fia, és Evjászáf az ő fia, és Asszír az ő fia.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkáná"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "és Evjászáf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "és Asszír"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:16.042046394Z",
+  "model": "glm-5.3"
+}

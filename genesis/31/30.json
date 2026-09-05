@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És most — elmenve elmentél, mert sóvárogva sóvárogtál atyád házához; miért loptad el ⟨את⟩ az én isteneimet?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "elmenve"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "elmentél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "sóvárogva"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "sóvárogtál"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "házhoz"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "loptad el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az én isteneimet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "isteneimet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:40.020932277Z",
+  "model": "glm-5.3"
+}

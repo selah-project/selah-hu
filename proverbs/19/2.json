@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Az is, hogy ⟨van⟩ lélek tudás nélkül, nem jó, és aki lábaival siet, vétkezik.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "az is"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tudás nélkül"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tudás"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "és aki siet"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "lábaival"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "vétkezik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:55.607403343Z",
+  "model": "glm-5.3"
+}

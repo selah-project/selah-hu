@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Áldoztak dámonoknak, nem Eloahnak, isteneknek, amelyeket nem ismertek — újak, amelyek közeli jöttek, amelyeket atyáitok nem féltek.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "áldoztak"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "dámonoknak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloahnak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isteneknek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ismerték ⟨azokat⟩"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "újak"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "közelből"
+    },
+    {
+      "surface": "באו",
+      "gloss": "jöttek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "félték ⟨azokat⟩"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atyáitok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:40.783604301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 123,
+  "translation": "Bőségesen betelt vele a mi lelkünk: a gúnnyal, ⟨amelyet⟩ a nyugalomban élőktől ⟨szenvedtünk⟩, és a megvetéssel a gőgösöktől.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "bőségesen"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "betelt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vele"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "a mi lelkünk"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "a gúnnyal"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "a nyugalomban élőké"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "a megvetéssel"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "a gőgösökét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:19.125120219Z",
+  "model": "glm-5.3"
+}

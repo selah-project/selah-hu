@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Nincs épség testemben haragod miatt, nincs békesség csontjaimban vétem miatt.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nincs"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "épség"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "testemben"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "haragod"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békesség"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "csontjaimban"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétem miatt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:52.692753085Z",
+  "model": "glm-5.3"
+}

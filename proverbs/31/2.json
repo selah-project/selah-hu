@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Mi legyen, fiam? És mi, az én méhem fia? És mi, az én fogadalmaim fia?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mi legyen,"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "És mi,"
+    },
+    {
+      "surface": "בר",
+      "gloss": "fia"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "az én méhemnek"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "És mi,"
+    },
+    {
+      "surface": "בר",
+      "gloss": "fia"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "az én fogadalmaimnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:43.669229556Z",
+  "model": "glm-5.3"
+}

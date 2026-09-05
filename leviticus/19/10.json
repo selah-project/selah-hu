@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És szőlőskertedet ne túrd végig, és szőlőskerted lehullott szemeit ne szedegesd; a szegénynek és a jövevénynek hagyd meg ⟨את⟩ azokat: én vagyok Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "és szőlőskertedet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "túrd végig"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "és a lehullott szemeit"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "szőlőskertednek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "szedegesd"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "a szegénynek"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "és a jövevénynek"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hagyd meg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:10.072508713Z",
+  "model": "glm-5.3"
+}

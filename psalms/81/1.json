@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "A karnagynak, a gittitra, Aszáf (Asáf) zsoltára",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "a karnagynak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sima"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "a gittitra"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Aszáfnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:39.677417843Z",
+  "model": "glm-5.3"
+}

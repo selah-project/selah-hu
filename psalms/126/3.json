@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 126,
+  "translation": "Nagy dolgokat vitt végbe Jahve velünk; ezért voltunk örvendezők.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Nagy dolgokat vitt végbe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "cselekedni"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "voltunk"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "örvendők"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:08.892165208Z",
+  "model": "glm-5.3"
+}

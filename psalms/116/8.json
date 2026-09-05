@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Mert kiszabadítottad lelkemet a halálból, ⟨את⟩ szememet a könnyből, ⟨את⟩ lábomat a botlástól.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "kiszabadítottad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "a halálból"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szememet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szememet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a ...ből"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "könny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lábomat"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lábomat"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "botlástól"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:47.645828440Z",
+  "model": "glm-5.3"
+}

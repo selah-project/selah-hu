@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Kérdezd meg ⟨את⟩ a te ifjaidat, és megmondják neked; és találjanak az ifjak kegyelmet a szemedben, mert jó napon jöttünk; adj kérlek ⟨את⟩ azt, amit a kezed talál, a te szolgáidnak és a te fiadnak, Dávidnak.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Kérdezd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te ifjaidat"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "a te ifjaidat"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "és megmondják"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "és találjanak"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "az ifjak"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kegyelmet"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a szemedben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jöttünk"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "adj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit a kezed talál"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "a kezed talál"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a kezed"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "a te szolgáidnak"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "és a te fiadnak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:18:51.593009235Z",
+  "model": "glm-5.3"
+}

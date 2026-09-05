@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ki a piacon át, a sarka mellett haladva, az ő háza felé vezető úton lépdelt.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "haladva"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "a piacon át"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "a sarka"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "házához"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "lépdelt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:09:05.603812453Z",
+  "model": "glm-5.3"
+}

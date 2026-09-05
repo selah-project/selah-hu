@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És ⟨את⟩ a parázstálakat és ⟨את⟩ a hintőtálakat — amelyek aranyból ⟨valók⟩, arany, és amelyek ezüstből, ezüst — elvitte a mészárosok főnöke.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a parázstálakat"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "a parázstálakat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hintőtálakat"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "a hintőtálakat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyból"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amelyek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüstből"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "elvitte"
+    },
+    {
+      "surface": "רב",
+      "gloss": "főnöke"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "a mészárosok"
+    }
+  ],
+  "timestamp": "2026-09-04T20:05:21.480967050Z",
+  "model": "glm-5.3"
+}

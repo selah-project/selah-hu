@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 10:14",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És beszélt hozzájuk a fiatalok tanácsa szerint, mondván: Az én atyám megnehezítette ⟨את⟩ a ti igatokat, én pedig hozzáteszek ahhoz; atyám ostorokkal fenyített ⟨את⟩ titeket, én pedig skorpiókkal.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És beszélt"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "tanácsa szerint"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "a fiatalok"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "אכביד",
+      "gloss": "megnehezítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ti igatokat"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "a ti igatokat"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "hozzáteszek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ahhoz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "fenyített"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ostorokkal"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "skorpiókkal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:59:14.657248586Z",
+  "model": "glm-5.3"
+}

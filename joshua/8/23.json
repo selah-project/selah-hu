@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ⟨את⟩ Ai királyát elevenen fogták el, és odavitték ⟨את⟩ őt Jehósuához.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "Ai királyát"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "fogták el"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elevenen"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "és odavitték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehósua"
+    }
+  ],
+  "timestamp": "2026-09-04T18:39:15.935804102Z",
+  "model": "glm-5.3"
+}

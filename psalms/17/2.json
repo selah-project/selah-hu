@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Színed elől jöjjön ki ítéletem, szemeid lássák ⟨az⟩ egyenest.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "színed elől"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ítéletem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jöjjön ki"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "szemeid"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "lássák"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "egyenest"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:13.773744054Z",
+  "model": "glm-5.3"
+}

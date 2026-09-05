@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És harcolt Jóáb (Jóáb) Rabát ellen, az ammoniak fiai ⟨ellen⟩, és elfoglalta ⟨את⟩ a királyi várost.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "és harcolt"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóáb"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabát ellen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ammoniak"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "és elfoglalta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyi várost"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "a királyi"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:13.055266600Z",
+  "model": "glm-5.3"
+}

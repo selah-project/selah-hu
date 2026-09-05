@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Ez a nap, amelyet Jahve alkotott; örvendezzünk és vigadjunk benne!",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alkotott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "örvendezzünk"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "és vigadjunk"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:08.838437649Z",
+  "model": "glm-5.3"
+}

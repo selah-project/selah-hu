@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 82,
+  "translation": "Zsoltár Asafnak (Ászáf). Elohim áll El gyülekezetében, istenek közepén ítélkezik.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Zsoltár"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafnak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "áll"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "gyülekezetében"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepén"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "istenek"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ítélkezik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:21.291791073Z",
+  "model": "glm-5.3"
+}

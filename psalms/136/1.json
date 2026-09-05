@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "Adjatok hálát Jahvénak, mert jó, mert örökre ⟨van⟩ a heszedje.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Adjatok hálát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:45.417719108Z",
+  "model": "glm-5.3"
+}

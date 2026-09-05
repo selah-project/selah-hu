@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És történt, amint hallotta a király ⟨את⟩ a Tora szavait, megszaggatta ⟨את⟩ ruháit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "amint hallotta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Tora szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a Torának"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "megszaggatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    }
+  ],
+  "timestamp": "2026-09-04T23:23:54.327378768Z",
+  "model": "glm-5.3"
+}

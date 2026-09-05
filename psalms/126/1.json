@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 126,
+  "translation": "Ének a felemelkedésekről. Amikor Jahve visszahozta ⟨את⟩ Cijon fogságának visszatértét, olyanok voltunk, mint az ábrándozók.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ének"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a felemelkedésekről"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "visszahozáskor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cijon fogságának visszatértét"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "fogságának visszatértét"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "voltunk"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "mint az ábrándozók"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:08.891582545Z",
+  "model": "glm-5.3"
+}

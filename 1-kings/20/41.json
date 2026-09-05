@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És sietve eltávolította ⟨את⟩ a hamut a szemeiről, és felismerte ⟨את⟩ őt Jiszráél királya, hogy a próféták közül való ő.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "és sietve"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "eltávolította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hamut"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "a hamu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "szemeiről"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "és felismerte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt (a prófétát)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "a próféták"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:41.472775917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 61,
+  "translation": "Mert oltalom voltál nekem, erős torony az ellenség elől.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היית",
+      "gloss": "voltál"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "oltalom"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "torony"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erős"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:06.166624594Z",
+  "model": "glm-5.3"
+}

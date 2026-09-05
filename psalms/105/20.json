@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Küldött ⟨a⟩ király, és feloldotta őt, ⟨a⟩ népek uralkodója, és kiszabadította őt.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Küldött"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "és feloldotta őt"
+    },
+    {
+      "surface": "משל",
+      "gloss": "uralkodója"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "és kiszabadította őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:01.909031475Z",
+  "model": "glm-5.3"
+}

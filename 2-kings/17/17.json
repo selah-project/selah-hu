@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Átvitték ⟨את⟩ fiaikat és ⟨את⟩ leányaikat a tűzön, jósoltak jóslatokkal, varázsoltak, és eladták magukat a rossz cselevésére Jahve szemeiben, hogy ingereljék őt.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "Átvitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaikat"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiaikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "leányaikat"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "leányaikat"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a tűzön"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "jósoltak"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "jóslatokkal"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "varázsoltak"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "eladták magukat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "cselevésére"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a rossz"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemeiben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "hogy ingereljék őt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:23.710811631Z",
+  "model": "glm-5.3"
+}

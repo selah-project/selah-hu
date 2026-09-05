@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Legyen kérlek a heszed-ed ⟨a⟩ vigasztalásomra, a te igéd szerint, a te szolgádnak.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a heszed-ed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "vigasztalásomra"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "a te igéd szerint"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "a te szolgádnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:22.271367189Z",
+  "model": "glm-5.3"
+}

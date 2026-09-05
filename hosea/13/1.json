@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Amikor Efrajim beszélt, remegés ⟨volt⟩, ő fölemelkedett Izráelben; de vétkezett a Baálban, és meghalt.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Amikor beszélt"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "remegés"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "fölremelkedett"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráelben"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "és vétkezett"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "a Baálban"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:32.700823903Z",
+  "model": "glm-5.3"
+}

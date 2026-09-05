@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És elkészítette ⟨את⟩ az efod köntösét, szőtt munkát, egészen tkéletből.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "és elkészítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az efod köntösét"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "köntösét"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "az efod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "szőtt"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tkéletből"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:00.038099864Z",
+  "model": "glm-5.3"
+}

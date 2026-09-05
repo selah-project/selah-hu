@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És megcsinálta ⟨את⟩ a rudakat sittimfából, és befödte ⟨את⟩ őket arannyal, hogy ⟨את⟩ az asztalt vigyék.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "megcsinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a rudakat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "a rudakat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "befödte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hogy vigyék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asztalt"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "az asztalt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:35.808539564Z",
+  "model": "glm-5.3"
+}

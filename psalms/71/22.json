@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Én is hálát adok neked lant hangszerrel, a te hűségedért, Elohim (Isten), éneklek neked citerán, Izráel Szentje.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "hálát adok neked"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "hangszerrel"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "lant"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "a te hűséged"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "éneklek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "citerán"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Szentje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:37.198636041Z",
+  "model": "glm-5.3"
+}

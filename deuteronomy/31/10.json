@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És megparancsolta ⟨את⟩ nekik Moshe, mondván: hét év végén, a s'mitta évének kitűzött idején, a sátrak ünnepén",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "és megparancsolta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nekik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "végén"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hét"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "évnek"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "a kitűzött időben"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "évében"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "a s'mittának (elengedés)"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "az ünnepen"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "a sátraknak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:31:57.141848969Z",
+  "model": "glm-5.3"
+}

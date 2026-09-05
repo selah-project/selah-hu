@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Legyen Jahve dicsősége örökké, örvendezzen Jahve ⟨az⟩ ő tetteiben!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsősége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvendezzen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "tetteiben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:39.105114952Z",
+  "model": "glm-5.3"
+}

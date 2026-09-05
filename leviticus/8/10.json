@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És fogott Moshe ⟨את⟩ a kenet olaját, és megkente ⟨את⟩ a sátort és ⟨את⟩ mindent, ami benne van, és megszentelte ⟨את⟩ azokat.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És fogott"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kenet olaját"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olaját"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a kenet"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "és megkente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sátort"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a sátort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne van"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "és megszentelte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azokat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:55.976672338Z",
+  "model": "glm-5.3"
+}

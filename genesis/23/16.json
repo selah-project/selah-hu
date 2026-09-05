@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 23:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És hallgatott Avraham Efronra, és kimérte Avraham Efronnak ⟨את⟩ az ezüstöt, amelyről szólt a Chet (Hét) fiainak füle hallatára: négy száz sékel ezüst, átváltóban a kereskedőnél.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "És hallgatott"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra (Efronra)"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efronra"
+    },
+    {
+      "surface": "וישקל",
+      "gloss": "és kimérte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לעפרן",
+      "gloss": "Efronnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ezüstöt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "az ezüstöt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyről"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "füle hallatára"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet (Hét)"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sékel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átváltóban"
+    },
+    {
+      "surface": "לסחר",
+      "gloss": "a kereskedőnél"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:16.180954436Z",
+  "model": "glm-5.3"
+}

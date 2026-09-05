@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Elohim hegye ⟨az⟩ Básán hegye, csúcsok hegye, Básán hegye.",
+  "tokens": [
+    {
+      "surface": "הַר",
+      "gloss": "hegye"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "hegye"
+    },
+    {
+      "surface": "בָּשָׁן",
+      "gloss": "Básán"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "hegye"
+    },
+    {
+      "surface": "גַּבְנֻנִּים",
+      "gloss": "csúcsok"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "hegye"
+    },
+    {
+      "surface": "בָּשָׁן",
+      "gloss": "Básán"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:01.320042641Z",
+  "model": "glm-5.3"
+}

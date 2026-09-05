@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 1:12",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És felelt Elijáhu, és szólt hozzájuk: „Ha ⟨az⟩ Elohim embere vagyok, szálljon le tűz az égből, és emésszen meg ⟨את⟩ téged és ⟨את⟩ a te ötvenedet!” És leszállt Elohim tüze az égből, és elemésztette ⟨את⟩ őt és ⟨את⟩ az ő ötvenét.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elijáhu"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én vagyok"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "szálljon le"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az égből"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és emésszen meg"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "téged"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a te ötvenedet"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "ötvenedet"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "és leszállt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az égből"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és elemésztette"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő ötvenét"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "ötvenét"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:11.877320131Z",
+  "model": "glm-5.3"
+}

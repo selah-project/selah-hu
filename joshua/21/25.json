@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És Menashe (Manassé) törzsének feléből ⟨את⟩ Taanakot és ⟨את⟩ legelőjét, és ⟨את⟩ Gát-Rimmont és ⟨את⟩ legelőjét: két város.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "És … feléből"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "törzsének"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe (Manassé)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanakot"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanakot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjét"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Gát-Rimmont"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gát-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimmont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjét"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjét"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "két város"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "két"
+    }
+  ],
+  "timestamp": "2026-09-04T18:46:27.386409021Z",
+  "model": "glm-5.3"
+}

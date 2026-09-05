@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Gibeonban megjelent Jahve Selomónak (Salamonnak) éjjeli álomban, és Elohim szólt: Kérj — mit adjak neked?",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibeonban"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "megjelent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nekia"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomónak (Salamonnak)"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "álomban"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "éjjeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Kérj"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adjak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:15.186084935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Ezeket ⟨eszembe idézem⟩, és kiontom magamra lelkemet, mert átvonulok a sokasággal, velük lépdelek az Elohim házáig, ujjongó hangon és hálaadással, ünnepelő sokasággal.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezeket"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "⟨eszembe idézem⟩"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "és kiontom"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "magamra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "átvonulok"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "a sokasággal"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "lépdelek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hangon"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ujjongó"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "és hálaadással"
+    },
+    {
+      "surface": "המון",
+      "gloss": "sokasággal"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "ünnepelő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:53.361184134Z",
+  "model": "glm-5.3"
+}

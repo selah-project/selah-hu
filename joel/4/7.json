@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Íme, én felkeltve kivonszom őket abból a helyből, ahová eladtátok ⟨את⟩ őket ott, és visszahozom a ti jutalmatokat a ti fejetekre —",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Íme, én"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "felkeltve kivonszom őket"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "abból a helyből"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahová"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "eladtátok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "és visszahozom"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "a ti jutalmatokat"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "a ti fejetekre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:22:30.891903116Z",
+  "model": "glm-5.3"
+}

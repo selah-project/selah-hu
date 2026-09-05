@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 112,
+  "translation": "Jó ⟨az⟩ ember, aki kegyeskedik és kölcsönad; ügyeit ítélettel tartja fenn.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Jó"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "kegyeskedik"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "és kölcsönad"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "tartja fenn"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ügyeit"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ítélettel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:49.142190211Z",
+  "model": "glm-5.3"
+}

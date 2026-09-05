@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És lőn: mikor a Jahve szövetségének ládája a táborba ért, fölharsogott egész Jiszráél nagy diadalkiáltással, és megrendült a föld.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És lőn:"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "mikor…ért"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládája"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetségének"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a táborba"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a táborba"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "fölharsogott"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "diadalkiáltással"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "és megrendült"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:24.095914851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És mikor a harmat leszállt éjjel a táborra, leszállt rá a manná.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "És-mikor-leszállt"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "a-harmat"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a-tábor"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "leszállt"
+    },
+    {
+      "surface": "המן",
+      "gloss": "a-manná"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "arra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:34:29.744979947Z",
+  "model": "glm-5.3"
+}

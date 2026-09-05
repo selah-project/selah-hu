@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Elvetetted mind a tévelygőket rendelkezéseidből, mert hazugság a csalásuk.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Elvetetted"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "a tévelygőket"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "rendelkezéseidből"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugság"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "a csalásuk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:05.565754891Z",
+  "model": "glm-5.3"
+}

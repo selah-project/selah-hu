@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És kiválasztotta ⟨את⟩ Jehúda törzsét, ⟨את⟩ a Cijon hegyét, amelyet szeretett.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "és kiválasztotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúda törzsét"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "törzsét"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Cijon hegyét"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyét"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szeretett"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:10.202122642Z",
+  "model": "glm-5.3"
+}

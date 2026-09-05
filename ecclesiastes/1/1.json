@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Kohelet szavai, Dávid (Dávid) fia, király Jerusalájimban (Jeruzsálemben).",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "szavai"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalájimban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:22.888719752Z",
+  "model": "glm-5.3"
+}

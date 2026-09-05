@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Átkozott, aki apja feleségével hál, mert feltárta apja szárnyát ⟨את⟩, és mondja az egész nép: Ámen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Átkozott"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "aki hál"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségével"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "feltárta"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "szárnyát"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apja"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:38.300684299Z",
+  "model": "glm-5.3"
+}

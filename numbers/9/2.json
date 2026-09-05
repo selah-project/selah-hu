@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "„És végezzék el Izrael fiai ⟨את⟩ a Pészachot a maga kijelölt idejében.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "És végezzék el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Pészachot"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "a Pészach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "a maga kijelölt idejében"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:40.102614192Z",
+  "model": "glm-5.3"
+}

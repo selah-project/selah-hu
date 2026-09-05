@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És megmondatott Jóávnak: Íme, a király sír és gyászol Avsalóm miatt.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "és megmondatott"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Jóávnak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "sír"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "és gyászol"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalóm"
+    }
+  ],
+  "timestamp": "2026-09-04T19:31:55.392203857Z",
+  "model": "glm-5.3"
+}

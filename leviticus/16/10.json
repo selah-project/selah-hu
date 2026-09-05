@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 16:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "A bakot pedig, amelyre fölszállt a sors Azázélnek, élve állítják Jahve elé, hogy engesztelést szerezzen rajta, azért, hogy ⟨את⟩ elküldje Azázelnek a pusztába.",
+  "tokens": [
+    {
+      "surface": "והשעיר",
+      "gloss": "a bakot pedig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fölszállt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "a sors"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Azázélnek"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "állítják"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "hogy engesztelést szerezzen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "hogy elküldje"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Azázélnek (a bakot)"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Azázélnek"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "a pusztába"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:51.476135763Z",
+  "model": "glm-5.3"
+}

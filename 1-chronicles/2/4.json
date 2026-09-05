@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Tamár, az ő menye szült neki ⟨את⟩ Pérécet (Peresz) és ⟨את⟩ Zérachot (Zerah); Jehúda minden fia öt ⟨volt⟩.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "és Tamár"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "az ő menye"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "szült"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pérécet"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pérécet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Zérachot"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zérachot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fia"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "öt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:20.900485418Z",
+  "model": "glm-5.3"
+}

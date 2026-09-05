@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "A szomjazó elé vizet hoztak Téma földjének lakói, a bujdosónak kenyérével elébe siettek.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "elé"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "a szomjazónak"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "hoztak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjének"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Téma"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "kenyérével"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "elébe siettek"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "a bujdosónak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:13.454441331Z",
+  "model": "glm-5.3"
+}

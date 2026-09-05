@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ Baalatot és ⟨את⟩ Tamart, a pusztában, az országban.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Baalatot"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Tamart"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamart"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az országban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:21.696586964Z",
+  "model": "glm-5.3"
+}

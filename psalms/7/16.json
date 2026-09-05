@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Vermet ásott és kimélyítette ⟨azt⟩, és beleesik a gödörbe, amit művelt.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "vermet"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ásott"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "és kimélyítette ⟨azt⟩"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "és beleesik"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "a gödörbe"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "művelt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:48.079302211Z",
+  "model": "glm-5.3"
+}

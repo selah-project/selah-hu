@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ez ⟨az⟩ ügy, amelyért felemelte ⟨את⟩ a kezét a király ellen: Salomo felépítette ⟨את⟩ a Millót, és bezárta ⟨את⟩ a rést Dávid városában, az ő atyjáéban.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "És ez"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨az⟩ ügy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyért"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "felemelte"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "felépítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Millót"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "a Millót"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "és bezárta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a rést"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "a rést"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városában"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő atyjáéban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:55.916394488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ⟨את⟩ a Jebusit és ⟨את⟩ az Emorit és ⟨את⟩ a Girgasit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a Jebusit"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "a Jebusit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az Emorit"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az Emorit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Girgasit"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "a Girgasit"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:46.810555623Z",
+  "model": "glm-5.3"
+}

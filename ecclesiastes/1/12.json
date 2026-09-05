@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Én, Kohelet, királya voltam Izraelnek Jerusalájimban.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "voltam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelnek"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalájimban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:52.861769199Z",
+  "model": "glm-5.3"
+}

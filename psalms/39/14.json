@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Vedd el rólam tekintetedet, és felvidulok, mielőtt elmegyek, és többé nem leszek.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Vedd el tekintetedet"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "rólam"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "és felvidulok"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "elmegyek"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "és többé nem leszek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:27.434017810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Kinyitod ⟨את⟩ kezedet, és jóllakatod minden élőt kedvtelés szerint.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Kinyitod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezedet"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "és jóllakatod"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élőt"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kedvtelés szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:04.666472208Z",
+  "model": "glm-5.3"
+}

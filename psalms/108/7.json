@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Hogy megszabaduljanak szeretettjeid — szabadíts jobb kezeddel, és felelj meg nekem!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Hogy"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "megszabaduljanak"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "szeretettjeid"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "szabadíts"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jobb kezeddel"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "és felelj meg nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:28.229436623Z",
+  "model": "glm-5.3"
+}

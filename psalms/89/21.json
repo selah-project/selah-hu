@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Megtaláltam Dávidot, az én szolgámat; szent olajammal kentem fel őt.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Megtaláltam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "az én szolgámat"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "szent"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "kentem fel őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:11.809872418Z",
+  "model": "glm-5.3"
+}

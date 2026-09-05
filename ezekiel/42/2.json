@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "A hosszúság elébe — száz könyök — ⟨volt⟩ az északi nyílás, és a szélesség ötven könyök.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "elébe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "A … elé"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hosszúság"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nyílás"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "az északi"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "és a szélesség"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötven"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    }
+  ],
+  "timestamp": "2026-09-04T21:15:12.820404005Z",
+  "model": "glm-5.3"
+}

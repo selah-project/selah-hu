@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Ha felemelem a hajnal szárnyait, és megtelek a tenger legvégén —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "felemelem"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "a szárnyait"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "a hajnal"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "megtelek"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "a legvégén"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tenger"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:53.679623447Z",
+  "model": "glm-5.3"
+}

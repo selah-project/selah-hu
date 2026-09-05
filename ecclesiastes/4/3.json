@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És jobb mindkettőjüknél ⟨את⟩ az, aki még eddig nem lett, aki nem látta ⟨את⟩ a rossz cselekedetet, amely elkövettetett a nap alatt.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "És jobb"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "mindkettőjüknél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az, aki még eddig nem lett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "még eddig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a rossz cselekedetet"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "a cselekedetet"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a rossz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "elkövettetett"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:14.348277522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És neki két felesége volt: az egyiknek a neve Channa, és a másodiknak a neve Peninna; és Peninnának voltak gyermekei, Channának pedig nem voltak gyermekei.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "És neki"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "két"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "felesége"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a neve"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "az egyiknek"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "és a neve"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a másodiknak"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és volt"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninnának"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "gyermekei"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "Channának pedig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem voltak"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "gyermekei"
+    }
+  ],
+  "timestamp": "2026-09-04T19:02:43.326720533Z",
+  "model": "glm-5.3"
+}

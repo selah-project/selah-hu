@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És tedd a ládába ⟨את⟩ a bizonyságot, amelyet neked adok.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "És tedd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "a ládá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bizonyságot"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a bizonyságot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adok"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:42.969433407Z",
+  "model": "glm-5.3"
+}

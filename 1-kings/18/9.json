@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És monda: Mit vétettem, hogy te szolgádat Aháv (Acháb) kezébe adod, hogy megölj engem?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mit"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétettem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgádat"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháv"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "hogy megölj engem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:33.028600928Z",
+  "model": "glm-5.3"
+}

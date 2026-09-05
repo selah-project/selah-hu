@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "A hármak közül ⟨nem⟩ ő ⟨volt⟩-e a legdicsőbb? És lett nekik vezetőjük; de az első háromig nem jutott el.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "közül"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "a hármak"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "vajon ⟨nem⟩-e"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "legdicsőbb"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "vezetőjük"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de ... -ig"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "az első háromig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jutott el"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:45.117342927Z",
+  "model": "glm-5.3"
+}

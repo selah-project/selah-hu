@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Ez a nemzedéke azoknak, akik őt keresik, akik orcádat keresik: Jaakov (Jákob). Szela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "דור",
+      "gloss": "a nemzedéke"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "akik őt keresik"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "keresői"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádnak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov (Jákob)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:36.878971705Z",
+  "model": "glm-5.3"
+}

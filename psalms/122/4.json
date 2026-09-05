@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "Mert oda mennek fel a törzsek, a Jah törzsei, tanúságul Jiszráélnak, hogy hálát adjanak a Jahve nevének.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Mert oda"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "mennek fel"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "a törzsek"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "törzsei"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahnak"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "tanúságul"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jiszráélnak"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "hogy hálát adjanak"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "a nevének"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:54.126586854Z",
+  "model": "glm-5.3"
+}

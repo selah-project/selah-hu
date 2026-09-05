@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "és heszedet teszen ezrekkel, akik engem szeretnek, és megtartják parancsolataimat.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "és teszen"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszedet (szeretet-jókedvt)"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ezrekkel"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "akik engem szeretnek"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "és akik megtartják"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parancsolataimat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:03.810923424Z",
+  "model": "glm-5.3"
+}

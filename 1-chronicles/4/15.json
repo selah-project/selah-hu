@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És Kálév fiai, Jefunne fia: Íru, Elá és Náam; és Elá fiai: Kenaz.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "És … fiai"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kálév"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunne"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Íru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elá"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "és Náam"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és … fiai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elá"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Kenaz"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:21.259700147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Űzd ki a csúfolót, és kimegy a viszály, és megszűnik a per és a gyalázat.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Űzd ki"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "a csúfolót"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "és kimegy"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "a viszály"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "és megszűnik"
+    },
+    {
+      "surface": "דין",
+      "gloss": "a per"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "és a gyalázat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:43.867238687Z",
+  "model": "glm-5.3"
+}

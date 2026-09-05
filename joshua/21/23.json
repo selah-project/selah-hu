@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És Dán törzséből ⟨את⟩ Eltekét és ⟨את⟩ legelőjét, ⟨את⟩ Gibtont és ⟨את⟩ legelőjét,",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "És ... törzséből"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekét"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjét"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibtont"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibtont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjét"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjét"
+    }
+  ],
+  "timestamp": "2026-09-04T18:45:36.979422046Z",
+  "model": "glm-5.3"
+}

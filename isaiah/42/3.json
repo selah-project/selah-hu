@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "A megtört kákát nem töri össze, és a halványuló lenkanócot nem oltja ki; igazsággal visz ki ítéletet.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "kákát"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "megtörtet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "tör össze"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "és a lenkanócot"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "halványuló"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "oltja ki"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "igazsággal"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "kivisz"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ítéletet"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:53.455051692Z",
+  "model": "glm-5.3"
+}

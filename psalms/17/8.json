@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Őrizz engem, mint a szemnek lánykáját, szárnyaid árnyékában rejts el engem.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Őrizz engem"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "mint a kis"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánykáját"
+    },
+    {
+      "surface": "עין",
+      "gloss": "a szemnek"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "árnyékában"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "szárnyaid"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "rejts el engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:06.944841340Z",
+  "model": "glm-5.3"
+}

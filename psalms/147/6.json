@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Támogatja a szelídeket Jahve, megalázza a gonoszokat egészen a földig.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "Támogatja"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "a szelídeket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "megalázza"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszokat"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földig"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:40.664825982Z",
+  "model": "glm-5.3"
+}

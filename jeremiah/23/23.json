@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Közel-való Elohim vagyok-e én — Jahve kijelentése —, és nem távol-való Elohim?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Elohim-e"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "közel-való"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "távol-való"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:32.810010313Z",
+  "model": "glm-5.3"
+}

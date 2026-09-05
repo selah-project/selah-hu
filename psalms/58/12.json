@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "És mondja az ember: bizony gyümölcs van az igaznak, bizony van Elohim, ⟨aki⟩ ítél a földön.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "gyümölcs"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "az igaznak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ítélő"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:33.413750153Z",
+  "model": "glm-5.3"
+}

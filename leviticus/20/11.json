@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És a férfi, aki hálik ⟨את⟩ apja feleségével — apja meztelenségét leplezte le — halállal haljanak mindketten, vérük rajtuk.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És a férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hálik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségével"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségével"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apjának"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "meztelenségét"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apja"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "leplezte le"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "haljanak"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindketten"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "vérük"
+    },
+    {
+      "surface": "בם",
+      "gloss": "rajtuk"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:22.242581637Z",
+  "model": "glm-5.3"
+}

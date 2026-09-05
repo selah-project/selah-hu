@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Ha tolvajt láttál, futottál vele, és házasságtörőkkel ⟨volt⟩ a részed.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "láttál"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "tolvajt"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "futottál"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és …-val"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "házasságtörőkkel"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "a részed"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:54.616784335Z",
+  "model": "glm-5.3"
+}

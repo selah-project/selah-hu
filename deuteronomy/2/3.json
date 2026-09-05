@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "„Elég volt nektek körüljárni ⟨את⟩ ezt a hegyet; forduljatok északra!",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Elég"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "סב",
+      "gloss": "körüljárni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a hegyet"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegyet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "forduljatok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatoknak"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "északra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:20.007552976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És így szól Paró a Jiszráél fiakról: összezavarodtak ⟨ők⟩ az országban, a puszta bezárult rájuk.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És így szól"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a … fiakról"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "összezavarodtak"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ők"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az országban"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "bezárult"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "a puszta"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:27.269705664Z",
+  "model": "glm-5.3"
+}

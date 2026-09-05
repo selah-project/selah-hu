@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 114,
+  "translation": "⟨Aki⟩ a sziklát álló tavakká fordította, a kovakövet vízforrásokká!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "⟨Aki⟩ fordította"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "a sziklát"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "álló tavakká"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vízzé"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "a kovakövet"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "vízforrásokká"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vízzé"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:12.915743615Z",
+  "model": "glm-5.3"
+}

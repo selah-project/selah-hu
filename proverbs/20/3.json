@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Becsület ⟨az⟩ embernek a vitától való elvonulás, de minden balga kiterekszik.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "becsület"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨az⟩ embernek"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "elvonulás"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "a vitától"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "de minden"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "balga"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "kiterekszik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:13.224844764Z",
+  "model": "glm-5.3"
+}

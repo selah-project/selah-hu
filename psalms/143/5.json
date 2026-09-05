@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 143,
+  "translation": "Emlékeztem a régi napokra, gondolkodtam minden cselekedetedről, kezeid művén elmélkedem.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Emlékeztem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napjaira"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "régiekre"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "gondolkodtam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "cselekedetedről"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "művén"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "kezeid"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "elmélkedem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:46.323860659Z",
+  "model": "glm-5.3"
+}

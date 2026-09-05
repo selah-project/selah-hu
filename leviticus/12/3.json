@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És a nyolcadik napon körülmetéltetik előbőrének húsa.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "És a napon"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "nyolcadik"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "körülmetéltetik"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsa"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "előbőrének"
+    }
+  ],
+  "timestamp": "2026-09-04T17:11:45.546392940Z",
+  "model": "glm-5.3"
+}

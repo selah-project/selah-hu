@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta Izráel királya: „Jaj! mert Jahve hívta össze ezt a három királyt, hogy ⟨את⟩ őket Moáb kezébe adja.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Jaj!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hívta össze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ezt a három"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "királyt"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hogy adja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:52.046724488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Nagy ⟨van⟩ Jahve, és nagyon dicsért, és nagyságának nincs kikutatása.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Nagy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "és dicsért"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "és nagyságának"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kikutatása"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:21.598388554Z",
+  "model": "glm-5.3"
+}

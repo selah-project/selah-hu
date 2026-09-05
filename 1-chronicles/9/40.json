@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És Jehonatán fia ⟨volt⟩ Merív-Baál; és Merí-Baál nemzette ⟨את⟩ Mikhát.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "És … fia"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatán"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Merív-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baál ⟨volt⟩"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "és Merí-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baál"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhát"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikhát"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:34.769264498Z",
+  "model": "glm-5.3"
+}

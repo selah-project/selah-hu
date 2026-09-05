@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 8:19",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És mondta: Íme, én megismertetem veled ⟨את⟩ azt, ami történni fog a harag végén, mert a vég ⟨a⟩ kitűzött időre ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme, íme én"
+    },
+    {
+      "surface": "מודיעך",
+      "gloss": "megismertetem veled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, ami történni fog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "történni fog"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "a végén"
+    },
+    {
+      "surface": "הזעם",
+      "gloss": "a harag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "a kitűzött időre"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "a vég"
+    }
+  ],
+  "timestamp": "2026-09-04T22:44:48.411748556Z",
+  "model": "glm-5.3"
+}

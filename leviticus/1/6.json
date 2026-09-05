@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megnyúzza ⟨את⟩ az égőáldozatot, és feldarabolja ⟨את⟩ annak darabjaivá.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "és megnyúzza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "és feldarabolja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozat (darabjaivá)"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "darabjaivá"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:07.328486247Z",
+  "model": "glm-5.3"
+}

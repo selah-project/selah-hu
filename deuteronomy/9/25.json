@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És leborultam Jahve előtt ⟨את⟩ a negyven napot és ⟨את⟩ a negyven éjszakát, amelyekben leborultam, mert mondta Jahve, hogy elpusztít ⟨את⟩ titeket.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "És leborultam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a negyven napot"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a negyven éjszakát"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "éjszaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyekben"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "leborultam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "hogy elpusztítsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:49.725546436Z",
+  "model": "glm-5.3"
+}

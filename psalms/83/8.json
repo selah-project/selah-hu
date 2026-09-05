@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Gebál és Ámón és Ámálek, Pelisét együtt Cór lakóival.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebál"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "és Ámón"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "és Ámálek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelisét"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Cór"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:50.264291729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És vegye ⟨את⟩ a két bakot, és állítsa ⟨את⟩ őket Jahve színe elé, a kijelentés sátrának bejáratánál.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "és vegye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a két bakot"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bakot"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "és állítsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe elé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kijelentés"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:38.656520955Z",
+  "model": "glm-5.3"
+}

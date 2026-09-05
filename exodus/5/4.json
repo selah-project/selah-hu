@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És monda nekik Micrajim (Egyiptom) királya: „Miért, Moshe és Aharon, elterelitek ⟨את⟩ a népet a munkáiból? Menjetek a ti terheitehez!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "elterelitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "a munkáiból"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menjetek"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "a ti terheitehez"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:57.180066620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Íme, amíg még ott beszélsz a királlyal, én bejövök utánad, és ⟨את⟩ a szavaidat teljesítem.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "amíg még"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "beszélsz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "bejövök"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "utánad"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "és teljesítem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szavaidat"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "szavaidat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:03.905903468Z",
+  "model": "glm-5.3"
+}

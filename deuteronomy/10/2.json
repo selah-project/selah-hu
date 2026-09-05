@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "és én ráírom a táblákra ⟨את⟩ azokat a szavakat, amelyek az első táblákon voltak, amelyeket összetörtél, és te tedd őket a ládába.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "és én ráírom"
+    },
+    {
+      "surface": "על",
+      "gloss": "arra"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "a táblákra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azokat a szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a szavakat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "az első táblákon"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "az első táblákon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "összetörtél"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "és tedd őket"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "a ládába"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:10.737997002Z",
+  "model": "glm-5.3"
+}

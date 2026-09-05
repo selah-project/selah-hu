@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Hol ⟨van⟩ a te királyod most, hogy megmentsen téged minden városodban? És a te bíráid, akikről azt mondtad: „Adj nekem királyt és fejedelmeket!”?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Hol"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "a te királyod"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "most"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "hogy megmentsen téged"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "városodban"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "És a te bíráid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akikről"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "azt mondtad"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Adj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyt"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "és fejedelmeket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:37.832619751Z",
+  "model": "glm-5.3"
+}

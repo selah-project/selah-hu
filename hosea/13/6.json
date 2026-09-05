@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Legelőjük szerint laktak jóllakásig; jóllaktak, és felmagasztalkodott a szívük — ezért felejtettek el engem.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "legelőjük szerint"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "laktak jóllakásig"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "jóllaktak"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "és felmagasztalkodott"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "a szívük"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezért (alatt)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "azért"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "felejtettek el engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:14.414240099Z",
+  "model": "glm-5.3"
+}

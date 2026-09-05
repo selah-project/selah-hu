@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És látta Paroh (Fáraó), hogy megjött a könnyebbség, és ő elnehezítette ⟨את⟩ a szívét, és nem hallgatott rájuk, ahogy szólt Jahve.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh (Fáraó)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "megjött"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "a könnyebbség"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "és elnehezítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szívét"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a szívét"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatott"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:29.773482263Z",
+  "model": "glm-5.3"
+}

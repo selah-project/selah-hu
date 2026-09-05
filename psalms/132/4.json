@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "ha szemet adok szememnek, pilláimnak szunnyadást —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adok"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "szemet"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "szememnek"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "pilláimnak"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "szunnyadást"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:38.348600398Z",
+  "model": "glm-5.3"
+}

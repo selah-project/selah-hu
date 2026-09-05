@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És lefeküdt lábaihoz a reggelig, és felkelt, mielőtt megismerhetett volna ember ⟨את⟩ felebarátját; és mondta: ne tudassék, hogy asszony jött a csűrbe.",
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "és lefeküdt"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "lábaihoz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a reggel"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "megismerhetett volna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tudassék"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "באה",
+      "gloss": "jött"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "asszony"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "a csűrbe"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:09.010083416Z",
+  "model": "glm-5.3"
+}

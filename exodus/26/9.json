@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És összekapcsolod ⟨את⟩ az öt kárpitot külön, és ⟨את⟩ a hat kárpitot külön, és kettéhajtod ⟨את⟩ a hatodik kárpitot a sátor színével ⟨szemben⟩.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "És összekapcsolod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az öt kárpitot"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kárpitot"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "külön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hat kárpitot"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kárpitot"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "külön"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "és kettéhajtod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hatodik kárpitot"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "a kárpitot"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "hatodik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hoz"
+    },
+    {
+      "surface": "מול",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színé-vel"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "a sátor"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:56.263333062Z",
+  "model": "glm-5.3"
+}

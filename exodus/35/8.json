@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És olajat a mécsészethez, és fűszereket a kenőolajhoz és a fűszer-füstölőáldozathoz.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "És olajat"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "a mécsészethez"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "és fűszereket"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "a kenőolajhoz"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "kenő-"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "és a füstölőáldozathoz"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "fűszer-"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:32.275767608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Térj vissza, lelkem, a te nyugalmadba, mert Jahve jót tett veled.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Térj vissza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "nyugalmadba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "jót tett"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "veled"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:47.645671633Z",
+  "model": "glm-5.3"
+}

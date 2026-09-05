@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És nemzette Azarjá ⟨את⟩ Amárját, és Amárjá nemzette ⟨את⟩ Achitúbot;",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amárját"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amárját"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "és Amárjá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitúbot"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitúbot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:49.781387915Z",
+  "model": "glm-5.3"
+}

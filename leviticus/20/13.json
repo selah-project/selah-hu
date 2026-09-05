@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ⟨a⟩ férfi, aki férfival hál ⟨את⟩ — női hálásmóddal —, utálatosságot követtek el mindketten: halállal halandnak meg, vérük ⟨van⟩ rajtuk.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hál"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "férfival"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "férfival"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "hálásmóddal"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "női"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "utálatosságot"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "követtek el"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindketten"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "halandnak meg"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "vérük"
+    },
+    {
+      "surface": "בם",
+      "gloss": "rajtuk"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:51.693632544Z",
+  "model": "glm-5.3"
+}

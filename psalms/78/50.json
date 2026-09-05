@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "utat egyengetett haragjának; nem kímélte lelküket a haláltól, és életüket a dögvésznek átadta.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "egyengetett"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "utat"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "haragjának"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kímélte"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "a haláltól"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lelküket"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "és életüket"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "a dögvésznek"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "átadta"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:54.677314224Z",
+  "model": "glm-5.3"
+}

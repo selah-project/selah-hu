@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "A lépcsőzetes énekek közül, Dávidnak. Örültem, amikor ezt mondták nekem: „A Jahve házába megyünk!”",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a lépcsőzeteseknek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Örültem"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "amikor mondtak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "megyünk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:54.126068310Z",
+  "model": "glm-5.3"
+}

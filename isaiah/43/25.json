@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Én, igen én ⟨az⟩ vagyok, aki letörlöm vétségeidet énmagamért, és bűneidet nem említem meg.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Én"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "igen én"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "letörlöm"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "vétségeidet"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "énmagamért"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "és bűneidet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "említem meg"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:54.369102683Z",
+  "model": "glm-5.3"
+}

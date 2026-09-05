@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És korán reggel felkelt Jehósua (Józsué), és előléptette ⟨את⟩ Izráélt törzsei szerint; és fogatul esett a Jehúda törzse.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "És korán reggel felkelt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehósua (Józsué)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "és előléptette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráélt"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "törzsei szerint"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "és fogatul esett"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "törzse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdának"
+    }
+  ],
+  "timestamp": "2026-09-04T18:39:00.881832155Z",
+  "model": "glm-5.3"
+}

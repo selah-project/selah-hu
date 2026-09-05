@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Ki volt mind e földek istenei közül, aki megszabadította ⟨את⟩ az ő földjüket a kezemből — hogyne szabadítaná meg ⟨את⟩ Jahve Jerusálajimot a kezemből?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mind ... közül"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "istenei"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "e földek"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "megszabadította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő földjüket"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "földjüket"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "a kezemből"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "megszabadítaná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusálajimot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajimot"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "a kezemből"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:32.479541570Z",
+  "model": "glm-5.3"
+}

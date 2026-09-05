@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 25:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És ⟨את⟩ fiaikat nem ölette meg, mert — amint meg van írva a Torában (Tóra), Moshe (Mózes) könyvében, amelyet Jahve parancsolt ezekkel a szavakkal: „Ne haljanak meg az apák a fiakért, és a fiak ne haljanak meg az apákért, hanem mindenki a maga vétke miatt haljon meg.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiaikat"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiaikat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ölette meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "amint meg van írva"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "a Torában"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "könyvében"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ezekkel a szavakkal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "haljanak meg"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "az apák"
+    },
+    {
+      "surface": "על",
+      "gloss": "a fiakért"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "a fiak"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "és a fiak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "haljanak meg"
+    },
+    {
+      "surface": "על",
+      "gloss": "az apákért"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "az apák"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "a maga vétke miatt"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "haljon meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:19:48.740360436Z",
+  "model": "glm-5.3"
+}

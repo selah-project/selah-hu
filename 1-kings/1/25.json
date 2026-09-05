@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 1:25",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert ma leszállt, és áldozott ökröket és hízott állatokat és juhokat bőségben, és meghívta a király minden fiát, és a hadsereg vezéreit, és Ebjátár (Abjátár) papot — és íme, esznek és isznak előtte, és ezt mondják: Éljen Adonijá király!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "leszállt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "és áldozott"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökröket"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "és hízott állatokat"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "és juhokat"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "bőségben"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és meghívta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "ולשרי",
+      "gloss": "és a vezéreit"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "a hadsereg"
+    },
+    {
+      "surface": "ולאביתר",
+      "gloss": "és Ebjátárnak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "esznek"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "és isznak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és ezt mondják"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "éljen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adonijá"
+    }
+  ],
+  "timestamp": "2026-09-04T19:38:13.767525894Z",
+  "model": "glm-5.3"
+}

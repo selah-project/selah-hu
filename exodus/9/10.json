@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És vették ⟨את⟩ a kemence koromját, és odaálltak Paró elé, és Moshe (Mózes) az ég felé szórta ⟨את⟩ azt, és lőn kelés — hólyagos, kivirágzó — az emberen és az állaton.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "és vették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kemence koromját"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "koromját"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "a kemence"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "és odaálltak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "és szórta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (a koromot)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "az ég felé"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lőn"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "kelés"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "hólyagos"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "kivirágzó"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "az emberen"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "és az állaton"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:28.761720332Z",
+  "model": "glm-5.3"
+}

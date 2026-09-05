@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És elhajították mind a maga botját, és azok kígyókká lettek, és elnyelte Aharon botja ⟨את⟩ a botjaikat.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "És elhajították"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mind (ki-ki)"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "a maga botját"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "kígyókká"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "és elnyelte"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "botja"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a botjaikat"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "a botjaikat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:31.474460842Z",
+  "model": "glm-5.3"
+}

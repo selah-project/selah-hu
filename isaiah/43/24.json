@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Ezüstpénzért nem vásároltál nekem illatos nádat, és áldozataid zsírjával nem elégítettél ki: bűneiddel szolgálattá tettél engem, vétkeiddel elfárasztottál.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "vásároltál"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ezüstpénzért"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "illatos nádat"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "és zsírjával"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "áldozataid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "elégítettél ki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "szolgálattá tettél"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "bűneiddel"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "elfárasztottál"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "vétkeiddel"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:30.830743297Z",
+  "model": "glm-5.3"
+}

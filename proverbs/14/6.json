@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Kutat bölcsesség után a gúnyoló, és ⟨semmi sincs⟩; és az ismeret az értelmesnek könnyű.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "kutat"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "a gúnyoló"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcsesség"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és ⟨semmi sincs⟩"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "és az ismeret"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "az értelmesnek"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "könnyű"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:36.765032840Z",
+  "model": "glm-5.3"
+}

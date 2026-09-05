@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 26:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Vegyétek ⟨את⟩ a fejét az egész gyülekezetnek, Izrael (Jiszráél) fiainak, húszévestől felfelé, atyáik háza szerint, mindenki, aki hadba vonul Izraelben.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Vegyétek fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fejét"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezetnek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelnek (Jiszráél)"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "fiútól"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "és felfelé"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ház szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáiknak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kimenő"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "seregbe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izraelben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:45.337061305Z",
+  "model": "glm-5.3"
+}

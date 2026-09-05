@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Ne gyűjtsd össze a bűnösökkel lelkemet, és a véres emberekkel ⟨את⟩ életemet!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "gyűjtsd össze"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a bűnösökkel"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bűnösökkel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és a véres"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "emberekkel"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "véres"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "életemet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:28.237862710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Hálát adnak néked, Jahve, minden tetteid, és heszed-tagjaid áldanak téged.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Hálát adnak néked"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tetteid"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "és heszed-tagjaid"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "áldanak téged"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:53.169403146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Az ellenség végleg eltűnt, örökre romokká vált; ⟨a⟩ városokat pedig kitépted — emléküket elenyészett, magukkal együtt.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Az ellenség"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "végleg eltűnt"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "romokká"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "és ⟨a⟩ városokat"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "kitépted"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "elenyészett"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "emléküket"
+    },
+    {
+      "surface": "המה",
+      "gloss": "magukkal együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:44.930003909Z",
+  "model": "glm-5.3"
+}

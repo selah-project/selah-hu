@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Sok víz nem képes eloltani ⟨את⟩ a szerelmet, és folyók nem mossák el azt; ha egy ember adná ⟨את⟩ egész házának minden vagyonát a szerelemért, megvetéssel vetnék meg őt.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Sok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "képes"
+    },
+    {
+      "surface": "לכבות",
+      "gloss": "eloltani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szerelem"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "a szerelmet"
+    },
+    {
+      "surface": "ונהרות",
+      "gloss": "és folyók"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישטפוה",
+      "gloss": "mossák el azt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adná"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész házának minden vagyonát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הון",
+      "gloss": "vagyonát"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "házának"
+    },
+    {
+      "surface": "באהבה",
+      "gloss": "a szerelemért"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "megvetéssel"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "vetnék meg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:31:41.023637051Z",
+  "model": "glm-5.3"
+}

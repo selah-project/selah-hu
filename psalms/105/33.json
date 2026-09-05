@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "És megverte a szőlőjüket és a fügefájukat, és összetörte fáikat a határukon.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "És megverte"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "a szőlőjüket"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "és a fügefájukat"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "és összetörte"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fáit"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "a határukon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:49.831596137Z",
+  "model": "glm-5.3"
+}

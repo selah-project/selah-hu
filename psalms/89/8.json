@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "El, rettegendő a szentek tanácsában, hatalmas, és félelmes mindenki körülötte.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "rettegendő"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "tanácsában"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "a szentek"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "és félelmes"
+    },
+    {
+      "surface": "על",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "körülötte"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:02.315318561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És ⟨את⟩ az egész gyülekezetet egybehívták a második hónap első napján, és összeírták magukat családjaik szerint, atyáik házai szerint, neveik száma szerint, húszéves kortól felfelé, fejként-fejként.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "az egész gyülekezetet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gyülekezetet"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "egybehívták"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "első napján"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "hónap"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "és összeírták magukat"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "családjaik"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "házaik szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "száma szerint"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "neveik"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kortól"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "éves"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "és felfelé"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "fejként-fejként"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:08.777870935Z",
+  "model": "glm-5.3"
+}

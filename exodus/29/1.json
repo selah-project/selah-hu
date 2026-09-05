@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És ez az a dolog, amelyet velük megteszel, hogy megszenteld ⟨את⟩ őket, hogy papként legyenek nekem: vegyél egy bikát, egyet, a marha fiát, és két kost, épégeket.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "És ez"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az a dolog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "megteszel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "hogy megszenteld"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "papként"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vegyél"
+    },
+    {
+      "surface": "פר",
+      "gloss": "egy bikát"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "a marhának"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "és két kost"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettőt"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "épégeket"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:09.065904102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Sokat láttál, de nem őrződ meg; van ⟨nyitott⟩ füled, de nem hall.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "láttál"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "sokat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "őrződ meg"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "nyitott"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "füled"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hall"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:24.093550380Z",
+  "model": "glm-5.3"
+}

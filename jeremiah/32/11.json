@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És elvettem ⟨את⟩ a vásárlás könyvét: ⟨את⟩ a lepecsételt példányt, a parancsolat és a rendelkezések szerint, és ⟨את⟩ a nyilvános példányt.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "és elvettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vásárlás könyvét"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "könyvét"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "a vásárlás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lepecsételt példányt"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "a lepecsételt példányt"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "a parancsolat"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "és a rendelkezések"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nyilvános példányt"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "a nyilvános példányt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:46:10.028474059Z",
+  "model": "glm-5.3"
+}

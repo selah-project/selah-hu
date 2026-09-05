@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Fordíts hozzám fület, és felelj meg nekem! Bolyongok panaszomban, és nyögök.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Fordíts fület"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "és felelj meg nekem"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "Bolyongok"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "panaszomban"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "és nyögök"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:24.003810534Z",
+  "model": "glm-5.3"
+}

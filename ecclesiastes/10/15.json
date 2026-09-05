@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A keselyűk fáradsága elfárasztja ⟨őt⟩, mert nem tudott a városba menni.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "fáradsága"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "a keselyűk"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "elfárasztja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudott"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "menni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "a városba"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:24.160441450Z",
+  "model": "glm-5.3"
+}

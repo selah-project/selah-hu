@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha egy ökör felöklel ⟨את⟩ egy férfiat vagy ⟨את⟩ egy asszonyt, és meghal: köveztessék meg kivétel nélkül az ökör, és ne egyék meg ⟨את⟩ annak húsát; az ökör tulajdonosa pedig ártatlan.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "felöklel"
+    },
+    {
+      "surface": "שור",
+      "gloss": "egy ökör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egy férfiat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfiat"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egy asszonyt"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "egy asszonyt"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "és meghal"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "köveztessék meg"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "kivétel nélkül"
+    },
+    {
+      "surface": "השור",
+      "gloss": "az ökör"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "egyék meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak húsát"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "és tulajdonosa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "az ökör"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ártatlan"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:53.451027366Z",
+  "model": "glm-5.3"
+}

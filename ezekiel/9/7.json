@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És mondta nekik: Tisztátalanná tegyétek ⟨את⟩ a házat, és töltsétek meg ⟨את⟩ az udvarokat megöltekkel; menjetek ki! És kimentek, és öltek a városban.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "Tisztátalanná tegyétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "és töltsétek meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az udvarokat"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "az udvarokat"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "megöltekkel"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "menjetek ki"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "és kimentek"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "és öltek"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:01:47.186925264Z",
+  "model": "glm-5.3"
+}

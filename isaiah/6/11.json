@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 6:11",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondtam: Meddig, Adonáj? És mondta: Amíg a városok elpusztulnak lakos nélkül, és a házak ember nélkül, és a föld elvadul pusztasággá.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És mondtam"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Amíg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "elpusztulnak"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "városok"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "lakos"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "és házak"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "és a föld"
+    },
+    {
+      "surface": "תשאה",
+      "gloss": "elvadul"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pusztasággá"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:25.568407451Z",
+  "model": "glm-5.3"
+}

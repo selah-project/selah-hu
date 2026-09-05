@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 82,
+  "translation": "Bizony, mint ember haltok meg, és mint a fejedelmek egyike, elvesztek.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "mint ember"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "haltok meg"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "és mint egyike"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "a fejedelmek"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "elvesztek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:18.368035779Z",
+  "model": "glm-5.3"
+}

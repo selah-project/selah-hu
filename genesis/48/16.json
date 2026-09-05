@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "a Malakh (angyal), aki ⟨את⟩ engement megváltott minden bajból — áldja meg ⟨את⟩ a fiúkat, és hivatassék rajtuk az én nevem és atyáim neve, Avrahám és Jichak; és szaporodjanak nagyon a föld közepén!",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "a Malakh"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "aki megváltott"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engement"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden…-ból"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bajból"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "áldja meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiúkat"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "a fiúkat"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és hivatassék"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "rajtuk"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "az én nevem"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "és … neve"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "atyáim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahám"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "és Jichak"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "és szaporodjanak"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepében"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:30.624735919Z",
+  "model": "glm-5.3"
+}

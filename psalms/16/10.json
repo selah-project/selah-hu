@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Mert nem hagyod el a lelkemet a Seolnak, nem engeded a heszedet, hogy a vermet lássa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hagyod el"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkemet"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Seolnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "engeded"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "a heszedet"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy lássa"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "a vermet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:54.080801375Z",
+  "model": "glm-5.3"
+}

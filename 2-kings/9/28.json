@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ őt felültették a szekerére az ő szolgái, Jerusálajimbe (Jeruzsálembe) vitték, és ⟨את⟩ őt eltemették az ő sírjába, az ő atyáival, Dávid (Dávid) városában.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "és felültették szekerre"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "az ő szolgái"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Jerusálajimbe"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "az ő sírjába"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "az ő atyáival"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "városában"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    }
+  ],
+  "timestamp": "2026-09-04T19:56:43.928487747Z",
+  "model": "glm-5.3"
+}

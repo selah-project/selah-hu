@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Hét napon át egyél mácát (pogácsát), és a hetedik napon ünnep Jahvénak.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "egyél"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mácát"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "és napon"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a hetedik"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ünnep"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:26.039959910Z",
+  "model": "glm-5.3"
+}

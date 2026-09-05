@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És rossznak tűnt Jóná előtt a rossz nagy módon, és haragra gyúlt benne.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "rossznak tűnt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jóná"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy módon"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "és haragra gyúlt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "benne"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:09.602285577Z",
+  "model": "glm-5.3"
+}

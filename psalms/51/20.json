@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Tégy jót kedved szerint Cijonnal ⟨את⟩; építsd fel Jerusálajim falait.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Tégy jót"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "kedved szerint"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cijonnal"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijonnal"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "építsd fel"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "falait"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:46.919485439Z",
+  "model": "glm-5.3"
+}

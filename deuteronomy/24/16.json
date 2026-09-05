@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Ne ölettessenek apák a fiakért, és fiak ne ölettessenek az apákért; mindenki a maga bűnéért ölettessék meg.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ölettessenek"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "apák"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "a fiakért"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "és fiak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ölettessenek"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "az apákért"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "a maga bűnéért"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ölettessék meg"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:38.462584194Z",
+  "model": "glm-5.3"
+}

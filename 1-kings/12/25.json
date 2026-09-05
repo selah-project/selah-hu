@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Építette pedig Jarobám (Jeroboám) ⟨את⟩ Sikemet az Efrájim hegyén, és lakott ott; kiment onnan, és építette ⟨את⟩ Penuelt.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "építette"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikemet"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikemet"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyén"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és lakott"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kiment"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "és építette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuelt"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuelt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:00.757424491Z",
+  "model": "glm-5.3"
+}

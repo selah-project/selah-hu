@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És őrizzék ⟨את⟩ a találkozás sátrának minden edényét, és ⟨את⟩ Izrael fiai őrségét, hogy végezzék ⟨את⟩ a lakószentély szolgálatát.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "És őrizzék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden edényét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "őrségét"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "őrségét"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hogy végezzék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgálatát"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "szolgálatát"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakószentély"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:34.954464600Z",
+  "model": "glm-5.3"
+}

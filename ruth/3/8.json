@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És történt éjfélkor, hogy megrettent ⟨az⟩ ember, és megfordult — és íme, egy asszony feküvék lábfejeinél.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "…kor"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "éjfél"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "megrettent"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨az⟩ ember"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "és megfordult"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "egy asszony"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "feküvék"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "lábfejeinél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:31:26.839484326Z",
+  "model": "glm-5.3"
+}

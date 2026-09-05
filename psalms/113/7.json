@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 113,
+  "translation": "Aki felemeli ⟨a⟩ szegényt a porból, a szemétdombról magasba emeli a nincstelent,",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "felemeli"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "a porból"
+    },
+    {
+      "surface": "דל",
+      "gloss": "a szegényt"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "a szemétdombról"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "magasba emeli"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "a nincstelent"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:19.936613400Z",
+  "model": "glm-5.3"
+}

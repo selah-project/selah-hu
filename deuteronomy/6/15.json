@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 6:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Mert féltő ⟨El⟩ Jahve, a te Elohimod, a te középedben ⟨van⟩; nehogy felgerjedjen Jahvenak, a te Elohimodnak orra ellened, és megsemmisítssen ⟨ téged⟩ a föld színéről.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "féltő"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "a te középedben"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "felgerjedjen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "orra (haragja)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenak"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodnak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "és megsemmisítssen téged"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…ról"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színéről"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:34.041650193Z",
+  "model": "glm-5.3"
+}

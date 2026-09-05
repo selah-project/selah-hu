@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És felkelt Avraham halottja mellől, és szólt a Chet fiaihoz, ezt mondván:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "—ról( mellől)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színe(előljéről)"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "halottja"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hoz(a...)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ezt mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:50.918137263Z",
+  "model": "glm-5.3"
+}

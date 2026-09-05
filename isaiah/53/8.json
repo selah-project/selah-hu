@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "Elnyomatásból és ítéletből vitetett el, és ⟨את⟩ az ő nemzedékét ki veszi számba? Mert kivágatott az élők földjéről; népem vétke miatt — a csapás őneki.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "elnyomatásból"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "és ítéletből"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vitetett el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő nemzedékét"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "az ő nemzedékét"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "veszi számba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "kivágatott"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "a földjéről"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "az élők"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "vétke miatt"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "a csapás"
+    },
+    {
+      "surface": "למו",
+      "gloss": "őneki"
+    }
+  ],
+  "timestamp": "2026-09-04T20:27:10.533636585Z",
+  "model": "glm-5.3"
+}

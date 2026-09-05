@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És elbocsátotta Jehosua (Józsué) ⟨את⟩ a népet, és elmentek Izráel fiai, kiki a maga örökségéhez, hogy birtokba vegyék ⟨את⟩ az országot.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "elbocsátotta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiki"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "örökségéhez"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hogy birtokba vegyék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az országot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az országot"
+    }
+  ],
+  "timestamp": "2026-09-04T18:48:48.588557954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És vigye elő a selámim-áldozatból a tűzáldozatot Jahvénak: ⟨את⟩ a belsőséget beborító zsírt és ⟨את⟩ minden zsírt, amely a belsőségen van.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "És vigye elő"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "a selámim-áldozat"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a tűzáldozatot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a belsőséget beborító zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "beborító"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a belsőséget"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a belsőséget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden zsírt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "zsírt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "-n"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a belsőségen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:40.954797036Z",
+  "model": "glm-5.3"
+}

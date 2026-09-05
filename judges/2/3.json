@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És azt is mondtam: nem űzöm el ⟨את⟩ őket előletek, és lesznek nektek töviseknek ⟨az oldalaitokban⟩, és isteneik lesznek nektek tőrnek.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "és az is"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "űzöm el"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket (a lakókat)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "előletek"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "és lesznek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "töviseknek"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "és isteneik"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesznek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tőrnek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:49:24.288506495Z",
+  "model": "glm-5.3"
+}

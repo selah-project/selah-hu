@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És Avraham (Ábrahám) száz esztendő fia volt, amikor megszületett neki ⟨את⟩ Jichak (Izsák), a fia.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "És Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia volt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "amikor megszületett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jichak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a fia"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:08.233494997Z",
+  "model": "glm-5.3"
+}

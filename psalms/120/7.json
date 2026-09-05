@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 120,
+  "translation": "Én ⟨a⟩ salom ⟨oldalán⟩ vagyok; de ha szólok, ők háborúra ⟨vannak⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "de ha"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "szólok"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "háborúra ⟨vannak⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:48.259385658Z",
+  "model": "glm-5.3"
+}

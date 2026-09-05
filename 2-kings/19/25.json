@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Nem ⟨ezt⟩ hallottad-é? Messziről, az ősi napoktól tettem ⟨את⟩ azt, és megformáltam; most hoztam elő, hogy legyen pusztításul — romhalmokká a megerősített városok.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nem-é"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hallottad"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "messziről"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tettem"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "napoktól"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ősi(ktől)"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "és megformáltam(azt)"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "hoztam elő(azt)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "pusztításul"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "romhalmokká"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "kiszaggatott(ak)"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "városok"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "megerősített"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:58.490453738Z",
+  "model": "glm-5.3"
+}

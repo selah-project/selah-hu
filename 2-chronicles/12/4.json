@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És elfoglalta ⟨את⟩ a megerősített városokat, amelyek Jehúdához tartoztak, és eljutott egészen Jeruzsálemig.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "És elfoglalta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a megerősített városokat"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városokat"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "megerősített"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehúdához tartoztak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és eljutott"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálemig"
+    }
+  ],
+  "timestamp": "2026-09-04T23:15:42.936491655Z",
+  "model": "glm-5.3"
+}

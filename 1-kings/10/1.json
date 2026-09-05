@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Seba (Sába) királynője hallotta ⟨את⟩ Shelomo (Salamon) hírnevét Jahve neve miatt, és eljött, hogy próbára tegye őt rejtvényekkel.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "És-királynője"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Seba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hallotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo hírnevét"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hírnevét"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "neve miatt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "és-eljött"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "hogy-próbára-tegye-őt"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "rejtvényekkel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:43:11.371208279Z",
+  "model": "glm-5.3"
+}

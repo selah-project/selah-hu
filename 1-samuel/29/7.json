@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Most azért térj vissza, és menj békességgel, és ne cselekedj rosszat a filiszteusok fejedelmeinek szemében!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Most azért"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "térj vissza"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "és menj"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "békességgel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "cselekedj"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "fejedelmeinek"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filiszteusok"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:21.008463829Z",
+  "model": "glm-5.3"
+}

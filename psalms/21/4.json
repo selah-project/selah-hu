@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Mert eléje adtad a jó áldásokat, fejére tettél sokfémtisztaságú koronát.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "eléje adtad"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "áldásokat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "tettél"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "fejére"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "koronát"
+    },
+    {
+      "surface": "פז",
+      "gloss": "sokfémtisztaságú"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:53.692242165Z",
+  "model": "glm-5.3"
+}

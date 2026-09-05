@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És harcoltak a Jehúda (Júda) fiai Jerusálajim ellen, és elfoglalták ⟨את⟩ azt, és lecsapták azt a kard szája szerint, és ⟨את⟩ a várost tűzbe bocsátották.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "És harcoltak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusálajim ellen"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "és elfoglalták"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (Jerusálajim)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "és lecsapták"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "szája szerint"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "bocsátották"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzbe"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:58.546915821Z",
+  "model": "glm-5.3"
+}

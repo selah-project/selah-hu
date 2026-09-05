@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Az egyik sziklavég északon állt Mikhmasz felé, a másik délen Givá felé.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "sziklavég"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "⟨oszlopként emelkedett⟩"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "északon"
+    },
+    {
+      "surface": "מול",
+      "gloss": "velük szemben"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmasz"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "és a másik"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "délen"
+    },
+    {
+      "surface": "מול",
+      "gloss": "velük szemben"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Givá"
+    }
+  ],
+  "timestamp": "2026-09-04T19:09:14.415897427Z",
+  "model": "glm-5.3"
+}

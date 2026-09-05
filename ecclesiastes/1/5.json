@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És felkel a nap, és lenyugszik a nap, és a helye felé lihegve, ahol felkelt — ott ⟨van⟩ ⟨ő⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "és felkel"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "és lenyugszik"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és oda"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "a helyére"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "lihegve"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "felkelő"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:02.146849391Z",
+  "model": "glm-5.3"
+}

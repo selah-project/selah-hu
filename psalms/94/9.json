@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Aki ⟨a⟩ fület ültette, nem hall-⟨e⟩? Aki a szemet formálta, nem néz-⟨e⟩?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Aki ültette"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "fület"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nem…-e?"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hall"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "formálta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szemet"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nem…-e?"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "néz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:44.221979360Z",
+  "model": "glm-5.3"
+}

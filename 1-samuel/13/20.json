@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És lement egész Izráel a Pelistimhez, hogy lekoptassa ki-ki ⟨את⟩ az ekevasát és ⟨את⟩ kapáját és ⟨את⟩ fejszéjét és ⟨את⟩ csákányát.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "És lement"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "a Pelistimhez"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "hogy lekoptassa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ki-ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ekevasát"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "ekevasát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "kapáját"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kapáját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fejszéjét"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "fejszéjét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "csákányát"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "csákányát"
+    }
+  ],
+  "timestamp": "2026-09-04T19:09:24.079283069Z",
+  "model": "glm-5.3"
+}

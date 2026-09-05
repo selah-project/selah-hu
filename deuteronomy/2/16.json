@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És történt, amikor mind elfogytak a harc férfiai, meghalva a nép kellős közepéből,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "elfogytak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiai"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "a harcnak"
+    },
+    {
+      "surface": "למות",
+      "gloss": "meghalva"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "a kellős közepéből"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:00.343327436Z",
+  "model": "glm-5.3"
+}

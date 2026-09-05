@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Mácót kell enni ⟨את⟩ a hét napig, és nem látható nálad kovász, és nem látható nálad kovászkéreg sem egész határodban.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Mácót"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kell enni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hét napot"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a hét"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "napig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "látható"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nálad"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kovász"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "látható"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nálad"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kovászkéreg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "határodban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:26.040109383Z",
+  "model": "glm-5.3"
+}

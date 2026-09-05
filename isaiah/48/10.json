@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Íme, megtisztítottalak ⟨téged⟩, de nem ezüstben; kiválasztottalak ⟨téged⟩ a nyomorúság kemencéjében.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "megtisztítottalak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ezüstben"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "kiválasztottalak"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "kemencéjében"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a nyomorúság"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:35.013820041Z",
+  "model": "glm-5.3"
+}

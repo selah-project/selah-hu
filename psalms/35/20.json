@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Mert nem békét (salomot) beszélnek, és a föld csendes lakói ellen csalárd szavakat szőnek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békét (salomot)"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "beszélnek"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ⟨ellen⟩"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "csendes lakói"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavakat"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "csalárd"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "szőnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:55.151782208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És Saul és ők, és Izrael összes embere ⟨volt⟩ az Elah völgyében, harcban a filiszteusokkal.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "És Saul"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "és ők"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és összes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "völgyében"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "az Elah"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "harcban"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filiszteusokkal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:30:11.555425900Z",
+  "model": "glm-5.3"
+}

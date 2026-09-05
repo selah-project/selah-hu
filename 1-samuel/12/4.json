@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És mondták: nem sarasztottál minket, és nem tiportál minket, és nem vettél el semmit egy ember kezéből.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "sarasztottál minket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "tiportál minket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "vettél el"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "semmi(t)"
+    }
+  ],
+  "timestamp": "2026-09-04T19:08:19.647352596Z",
+  "model": "glm-5.3"
+}

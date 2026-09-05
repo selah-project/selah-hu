@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És megszülte neki Tachpenésznek a nővére ⟨את⟩ Genúbátot, az ő fiát, és Tachpenész elválasztotta őt a Paró házában ⟨belül⟩; és volt Genúbát a Paró házában a Paró fiai közepette.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "megszülte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nővére"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tachpenésznek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genúbátot"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genúbátot"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "elválasztotta őt"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tachpenész"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨belül⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és volt"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genúbát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepette"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:39.495474943Z",
+  "model": "glm-5.3"
+}

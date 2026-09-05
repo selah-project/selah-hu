@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És leeresztette őket kötéllel a ablakon keresztül, mert az ő háza a városfal falában ⟨volt⟩, és a városfalban lakott ⟨ő⟩.",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "És leeresztette őket"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "kötéllel"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "keresztül"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "a ablakon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "az ő háza"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "a falában"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "a városfal"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "és a városfalban"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "lakott"
+    }
+  ],
+  "timestamp": "2026-09-04T18:35:39.298772156Z",
+  "model": "glm-5.3"
+}

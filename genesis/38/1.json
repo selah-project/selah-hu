@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Történt abban az időben, hogy Jehúda (Júdás) leszállt testvéreitől ⟨את⟩, és elfordult egy adullámi emberhez, akinek a neve Hirá.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Történt"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "leszállt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda (Júdás)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreitől"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreitől"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "és elfordult"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy emberhez"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "adullámi"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "és a neve"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hirá"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:12.306603878Z",
+  "model": "glm-5.3"
+}

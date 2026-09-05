@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Áldja a Jahvét félőket, a kicsiket ⟨együtt⟩ a nagyokkal.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "áldja"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "a … félőit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "a kicsiket"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val\/vel"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "a nagyokkal"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:17.467340580Z",
+  "model": "glm-5.3"
+}

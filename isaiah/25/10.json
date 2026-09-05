@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Mert megnyugszik Jahve keze ezen a hegyen, és tiporva lesz Moáv alatta, ahogy a szalmát tiporják a trágyadombon, Madménában.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "megnyugszik"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ezen a hegyen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "és tiporva lesz"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáv"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "alatta"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "ahogy tiporják"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "a szalma"
+    },
+    {
+      "surface": "במי",
+      "gloss": "a... vizeiben"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madménában"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:30.645900754Z",
+  "model": "glm-5.3"
+}

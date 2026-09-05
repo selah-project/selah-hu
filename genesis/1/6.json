@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondta Elohim: legyen boltozat a vizek között, és legyen elválasztó a vizek és a vizek között.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "boltozat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "között"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "elválasztó"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "למים",
+      "gloss": "és a vizek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:07.682499955Z",
+  "model": "glm-5.3"
+}

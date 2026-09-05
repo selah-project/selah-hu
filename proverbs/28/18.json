@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Aki tiszta szívvel jár, megmenekül, aki görbe az útjain, egyetlen (zuhanásban) elhull.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "jár"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tiszta szívű"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "megmenekül"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "görbe"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "útjain"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "elhull"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "egyetlen (zuhansban)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:55.666045168Z",
+  "model": "glm-5.3"
+}

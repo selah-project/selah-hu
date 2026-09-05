@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Egy könyök ⟨legyen⟩ a hossza, és egy könyök a szélessége, négyszögű ⟨legyen⟩, és két könyök a magassága; szarvai ⟨legyenek⟩ abból ⟨egyből⟩.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "egy könyök"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és egy könyök"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "négyszögű"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "és két könyök"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "a magassága"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "szarvai"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:00.283195452Z",
+  "model": "glm-5.3"
+}

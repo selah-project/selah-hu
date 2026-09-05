@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paróhót (a fáraót), Micrajim (Egyiptom) királyát, és ⟨את⟩ szolgáit, és ⟨את⟩ fejedelmeit, és ⟨את⟩ egész népét.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paróhót"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróhó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szolgáit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fejedelmeit"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "fejedelmeit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész népét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    }
+  ],
+  "timestamp": "2026-09-04T20:42:56.286084167Z",
+  "model": "glm-5.3"
+}

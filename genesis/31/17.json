@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És felkelt Jaakob (Jákob), és felrakta ⟨את⟩ fiait és ⟨את⟩ feleségeit a tevékre.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "és felrakta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "feleségeit"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "feleségeit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "a tevékre"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:36.838053019Z",
+  "model": "glm-5.3"
+}

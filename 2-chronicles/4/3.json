@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ökörfigurák ⟨voltak⟩ alatta, körben körben övezve ⟨את⟩ azt, tíz könyöknyi ⟨területen⟩ körülfogva ⟨את⟩ a tengert körben; két sorban ⟨álltak⟩ az ökrök, belesütve az öntésébe.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "És ökörfigurák"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "ökör"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨voltak⟩"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körben"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körben"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "övezve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "könyöknyi ⟨területen⟩"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "körülfogva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengert"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körben"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "sorban"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "az ökrök"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "belesütve"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "az öntésébe"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:52.486612381Z",
+  "model": "glm-5.3"
+}

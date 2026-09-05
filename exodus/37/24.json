@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Tízékény tiszta aranyból csinálta ⟨את⟩⟨ő⟩t, és ⟨את⟩ minden edényét.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "tízékény"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "csinálta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden edényét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "edényét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:22.181352431Z",
+  "model": "glm-5.3"
+}

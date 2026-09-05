@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "és ⟨את⟩ az egész gyülekezetet gyűjtsd össze a Találkozás Sátrának bejáratához.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az egész gyülekezetet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gyülekezetet"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gyűjtsd össze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratához"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Sátrának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a Találkozás"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:51.680296217Z",
+  "model": "glm-5.3"
+}

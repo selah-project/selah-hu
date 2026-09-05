@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 21:14",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És eltemették ⟨את⟩ Saul csontjait és Jehonatánét, a fiát, Binjámin földjén, Celában, Kísnek, az ő atyjának sírjában; és végrehajtottak mindent, amit a király parancsolt, és Elohim kiengesztelődött a föld iránt ezután.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "és Jehonatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjámin"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "Celában"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "sírjában"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kís"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő atyja"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "és végrehajtottak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "és kiengesztelődött"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a föld iránt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ezután"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ezután"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:31.179724037Z",
+  "model": "glm-5.3"
+}

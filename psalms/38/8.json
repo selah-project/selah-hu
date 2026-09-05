@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Mert derekam megtelt perzselődéssel, és nincs épség testemben.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "derekam"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "megtelt"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "perzselődéssel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "épség"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "testemben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:27.199144571Z",
+  "model": "glm-5.3"
+}

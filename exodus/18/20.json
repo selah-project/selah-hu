@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "és intsd őket ⟨את⟩ a rendelkezések és ⟨את⟩ a Tóra (törvények) elé, és ismertesd velük ⟨את⟩ az utat, amelyen járjanak, és ⟨את⟩ a cselekedetet, amelyet megtegyenek.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "és intsd"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "őket ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a rendelkezéseket"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "a rendelkezések"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Tórát"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "a Tóra"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "és ismertesd"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az utat"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "az utat"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "amelyen járjanak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "—"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a cselekedetet"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "a cselekedetet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "megtegyenek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:22.994529793Z",
+  "model": "glm-5.3"
+}

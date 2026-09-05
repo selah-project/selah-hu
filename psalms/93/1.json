@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 93,
+  "translation": "Jahve királlyá lett, fenséget öltött magára, Jahve öltözte fel ⟨az⟩ erőt, felövezte magát; sőt megszilárdult ⟨a⟩ földkerekség, nem inog meg.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királlyá lett"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "fenséget"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "öltött magára"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "öltözte fel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erőt"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "felövezte magát"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "megszilárdult"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "földkerekség"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "inog meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:11.349145355Z",
+  "model": "glm-5.3"
+}

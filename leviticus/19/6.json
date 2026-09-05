@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Áldozástok napján egyék meg ⟨azt⟩, és másnapra; és a megmaradó a harmadik napig tűzben égessék el.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "áldozástok"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "egyék meg"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "és másnapra"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "és a megmaradó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "harmadik"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "égessék el"
+    }
+  ],
+  "timestamp": "2026-09-04T17:17:11.857613259Z",
+  "model": "glm-5.3"
+}

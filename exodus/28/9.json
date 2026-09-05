@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És vedd ⟨את⟩ a két sohám-követ, és véssed rájuk Izráél (Izrael) fiainak neveit",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "és vedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a két sohám-követ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "két"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "követ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "sohám"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "és véssed"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "neveit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:17.331659739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És felálltak a futók, minden ember és az ő fegyvere kezében, a ház jobb vállától a ház bal válláig, az oltárnál és a háznál, a király körül körben.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "És felálltak"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "a futók"
+    },
+    {
+      "surface": "איש",
+      "gloss": "minden ember"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "és az ő felszerelése"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "a vállától"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "válláig"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bal"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "az oltárhoz"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "és a házhoz"
+    },
+    {
+      "surface": "על",
+      "gloss": "körül"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:53.209133483Z",
+  "model": "glm-5.3"
+}

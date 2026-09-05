@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És Somron (Szamária) prófétáiban hiábavalóságot láttam: Baalban prófétáltak, és félrevezették ⟨את⟩ népemet, ⟨את⟩ Izráelt.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "És … prófétáiban"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Somron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "hiábavalóságot"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "prófétáltak"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baalban"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "és félrevezették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:54.515022809Z",
+  "model": "glm-5.3"
+}

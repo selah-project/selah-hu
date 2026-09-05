@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És szólt az ő fiaihoz, mondván: Nyergeljétek meg nekem ⟨את⟩ a szamarat! És megnyergelték.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "az ő fiai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "nyergeljetek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szamarat"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "a szamár"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "és megnyergelték"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:33.784670605Z",
+  "model": "glm-5.3"
+}

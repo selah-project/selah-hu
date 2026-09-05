@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És úgy cselekedtek a varázslók az ő rejtelmeikkel, hogy előhozzák ⟨את⟩ a szúnyogokat, de nem tudták; és lettek a szúnyogok az emberen és a jószágon.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "És cselekedtek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "a varázslók"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "az ő rejtelmeikkel"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "hogy előhozzák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szúnyogokat"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "a szúnyogokat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tudták"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "a szúnyogok"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "az emberen"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "és a jószágon"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:36.573564300Z",
+  "model": "glm-5.3"
+}

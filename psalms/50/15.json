@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "És hívj engem a nyomorúság napján: megszabadítlak téged, és engem tisztelsz.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "és hívj engem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napján"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nyomorúságnak"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "megszabadítlak téged"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "és engem tisztelsz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:11.570585949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Eszem-e húst bikákból, és bakok vérét iszom?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "eszem-e"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húst"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "bikákból"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "és vérét"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "bakok"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "iszom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:11.570180557Z",
+  "model": "glm-5.3"
+}

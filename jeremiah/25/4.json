@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És küldött hozzátok Jahve ⟨את⟩ minden szolgáját, a prófétákat, korán kelve és elküldve, de nem hallgattatok, és nem hajlottátok ⟨את⟩ fületeket a hallásra.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "És küldött"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "hozzátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden szolgáját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáját"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "a prófétákat"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "korán kelve"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "és elküldve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "hallgattatok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "hajlottátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fületeket"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "fületeket"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "a hallásra"
+    }
+  ],
+  "timestamp": "2026-09-04T20:42:35.625751223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Gád fiai nemzetségeik szerint: Cefonnak ⟨a⟩ nemzetsége ⟨a⟩ cefoniak, Chagginak ⟨a⟩ nemzetsége ⟨a⟩ chaggiak, Suninak ⟨a⟩ nemzetsége ⟨a⟩ suniak.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemzetségeik szerint"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "Cefonnak"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a nemzetsége"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "a cefoniaknak"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "Chagginak"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a nemzetsége"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "a chaggiaknak"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Suninak"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a nemzetsége"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "a suniaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:31.772543679Z",
+  "model": "glm-5.3"
+}

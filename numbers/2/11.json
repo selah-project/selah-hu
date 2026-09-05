@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És az ő serege és az ő megszámláltjai: hat és negyven ezer és ötszáz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "És az ő serege"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "és az ő megszámláltjai"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "hat"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "és negyven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "és öt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:43.464265014Z",
+  "model": "glm-5.3"
+}

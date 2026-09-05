@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Szeretsz minden felfaló szót, csalárdság nyelve!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "szeretsz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szót"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "felfaló"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nyelve"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "csalárdság"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:14.696450134Z",
+  "model": "glm-5.3"
+}

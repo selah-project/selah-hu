@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És ⟨את⟩ vétkét vigye Jahvénak: hibátlan kost a juhnyájból, becslésed szerint vétekáldozatul, a kohenhez.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "vétkét"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "vétkét"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "vigye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kost"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hibátlan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a juhnyájból"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a juhnyájból"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "becslésed szerint"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "vétekáldozatul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohenhez"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:48.043501980Z",
+  "model": "glm-5.3"
+}

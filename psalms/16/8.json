@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Szemem elé tettem Jahvét szüntelenül, mert ⟨ő⟩ jobbomon van, nem ingok meg.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Szemem elé tettem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "magam előtt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "jobbomon felől"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ingok meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:52.380364839Z",
+  "model": "glm-5.3"
+}

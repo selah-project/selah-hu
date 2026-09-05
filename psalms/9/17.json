@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Ismeretessé vált Jahve: ítéletet végrehajtott, keze munkájába gabalyodott a gonosz. Higgajon. Szela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Ismeretessé vált"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ítéletet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "végrehajtott"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "munkájába"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "keze"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "gabalyodott"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:48.368780440Z",
+  "model": "glm-5.3"
+}

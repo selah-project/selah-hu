@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És a föld haszna mindenre ⟨van⟩: ⟨a⟩ király a mezőnek szolgál.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "És a haszna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨van⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "a mezőnek"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "szolgál"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:56.484055228Z",
+  "model": "glm-5.3"
+}

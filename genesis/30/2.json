@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És felgerjedett Jaakov haraga Ráhel ellen, és mondta: „Helyeállója-e én az Elohimnak (Istennek), aki megtagadta tőled a méh gyümölcsét?”",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "És felgerjedett"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haraga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Ráhel (ellen)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "Helyeállója-e"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimnak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "megtagadta"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "tőled"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "gyümölcsét"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "a méh (gyümölcsét)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:08.193016544Z",
+  "model": "glm-5.3"
+}

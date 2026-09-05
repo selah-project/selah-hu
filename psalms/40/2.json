@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Vártam, vártam kitartóan Jahvét, és ⟨ő⟩ felém hajolt, és meghallotta kiáltásomat.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "vártam"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "kitartóan vártam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "és felém hajolt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "felém"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "és meghallotta"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kiáltásomat"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:26.514598723Z",
+  "model": "glm-5.3"
+}

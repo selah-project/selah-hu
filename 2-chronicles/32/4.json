@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És összegyűlt sok nép, és elzárták ⟨את⟩ mind a forrásokat és ⟨את⟩ a patakot, amely vágtat az ország közepén, ezt mondván: miért jöjjenek Assur királyai, és sok vizet találjanak?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "és összegyűlt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sok"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "és elzárták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind a forrásokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "a forrásokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a patakot"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "a patakot"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "vágtató"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepén"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az országnak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondva"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "jöjjenek"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assurnak"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "és találjanak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sokat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:22:50.711630972Z",
+  "model": "glm-5.3"
+}

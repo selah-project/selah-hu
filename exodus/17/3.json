@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És megszomjazott ott a nép vízre, és zúgolódott a nép Moshe (Mózes) ellen, és mondta: Miért ez, hogy felhoztál minket Micrajimból (Egyiptomból), hogy meghaljon ⟨את⟩ én, és ⟨את⟩ fiaim, és ⟨את⟩ jószágaim a szomjúságtól?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "És megszomjazott"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "למים",
+      "gloss": "vízre"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "és zúgolódott"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "felhoztál minket"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból (Egyiptomból)"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "hogy meghaljon"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "én"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiaim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "jószágaim"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "jószágaim"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "a szomjúságtól"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:24.566260563Z",
+  "model": "glm-5.3"
+}

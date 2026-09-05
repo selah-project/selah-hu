@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És megmondtatott Dávidnak ⟨את⟩ az, amit tett Ricspa, Aija lánya, Saul ágyasa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "és megmondtatott"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit tett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ricspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aija"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "ágyasa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:46.478680026Z",
+  "model": "glm-5.3"
+}

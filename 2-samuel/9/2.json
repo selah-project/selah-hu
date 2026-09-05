@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Sául házánál ⟨volt⟩ egy szolga, és a neve Civa; és hívták őt Dávidhoz, és mondta a király neki: Te vagy Civa? És ő mondta: ⟨én⟩ a szolgád.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "Sául házánál"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolga"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "és a neve"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Civa"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "és hívták"
+    },
+    {
+      "surface": "לו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Dávidhoz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "te vagy"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Civa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a szolgád"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:12.501481130Z",
+  "model": "glm-5.3"
+}

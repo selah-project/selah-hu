@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "Dicsérjétek őt, nap és hold; dicsérjétek őt, minden fényes csillagok!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dicsérjétek őt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "nap"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "és hold"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dicsérjétek őt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "csillagok"
+    },
+    {
+      "surface": "אור",
+      "gloss": "fényes"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:12.173550493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "És mondta Joszef a testvéreinek: Én Joszef vagyok — él-e még az én apám? De testvérei nem tudtak neki felelni, mert megrémültek az ő színe előtt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreinek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "még-e"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apám"
+    },
+    {
+      "surface": "חי",
+      "gloss": "él"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "nem tudtak",
+      "marks": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "felelni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "neki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "megremültek"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "az ő színe előtt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:15.809833659Z",
+  "model": "glm-5.3"
+}

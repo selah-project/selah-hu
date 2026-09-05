@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 20:42",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És hátrafordultak Izrael férfia elől a pusztág útja felé, de a csata szorosan nyomában volt, és a városokból ⟨jövők⟩ pusztították őt a maguk közepette.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "és hátrafordultak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útja"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "a pusztának"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "és a csata"
+    },
+    {
+      "surface": "הדביקתהו",
+      "gloss": "szorosan nyomában volt"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és akik"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "a városokból"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "pusztították"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "őt — a בתוכו közepette viszonyítva"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "a maguk közepette"
+    }
+  ],
+  "timestamp": "2026-09-04T19:00:51.412334903Z",
+  "model": "glm-5.3"
+}

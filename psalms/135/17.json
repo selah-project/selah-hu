@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Fülük van, de nem hallanak; orruk sincs — nincs lehelet a szájukban.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "fülük"
+    },
+    {
+      "surface": "להם",
+      "gloss": "van"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "hallanak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "orr"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨van⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lehelet"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "a szájukban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:24.661535237Z",
+  "model": "glm-5.3"
+}

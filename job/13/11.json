@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Nem-e rettent meg ⟨את⟩ titeket az ő fensége, és rettegése rátok esik?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nem-e"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "fensége"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "rettent meg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "és rettegése"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "rátok esik"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "rátok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:20:16.134355208Z",
+  "model": "glm-5.3"
+}

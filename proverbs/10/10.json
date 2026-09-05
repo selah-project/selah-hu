@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Aki szemével villog, fájdalmat okoz, és a bolondajkú elbukik.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "Aki villog"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szemével"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "okoz"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "fájdalmat"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "és a bolond"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ajkú"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "elbukik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:08.652587604Z",
+  "model": "glm-5.3"
+}

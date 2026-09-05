@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "„Menj be, szól Paraóhoz (fáraóhoz), Micrajim (Egyiptom) királyához, hogy ⟨ő⟩ engedje el Izráel fiait az ő földjéről.”",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Menj be"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyához"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "hogy elengedje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráel fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "az ő földjéről"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:34.402362857Z",
+  "model": "glm-5.3"
+}

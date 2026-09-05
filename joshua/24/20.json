@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Mert ha elhagyjátok ⟨את⟩ Jahvét és idegen isteneket szolgáltok, akkor visszafordul és rosszat tesz veletek, és kiirt titeket ⟨את⟩, azután hogy jót tett veletek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert ha"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "elhagyjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "és szolgáltok"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "visszafordul"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "és rosszat tesz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "és kiirt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "azután"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "jót tett"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "veletek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:48:09.363792539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ne add ⟨את⟩ szádat, hogy vétkezzél ⟨את⟩ testeddel, és ne mondd a követ előtt, hogy tévedés ⟨az⟩ volt; miért haragudnék az Elohim a hangodra, és rontaná el ⟨את⟩ kezeid munkáját?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "add"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szádat"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "szádat"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "hogy vétkezzél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testeddel"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "testeddel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mondd"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "a követ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "tévedés"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "haragudnék"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "a hangodra"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "és rontaná el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezeid munkáját"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "munkáját"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "kezeid"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:56.483117742Z",
+  "model": "glm-5.3"
+}

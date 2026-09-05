@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És elment, és megmondta az Elohim emberének; az pedig mondta: Menj, add el ⟨את⟩ az olajat, és fizesd meg ⟨את⟩ adósságaidat, és te és fiaid éljetek a maradékból.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "elment"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "megmondta"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "menj"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "add el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az olajat"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "az olajat"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "és fizesd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adósságaidat"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "adósságaidat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és te"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "fiaid"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "élj"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "a maradékból"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:10.865016741Z",
+  "model": "glm-5.3"
+}

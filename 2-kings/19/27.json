@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ülést, kimeneteled és bejöveteled ismerem, és ⟨את⟩ felindulásodat ellenem.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ülés(ed)"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "kimeneteled"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "bejöveteled"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismerem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "felindulásodat"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "felindulásodat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ellenem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:58.491149822Z",
+  "model": "glm-5.3"
+}

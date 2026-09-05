@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Mert szegény és szűkölködő vagyok ⟨én⟩, és a szívem meg van sebezve bennem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עני",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és szűkölködő"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "vagyok ⟨én⟩"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "és a szívem"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "meg van sebezve"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "bennem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:18.414013647Z",
+  "model": "glm-5.3"
+}

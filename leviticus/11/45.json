@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Mert én ⟨vagyok⟩ Jahve, a ki felhoz ⟨את⟩ titeket Micrajim (Egyiptom) földjéről, hogy legyek néktek Elohimnak; és szentek lesztek, mert szent ⟨vagyok⟩ én.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "a ki felhoz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "hogy legyek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "néktek"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimnak"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "és szentek lesztek"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:56.050244426Z",
+  "model": "glm-5.3"
+}

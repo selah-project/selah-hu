@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És összegyűlt egész Izráel Davídhoz (Dávid), Hevronba (Hebrón), mondván: „Íme, a te csontod és a te húsod mi vagyunk.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "összegyűlt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Hevronba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "csontod"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "és húsod"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-04T23:03:38.766871640Z",
+  "model": "glm-5.3"
+}

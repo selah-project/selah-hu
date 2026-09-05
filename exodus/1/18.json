@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És hívatott Micrajim királya a bábákat, és mondta nekik: Miért tettétek ezt a dolgot, hogy életben tartottátok ⟨את⟩ a gyermekeket?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "és hívatott"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "a bábáknak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "להן",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miért"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "tettétek"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "hogy életben tartottátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyermekeket"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "a gyermekeket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:26.104764008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És kiment Jehórám király ama napon Somronból, és számba vette ⟨את⟩ egész Izráélt.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "És kiment"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehórám"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ama napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Somronból"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "és számba vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Izráélt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráélt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:21.621967642Z",
+  "model": "glm-5.3"
+}

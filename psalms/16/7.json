@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Áldom ⟨את⟩ Jahvét, aki tanácsot adott nekem; sőt éjjelente intenek engem veséim.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Áldom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "tanácsot adott nekem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "éjjelente"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "intenek engem"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "veséim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:52.380206845Z",
+  "model": "glm-5.3"
+}

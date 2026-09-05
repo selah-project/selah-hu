@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És bevitt ⟨את⟩ engem ⟨az⟩ udvar bejáratához; és láttam, és íme, egy lyuk ⟨volt⟩ a falban.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bevitt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "engem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratához"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvar"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "és láttam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "חר",
+      "gloss": "lyuk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "a falban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:01:05.701568858Z",
+  "model": "glm-5.3"
+}

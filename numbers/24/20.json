@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És látta ⟨את⟩ Amálékot, és felemelte az ő példabeszédét, és mondta: a népek elsője Amálék, és az ő végssője: egészen az elveszésig.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amálékot"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálékot"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "és felemelte"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "az ő példabeszédét"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "elsője"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálék"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "és az ő végssője"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "egészen…-ig"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "az elveszésig"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:39.849387866Z",
+  "model": "glm-5.3"
+}

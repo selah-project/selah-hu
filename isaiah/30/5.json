@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Mindenki megszégyenül ⟨az⟩ ⟨a⟩ nép miatt, amely nem használ nekik — nem segítségül, és nem haszonra, hanem szégyenre, sőt gyalázatra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Mindenki"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "megszégyenül"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "használ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "segítségül"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "haszonra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "szégyenre"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "gyalázatra"
+    }
+  ],
+  "timestamp": "2026-09-04T20:18:00.105097984Z",
+  "model": "glm-5.3"
+}

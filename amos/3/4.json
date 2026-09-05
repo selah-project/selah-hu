@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Üvölt-e oroszlán az erdőben, ha nincs zsákmánya? Ad-e ki a fiatal oroszlán hangját a barlangjából, ha nem fogott?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Üvölt-e"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "oroszlán"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "az erdőben"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "zsákmánya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Ad-e ki"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "fiatal oroszlán"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "a barlangjából"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ha nem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "fogott"
+    }
+  ],
+  "timestamp": "2026-09-04T21:24:17.096211873Z",
+  "model": "glm-5.3"
+}

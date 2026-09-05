@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Mert én sántulásra kész vagyok, és fájdalmam szüntelenül ⟨van⟩ előttem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "sántulásra"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kész vagyok"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "és fájdalmam"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:43.737184494Z",
+  "model": "glm-5.3"
+}

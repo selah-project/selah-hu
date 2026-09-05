@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne áldozz kovásszal együtt vért, az én áldozatomét, és ne maradjon éjszakára az én ünnepem zsírja reggelig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "áldozz"
+    },
+    {
+      "surface": "על",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kovásszal"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vért"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "áldozatomét"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "maradjon éjszakára"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "zsírja"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ünnepemnek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–ig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:59.497307694Z",
+  "model": "glm-5.3"
+}

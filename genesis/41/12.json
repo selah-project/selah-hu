@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És volt ott velünk ⟨את⟩ egy ifjú, héber, szolga a szakácsok fejénél; és elmeséltük neki, és ő megfejtette nekünk ⟨את⟩ álmainkat, ki-kit a maga álma szerint fejtett meg.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "És ott"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk",
+      "marks": "egy ifjú, héber"
+    },
+    {
+      "surface": "נער",
+      "gloss": "egy ifjú"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "héber"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolga"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "a fejénél"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "a szakácsok"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "és elmeséltük"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "és megfejtette"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "álmainkat"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "álmainkat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ki-kit"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "a maga álma szerint"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "fejtett meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:45.132906208Z",
+  "model": "glm-5.3"
+}

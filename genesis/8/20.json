@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És épített Noach oltárt Jahvénak, és vett minden tiszta állatból és minden tiszta madárból, és felvitt égőáldozatokat az oltáron.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "És épített"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és vett"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "állatból"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "madárból"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "és felvitt"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "égőáldozatokat"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "az oltáron"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:29.198389646Z",
+  "model": "glm-5.3"
+}

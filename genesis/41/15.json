@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És monda Paroh Jószéfnek: Álmot álmodtam, és nincs, aki megfejtse ⟨את⟩; én pedig hallottam felőled, mondván: hallgatva ⟨את⟩ az álmot megfejted.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nek"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéfnek"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Álmot"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "álmodtam"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "és aki megfejtse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "aki megfejtse"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hallottam"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "felőled"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hallgatva"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "az álmot"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "megfejted"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "az álmot"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:04.725595240Z",
+  "model": "glm-5.3"
+}

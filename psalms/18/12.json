@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Setétséget tett rejtekéül, köröskörül ⟨volt⟩ sátra ⟨az⟩-e; vizek setétsége, felhők sűrűje az egekből.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "tett"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "setétséget"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "rejtekéül"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "sátra"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "setétsége"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "sűrűje"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "az egekből"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:19.616148790Z",
+  "model": "glm-5.3"
+}

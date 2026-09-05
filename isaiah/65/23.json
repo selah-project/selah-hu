@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "Nem fáradoznak hiába, és nem szülnek rémületre; mert Jahve áldottainak magja ⟨ők⟩, és utódaik ⟨velük⟩ együtt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "fáradoznak"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "hiába"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "szülnek"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "rémületre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magja"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "áldottainak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "és utódaik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "velük"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:04.965193237Z",
+  "model": "glm-5.3"
+}

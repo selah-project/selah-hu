@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 4:4",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És miféle dolgotok van nekem, ⟨ti⟩ Cór és Cidon, és Pleset minden körzete? A viszonzást ti fizettek-⟨e⟩ nekem? És ha nekem fizettek, könnyen, gyorsan visszafizetem a ti viszonzásotokat a ti fejetekre.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "מה",
+      "gloss": "miféle"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cór"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "és Cidon"
+    },
+    {
+      "surface": "ווכל",
+      "surfaceNote": "cleaned form",
+      "gloss": "és minden",
+      "surfaceCorrected": "וכל"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "körzete"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pleset"
+    },
+    {
+      "surface": "הגמול",
+      "gloss": "a viszonzást"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "משלמים",
+      "gloss": "fizettek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "fizettek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "קל",
+      "gloss": "könnyen"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "gyorsan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "visszafizetem"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "viszonzásotokat"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "fejetekre"
+    }
+  ],
+  "timestamp": "2026-09-04T23:44:40.892023881Z",
+  "model": "glm-5.3"
+}

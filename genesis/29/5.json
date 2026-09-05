@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És mondta nekik: Ismeritek-e ⟨את⟩ Lavánt, Náchor fiát? És mondták: Ismerjük.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Ismeritek-e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavánt"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavánt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Ismerjük"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:03.189779267Z",
+  "model": "glm-5.3"
+}

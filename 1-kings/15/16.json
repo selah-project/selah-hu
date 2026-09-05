@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És háború volt Ászá és Báhsa (Baasa), Jiszráél (Izrael) királya között egész napjaikon.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "És háború"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Ászá"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Báhsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "napjaikon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:42.977217036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És mondta nekik Mózes (Moshe): „Senki ne hagyjon belőle ⟨meg⟩ holnap reggelig.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mózes"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "senki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "hagyjon felesleget"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggelig"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:58.818639468Z",
+  "model": "glm-5.3"
+}

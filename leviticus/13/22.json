@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Ha pedig terjed a bőrön, akkor tisztátalannak nyilvánítja őt a pap: kétséges kiütés ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha pedig"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "terjed"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "terjedni"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "a bőrön"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "akkor tisztátalannak nyilvánítja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "kétséges kiütés"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:25.706967207Z",
+  "model": "glm-5.3"
+}

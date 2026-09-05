@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Dicséret ⟨a⟩ Dávidnak (Dávidé). Magaslakra emellek téged, Elohimom, ⟨a⟩ király, és áldom Nevedet örökre és mindörökké.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Dicséret"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨a⟩ Dávidnak (Dávidé)"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Magaslakra emellek téged"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨a⟩ király"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "és áldom"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Nevedet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és mindörökké"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:21.597812735Z",
+  "model": "glm-5.3"
+}

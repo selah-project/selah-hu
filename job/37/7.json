@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Minden ember kezét pecsételi be, hogy minden ember megismerje ⟨az ő⟩ tetteit.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "pecsételi be"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hogy megismerje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ember"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "tettét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:28:21.540057061Z",
+  "model": "glm-5.3"
+}

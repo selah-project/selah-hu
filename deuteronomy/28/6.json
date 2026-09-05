@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Áldott ⟨leszel⟩ a te bejöveteledben, és áldott ⟨leszel⟩ a te kimeneteledben.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "a te bejöveteledben"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "és áldott"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "a te kimeneteledben"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:48.747372615Z",
+  "model": "glm-5.3"
+}

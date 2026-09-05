@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És leverték a jehudák minden ellenségüket kardcsapással, öldökléssel és pusztítással, és úgy tettek gyűlölőikkel, ahogy akarták.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "leverték"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "a jehudák"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ellenségüket"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "csapással"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "és öldökléssel"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "és pusztítással"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "és úgy tettek"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "gyűlölőikkel"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "ahogy akarták"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:30.642673191Z",
+  "model": "glm-5.3"
+}

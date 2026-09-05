@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "vegyenek maguknak a papok, ki-ki az ⟨את⟩ ismerősétől, és ők erősítsék meg ⟨את⟩ a ház repedéseit mindenütt, ahol repedés található ott.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "vegyenek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maguknak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ki-ki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-tól",
+      "marks": "az ismerősétől"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ismerősétől"
+    },
+    {
+      "surface": "והם",
+      "gloss": "és ők"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "erősítsék meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ház repedéseit"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "repedéseit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindenütt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "található"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "repedés"
+    }
+  ],
+  "timestamp": "2026-09-05T00:48:01.490740940Z",
+  "model": "glm-5.3"
+}

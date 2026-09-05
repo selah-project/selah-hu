@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Kimentett engem erős ellenségemtől és gyűlölőimtől, mert erősebbek voltak nálam.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Kimentett engem"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ellenségemtől"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erős"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "és gyűlölőimtől"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "erősebbek voltak"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nálam"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:31.704605515Z",
+  "model": "glm-5.3"
+}

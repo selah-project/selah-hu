@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És hallottam ⟨את⟩ Adonáj hangját, amint mondja: ⟨את⟩ kit küldjek, és ki menjen nekünk? És mondtam: íme én, küldj engem.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "És hallottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonáj hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "amint mondja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kit"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "küldjek"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "menjen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "És mondtam"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme én"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "küldj engem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:19.143625791Z",
+  "model": "glm-5.3"
+}

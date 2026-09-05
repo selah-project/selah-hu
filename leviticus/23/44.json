@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És beszélt Moshe (Mózes) ⟨את⟩ Jahve kijelölt ünnepeiről Izrael fiaihoz.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "és beszélt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ünnepeit"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "kijelölt ünnepeit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaihoz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:57.692862432Z",
+  "model": "glm-5.3"
+}

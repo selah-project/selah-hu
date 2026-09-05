@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És ezek Jicchák nemzetségei, Avrahám fia: Avraham nemzette ⟨את⟩ Jicchákot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "És ezek"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nemzetségei"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchák"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahámnak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchákot"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchákot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:31:10.231914682Z",
+  "model": "glm-5.3"
+}

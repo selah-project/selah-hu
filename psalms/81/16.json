@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Jahve gyűlölői meghazudtolnák ⟨őt⟩, és idejük örökre tartana.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "gyűlölői"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "meghazudtolnák"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lenne"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "idejük"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:31.247984607Z",
+  "model": "glm-5.3"
+}

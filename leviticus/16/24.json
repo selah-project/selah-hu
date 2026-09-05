@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És megmossa ⟨את⟩ testét vízben szent helyen, és felveszi ⟨את⟩ ruháit, és kimegy, és elkészíti ⟨את⟩ égőáldozatát és ⟨את⟩ a nép égőáldozatát, és engesztelést szerez érte és a népért.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "És megmossa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testét"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "testét"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "és felveszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "és kimegy"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és elkészíti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "égőáldozatát"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "égőáldozatát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nép égőáldozatát"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "égőáldozatát"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztelést szerez"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "érte"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "és"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népért"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:17.896752905Z",
+  "model": "glm-5.3"
+}

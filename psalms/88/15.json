@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Miért vetsz el, Jahve, és életerőmet miért rejteted el előlem orcádat?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "vetsz el"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "életerőmet"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "rejteted el"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "előlem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:07.915067634Z",
+  "model": "glm-5.3"
+}

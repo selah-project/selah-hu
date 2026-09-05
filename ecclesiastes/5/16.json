@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Sőt minden napját sötétségben eszi ⟨meg⟩, és sokat haragudott, és az ő betegsége és felháborodás.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "napját"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sötétségben"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eszi"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "és haragudott"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sokat"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "és betegsége"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "és felháborodás"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:29.781934579Z",
+  "model": "glm-5.3"
+}

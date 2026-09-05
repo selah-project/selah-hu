@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 16:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És szólt Koráchnak (Kórach) és egész gyülekezetének, mondván: Reggel megismerteti Jahve, ki ⟨את⟩ az övé, és ⟨את⟩ a szentet, és közel hozza ő magához; ⟨את⟩ és akit kiválaszt, azt hozza közel ő magához.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Koráchnak... nak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korách"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "gyülekezetének"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "Reggel"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "megismerteti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az övé (aki az övé)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szentet"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "a szentet"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "és közel hozza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ő magához"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ és akit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "kiválaszt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "hozza közel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ő magához"
+    }
+  ],
+  "timestamp": "2026-09-04T17:36:03.180533565Z",
+  "model": "glm-5.3"
+}

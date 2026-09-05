@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Fogva tartod ⟨את⟩ szemem pilláit; összezavarodtam, és nem szólok.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Fogva tartod"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "pilláit"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemem"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "összezavarodtam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "szólok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:15.572081457Z",
+  "model": "glm-5.3"
+}

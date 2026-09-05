@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "és Salmón nemzette ⟨את⟩ Bóáz(t), és Bóáz nemzette ⟨את⟩ Ovedet",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "és Salmón"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bóázt"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bóázt"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "és Bóáz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedet"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovedet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:10.328211439Z",
+  "model": "glm-5.3"
+}

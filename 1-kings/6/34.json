@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 6:34",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És két kaput készített berósfából: a kapu egyik szárnyából kettő forgó szárnyat, és a második kapuból két forgó szárnyat.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "És két"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "kaput"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "-fából"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berósfából"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "צלעים",
+      "gloss": "szárny"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "a kapunak"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyiknek"
+    },
+    {
+      "surface": "גלילים",
+      "gloss": "forgó szárny"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "és kettő"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "csapó szárny"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "a kapunak"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a másodiknak"
+    },
+    {
+      "surface": "גלילים",
+      "gloss": "forgó szárny"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:18.526020762Z",
+  "model": "glm-5.3"
+}

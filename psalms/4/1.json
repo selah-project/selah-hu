@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "A kórusvezetőnek, húros hangszerekkel. Zsoltár, Dávid (Dávid)tól.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A kórusvezetőnek"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "húros hangszerekkel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:59.956523430Z",
+  "model": "glm-5.3"
+}

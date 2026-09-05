@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Nyelvük ölő nyíl; csalást szólt; szájával békét beszél ⟨את⟩ felebarátjával, de szívében csapdát vet.",
+  "tokens": [
+    {
+      "surface": "חץ",
+      "gloss": "nyíl"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "ölő"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "nyelvük"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "csalást"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "szájával"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátjával"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátjának"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "beszél"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "és-szívében"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "vet"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "csapdáját"
+    }
+  ],
+  "timestamp": "2026-09-04T20:35:48.896630858Z",
+  "model": "glm-5.3"
+}

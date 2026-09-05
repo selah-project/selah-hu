@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Utálatosság Jahve előtt a torz szívűek, de kedvére valók ⟨otte⟩ az úton tökéletesek.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "utálatosság"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "torz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívűek"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "de kedvére valók"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "tökéletesek"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "az úton"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:25.574021484Z",
+  "model": "glm-5.3"
+}

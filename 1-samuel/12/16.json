@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Sőt most álljatok meg, és lássátok ⟨את⟩ ezt a nagy dolgot, amelyet Jahve cselekszik a szemetek láttára.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Sőt"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "álljatok meg"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "és lássátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a nagy dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dolgot"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "a szemetek láttára"
+    }
+  ],
+  "timestamp": "2026-09-04T19:07:02.828944519Z",
+  "model": "glm-5.3"
+}

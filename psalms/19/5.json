@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Az egész földre kiment ⟨az⟩ ⟨ő⟩ mérőzsinórjuk, és a világ széléig ⟨érnek⟩ beszédeik; a napnak sátrat állított azokban.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földre"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kiment"
+    },
+    {
+      "surface": "קום",
+      "gloss": "⟨az⟩ ⟨ő⟩ mérőzsinórjuk"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "és széléig"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a világ"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "beszédeik"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "a napnak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "állított"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azokban"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:08.872941043Z",
+  "model": "glm-5.3"
+}

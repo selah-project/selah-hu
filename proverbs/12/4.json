@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "A vitéz asszony koronája férjének, de a megszégyenítő, mint rothadás a csontjaiban.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "asszony"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "koronája"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "férjének"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "de mint rothadás"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "csontjaiban"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "a megszégyenítő"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:07.057831969Z",
+  "model": "glm-5.3"
+}

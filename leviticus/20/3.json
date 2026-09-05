@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És én arcomat ⟨את⟩ arra az emberre fordítom, és kiirtom ⟨את⟩ őt népe köréből, mert magvát adta a Móleknek, hogy megszentségtelenítse ⟨את⟩ szenthelyemet és hogy meggyalázza ⟨את⟩ szent nevemet.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "És én"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "fordítom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcomat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcomat"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "az emberre"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "arra"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "és kiirtom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "köréből"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "magvát"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a Móleknek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "megszentségtelenítse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szenthelyemet"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "szenthelyemet"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "és hogy meggyalázza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szent nevemet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevemet"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:10.197627975Z",
+  "model": "glm-5.3"
+}

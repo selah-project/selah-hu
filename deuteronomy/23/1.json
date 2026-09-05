@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne vegyen el egy férfi ⟨את⟩ az ő atyjának feleségét, és ne fedje fel az ő atyjának szárnyát.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vegyen el"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az atyja feleségét"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyjának"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "fedje fel"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "szárnyát"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyjának"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:08.288392575Z",
+  "model": "glm-5.3"
+}

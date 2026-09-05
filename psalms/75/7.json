@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "Mert nem keletről és nem nyugatról, és nem a pusztából ⟨jön⟩ a felmagasztalás.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "keletről"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "és nyugatról"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "a pusztából"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a felmagasztalás"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:03.206302819Z",
+  "model": "glm-5.3"
+}

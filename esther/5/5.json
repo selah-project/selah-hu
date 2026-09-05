@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És mondta a király: Siessetek ⟨את⟩ Hámánt, hogy megtegyék ⟨את⟩ Ester kérését; és bement a király és Hámán a lakomára, amelyet készített Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "siessetek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hámánt"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámánt"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy megtegyék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kérését"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kérését"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és bement"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "és Hámán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "a lakomára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:24.787980154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És arcra borult Avram, és szólt ⟨את⟩ vele Elohim, mondván:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "És arcra borult"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "az arcára"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T16:28:22.660442066Z",
+  "model": "glm-5.3"
+}

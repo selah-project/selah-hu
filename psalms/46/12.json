@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Jahve Cevaót velünk van, menedékünk Jaakov Elohimja. Szela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "menedékünk"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela."
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:31.642058992Z",
+  "model": "glm-5.3"
+}

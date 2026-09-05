@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "Annak, aki vezette népét a pusztában, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "annak, aki vezette"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tart a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:28.997259013Z",
+  "model": "glm-5.3"
+}

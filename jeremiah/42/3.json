@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "és mondja meg nekünk Jahve, a te Elohimod, ⟨את⟩ az utat, amelyen járjunk, és ⟨את⟩ az dolgot, amelyet megtegyünk.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "és mondja meg"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az utat"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "az utat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "járjunk"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨azon⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az dolgot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "megtegyünk"
+    }
+  ],
+  "timestamp": "2026-09-04T20:52:44.531058351Z",
+  "model": "glm-5.3"
+}

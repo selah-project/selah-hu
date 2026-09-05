@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 57,
+  "translation": "A karnagynak: Ne pusztítsd — Dávid mikhtámja, amikor Saúl (Saul) elől a barlangba menekült.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "pusztítsd"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtám"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "amikor menekült"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "a barlangba"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:47.109150880Z",
+  "model": "glm-5.3"
+}

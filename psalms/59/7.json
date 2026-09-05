@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Visszatérnek este, morognak, mint a kutya, és körüljárják a várost.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "visszatérnek"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "este"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "morognak"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "mint a kutya"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "és körüljárják"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "a várost"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:00.476182847Z",
+  "model": "glm-5.3"
+}

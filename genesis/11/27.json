@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ezek ⟨a⟩ nemzés-történetei Teráhnak: Teráh nemzette ⟨את⟩ Avrámot, ⟨את⟩ Náchort és ⟨את⟩ Háránt; és Hárán nemzette ⟨את⟩ Lótót.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "És ezek"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nemzés-történetei"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teráhnak"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teráh"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrámot"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrámot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Náchort"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Háránt"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Háránt"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "és Hárán"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lótót"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lótót"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:07.191159737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Az egek a magasság ⟨érdekében⟩, és a föld a mélység ⟨érdekében⟩, és a királyok szíve — nincs kikutatása.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "a magasság"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "és a föld"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "a mélység"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "és szíve"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "a királyoknak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kikutatása"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:45.826454571Z",
+  "model": "glm-5.3"
+}

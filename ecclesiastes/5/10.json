@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "A java sokasodásával megsokasodnak azok, akik eszik azt; és mi haszna van ⟨annak⟩, aki birtokolja — csak ⟨a⟩ szeme látása?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "a ... sokasodásával"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "java"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "megsokasodnak"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "azok, akik eszik azt"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "és mi"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "haszna"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "annak, aki birtokolja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "csak"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "látása"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "szeme"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:10.490794657Z",
+  "model": "glm-5.3"
+}

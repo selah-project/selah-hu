@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Övezd fel kardodat oldaladra, vitéz: fényed és ékességed ⟨legyen⟩.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Övezd fel"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "kardodat"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "oldaladra"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "fényed"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "és ékességed"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:22.967330248Z",
+  "model": "glm-5.3"
+}

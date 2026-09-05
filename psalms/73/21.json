@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Mert megkeseredett a szívem, és veséimben ⟨áldást éreztem⟩ —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "megkeseredett"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "a szívem"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "és veséim"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "⟨áldást éreztem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:02.224221381Z",
+  "model": "glm-5.3"
+}

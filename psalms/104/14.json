@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Felnöveszti a füvet a jószágnak, és a növényt az ember szolgálatára, hogy kenyeret hozzon ⟨elő⟩ a földből.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "felnöveszti"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "füvet"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "a jószágnak"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "és a növényt"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "szolgálatára"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "hogy kihozzon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨elő⟩ ... -ból"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földből"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:14.693939132Z",
+  "model": "glm-5.3"
+}

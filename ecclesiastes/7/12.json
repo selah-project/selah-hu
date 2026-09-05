@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Mert árnyék ⟨van⟩ a bölcsességben, árnyék a pénzben, és a bölcsesség ismeretének előnye az, hogy a bölcsesség életben tartja birtokosait.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "árnyék"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "a bölcsesség"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "árnyék"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "a pénz"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "és előnye"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ismeretének"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "a bölcsesség"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "életben tartja"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "birtokosait"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:20.372439332Z",
+  "model": "glm-5.3"
+}

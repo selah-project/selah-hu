@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Nem megvetik a tolvajt, ha lop, hogy csillapítsa éhségét, ha éhezik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "megvetik"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "a tolvajt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "lop"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "hogy csillapítsa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "éhségét"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "éhezik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:09:39.845938583Z",
+  "model": "glm-5.3"
+}

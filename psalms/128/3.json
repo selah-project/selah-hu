@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 128,
+  "translation": "Feleséged mint gyümölcsöző szőlőtő házadnak belsejében, fiaid mint olajfa-csemeték körül asztalodnak.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "feleséged"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "mint szőlőtő"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "gyümölcsöző"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "belsejében"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "házadnak"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaid"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "mint csemeték"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "olajfák"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körül"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "asztalodnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:22.353036311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Dávid pedig korán kelt reggel, és ⟨את⟩ a nyájat egy őrzőre hagyta, majd fogta ⟨magát⟩ és elment, ahogyan Jisáj (Izsai) parancsolta neki; eljutott a szekérsáncig, és a sereg, amely kivonult a hadrendbe, harci kiáltást hallatott a csatában.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "korán kelt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "hagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nyájat"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a nyájat"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "egy őrző"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "fogta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "parancsolta neki"
+    },
+    {
+      "surface": "יִשַׁי",
+      "gloss": "Jisáj"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "eljutott"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "a szekérsáncig"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "és a sereg"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "amely kivonult"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "a hadrendbe"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "harci kiáltást hallatott"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "a csatában"
+    }
+  ],
+  "timestamp": "2026-09-04T23:30:11.555770807Z",
+  "model": "glm-5.3"
+}

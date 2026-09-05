@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És fogant, és fiat szült, és mondta: összegyűjtötte Elohim ⟨את⟩ gyalázatomat.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "és fogant"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "összegyűjtötte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyalázatomat"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "gyalázatomat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:12.703943842Z",
+  "model": "glm-5.3"
+}

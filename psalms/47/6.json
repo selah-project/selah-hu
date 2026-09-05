@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "Felmegy az Elohim kürtzengés közepette, Jahve a sófár kürt hangjával.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Felmegy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "kürtzengés közepette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "a hangjával"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sófár kürt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:11.271386661Z",
+  "model": "glm-5.3"
+}

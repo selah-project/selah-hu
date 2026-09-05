@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Inogva inog a föld, mint a részeg, és hányódik, mint az éjjeli menedék; és nehéz rá a lázadása, és elesik, és nem többé ⟨áll fel⟩.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "inogva"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "inog"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "mint a részeg"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "és hányódik"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "mint az éjjeli menedék"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "és nehéz"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rá"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "a lázadása"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "és elesik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "többé"
+    },
+    {
+      "surface": "קום",
+      "gloss": "⟨áll fel⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:20.950302954Z",
+  "model": "glm-5.3"
+}

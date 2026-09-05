@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És lesz: a folyásból iszol, és ⟨את⟩ a hollókat megparancsoltam, hogy tápláljanak ott téged.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "És lesz"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "a folyásból"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "iszol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a hollókat"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "a hollókat"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "megparancsoltam"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "hogy tápláljanak téged"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:55.543822836Z",
+  "model": "glm-5.3"
+}

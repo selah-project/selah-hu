@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És megveri Jahve ⟨את⟩ Micrajimot, megveréssel és gyógyítással, és visszatérnek Jahvéig, és meghallgatja ⟨őket⟩, és meggyógyítja őket.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "és megveri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajimot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimot"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "megveréssel"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "és gyógyítással"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "és visszatérnek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Jahvéig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéig"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "és meghallgatja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨őket⟩"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "és meggyógyítja őket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:44.342728476Z",
+  "model": "glm-5.3"
+}

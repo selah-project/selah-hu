@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Szörnyű félelmed miatt fedd-e meg téged? eljön-e veled ⟨az⟩ ítéletbe?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "félelmed miatt"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "fedd meg téged"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "eljön"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ítéletbe"
+    }
+  ],
+  "timestamp": "2026-09-04T22:23:30.820030250Z",
+  "model": "glm-5.3"
+}

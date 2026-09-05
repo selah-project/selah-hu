@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És meghalt ennek az asszonynak ⟨את⟩ a fia éjjel, amikor ráfeküdt.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszonynak"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ennek"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "ráfeküdt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    }
+  ],
+  "timestamp": "2026-09-05T00:11:43.594469844Z",
+  "model": "glm-5.3"
+}

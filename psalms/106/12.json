@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És hittek az ő szavaiban, énekelték az ő dicséretét.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "és hittek"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "az ő szavaiban"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "énekelték"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "az ő dicséretét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:14.166546137Z",
+  "model": "glm-5.3"
+}

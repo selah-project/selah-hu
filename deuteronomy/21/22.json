@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha van ⟨az⟩ emberben halálra ítélhető bűn, és kivégzik, és ⟨את⟩ őt fára akasztod,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "van"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "emberben"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "bűn"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ítélhető"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halálra"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "és kivégzik"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "és akasztod"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fá"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:01.314348745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és ⟨את⟩ Corát és ⟨את⟩ Ajalont és ⟨את⟩ Hebront, amelyek Jehúdában és Benjábanban ⟨vannak⟩, megerősített városokat",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Corát"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Corát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ajalont"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hebront"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebront"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehúdában"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "és Benjábanban"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városokat"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "megerősített"
+    }
+  ],
+  "timestamp": "2026-09-04T23:14:40.694414113Z",
+  "model": "glm-5.3"
+}

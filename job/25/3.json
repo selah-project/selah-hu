@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Van-e szám ⟨a⟩ seregeinek? És kire nem kel fel az ő világossága?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Van-e"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "szám"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "⟨a⟩ seregeinek"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "És ... -re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kel fel"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "az ő világossága"
+    }
+  ],
+  "timestamp": "2026-09-04T22:24:00.309035804Z",
+  "model": "glm-5.3"
+}

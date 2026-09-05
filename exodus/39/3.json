@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És kiütögették ⟨את⟩ az arany lapocskákat, és fonalakra vágta ⟨azokat⟩, hogy beledolgozzák a kék közé, a bíbor közé, a karmazsin-skarlát közé és a len közé — tervező munkával.",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "és kiütögették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az arany lapocskákat"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "lapocskáit"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az arany"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "és kivágta"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "fonalakra"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy készítsék"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a ... közé"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "a kék"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "és a ... közé"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "a bíbor"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "és a ... közé"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "karmazsin"
+    },
+    {
+      "surface": "השני",
+      "gloss": "skarlát"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "és a ... közé"
+    },
+    {
+      "surface": "השש",
+      "gloss": "a len"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "munka"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tervező"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:37.667904297Z",
+  "model": "glm-5.3"
+}

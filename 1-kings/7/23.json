@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És megcsinálta ⟨את⟩ az Öntött-tengert, tíz könyök ⟨a⟩ széltől szélig, kör alakú mindenfelől, és öt könyök a magassága, és egy harminc könyökös kötél körözötte körben.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "és megcsinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Öntött-tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "az Öntött-tengert"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "öntött"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "széltől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "szélig"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "szélig"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kör alakú"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "mindenfelől"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "és öt"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "a magassága"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "és kötél"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "könyökös"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "körözötte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:40:13.157516337Z",
+  "model": "glm-5.3"
+}

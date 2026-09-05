@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mert nem zárta be méhem ajtóit, és nem rejtette el a fájdalmat szemeim elől.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zárta be"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "ajtóit"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "méhem"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "és nem rejtette el"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "a fájdalmat",
+      "marks": "a fájdalmat"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "szemeim elől"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.212032546Z",
+  "model": "glm-5.3"
+}

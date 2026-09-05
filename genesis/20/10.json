@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És monda Avimélech Avrahamnak: Mit láttál, hogy megcselekedted ⟨את⟩ e dolgot?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és monda"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimélech"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Avrahamnak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "láttál"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "megcselekedted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "e dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:02.568117920Z",
+  "model": "glm-5.3"
+}

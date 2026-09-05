@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Ne rejtsd el orcádat előlem nyomorúságom napján; hajtsd felém füledet; azon a napon, amikor kiáltok, siess, válaszolj nekem!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "rejtsd el"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "előlem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nyomorúságom"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "hajtsd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "felém"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "füledet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "azon a napon"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "siess"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "válaszolj nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:01.359116317Z",
+  "model": "glm-5.3"
+}

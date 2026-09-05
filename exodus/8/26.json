@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És kiment Moshe Paró elől, és könyörgött Jahvéhoz.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "és-kiment"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "elől"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "és-könyörgött"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:59.186801502Z",
+  "model": "glm-5.3"
+}

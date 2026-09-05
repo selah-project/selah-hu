@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "A balga összekulcsolja ⟨את⟩ kezeit, és eszi ⟨את⟩ húsát.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "a balga"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "összekulcsolja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezeit"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kezeit"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "és eszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "húsát"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "húsát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:19.862880468Z",
+  "model": "glm-5.3"
+}

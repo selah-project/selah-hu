@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És aki bemegy ⟨את⟩ felebarátjával az erdőbe fát vágni, és keze elhajlik a fejszővel a fa kivágására, és a vas lecsúszik a fáról, és eltalálja ⟨את⟩ felebarátját, az meghal — ő meneküljön e városok egyikébe, és éljen.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "És aki"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bemegy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátjával"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátjával"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "az erdőbe"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "fát vágni"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "fát"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "és elhajlik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "keze"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "a fejszővel"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "kivágására"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fának"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "és lecsúszik"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "a vas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fáról"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "és eltalálja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "az meghal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "meneküljön"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-be"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyikébe"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "e városok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "és éljen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:11.066083245Z",
+  "model": "glm-5.3"
+}

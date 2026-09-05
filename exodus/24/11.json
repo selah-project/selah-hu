@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És Izrael fiainak nemeseire nem nyújtotta ki kezét, és látták ⟨את⟩ az Elohimot, és ettek és ittak.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "És … felé"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "nemeseire"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nyújtotta ki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "és látták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohimot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohimot"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "és ettek"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "és ittak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:12.843072046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És Saul egyre inkább félni kezdett Dávidtól ⟨továbbá⟩, és Saul Dávid ellensége lett minden napon.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "és egyre inkább kezdett"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "félni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "attól"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tovább"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "איב",
+      "gloss": "ellensége"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidnak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "napon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:33.120441018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Mert egy pillanat ⟨van⟩ haragjában, élet ⟨van⟩ jókedvében; estére sírás éjszakázik, és reggelre ujjongás.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "egy pillanat"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "haragjában"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élet"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "jókedvében"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "estére"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "éjszakázik"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "sírás"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "és reggelre"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ujjongás"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:45.502972541Z",
+  "model": "glm-5.3"
+}

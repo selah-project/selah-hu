@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Adjon ⟨neked⟩ szíved szerint, és minden tanácsodat töltse be.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Adjon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "szíved szerint"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "tanácsod"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "töltse be"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:04.361477880Z",
+  "model": "glm-5.3"
+}

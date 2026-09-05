@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "A tengeren ⟨volt⟩ utad, és ösvényeid a nagy vizeken, és nyomaid nem ismertettek meg.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "a tengeren"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "utad"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "és ösvényeid"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a vizeken"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "és nyomaid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "ismertettek meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:44.392225139Z",
+  "model": "glm-5.3"
+}

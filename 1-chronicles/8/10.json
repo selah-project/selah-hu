@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ⟨את⟩ Jeúcot, és ⟨את⟩ Szakhját, és ⟨את⟩ Mirmát; ezek az ő fiai, az atyák házainak fejei.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jeúcot"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeúcot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Szakhját"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Szakhját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Mirmát"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmát"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "az ő fiai"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejei"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "az atyáknak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:04.404616695Z",
+  "model": "glm-5.3"
+}

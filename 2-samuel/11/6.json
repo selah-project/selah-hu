@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És küldött Dávid Joábhoz: „Küldd hozzám ⟨את⟩ Uriját, a hettitát.” És elküldte Joáb ⟨את⟩ Uriját Dávidhoz.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És küldött"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Küldd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriját"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriját"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a hettitát"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriját"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriját"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    }
+  ],
+  "timestamp": "2026-09-04T19:25:58.739646787Z",
+  "model": "glm-5.3"
+}

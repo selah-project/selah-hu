@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 149,
+  "translation": "Az El magasztalása ⟨van⟩ az ő torkukon, és kétélű kard ⟨van⟩ kezükben —",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "magasztalása"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Az El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "az ő torkukon"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "és kard"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "kétélű"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "kezükben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:50.410281807Z",
+  "model": "glm-5.3"
+}

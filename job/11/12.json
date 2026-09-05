@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És az üres férfi megértést nyer, ha egy vad szamár csikójából ember születik.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És az … férfi"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "üres"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "megértést nyer"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "és … csikójából"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "vad szamár"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "születik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:26.034154077Z",
+  "model": "glm-5.3"
+}

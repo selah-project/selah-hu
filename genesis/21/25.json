@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És szemrehányást tett Avraham (Ábrahám) ⟨את⟩ Avimelechnek a víz kútja miatt, amelyet Avimelech szolgái elraboltak.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "és szemrehányást tett"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelechet"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelechet"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "dolgában"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kútja"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a víznek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "elraboltak"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelechnek"
+    }
+  ],
+  "timestamp": "2026-09-05T00:24:18.753758121Z",
+  "model": "glm-5.3"
+}

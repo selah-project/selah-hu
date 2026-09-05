@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És szólt Akís ⟨a⟩ szolgáihoz: Íme, láttok ⟨ti⟩ egy embert, aki megbolondult; miért hozzátok őt ⟨את⟩ hozzám?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akís"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáihoz"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "láttok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "megbolondult"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "hozzátok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:28.823236631Z",
+  "model": "glm-5.3"
+}

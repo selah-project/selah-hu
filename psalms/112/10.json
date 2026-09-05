@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 112,
+  "translation": "A hitetlen látja és megharagszik, fogait csikorgatja és elolvad; a hitetlenek kívánsága elvész.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "A hitetlen"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "látja"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "és megharagszik"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "fogait"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "csikorgatja"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "és elolvad"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kívánsága"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a hitetlenek"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "elvész"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:32.257025721Z",
+  "model": "glm-5.3"
+}

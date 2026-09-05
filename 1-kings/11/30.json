@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És Ahija megragadta az új köpenyt, amely rajta volt, és kettészakította azt tizenkét darabra.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "És megragadta"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahija"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "a köpenyt"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "az új"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta volt"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "és kettészakította azt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tizen-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "darabra"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:25.851782246Z",
+  "model": "glm-5.3"
+}

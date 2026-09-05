@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Ha bolond módra viselkedtél ⟨a⟩ felmagasztalkodásodban, és ha rosszat szerveztél — kéz ⟨a⟩ szájra!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "bolond módra viselkedtél"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "felmagasztalkodásodban"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "rosszat szerveztél"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kéz"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "a szájra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:40.913384949Z",
+  "model": "glm-5.3"
+}

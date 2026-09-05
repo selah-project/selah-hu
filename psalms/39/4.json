@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Felforrt szívem bensőmben, elmélkedésem közben tüzet gyújtott ⟨a⟩ tűz — megszólaltam nyelvemmel.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Felforrt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "bensőmben"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "elmélkedésem közben"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "gyújtott"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨a⟩ tűz"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "megszólaltam"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "nyelvemmel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:04.434087990Z",
+  "model": "glm-5.3"
+}

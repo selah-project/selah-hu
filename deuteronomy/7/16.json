@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És elemészti ⟨את⟩ mind a népeket, amelyeket Jahve, a te Elohimad (Istened) néked ad; ne kímélje szemed őket, és ne szolgálj ⟨את⟩ az ő isteneiknek, mert csapda az neked.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "És elemészti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind a népeket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "a népeket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimad (Istened)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "néked"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "kímélje"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "szemed"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "szolgálj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő isteneiknek"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "az ő isteneiknek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "csapda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:14.614665970Z",
+  "model": "glm-5.3"
+}

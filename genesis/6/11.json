@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És megromlott a föld ⟨az⟩ Elohim színe előtt, és megtelt a föld erőszakkal.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "És megromlott"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "és megtelt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszakkal"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:46.376278326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ne csinálj magadnak faragott képmást és semmi alakot, ami az egekben ⟨van⟩ fent, és ami a földön ⟨van⟩ lent, és ami a vizekben ⟨van⟩ a föld alatt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "csinálj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "faragott képmást"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és semmi"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "alakot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az egekben"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "fent"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és ami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lent"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és ami"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a vizekben"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lent"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földnek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:20.948847067Z",
+  "model": "glm-5.3"
+}

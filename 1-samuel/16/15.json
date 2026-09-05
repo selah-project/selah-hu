@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És mondták Saul szolgái neki: Íme, kérlek, egy rossz Elohim-lélek rémít téged.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "rémít téged"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:08.300829641Z",
+  "model": "glm-5.3"
+}

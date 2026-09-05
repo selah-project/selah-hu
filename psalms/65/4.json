@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "Álnokságaim dolai erőt vettek ⟨rajtam⟩; lázadásainkat Te fedezed be ⟨azokat⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "dolai"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "álnokságaim"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "erőt vettek"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨rajtam⟩"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "lázadásainkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "fedezed be ⟨azokat⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:04.800529093Z",
+  "model": "glm-5.3"
+}

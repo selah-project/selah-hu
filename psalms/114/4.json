@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 114,
+  "translation": "⟨A⟩ hegyek ugráltak, mint ⟨a⟩ kosok, ⟨a⟩ halmok, mint ⟨a⟩ nyáj borjai.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "⟨A⟩ hegyek"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "ugráltak"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "mint kosok"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "halmok"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "mint ... borjai"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nyáj"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:33.018987056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És pára szállt fel a földből, és itatván ⟨את⟩ a talaj egész felszínét.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "és pára"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "szállt fel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a…ből"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földből"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "és itatvá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a talaj egész felszínét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "פני",
+      "gloss": "felszínét"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a talaj"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:52.211509144Z",
+  "model": "glm-5.3"
+}

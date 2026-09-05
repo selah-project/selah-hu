@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És meghalt Ivcán (Ibcán), és eltemettetett Bét-Léchemben.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "És meghalt"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivcán"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "és eltemettetett"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bét-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Léchemben"
+    }
+  ],
+  "timestamp": "2026-09-04T18:55:24.133098363Z",
+  "model": "glm-5.3"
+}

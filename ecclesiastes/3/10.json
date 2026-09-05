@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Láttam ⟨את⟩ a fáradságot, amelyet adott az Elohim az ember fiainak, hogy ⟨azzal⟩ foglaltassanak vele.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fáradságot"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "a fáradságot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…nak a fiainak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "hogy foglaltassanak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:06.619084106Z",
+  "model": "glm-5.3"
+}

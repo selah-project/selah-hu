@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "és ne bíztasson titeket Hizkijáhu Jahvéra, mondván: »Jahve megszabadít, igen megszabadít minket, és nem adatik át ⟨את⟩ ez a város Assur királyának kezébe«.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "bíztasson"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijáhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "erre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "megszabadít"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "megszabadít minket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "adatik át"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ez a város"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:12.655459175Z",
+  "model": "glm-5.3"
+}

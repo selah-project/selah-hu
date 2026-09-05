@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Szavaimat hallgasd meg, Jahve, vedd észre ⟨az⟩ én sóhajtásomat!",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Szavaimat"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "hallgasd meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "vedd észre"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "sóhajtásomat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:20.886202474Z",
+  "model": "glm-5.3"
+}

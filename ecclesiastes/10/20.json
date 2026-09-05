@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Még gondolatodban se átkozd a királyt, és nyugvóhelyed kamráiban se átkozd a gazdagot, mert az ég madara elviszi ⟨את⟩ a hangot, és a szárnyak ura megjelenti az igét.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "még"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "gondolatodban"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "átkozd"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "és kamráiban"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "nyugvóhelyednek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "átkozd"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "a gazdagot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az égnek"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "elviszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hangot"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "a hangot"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "és ura"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "a szárnyaknak"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "megjelenti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "az igét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:59.395740975Z",
+  "model": "glm-5.3"
+}

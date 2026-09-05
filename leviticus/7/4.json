@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ⟨את⟩ a két veséjét, és ⟨את⟩ a rajtuk lévő zsírt, amely a csípőkön van, és ⟨את⟩ a máj feletti lebenyt — a vesékkel együtt távolítja el.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a két veséjét"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a két"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "veséjét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "rajtuk lévő"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "…n"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "a csípőkön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a máj feletti lebenyt"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "a máj feletti lebenyt"
+    },
+    {
+      "surface": "על",
+      "gloss": "…felett"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "a máj"
+    },
+    {
+      "surface": "על",
+      "gloss": "…vel"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "a vesékkel"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "távolítja el"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:11.125638292Z",
+  "model": "glm-5.3"
+}

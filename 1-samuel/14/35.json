@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És épített Sául ⟨את⟩-je oltárt Jahvénak; azzal kezdte el az oltárok építését Jahvénak.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "És épített"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "oltárt (őt)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kezdte el"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "építeni"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:15.447976705Z",
+  "model": "glm-5.3"
+}

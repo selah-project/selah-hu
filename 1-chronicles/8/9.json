@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És nemzett Cḥódesól, az ő feleségétől: ⟨את⟩ Jovávot, és ⟨את⟩ Civját, és ⟨את⟩ Mását, és ⟨את⟩ Malkámot.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "És nemzett"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Cḥódesó"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "az ő feleségétől"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jovávot"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovávot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Civját"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Civját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Mását"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mását"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Malkámot"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkámot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:04.404339333Z",
+  "model": "glm-5.3"
+}

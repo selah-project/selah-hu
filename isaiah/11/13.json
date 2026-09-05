@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És eloszlik Efrájim féltékenysége, és Jehúda szorongatói kivágattatnak; Efrájim nem lesz féltékeny ⟨את⟩ Jehúdára, és Jehúda nem szorongatja ⟨את⟩ Efrájimot.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "és eloszlik"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "féltékenysége"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "és szorongatói"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdá"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kivágattatnak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "lesz féltékeny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúdára"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "és Jehúda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "szorongatja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrájimot"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:17.503484023Z",
+  "model": "glm-5.3"
+}

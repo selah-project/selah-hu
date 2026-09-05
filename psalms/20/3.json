@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Küldjön segítséget néked a szentélyből, és a Cijonból támogasson téged.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Küldjön"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "segítségedet"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "a szentélyből"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "és a Cijonból"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "támogasson téged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:43.999947164Z",
+  "model": "glm-5.3"
+}

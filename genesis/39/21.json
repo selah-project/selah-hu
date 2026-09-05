@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És volt Jahve ⟨את⟩ Josef-fel (József), és nyújtott hozzá heszedet, és adta a kegyelmét a börtönház felügyelőjének a szemében.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És volt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef-fel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef (József)"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "és nyújtott"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszedet"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "a kegyelmét"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a szemében"
+    },
+    {
+      "surface": "שר",
+      "gloss": "felügyelője"
+    },
+    {
+      "surface": "בית",
+      "gloss": "-ház"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "a börtön(nek)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:18.975267456Z",
+  "model": "glm-5.3"
+}

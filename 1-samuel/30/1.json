@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És történt, mikor Dávid (Dávid) és az ő férfiai Ciklágba (Ciklág) érkeztek, a harmadik napon, hogy amálékiek rárontottak a Délvidékre és Ciklágéra, és megverték ⟨את⟩ Ciklágot, és tűzben elégették ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "mikor érkeztek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "és az ő férfiai"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklágba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "harmadik"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "és amálékiek"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "rárontottak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "reá"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "a Délvidékre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és reá"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklágéra"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és megverték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciklágot"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklágot"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "és elégették"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tűzben (az őt)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:41.648938531Z",
+  "model": "glm-5.3"
+}

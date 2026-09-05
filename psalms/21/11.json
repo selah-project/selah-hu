@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Gyümölcsüket elpusztítod a földről, és magvukat az emberek fiai közől.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Gyümölcsüket"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "elpusztítod"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "és magvukat"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "fiai közől"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az emberek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:52.497483668Z",
+  "model": "glm-5.3"
+}

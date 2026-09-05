@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Nevedért, Jahve, bocsáss meg bűnömet, mert nagy ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ért"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neved"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "bocsáss meg"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "bűnömet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:42.548030714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Jó és egyenes ⟨a⟩ Jahve, azért tanítja a vétkeseket az úton.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Jó"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "és egyenes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "azonért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "azért"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "tanítja"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "a vétkeseket"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:58.078015696Z",
+  "model": "glm-5.3"
+}

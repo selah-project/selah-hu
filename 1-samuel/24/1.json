@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És felment Dávid onnan, és letelepedett Ein-Gédi sziklaváraiban.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "És felment"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "letelepedett"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "sziklaváraiban"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gédi"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:59.753795623Z",
+  "model": "glm-5.3"
+}

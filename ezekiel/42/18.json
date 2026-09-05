@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "⟨את⟩ a déli oldalt mérte meg: ötszáz kanna a mérőkannával.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a déli oldalt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "déli oldal"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "déli"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "mérte meg"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kanna"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "a mérőkannával"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "mérő-"
+    }
+  ],
+  "timestamp": "2026-09-04T21:15:47.165116932Z",
+  "model": "glm-5.3"
+}

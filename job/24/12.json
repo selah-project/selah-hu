@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 24:12",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "A városból nyögnek ⟨az⟩ emberek, és a megsebesítettek lelke kiált — de Eloah nem tulajdonít bolondságot.",
+  "tokens": [
+    {
+      "surface": "מעיר",
+      "gloss": "a városból"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "ינאקו",
+      "gloss": "nyögnek"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "és a lelke"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "a megsebesítettek"
+    },
+    {
+      "surface": "תשוע",
+      "gloss": "kiált"
+    },
+    {
+      "surface": "ואלוה",
+      "gloss": "de Eloah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "tulajdonít"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "bolondságot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:24:18.941990321Z",
+  "model": "glm-5.3"
+}

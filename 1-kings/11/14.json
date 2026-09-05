@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És felkeltett Jahve ⟨him⟩ Salamó ellen egy ellenfelet: ⟨את⟩ Hadadot, az edómitát, a királyi magból — ő ⟨volt⟩ Edomban.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkeltetett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ellenfelet"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Salamó ellen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadot"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadot"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "az edómitát"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "a magból"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:43:52.669309363Z",
+  "model": "glm-5.3"
+}

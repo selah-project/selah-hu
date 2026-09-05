@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Adonáj adja az igét: nagy sereg a hírmondó asszonyok.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adja"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "az igét"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "a hírmondó asszonyok"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sereg"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:53.603223156Z",
+  "model": "glm-5.3"
+}

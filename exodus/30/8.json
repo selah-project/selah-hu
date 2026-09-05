@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És amikor Aharon felrakja ⟨את⟩ a lámpákat az esti szürkületkor, elégeti azt: szüntelen füstölő Jahve elől ⟨előtt⟩, nemzedékeitekre.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "És amikor felrakja"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lámpákat"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "a lámpákat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "az esti szürkületkor"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "elégeti azt"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "füstölő"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "nemzedékeitekre"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:16.513276432Z",
+  "model": "glm-5.3"
+}

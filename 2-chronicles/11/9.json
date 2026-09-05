@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és ⟨את⟩ Adorajimot és ⟨את⟩ Lakisot és ⟨את⟩ Azekát",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Adorajimot"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorajimot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Lakisot"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakisot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Azekát"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekát"
+    }
+  ],
+  "timestamp": "2026-09-04T23:14:40.694177471Z",
+  "model": "glm-5.3"
+}

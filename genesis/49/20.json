@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Áserből — zsíros az ő kenyere, és ⟨ő⟩ adja a királyi ínyencségeket.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Áserből"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "zsíros"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "az ő kenyere"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ⟨ő⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adja"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "az ínyencségeket"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a király(iquidat)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:22.202937850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Közeledj lelkemhez, váltsd meg; elleneim miatt szabadíts meg engem!",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Közeledj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...hez"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemhez"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "váltsd meg"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "elleneim"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "szabadíts meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:00.926952854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És előhozta Moshe (Mózes) ⟨את⟩ ügyüket Jahve elé.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "és előhozta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ügyüket"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ügyüket"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:43:58.864670593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 8:4",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És foglyul ejtett Dávid tőle ezer és hétszáz lovast és húszezer gyalogost, és Dávid ⟨את⟩ az összes harci szekeret megnyomorította, de meghagyott abból száz harci szekeret.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "És foglyul ejtett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "és hétszáz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hétszáz"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "lovast"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húszezer"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "gyalogost"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "és megnyomorította"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes harci szekeret"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "harci szekeret"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "de meghagyott"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "harci szekeret"
+    }
+  ],
+  "timestamp": "2026-09-04T23:31:42.831524034Z",
+  "model": "glm-5.3"
+}

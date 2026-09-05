@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Egy ember minden útja tiszta a saját szemében, de a lelkeket Jahve mérlegeli.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "útja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a saját szemében"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "de mérlegeli"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "a lelkeket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:56.920198469Z",
+  "model": "glm-5.3"
+}

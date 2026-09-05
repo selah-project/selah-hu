@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Adonáj Jahve kinyitotta nekem ⟨a⟩ fület, és én nem lázadtam, hátra nem fordultam.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kinyitotta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "⟨a⟩ fület"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "és én"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "lázadtam"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "fordultam"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:54.113020989Z",
+  "model": "glm-5.3"
+}

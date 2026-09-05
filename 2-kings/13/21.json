@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 13:21",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És történt, miközben ⟨azok⟩ egy halottat temettek, és íme, meglátták ⟨את⟩ a portyázó csapatot, és odavetették ⟨את⟩ a halottat Elisa (Elizeus) sírjába; ⟨az⟩ pedig odakerült, és a halott hozzáért Elisa csontjaihoz, és életre kelt, és lábra állt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "הם",
+      "gloss": "azok"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "temettek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy halottat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "meglátták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a portyázó csapatot"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "a portyázó csapatot"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "és odavetették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a halottat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a halottat"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "sírjába"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és odakerült"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "és hozzáért"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a halott"
+    },
+    {
+      "surface": "בעצמות",
+      "gloss": "csontjaihoz"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "és életre kelt"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lábaira"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:07.688416349Z",
+  "model": "glm-5.3"
+}

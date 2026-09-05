@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "és lásd meg, van-e bennem fájdalom-út, és vezess engem az örök úton.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "és lásd meg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "van-e"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "út"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "fájdalom-(okozó)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "és vezess engem"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örök"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:11.219014513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 124,
+  "translation": "ha nem lett volna Jahve, aki ⟨volt⟩ mellettünk, amikor felkelt ellenünk az ember,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ha nem lett volna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "aki ⟨volt⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "amikor felkelt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ellenünk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:52.159675597Z",
+  "model": "glm-5.3"
+}

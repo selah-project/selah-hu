@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Készíts láncot, mert a föld tele van vérbíráskodással, és a város tele van erőszakkal.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "készíts"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "láncot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tele van"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bíráskodással"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "vér"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "és a város"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tele van"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszakkal"
+    }
+  ],
+  "timestamp": "2026-09-04T20:59:41.908409679Z",
+  "model": "glm-5.3"
+}

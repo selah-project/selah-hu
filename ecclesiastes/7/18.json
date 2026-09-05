@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Jó, hogy ezt megragadod, és ettől se engedd el ⟨את⟩ kezedet, mert aki fél Elohimot, kikerül ⟨את⟩ mindnyájukat.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Jó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "megragadod"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ettől"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "engedd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezedet"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "aki fél"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimot"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kikerül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindnyájukat"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájukat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:43.700659343Z",
+  "model": "glm-5.3"
+}

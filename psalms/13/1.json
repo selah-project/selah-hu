@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "A karnagynak, Dávid (David) zsoltára",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "a karnagynak"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid (David) zsoltára"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:52.635295546Z",
+  "model": "glm-5.3"
+}

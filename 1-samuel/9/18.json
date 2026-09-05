@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És Saül odament ⟨את⟩ Samuélhez a kapu közepén, és mondta: „Kérlek, mondd meg nekem, hol ⟨van⟩ a látó háza?”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "És odament"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuélhez"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuélhez"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a közepén"
+    },
+    {
+      "surface": "השער",
+      "gloss": "a kapu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "mondd meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hol"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨van⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a háza"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "a látónak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:28:12.710581247Z",
+  "model": "glm-5.3"
+}

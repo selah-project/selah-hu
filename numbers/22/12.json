@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És mondta Elohim Bilámnak: Ne menj velük, és ne átkozd ⟨את⟩ a népet, mert áldott ő.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–nak"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilám"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "átkozd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "áldott"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    }
+  ],
+  "timestamp": "2026-09-04T17:40:38.351831720Z",
+  "model": "glm-5.3"
+}

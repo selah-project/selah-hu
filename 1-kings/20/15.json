@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És számba vette ⟨את⟩ a tartományok fejedelmeinek ifjait, és voltak kétszázharmincketten, és utánuk számba vett ⟨את⟩ az egész népet, Izráel minden fiát, hétezret.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "és számba vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tartományok fejedelmeinek ifjait"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ifjait"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmeinek"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "a tartományok"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és voltak"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kétszáz"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "és utánuk"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "számba vett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész népet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezer"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:28.414686737Z",
+  "model": "glm-5.3"
+}

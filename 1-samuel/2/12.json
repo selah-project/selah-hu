@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Eli fiai haszontalanok fiai voltak, nem ismerték ⟨את⟩ Jahvét.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elinek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "haszontalanságnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ismerték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T19:02:52.933473071Z",
+  "model": "glm-5.3"
+}

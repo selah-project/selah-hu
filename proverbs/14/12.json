@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Van egy út, amely egyenes ⟨látszik⟩ az ember szeme előtt, de annak vége a halál útjai.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "egy út"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "egyenes"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "de annak vége"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "útjai"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a halálnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:30.563759526Z",
+  "model": "glm-5.3"
+}

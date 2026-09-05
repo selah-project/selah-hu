@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Jehúda és Jisráel ⟨sokan voltak⟩, mint a homok, amely a tengerparton ⟨van⟩, nagyság szerint; esznek és isznak és örvendenek.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "és Jisráel"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sokan"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "mint a homok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ... partján"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nagyság szerint"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "esznek"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "és isznak"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "és örvendenek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:34.542849316Z",
+  "model": "glm-5.3"
+}

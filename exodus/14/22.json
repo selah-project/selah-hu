@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És bementek Izrael fiai a tenger közepébe a szárazföldön, és ⟨voltak⟩ a vizek nekik falul jobb kezük felől és bal kezük felől.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "És bementek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepébe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "a szárazföldön"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "és a vizek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "falul"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "jobb kezük felől"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "és bal kezük felől"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:05.256708641Z",
+  "model": "glm-5.3"
+}

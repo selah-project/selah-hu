@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És vitték ⟨את⟩ az egész zsákmányt és ⟨את⟩ az egész prédát, emberekben és állatokban.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "És vitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész zsákmányt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "zsákmányt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az egész prédát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "prédát"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "emberekben"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "és állatokban"
+    }
+  ],
+  "timestamp": "2026-09-04T17:46:02.816261051Z",
+  "model": "glm-5.3"
+}

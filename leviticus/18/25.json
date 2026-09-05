@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És megfertőztetett a föld, és meglátogattam annak vétkét rajta, és kihányta a föld ⟨את⟩ lakóit.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "És megfertőztetett"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "és meglátogattam"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "annak vétkét"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "és kihányta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lakóit"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "lakóit"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:52.349881060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megparancsolta nekik ⟨את⟩, mondván: Nézzétek, ti lesben álltok a város ellen, a város mögött; ne távolodjatok el nagyon a várostól, és legyetek mindnyájan készen.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nekik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Nézzétek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "lesben álltok"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "a város ellen"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "mögtt"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "távolodjatok el"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "és legyetek"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "készen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:39:57.774634671Z",
+  "model": "glm-5.3"
+}

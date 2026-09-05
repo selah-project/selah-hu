@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És megtudják ⟨a⟩ micrajimiak, hogy én vagyok Jahve, amikor kinyújtom ⟨את⟩ a kezem Micrajimra, és kihozom ⟨את⟩ Jisraél (Izrael) fiait közülük.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "És megtudják"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "⟨a⟩ micrajimiak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "amikor kinyújtom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "a kezem"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "és kihozom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraél fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél (Izrael)"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "közülük"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:29.380050028Z",
+  "model": "glm-5.3"
+}

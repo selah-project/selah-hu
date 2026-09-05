@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És leeresztette Mikál ⟨את⟩ Dávidot az ablakon át; és elment, és megszökött, és megmenekült.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "leeresztette"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikál"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "át"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "az ablakon"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "megszökött"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "megmenekült"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:51.461300162Z",
+  "model": "glm-5.3"
+}

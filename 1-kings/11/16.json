@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Mert hat hónapig ült ott Joáb és egész Izráel, míg ki nem irtott minden férfit Edomban.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "hat"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "hónapig"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ült"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "ki nem irtott"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "férfit"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:43:52.669653849Z",
+  "model": "glm-5.3"
+}

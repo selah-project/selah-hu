@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És felkelt Sául, és lement a Zif-pusztára, és vele ⟨את⟩ háromezer férfi, Izrael válogatottjai, hogy megkeresse ⟨את⟩ Dávidot a Zif-pusztán.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "és lement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztájára"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "és ⟨את⟩ vele"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "válogatottjai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hogy megkeresse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztán"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:49.536983814Z",
+  "model": "glm-5.3"
+}

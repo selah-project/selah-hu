@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Minden, aminek nincs uszonya és pikkelye a vizekben, utálat ⟨az⟩ nektek.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aminek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "uszonya"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "és pikkelye"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a vizekben"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "utálat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:46.816433927Z",
+  "model": "glm-5.3"
+}

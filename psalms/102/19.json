@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Ez íratott az utolsó nemzedéknek, és a teremtendő nép dicsérje Jah-t.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "Íratott"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nemzedéknek"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "az utolsó"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és a nép"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "teremtendő"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "dicsérje"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:56.668532695Z",
+  "model": "glm-5.3"
+}

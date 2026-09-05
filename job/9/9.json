@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "aki megalkotja az As (a Nagy Medve csillagkép) nevét, a Keszilt (Orion) és a Kimát (Plejádok), és a dél kamrait",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "megalkotja"
+    },
+    {
+      "surface": "עש",
+      "gloss": "az Ast"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "a Keszilt"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "és a Kimát"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "és … kamrait"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "a dél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:40.319120913Z",
+  "model": "glm-5.3"
+}

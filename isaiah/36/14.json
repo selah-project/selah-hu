@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Ezt mondja ⟨a⟩ király: ne csaljon meg titeket Chizkijáhu (Ezékiás), mert nem tud megmenteni ⟨את⟩titeket.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ezt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "csaljon meg"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "titeket"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijáhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "tud"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "megmenteni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩titeket",
+      "marks": "titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:27.353089465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És a tisztító kohén állíttatja ⟨את⟩ a tisztuló embert és ⟨את⟩ azokat Jahve elé, a kijelentés sátorának bejáratánál.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "És állíttatja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohén"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "tisztító"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tisztuló embert"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "tisztuló"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "és ⟨את⟩ azokat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátorának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kijelentés"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:28.286648422Z",
+  "model": "glm-5.3"
+}

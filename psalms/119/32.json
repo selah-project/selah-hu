@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Parancsolataid útján futok, mert te szélesíted a szívemet.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parancsolataid"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "futok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "szélesíted"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "a szívemet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:50.758604988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És látta az Elohim ⟨את⟩ tetteiket, hogy megtértek gonosz útjukról; és megszánt az Elohim a gonosz miatt, amelyet megmondott, hogy megteszi nekik — és nem tette meg.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tetteiket"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "tetteiket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "megtértek"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "útjukról"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "és megszánt"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "megmondott"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy megteszi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tette meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:33.652179834Z",
+  "model": "glm-5.3"
+}

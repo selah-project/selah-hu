@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondod Parónak: Ezt mondja Jahve: Fiam, elsőszülöttem ⟨az⟩ Jiszráél (Izráel).",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "És mondod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Paróhoz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ezt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Fiam"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "elsőszülöttem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:43.459756483Z",
+  "model": "glm-5.3"
+}

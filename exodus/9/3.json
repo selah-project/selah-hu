@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Íme, Jahve keze ⟨lesz⟩ a mezőn lévő állatodon: a lovakon, a szamarakon, a tevéken, a szarvasmarhákon és a juhokon — nagyon súlyos dögvész.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "⟨lesz⟩"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "az állatodon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "a lovakon"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "a szamarakon"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "a tevéken"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "a szarvasmarhákon"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "és a juhokon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dögvész"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "súlyos"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:49.038459647Z",
+  "model": "glm-5.3"
+}

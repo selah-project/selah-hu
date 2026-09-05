@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És megszentelitek ⟨את⟩ az ötvenedik évet, és dörört — szabadságot — hirdettek az országban minden lakójának; jovél (kürtjelzés éve) az, lesz néktek, és visszatértek kiki az ő birtokára, és kiki az ő családjához tér vissza.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "És megszentelitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ötvenedik évet"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "évét"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "az ötvenedik"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "és hirdettek"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "dörört (szabadságot)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az országban"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "lakójának"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jovél"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "néktek"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "és visszatértek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "birtokára"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és kiki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "családjához"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "tér vissza"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:56.905701963Z",
+  "model": "glm-5.3"
+}

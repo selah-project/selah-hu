@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Emlékeztem éjjel a Nevedre, Jahve, és megtartottam Torádat.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "emlékeztem"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a Nevedre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "és megtartottam"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torádat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:11.674143441Z",
+  "model": "glm-5.3"
+}

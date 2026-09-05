@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Az enyészet – mint a fű ⟨a⟩ napjai, mint a mező virága úgy nyílik ki.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "az enyészet"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "mint a fű"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "⟨a⟩ napjai"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "mint a mező"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "virága"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "nyílik ki"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:49.705535815Z",
+  "model": "glm-5.3"
+}

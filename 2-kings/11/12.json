@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És kivitte ⟨את⟩ a király fiát, és tette rá ⟨את⟩ a koronát és ⟨את⟩ a tanúbizonyságot, és királlyá tették őt, és felkenték őt, és ütötték a tenyeret, és mondták: Éljen a király!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "És kivitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a király fiát"
+    },
+    {
+      "surface": "בן",
+      "gloss": "a fiát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és tette"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a koronát"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "a koronát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a tanúbizonyságot"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "a tanúbizonyságot"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "és királlyá tették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "és felkenték őt"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és ütötték"
+    },
+    {
+      "surface": "כף",
+      "gloss": "a tenyeret"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondták"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Éljen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:53.209314247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Bizony hiábavaló volt, hogy tisztára mostam a szívemet, és ártatlanságban mostam kezeimet.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "hiábavaló volt"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "tisztára mostam"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "a szívemet"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "és mostam"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ártatlanságban"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kezeimet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:13.789724510Z",
+  "model": "glm-5.3"
+}

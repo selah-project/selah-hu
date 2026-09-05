@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Aki állattal hálik, halállal haljon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "aki"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "hálik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "állat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:23.460690823Z",
+  "model": "glm-5.3"
+}

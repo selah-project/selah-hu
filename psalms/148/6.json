@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "És felállította őket örökre, mindörökké; határt szabott, és az át nem megy.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "és felállította őket"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mindörökké"
+    },
+    {
+      "surface": "חק",
+      "gloss": "határt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "szabott"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "megy át"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:00.214878573Z",
+  "model": "glm-5.3"
+}

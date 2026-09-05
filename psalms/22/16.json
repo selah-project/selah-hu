@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Kiszáradt, mint a cserépedény, az erőm, és a nyelvem hozzátapad ⟨az⟩ állkapcsomhoz, és a halál porába helyezel engem.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "kiszáradt"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "mint a cserépedény"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "az erőm"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "és a nyelvem"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "hozzátapad"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "állkapcsomhoz"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "és a porba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a halál"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "helyezel engem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:31.923618521Z",
+  "model": "glm-5.3"
+}

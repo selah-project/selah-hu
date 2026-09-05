@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta: Mert veled leszek, és ez lesz ⟨a⟩ jeled annak, hogy én küldtelek: amikor kivezed ⟨את⟩ a népet Micrajimból, szolgálni fogjátok ⟨את⟩ az Elohimot ezen a hegyen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "leszek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "és ez"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨a⟩ jeled"
+    },
+    {
+      "surface": "האות",
+      "gloss": "jel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "küldtelek"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "amikor kivezed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "szolgálni fogjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohimot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohimot"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ezen a hegyen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:37.521701873Z",
+  "model": "glm-5.3"
+}

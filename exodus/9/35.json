@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És megkeményedett Paró szíve, és nem engedte el ⟨את⟩ Izráel fiait, ahogyan megmondta Jahve Mózes (Moshe) kezében keresztül.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "És megkeményedett"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "engedte el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráel fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "megmondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezében keresztül"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mózes (Moshe)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:20.868057351Z",
+  "model": "glm-5.3"
+}

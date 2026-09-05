@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Aki becsületességben jár, biztonságban jár, de aki útjait elferdíti, az nyilvánvalóvá lesz.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Aki jár"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "becsületességben"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "jár"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "biztonságban"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "de aki elferdíti"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "útjait"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nyilvánvalóvá lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:08.652182351Z",
+  "model": "glm-5.3"
+}

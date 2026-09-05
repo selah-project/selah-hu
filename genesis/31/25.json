@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És utolérte Lavan ⟨את⟩ Jaakobot, Jaakob pedig felverte ⟨את⟩ sátrát a hegyen, Lavan pedig öccseivel a Gilád-hegyen verte fel ⟨az övéit⟩.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "utolérte"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobot"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "felverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sátrát"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sátrát"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyen"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "felverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öccseit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "öccseit"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyen"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "a Gilád-hegyen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:02.487947818Z",
+  "model": "glm-5.3"
+}

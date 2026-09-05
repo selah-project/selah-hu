@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Menj, egyél örömmel kenyeredet, és idd jó szívvel borodat, mert már régen kivívta az Elohim ⟨את⟩ tetteid tetszését.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Menj"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "egyél"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "örömmel"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "kenyeredet"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "és idd"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "szívvel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "borodat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "már régen"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "kivívta… tetszését"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tetteid"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tetteid"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:55.468514433Z",
+  "model": "glm-5.3"
+}

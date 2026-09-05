@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Az első szekérben vörös lovak ⟨voltak⟩, a második szekérben fekete lovak.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "szekérben"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "az első"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "lovak"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "vörös"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "és szekérben"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a második"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "lovak"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "fekete"
+    }
+  ],
+  "timestamp": "2026-09-04T21:33:18.063159994Z",
+  "model": "glm-5.3"
+}

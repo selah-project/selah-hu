@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És történt egy napon, hogy fiai és leányai ettek és bort ittak elsőszülött testvérük házában.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "egy napon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "hogy fiai"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "és leányai"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ettek"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "és ittak"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bort"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "testvérük"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "elsőszülött"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:09.904270222Z",
+  "model": "glm-5.3"
+}

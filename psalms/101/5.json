@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 101,
+  "translation": "Aki titokban rágalmazza felebarátját, ⟨את⟩ őt kiirtom; kevély szemű és tág szívű — ⟨את⟩ azt nem tudom elviselni.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "rágalmazza"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "titokban"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "kiirtom"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "kevély"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "szemű"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "és tág"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívű"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tudom elviselni"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:29.456730882Z",
+  "model": "glm-5.3"
+}

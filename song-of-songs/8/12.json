@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Az én szőlőskertem, az enyém, előttem ⟨van⟩; az ezer a tiéd, Shelomo (Salamon), és a kétszáz az őrzőknek, ⟨את⟩ gyümölcséért.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "szőlőskertem"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "az enyém"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "az ezer"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a tiéd"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo (Salamon)"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "és a kétszáz"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "az őrzőknek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyümölcséért"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "gyümölcse"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:57.676633363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Feddésekkel fegyelmezed ⟨az⟩ embert a vétek miatt, és molyként olvasztod el, amit kíván; bizony, pára minden ember. Szela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "feddésekkel"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "עון",
+      "gloss": "a vétek"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "fegyelmezed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "és olvasztod el"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "molyként"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "amit kíván"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:47.605972549Z",
+  "model": "glm-5.3"
+}

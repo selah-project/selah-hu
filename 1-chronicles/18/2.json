@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És leverte ⟨את⟩ Móábót, és lett Móáb szolgákká Dávidnak, adóvivőkké.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "És leverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Móábót"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móábót"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móáb"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgákká"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "adóvivőkké"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "adót"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:12.118043035Z",
+  "model": "glm-5.3"
+}

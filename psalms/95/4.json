@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 95,
+  "translation": "Akinek kezében vannak ⟨az⟩ föld mélységei, és a hegyek csúcsai az övéi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Akinek"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "mélységei"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨az⟩ föld"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "és csúcsai"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övéi"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:18.789459264Z",
+  "model": "glm-5.3"
+}

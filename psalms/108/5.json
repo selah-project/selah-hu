@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Mert nagy a heszed a magasságban, az egek fölött, és a felhőkig ér ⟨a⟩ hűséged.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a magasságban, … fölött"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a heszed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és … ig"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "a felhőkig"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hűséged"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:28.229006505Z",
+  "model": "glm-5.3"
+}

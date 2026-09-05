@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És születtek Áháronnak ⟨את⟩ Nádáv és ⟨את⟩ Avihú, ⟨את⟩ Elázár és ⟨את⟩ Itámár.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "És születtek"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Áháronnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nádáv"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nádáv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Avihú"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elázár"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázár"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Itámár"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itámár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:43:09.919774339Z",
+  "model": "glm-5.3"
+}

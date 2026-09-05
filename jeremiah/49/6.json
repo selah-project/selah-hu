@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "És ezután visszahozom ⟨את⟩ Bét-Ammon fiai fogságát, így szól Jahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "És ezután"
+    },
+    {
+      "surface": "כן",
+      "gloss": "azután"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "visszahozom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bét-Ammon fiai fogságát"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fogságát"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "így szól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T20:53:39.689125359Z",
+  "model": "glm-5.3"
+}

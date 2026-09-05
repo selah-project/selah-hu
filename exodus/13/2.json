@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Szentelj nekem minden elsőszülöttet, minden méhet megnyitót Izráel (Izrael) fiai között, emberben és állatban — az enyém ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Szentelj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "elsőszülöttet"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "megnyitót"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mehet"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "fiai között"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "emberben"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "és állatban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "az enyém"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:04.542402214Z",
+  "model": "glm-5.3"
+}

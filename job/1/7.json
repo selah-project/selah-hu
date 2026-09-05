@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És szólt Jahve a Sátánnak: „Honnan jössz?” A Sátán válaszolt ⟨את⟩ Jahvét, és mondta: „Attól, hogy a földön járok-keltem, és hogy azt járom.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Sátánnak"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "honnan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "jössz"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "válaszolt"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "a Sátán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "a járás-keléstől"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "és a járkálástól"
+    },
+    {
+      "surface": "בה",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:40.598921686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 120,
+  "translation": "A lépcsők éneke. Jahvéhoz kiáltottam szorultságomban, és ő megfelelt nekem.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a lépcsők"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "szorultságomban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kiáltottam"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "és megfelelt nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:44.387969707Z",
+  "model": "glm-5.3"
+}

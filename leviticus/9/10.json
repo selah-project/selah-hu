@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ a zsírt, ⟨את⟩ a veséket és ⟨את⟩ a máj hártyáját a vétekáldozatból füstölögve feláldozta az oltáron, ahogyan megparancsolta Jahve ⟨את⟩ Moshénak (Mózesnek).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a veséket"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "a veséket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a máj hártyáját"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "a máj hártyáját"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "a máj"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a vétekáldozatból"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "füstölögve feláldozta"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshénak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:51.705744357Z",
+  "model": "glm-5.3"
+}

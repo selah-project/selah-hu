@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Teddd őket, nemes emberüket, Orevként és Zeévként, Zeváhként és Calmunánaként, minden fejedelmüket.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Tedd"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "nemes emberüket"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "Orevként"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "és Zeévként"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "és Zeváhként"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "és Calmunánaként"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "fejedelmüket"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:03.992394248Z",
+  "model": "glm-5.3"
+}

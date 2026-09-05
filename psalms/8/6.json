@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Kevéssel tetted őt kisebbé az Elohimnál, és dicsőséggel és ékességgel koronázod őt.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "tettéd őt kisebbé"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "Kevéssel"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "az Elohimnál"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "és dicsőséggel"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "és ékességgel"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "koronázod őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:32.012944338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Megveti felebarátját ⟨az⟩, akinek szíve híjával van, és az értelemben járó ember hallgat.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "megveti"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "híjával van"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és az ember"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "értelemben járó"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "hallgat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:04.347177265Z",
+  "model": "glm-5.3"
+}

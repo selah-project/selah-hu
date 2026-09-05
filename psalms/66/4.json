@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "Az egész föld leborul előtted, és zeng neked; zengik a nevedet. Szela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "leborul"
+    },
+    {
+      "surface": "לך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "és zeng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "zengik"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a nevedet"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:03.256647071Z",
+  "model": "glm-5.3"
+}

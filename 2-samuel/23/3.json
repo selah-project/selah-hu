@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Izráel Elohimja szólt hozzám, Izráel Sziklája beszélt: az emberen uralkodó ⟨legyen⟩ igaz, uralkodva az Elohim félelmében.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Sziklája"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "uralkodó"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "az emberen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igaz"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "uralkodva"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "félelmében"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:13.518833341Z",
+  "model": "glm-5.3"
+}

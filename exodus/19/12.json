@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És húzz határt a nép körül, mondván: Vigyázzatok magatokra, hogy fel ne menjetek a hegyre, és ne érjetek szegélyéhez; minden, aki a hegyet érinti, halállal haljon meg.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "És húzz határt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körül"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Vigyázzatok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatokra"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "hogy fel menjetek"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyre"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "és ne érjetek"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "szegélyéhez"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "aki érinti"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyet"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:13.464580208Z",
+  "model": "glm-5.3"
+}

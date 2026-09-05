@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "és nem tudtak a kohénim ⟨ott⟩ állni és szolgálni a felhő elől, mert betöltötte Jahve dicsősége ⟨את⟩ Jahve házát.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tudtak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohénim"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "állni"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "és szolgálni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "a felhő"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "betöltötte"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsősége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:49.864315146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "⟨Minden⟩ a föld minden napján: vetés és aratás, és hideg és hőség, és nyár és tél, és nappal és éjjel nem szűnnek meg.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "⟨minden⟩ (napján)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "vetés"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "és aratás"
+    },
+    {
+      "surface": "וקקר",
+      "gloss": "és hideg"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "és hőség"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "és nyár"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "és tél"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "és nappal"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és éjjel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "szűnnek meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:14.768938984Z",
+  "model": "glm-5.3"
+}

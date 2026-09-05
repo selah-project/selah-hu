@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "⟨את⟩ szombatjaimat őrizzétek, és szentélyemtől féljetek; én Jahve vagyok.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szombatjaimat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "szombatjaimat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "őrizzétek"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "és szentélyem"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:04.372819520Z",
+  "model": "glm-5.3"
+}

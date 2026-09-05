@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Te pedig megparancsolod ⟨את⟩ Izrael fiainak, hogy hozzanak eléd tiszta, ütött olívaolajat a világításra, hogy felgyújtsák a lámpát szüntelen.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "te pedig"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "megparancsolod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hozzanak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "eléd"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olajat"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olíva"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ütött"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "a világításra"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "hogy felgyújtsák"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lámpát"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:36.750767272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Két dolgot kértem tőled ⟨את⟩-tól; ne vond meg tőlem, mielőtt meghalok.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Két dolgot"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kértem"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩-tól (tőled)",
+      "marks": "tőled"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "vond meg"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "meghalok"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:21.521466711Z",
+  "model": "glm-5.3"
+}

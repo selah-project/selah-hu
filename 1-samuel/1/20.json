@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És történt, mikor körüljártak a napok, fogant Channa, és fiút szült, és nevezte ⟨את⟩ nevét Smuél (Sámuel), mert Jahvétől kértem őt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "mikor körüljártak"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "a napok"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "fogant"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiút"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "és nevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvétől"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "kértem őt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:02:50.542628009Z",
+  "model": "glm-5.3"
+}

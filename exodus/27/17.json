@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Az udvar minden oszlopa köröskörül ezüst pántokkal ⟨van áttekerve⟩, horgaik ezüst(ből), talpaik pedig réz(ből).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "oszlopa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "ezüsttel pántozva"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "horgaik"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "talpaik"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "réz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:36.750143399Z",
+  "model": "glm-5.3"
+}

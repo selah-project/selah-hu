@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Ezek Cham fiai családjaik szerint, nyelveik szerint, országaikban, népeikben",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "családjaik szerint"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "nyelveik szerint"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "országukban"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "népeikben"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:49.356621220Z",
+  "model": "glm-5.3"
+}

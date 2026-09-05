@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Igazság hajt ki a földből, és igazságosság tekint le a mennyből.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Igazság"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "a földből"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "hajt ki"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "és igazságosság"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "a mennyből"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "tekint le"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:13.872526367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "és visszahozatta ⟨את⟩ Moshét (Mózés) és ⟨את⟩ Aharont Parhóhoz, és mondta nekik: menjetek, szolgáljatok Jahvénak, a ti Elohimotoknak! Kik és kik azok, akik mennek?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "és visszahozatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhó"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "menjetek"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgáljatok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvénak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotoknak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kik"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és kik"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "azok, akik mennek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:59.480185882Z",
+  "model": "glm-5.3"
+}

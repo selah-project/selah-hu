@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "A pusztulás minden napján nyugalmat tart ⟨את⟩ ⟨azt⟩ ⟨amit⟩ nem tartott meg a ti szombatjaitok alatt, amikor rajta laktatok.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "a pusztulás"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "nyugalmat tart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "tartott meg"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "szombatjaitok alatt"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "amikor laktatok"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:52.195184764Z",
+  "model": "glm-5.3"
+}

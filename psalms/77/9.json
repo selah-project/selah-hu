@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Elfogyott-e örökre a heszedje? Véget ért-e az ígérete nemzedékről nemzedékre?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Elfogyott-e"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Véget-ért-e"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "az ígérete"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:23.301293013Z",
+  "model": "glm-5.3"
+}

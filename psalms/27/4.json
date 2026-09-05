@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Egyet kértem Jahvétól ⟨את⟩, azt keresem: lakni a Jahve házában életem minden napján, hogy lássam a Jahve kedvességét, és hajnalonként kutassak az ő szentélyében.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Egyet"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kértem"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "Jahvétól ⟨את⟩",
+      "marks": "az egy dolog, amit kértem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ azt",
+      "marks": "amit keresek (אבקש)"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "keresem"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "lakni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "az én életem"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "hogy lássam"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "a kedvességét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "és hajnalonként kutassak"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "az ő szentélyében"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:42.560542361Z",
+  "model": "glm-5.3"
+}

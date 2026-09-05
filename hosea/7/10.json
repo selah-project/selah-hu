@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És megaláztatott Jiszráél gőgje az ⟨ő⟩ orcája előtt, és nem tértek vissza Jahvéhoz, az Elohimjukhoz, és nem keresték őt mindezek ellenére sem.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "És megaláztatott"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gőgje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "az ⟨ő⟩ orcája előtt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "térd körül vissza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "az Elohimjukhoz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "keresték őt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mindezek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ellenére sem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:44:54.170205407Z",
+  "model": "glm-5.3"
+}

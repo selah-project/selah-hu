@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Nincs békesség — mondta Jahve — a gonoszoknak.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nincs"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "béke(sség)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "a gonoszoknak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:07.813041366Z",
+  "model": "glm-5.3"
+}

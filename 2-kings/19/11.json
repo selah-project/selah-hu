@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Íme, te hallottad ⟨את⟩, amit Assur királyai tettek minden országnak, hogy kipusztítsák ⟨את⟩ őket — és te megmenekülsz?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hallottad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tettek"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "országnak"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "hogy kipusztítsák őket"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "és te"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "megmenekülsz"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:48.389533419Z",
+  "model": "glm-5.3"
+}

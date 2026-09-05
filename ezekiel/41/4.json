@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És megmérte ⟨את⟩ annak hosszát — húsz könyök, és ⟨את⟩ a szélességét — húsz könyök, a templomnak színe felé; és mondott neki: „Ez ⟨a⟩ szentek szentje.”",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "és megmérte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak hosszát"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "hosszát"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "és a szélességét"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színe"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "a templomnak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "neki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szentek szentje"
+    }
+  ],
+  "timestamp": "2026-09-04T23:43:53.138388225Z",
+  "model": "glm-5.3"
+}

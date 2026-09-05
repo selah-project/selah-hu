@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És befedte ⟨את⟩ az egész föld szemét, és elsötétült a föld; és elfogyasztotta ⟨את⟩ a föld egész fűfélét és ⟨את⟩ a fák minden gyümölcsét, amelyet a jégeső meghagyott; és nem maradt semmi zöld a fán és a mező fűféliében Egyiptom egész földjén.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "és befedte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész föld szemét"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szemét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "és elsötétült"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "és elfogyasztotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld egész fűfélét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "fűfélét"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fák minden gyümölcsét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "gyümölcsét"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fák"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "meghagyott"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "a jégeső"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "maradt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "zöld"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "a fán"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "és a fűféliében"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyiptom"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:02.203706242Z",
+  "model": "glm-5.3"
+}

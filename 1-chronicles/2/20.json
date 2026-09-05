@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Húr nemzette ⟨את⟩ Úrit (Úri), és Úri nemzette ⟨את⟩ Becalelt (Becalel).",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "És Húr"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Úrit"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Úrit (Úri)"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "és Úri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Becalelt"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becalelt (Becalel)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:16.799670316Z",
+  "model": "glm-5.3"
+}

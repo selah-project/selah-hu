@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ⟨volt⟩ Selomo (Salamon) király, király ⟨volt⟩ egész Izráel fölött.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És ⟨volt⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo (Salamon)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:01.507871997Z",
+  "model": "glm-5.3"
+}

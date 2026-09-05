@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És lemennének Jószéf (József) tíz testvére, hogy gabonát vásároljanak Micrajimból.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "És lemennének"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvérei"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "hogy vásároljanak"
+    },
+    {
+      "surface": "בר",
+      "gloss": "gabonát"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:45.561491648Z",
+  "model": "glm-5.3"
+}

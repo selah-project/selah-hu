@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Elfelejt-e egy asszony csecsemőjét, ⟨hogy⟩ ne könyörüljön méhének fián? Még ha ezek elfelejtik is, én mégsem feledlek el téged.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Elfelejt-e"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "egy asszony"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "csecsemőjét"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "⟨hogy⟩ ne könyörüljön"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fián"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "méhének"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Még ha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "elfelejtik is"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mégsem"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "feledlek el téged"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.231232027Z",
+  "model": "glm-5.3"
+}

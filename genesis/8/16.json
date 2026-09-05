@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Kelj ki a bárkából, te és a feleséged, és a fiaid, és fiaid feleségei ⟨את⟩ veled.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Kelj ki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ből"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "a bárka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "és a feleséged"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "és a fiaid"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "és feleségei"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaidnak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:47.346176103Z",
+  "model": "glm-5.3"
+}

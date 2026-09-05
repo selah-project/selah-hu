@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És megparancsolom ⟨את⟩ áldásomat nektek a hatodik évben, és az megtermi ⟨את⟩ a termést három évre.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "és megparancsolom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áldásomat"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "áldásomat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "évben"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "a hatodik"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "és megtermi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a termést"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "a termést"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "három"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "évre"
+    }
+  ],
+  "timestamp": "2026-09-04T17:21:25.686258308Z",
+  "model": "glm-5.3"
+}

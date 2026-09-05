@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "De aztán visszatértek, és visszahozták ⟨את⟩ a szolgákat és ⟨את⟩ a szolgálólányokat, akiket szabadon elküldtek, és leigázták őket szolgákká és szolgálólányokká.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "visszatértek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aztán"
+    },
+    {
+      "surface": "כן",
+      "gloss": "utána"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "visszahozták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgákat"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "a szolgákat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szolgálólányokat"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "a szolgálólányokat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "elküldtek"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "szabadon"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "és leigázták őket"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "szolgákká"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "és szolgálólányokká"
+    }
+  ],
+  "timestamp": "2026-09-04T23:39:51.776309550Z",
+  "model": "glm-5.3"
+}

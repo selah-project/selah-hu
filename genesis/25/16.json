@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Ezek ⟨az⟩ Izsmáel fiai, és ezek a neveik, az ő udvaraik és az ő erődítéseik szerint; tizenkét fejedelem az ő népeik szerint.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ők⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Izsmáel"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "és ezek"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "a neveik"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "az ő udvaraik szerint"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "és az ő erődítéseik szerint"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tizen-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "fejedelem"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "az ő népeik szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:51.506976449Z",
+  "model": "glm-5.3"
+}

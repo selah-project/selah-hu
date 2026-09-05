@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És odahelyeztem ott ⟨את⟩ a láda helyét, amelyben ⟨van⟩ a Jahve szövetsége, amelyet kötött atyáinkkal, amikor kivezette ⟨את⟩ őket Micrajim (Egyiptom) földjéről.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "És odahelyeztem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helyet"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "a ládának"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyben"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetsége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kötött"
+    },
+    {
+      "surface": "עם",
+      "gloss": ""
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atyáinkkal"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "kivezetéskor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:43.000701568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Jahve hangja megtöri a cédrusokat, és megtörte Jahve ⟨את⟩ a Libanon cédrusait.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "megtöri"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "a cédrusokat"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "és megtörte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Libanon cédrusait"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cédrusait"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "a Libanon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:08.734064427Z",
+  "model": "glm-5.3"
+}

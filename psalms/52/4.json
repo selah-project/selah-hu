@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Pusztításokat sző a nyelved, mint a kalapált éles késpenge, a csalás cselekvője.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Pusztításokat"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "sző"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "a nyelved"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "mint a késpenge"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "kalapált éles"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekvője"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "a csalás"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:28.725765527Z",
+  "model": "glm-5.3"
+}

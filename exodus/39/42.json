@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Mindenre, amit Jahve parancsolt ⟨את⟩ Mosenek (Mózesnek), úgy készítették Izrael fiai ⟨את⟩ az egész munkát.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Mindenre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosenek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosenek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "készítették"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész munkát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "munkát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:55.737846152Z",
+  "model": "glm-5.3"
+}

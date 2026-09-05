@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És találtak a mezőn egy egyiptomi férfit, és elvitték ⟨את⟩ őt Davidhoz, és adtak neki kenyeret, és evett; és itatták vele ⟨את⟩ a vizet.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "és találtak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfit"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "egyiptomi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "és elvitték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "Davidhoz (az egyiptomi férfi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "és adtak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "és evett"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "és itatták"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:48.102001771Z",
+  "model": "glm-5.3"
+}

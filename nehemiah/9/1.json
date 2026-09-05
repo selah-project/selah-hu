@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 9:1",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És a hónapnak huszadik ⟨és⟩ negyedik napján összegyűltek Izráel (Izrael) fiai böjtben és zsákban, és föld volt rajtuk.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "És a ... napján"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "huszadik"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "⟨és⟩ negyedik"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónapnak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "összegyűltek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel (Izrael)"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "böjtben"
+    },
+    {
+      "surface": "ובשקים",
+      "gloss": "és zsákban"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "és föld"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "rajtuk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:56:22.976837714Z",
+  "model": "glm-5.3"
+}

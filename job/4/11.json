@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Az öreg oroszlán zsákmány nélkül elvész, és a nőstény oroszlán kölykei szétszóródnak.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "az öreg oroszlán"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "elvész"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "zsákmány"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és kölykei"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "a nőstény oroszlánnak"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "szétszóródnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:38.732667121Z",
+  "model": "glm-5.3"
+}

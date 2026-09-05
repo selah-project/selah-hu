@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "A Jordánon túl, Móáb földjén vállalkozott Moshe (Mózes) megmagyarázni ⟨את⟩ ezt a Torát (Tórát), mondván:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "túl"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jordánon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móáb"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "vállalkozott"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "megmagyarázni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a Torát"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torát"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T17:50:40.252179965Z",
+  "model": "glm-5.3"
+}

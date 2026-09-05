@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És körülmetélitek ⟨את⟩ előbőrötök húsát, és az lesz jelül a szövetségnek köztem és közületek.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "És körülmetélitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "előbőrötök húsát"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "előbőrötök"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és az lesz"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "jelül"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "a szövetségnek"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "köztem"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "és közületek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:12.504074170Z",
+  "model": "glm-5.3"
+}

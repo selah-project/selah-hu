@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Elázár nemzette ⟨את⟩ Pinchász-t; Pinchász nemzette ⟨את⟩ Avisúá-t.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázár"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchászt"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchász"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchász"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avisúát"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avisúá"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:55.159568351Z",
+  "model": "glm-5.3"
+}

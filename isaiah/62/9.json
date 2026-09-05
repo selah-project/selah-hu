@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "Mert akik betakarítják ⟨azt⟩, megeszik, és dicsérik ⟨את⟩ Jahvét; és akik összegyűjtik, megisszák szenthelyem udvarain.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "akik betakarítják"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "megeszik azt"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "és dicsérik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "és akik összegyűjtik"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "megisszák azt"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "udvarain"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "szenthelyem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:28:28.924958241Z",
+  "model": "glm-5.3"
+}

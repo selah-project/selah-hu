@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha így szól a szolga: szerettem ⟨את⟩ uramat, ⟨את⟩ feleségemet és ⟨את⟩ fiaimat — nem megyek ki szabadon;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "így"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "a szolga"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "szerettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uramat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uramat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségemet"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "feleségemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiaimat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaimat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "megyek ki"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "szabadon"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:36.493280634Z",
+  "model": "glm-5.3"
+}

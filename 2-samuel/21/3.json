@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "és szólt Dávid a givóniakhoz: Mit tegyek nektek, és mivel engeszteljelek meg ⟨titeket⟩, hogy áldjátok meg ⟨את⟩ Jahve örökségét?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "a givóniakhoz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mit"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "tegyek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "és mivel"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "engeszteljelek meg"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "hogy áldjátok meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve örökségét"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "örökségét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:34:01.202029399Z",
+  "model": "glm-5.3"
+}

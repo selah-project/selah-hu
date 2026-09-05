@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Jahve titka az Őt félőknek, és szövetsége, hogy megismertesse ⟨ velük⟩.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "titka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "az Őt félőknek"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "és szövetsége"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "hogy megismertesse őket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:07.933633949Z",
+  "model": "glm-5.3"
+}

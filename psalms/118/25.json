@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Kérlek, Jahve, szabadíts meg most; kérlek, Jahve, adj most jó szerencsét!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "Kérlek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "szabadíts meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "most"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "adj jó szerencsét"
+    },
+    {
+      "surface": "נא",
+      "gloss": "most"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:29.257624078Z",
+  "model": "glm-5.3"
+}

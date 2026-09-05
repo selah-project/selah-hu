@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 31:28",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Gyűjtsétek hozzám ⟨את⟩ nemzetségeitek minden vénjét és tisztviselőiteket, hogy elmondhassam füleikbe ⟨את⟩ e szavakat, és tanúvá tegyem ellenük ⟨את⟩ az egeket és ⟨את⟩ a földet.",
+  "tokens": [
+    {
+      "surface": "הקהילו",
+      "gloss": "Gyűjtsétek össze"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden vénjét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vénjét"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "nemzetségeitek"
+    },
+    {
+      "surface": "ושטריכם",
+      "gloss": "és tisztviselőiteket"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "hogy elmondhassam"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "füleikbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "szavakat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "és tanúvá tegyem"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egeket"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:21.826038370Z",
+  "model": "glm-5.3"
+}

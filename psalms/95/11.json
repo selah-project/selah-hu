@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 95,
+  "translation": "amikor megesküdtem haragomban: nem jutnak be a nyugalom helyemre.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "megesküdtem"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "haragomban"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nem⟩"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "jutnak be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a...-ra"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "nyugalom helyemre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:19.794722535Z",
+  "model": "glm-5.3"
+}

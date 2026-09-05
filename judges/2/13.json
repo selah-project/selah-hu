@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És elhagyták ⟨את⟩ Jahvét, és szolgáltak a Baálnak és az Astárótnak.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "És elhagyták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "és szolgáltak"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "a Baálnak"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "és az Astárótnak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:49:49.739782035Z",
+  "model": "glm-5.3"
+}

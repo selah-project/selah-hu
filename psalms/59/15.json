@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "És visszatérnek este, morognak mint a kutya, és körüljárják a várost.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "És visszatérnek"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "este"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "morognak"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "mint a kutya"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "és körüljárják"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "a várost"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:29.982002410Z",
+  "model": "glm-5.3"
+}

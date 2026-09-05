@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "akivel együtt édesítettük ⟨az⟩ örök tanácsot, az Elohim házában jártunk tömegben.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "akivel"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "édesítettük"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "a tanácsot"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házába"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "jártunk"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "tömegben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:03.884791068Z",
+  "model": "glm-5.3"
+}

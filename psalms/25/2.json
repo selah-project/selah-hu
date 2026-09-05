@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Elohimem, benned bíztam; ne kelljen megszégyenülnöm, ne ujjongjanak ellenségeim ⟨értem⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "megszégyenülnöm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ujjongjanak"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨értem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:09.778490110Z",
+  "model": "glm-5.3"
+}

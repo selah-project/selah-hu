@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Kenaan nemzette ⟨את⟩ Cidont, az ő elsőszülöttjét, és ⟨את⟩ Hetet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "És Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidont"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Cidont"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "az ő elsőszülöttjét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hetet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:46.810404963Z",
+  "model": "glm-5.3"
+}

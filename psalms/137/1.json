@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Babilón folyóinál ott ültünk, sírtunk is, amikor megemlékeztünk ⟨את⟩ Cijonról.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-nál"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "folyóinál"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilón"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ültünk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "sírtunk"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "amikor megemlékeztünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cijonról"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:07.925710738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És leszedte ⟨את⟩ a kereket ekéikről, és nehezen hajtotta őket; és mondta Micrajim (Egyiptom): Fussunk Izrael elől, mert Jahve harcol értük Micrajim ellen!",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "És leszedte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kereket"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "a kereket"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "ekéikről"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "hajtotta őket"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "nehezen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Fussunk"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "harcol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "értük"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajim ellen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:06.775439698Z",
+  "model": "glm-5.3"
+}

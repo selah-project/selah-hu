@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És várt hét napig, a megjelölt idő szerint, amelyet Smuél ⟨rendelt⟩; de Smuél nem jött el Gilgálba, és a nép szétszéledt felőle.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "És várt"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "a megjelölt idő szerint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgálba"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "és szétszéledt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "felőle"
+    }
+  ],
+  "timestamp": "2026-09-04T19:09:21.671519575Z",
+  "model": "glm-5.3"
+}

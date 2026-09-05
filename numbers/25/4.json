@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És szólt Jahve Moshenak (Mózesnek): Vedd ⟨את⟩ mind a nép fejeit, és akaszd ki őket ⟨את⟩ Jahvénak a nap színében, és elfordul Jahve lángoló haragja Izraeltől.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind a nép fejeit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejeit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "és akaszd ki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "Jahvénak a nap színében"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "a színében"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és forduljon el"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "lángoló"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Izraeltől"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:16.178780258Z",
+  "model": "glm-5.3"
+}

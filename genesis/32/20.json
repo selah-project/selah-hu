@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És meghagyta ⟨את⟩ a másodiknak is, ⟨את⟩ a harmadiknak is, ⟨את⟩ mindenkinek is, aki a nyájak mögött haladt, mondván: E szerint a beszéd szerint szóljatok Ézsávhoz (Esau-hoz), amikor rátaláltok ⟨את⟩ őrá.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "és meghagyta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a másodiknak"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a másodiknak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a harmadiknak"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a harmadiknak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindenkinek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "haladónak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "möött"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "a nyájak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "beszéd szerint"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "szóljatok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ézsávhoz"
+    },
+    {
+      "surface": "עשו",
+      "gloss": ""
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "amikor rátaláltok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őrá",
+      "marks": "őrá"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:44.179549851Z",
+  "model": "glm-5.3"
+}

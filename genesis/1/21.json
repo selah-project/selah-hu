@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És teremtette Elohim ⟨את⟩ a nagy tanninokat, és ⟨את⟩ minden élő léleknek a mozgót, amelyeket nyüzsítették a vizek az ő nemük szerint, és ⟨את⟩ minden szárnyas madarat az ő neme szerint; és látta Elohim, hogy jó.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "És teremtette"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nagy tanninokat"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "a nagy tanninokat"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden mozgót"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "élő"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "a mozgót"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "nyüzsítették"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "nemük szerint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden szárnyas madarat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madarat"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "szárnyas"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "neme szerint"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:33.271942489Z",
+  "model": "glm-5.3"
+}

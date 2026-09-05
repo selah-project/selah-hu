@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Első zsengéiket adományként hozzatok ⟨את⟩ őket Jahvénak; de az oltárra ne menjenek fel kedves illatul.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "adományként"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "első zsengéiket"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "hozzátok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "de -hoz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "menjenek fel"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "illatul"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "kedves"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:13.031718663Z",
+  "model": "glm-5.3"
+}

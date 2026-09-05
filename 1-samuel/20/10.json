@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És szólt Dávid (David) Jehonátánhoz: ki jelent nekem, vagy mit felel neked keményen apád?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jehonátánhoz"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonátán"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "jelent"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "felel neked"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apád"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "keményen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:54.653194864Z",
+  "model": "glm-5.3"
+}

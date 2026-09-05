@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És élt Jered (Járed) két és hatvan esztendőt és száz esztendőt, és nemzette ⟨את⟩ Hanokot (Énókot).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "és élt"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered (Járed)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "és hatvan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "és száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokot"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokot (Énókot)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:23.540743600Z",
+  "model": "glm-5.3"
+}

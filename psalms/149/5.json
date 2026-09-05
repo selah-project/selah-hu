@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 149,
+  "translation": "Ujjongjanak a hászidok a dicsőségben, énekeljenek áldásait fekhelyeiken —",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "Ujjongjanak"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "a hászidok"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "a dicsőségben"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "énekeljenek áldásait"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "fekhelyeiken"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:50.410017995Z",
+  "model": "glm-5.3"
+}

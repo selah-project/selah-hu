@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Messze lesznek fiai a segítségtől, és összetörnek a kapuban, és nincs megmentő.",
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "Messze lesznek"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "a segítségtől"
+    },
+    {
+      "surface": "ודכאו→ידכאו",
+      "gloss": "és összetörnek"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kapuban"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mentő"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:04.094675451Z",
+  "model": "glm-5.3"
+}

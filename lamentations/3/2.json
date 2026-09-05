@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "⟨את⟩ engem űzött el, és vezetett sötétségbe, és nem világosságba.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "engem"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "űzött el"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és vezetett"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sötétségbe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אור",
+      "gloss": "világosságba"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:46.707257087Z",
+  "model": "glm-5.3"
+}

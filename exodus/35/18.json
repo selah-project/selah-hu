@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "⟨את⟩ a lakósátor cövekeit, ⟨את⟩ az audvar cövekeit és ⟨את⟩ köteleiket,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lakósátor cövekeit"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "cövekeit"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakósátor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az audvar cövekeit"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "cövekeit"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az audvar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "köteleiket"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "köteleiket"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:28.121295823Z",
+  "model": "glm-5.3"
+}

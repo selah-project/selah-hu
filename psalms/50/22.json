@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Értsétek hát ezt, ti Eloah-t feledők, nehogy széttépezjelek, és ne legyen megmentő!",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Értsétek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hát"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ti… feledők"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah-t"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "széttépezjelek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és ne legyen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "megmentő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:35.687840909Z",
+  "model": "glm-5.3"
+}

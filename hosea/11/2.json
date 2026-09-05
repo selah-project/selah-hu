@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Hívták őket — úgy mentek el az ő arcuktól: a Baaloknak áldoztak, és a faragott képeknek füstöltek.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "hívták"
+    },
+    {
+      "surface": "להם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mentek"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "az ő arcuktól"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "a Baaloknak"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "áldoztak"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "és a faragott képeknek"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "füstöltek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:10.196367147Z",
+  "model": "glm-5.3"
+}

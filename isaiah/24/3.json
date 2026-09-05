@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Kiürítve kiürül a föld, és kifosztva fosztatik ki, mert Jahve szólta ⟨את⟩ e szót.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Kiürítve"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "kiürül"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "és kifosztva"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "kifosztatik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e szót"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a szót"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:51.802851685Z",
+  "model": "glm-5.3"
+}

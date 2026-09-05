@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "„Jahve, a te szolgádért, és a te szíved szerint cselekedted ⟨את⟩ mind ezt a nagy dolgot, hogy megismertesd ⟨את⟩ mind a nagyokat.”",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "a ...ért"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "te szolgád"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "és a te szíved szerint"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "cselekedted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind ezt a nagy dolgot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ezt a nagy dolgot"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "hogy megismertesd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind a nagyokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "a nagyokat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:01.183769273Z",
+  "model": "glm-5.3"
+}

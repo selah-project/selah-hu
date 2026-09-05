@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Kelj fel, Jahve, szabadíts meg, Elohim! Mert megütötted ⟨את⟩ minden ellenségem az orcáját; a gonoszok fogait összetörted.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "szabadíts meg"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "megütötted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden ellenségem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségem"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "az orcáját"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fogait"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "összetörted"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.202367639Z",
+  "model": "glm-5.3"
+}

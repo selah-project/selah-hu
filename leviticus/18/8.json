@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Atyád feleségének mezítelenségét ne tárd fel; atyád mezítelensége ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "mezítelenségét"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségének"
+    },
+    {
+      "surface": "אביק",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "tárd fel"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "mezítelensége"
+    },
+    {
+      "surface": "אביק",
+      "gloss": "atyádnak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:55.066833196Z",
+  "model": "glm-5.3"
+}

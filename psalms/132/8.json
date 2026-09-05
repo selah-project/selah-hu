@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "Kelj fel, Jahve, a nyugvóhelyedre, te és erőd ládája!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "a nyugvóhelyedre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "és ládája"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "erőd"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:44.198528974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "Ad kenyeret minden testnek, mert örökké ⟨van⟩ a heszedje.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Ad"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "testnek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:28.373842045Z",
+  "model": "glm-5.3"
+}

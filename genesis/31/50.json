@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Ha bántod ⟨את⟩ lányaimat, és ha feleségeket veszel lányaim fölé — nincs ⟨a⟩ ember velünk: lásd, Elohim ⟨az⟩ tanú köztem és közteted.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bántod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lányaimat"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "lányaimat"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "veszel"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "feleségeket"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "lányaim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lásd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanú"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "köztem"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "és közteted"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:43.461031634Z",
+  "model": "glm-5.3"
+}

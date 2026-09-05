@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Jahve beszédei tiszták — beszédek, ⟨melyek⟩ tiszták —, mint a föld kemencéjében OLVASZTOTT ezüst, hétszer megtisztított.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "beszédei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "beszédek"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "tiszták"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mint az ezüst"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "olvasztott"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "kemencéjében"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "megtisztított"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "hétszer"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:52.884905917Z",
+  "model": "glm-5.3"
+}

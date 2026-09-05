@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Kötöttem szövetséget az én választottammal, megesküdtem Davídnak (Dávid), az én szolgámnak.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Kötöttem"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "az én választottammal"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "megesküdtem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davídnak"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "az én szolgámnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:38.127296351Z",
+  "model": "glm-5.3"
+}

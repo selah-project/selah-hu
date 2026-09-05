@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És bevonod ⟨את⟩ tiszta arannyal, és készítesz neki köröskörül arany párta-korona keretet.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "És bevonod"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt (az asztalt)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és készítesz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "זר",
+      "gloss": "párta-korona keretet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:32.983349025Z",
+  "model": "glm-5.3"
+}

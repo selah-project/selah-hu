@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És elfutott Élihez, és mondta: „Íme, itt vagyok, mert hívtál engem.” Ő pedig mondta: „Nem hívtalak; menj vissza, feküdj le.” Az pedig elment és lefeküdt.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "és elfutott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme, itt vagyok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "hívtál"
+    },
+    {
+      "surface": "לי",
+      "gloss": "engem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "hívtalak"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "menj vissza"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "feküdj le"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "és lefeküdt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:44.768429566Z",
+  "model": "glm-5.3"
+}

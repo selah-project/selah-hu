@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Sötétben házakat tör át; nappal bezárkóznak maguknak — nem ismerik a világosságot.",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "áttör"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sötétben"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "házakat"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "bezárkóznak"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maguknak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ismerik"
+    },
+    {
+      "surface": "אור",
+      "gloss": "világosság"
+    }
+  ],
+  "timestamp": "2026-09-05T00:48:07.863754621Z",
+  "model": "fable-5-hand"
+}

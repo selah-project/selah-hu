@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és tanítsátok ⟨את⟩ azokat ⟨את⟩ fiaitoknak, hogy beszéljenek azokról, amikor ülsz a házadban, és amikor jársz az úton, és amikor lefekszel, és amikor felkelsz.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "és tanítsátok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat (a szavakat)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaitokat"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "fiaitokat"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "beszélni"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azokról"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "amikor ülsz"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "házadban"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "és amikor jársz"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "és amikor lefekszel"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "és amikor felkelsz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:34.361824294Z",
+  "model": "glm-5.3"
+}

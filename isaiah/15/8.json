@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Mert körbejárta a kiáltás ⟨את⟩ Moáb határát; Eglájimig ér jajgatása, és Beér-Élimig jajgatása.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "körbejárta"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "a kiáltás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moáb határát"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "határát"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglájimig"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "jajgatása"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "és Beér"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "-Élimig"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "jajgatása"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:52.516685559Z",
+  "model": "glm-5.3"
+}

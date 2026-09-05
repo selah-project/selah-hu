@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És ⟨את⟩ Aharont (Áron) és ⟨את⟩ fiaid megkened, és megszenteled ⟨את⟩ őket, hogy papjaim legyenek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont (Áron)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiaid"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiaid"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "megkened"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "és megszenteled"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pappá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:36.340799199Z",
+  "model": "glm-5.3"
+}

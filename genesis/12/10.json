@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És lett éhség az országban, és lement Avram Micrajimba (Egyiptomba), hogy ott jövevény legyen, mert súlyos volt az éhség az országban.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "éhség"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az országban"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "és lement"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micrajimba"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "hogy jövevény legyen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "súlyos volt"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "az éhség"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az országban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:11.781343118Z",
+  "model": "glm-5.3"
+}

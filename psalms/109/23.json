@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Mint a hajló árnyék úgy múltam el, kihányattam, mint a sáska.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "mint az árnyék"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "amikor hajlik"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "elmúltam"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "kihányattam"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "mint a sáska"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:18.414198671Z",
+  "model": "glm-5.3"
+}

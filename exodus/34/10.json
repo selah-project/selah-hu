@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 34:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És monda: Íme, én szövetséget kötök egész néped színe előtt, csodákat teszek, amelyek nem teremttettek az egész földön és semmiféle népben; és látja az egész nép, amelynek közepette vagy, ⟨את⟩ Jahve művét, mert félelmes az, amit én veled teszek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "szövetséget kötök"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teszek"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "csodákat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "teremttettek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és semmiféle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "népben"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és látja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelynek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "közepette vagy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve művét"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "művét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "félelmes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teszek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:37.760984973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "és a másiknak a neve Eliézer, mert „az én atyám Elohima az én segítségem, és megszabadított engem a Paró kardjától”.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "és a neve"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "a másiknak"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliézer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "az én atyám"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "az én segítségem"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "és megszabadított engem"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "a kardjától"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:40.534791393Z",
+  "model": "glm-5.3"
+}

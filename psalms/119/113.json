@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A kétkedőket gyűlöltem, és a Torádat szerettem.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "a kétkedőket"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "gyűlöltem"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "és a Torádat"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "szerettem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:27.277337332Z",
+  "model": "glm-5.3"
+}

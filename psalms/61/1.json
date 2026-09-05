@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 61,
+  "translation": "A karmesternek, húros hangszerekre, Dávidtól.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "húros hangszerekre"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:36.536307001Z",
+  "model": "glm-5.3"
+}

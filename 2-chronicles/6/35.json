@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "és hallgasd meg a mennyekből ⟨את⟩ imádságukat és ⟨את⟩ esedezésüket, és cselekedd ⟨את⟩ ítélő ügyüket",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "és hallgasd meg"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ból"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a mennyek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imádságukat"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "imádságukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "esedezésüket"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "esedezésüket"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és cselekedd"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ítélő ügyüket"
+    }
+  ],
+  "timestamp": "2026-09-04T23:13:27.209224474Z",
+  "model": "glm-5.3"
+}

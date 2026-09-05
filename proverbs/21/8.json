@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Görbe az ember útja és idegen, de a tiszta tette egyenes.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "görbe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "és idegen"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "de a tiszta"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "egyenes"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "tette"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:27.469542485Z",
+  "model": "glm-5.3"
+}

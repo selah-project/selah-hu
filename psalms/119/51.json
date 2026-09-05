@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Gőgösek gúnyoltak engem igen very much, a Tórádtól (Törvény) mégsem tértem el",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Gőgösek"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "gúnyoltak engem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "a Tórádtól (Tóra)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mégsem"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "eltertem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:19.314548083Z",
+  "model": "glm-5.3"
+}

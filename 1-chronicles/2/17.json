@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Avigájil (Abigail) megszülte ⟨את⟩ Amászát, és Amászá apja ⟨volt⟩ Jéter (Jeter) ⟨az⟩ ismáelita.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "És Avigájil (Abigail)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "megszülte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amászát"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amászát"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "és apja"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amászá"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jéter (Jeter)"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "⟨az⟩ ismáelita"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:16.799087654Z",
+  "model": "glm-5.3"
+}

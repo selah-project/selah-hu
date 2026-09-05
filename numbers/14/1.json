@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És felemelte az egész gyülekezet ⟨את⟩ hangjukat, és sírt a nép azon az éjszakán.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "És felemelte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "és kiadták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hangjukat"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hangjukat"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "és sírt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "azon az éjszakán"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:33:43.997928014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "⟨את⟩ Ítélkezéseimet tegyétek, és ⟨את⟩ rendeleteimet tartsátok meg, hogy azokban járjatok: én ⟨vagyok⟩ Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ítélkezéseimet"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "Ítélkezéseimet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tegyétek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "rendeleteimet"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rendeleteimet"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tartsátok meg"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hogy járjatok"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azokban"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:56.165084528Z",
+  "model": "glm-5.3"
+}

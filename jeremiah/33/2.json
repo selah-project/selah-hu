@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Így szól Jahve, aki megteszi ⟨את⟩ azt, Jahve, aki formálta ⟨את⟩ azt, hogy helyreállítsa — Jahve ⟨az⟩ ő neve.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aki megteszi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "aki formálta"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a várost \/ azt, amit alkotott)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "hogy helyreállítsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ő neve"
+    }
+  ],
+  "timestamp": "2026-09-04T20:46:45.387052611Z",
+  "model": "glm-5.3"
+}

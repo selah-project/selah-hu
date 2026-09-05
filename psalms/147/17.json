@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Hajítja jégtömbjeit, mint morzsákat — fagyása előtt ki állhat meg?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "hajítja"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "jégtömbjeit"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "mint morzsákat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "fagyása"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "állhat meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:06.389580782Z",
+  "model": "glm-5.3"
+}

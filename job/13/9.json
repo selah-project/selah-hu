@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Jó-e, hogy megvizsgál ⟨את⟩ titeket? Avagy mint gúnyolódik az emberrel, úgy gúnyolódtok vele?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "Jó-e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "megvizsgál"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "אם",
+      "gloss": "avagy"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "mint gúnyolódik"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "az emberrel"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "gúnyolódtok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T22:20:16.133960154Z",
+  "model": "glm-5.3"
+}

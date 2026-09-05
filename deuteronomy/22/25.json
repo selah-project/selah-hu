@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És ha a mezőn találja a férfi ⟨את⟩ a lányt, a jegyest, és megfogja őt a férfi, és fekszik vele: akkor haljon meg a férfi, aki feküdt vele, egymagában.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "találja"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lányt"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a lányt"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "a jegyest"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "és megfogja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "őt"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "és fekszik"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "és meghal"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "feküdt"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "vele"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egymagában"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:33.933360501Z",
+  "model": "glm-5.3"
+}

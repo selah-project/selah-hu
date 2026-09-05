@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "⟨את⟩ minden hollót a maga fajtája szerint",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden hollót"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hollót"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "a maga fajtája szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:00.013734728Z",
+  "model": "glm-5.3"
+}

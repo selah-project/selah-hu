@@ -1,0 +1,82 @@
+#:rendering{:label "Magyar",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-04", :to "2026-09-05"},
+            :id "hu.v1",
+            :catalog {:ui "resources/i18n/ui/hu.edn"},
+            :license "CC BY-SA 4.0 (The Selah Hungarian Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23177, "fable-5-hand" 36},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/hu.md",
+             :rails-commit "2f98d5ff",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonáj",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloah",
+              "יה" "Jah",
+              "יהוה" "Jahve",
+              "צבאות" "Cevaót",
+              "שדי" "Saddáj"},
+             :open-questions
+             ["paren-shadows 4,225 files (Mózes class) — posture PENDING"
+              "case-suffix ratification (shared ro+hu+kk)"
+              "1 Sam 4:7 / Deut 32:4 / 1 Chr 11:35 witness ambiguities"]},
+            :status :rendering,
+            :adjudication
+            {:chair 59,
+             :date "2026-09-04",
+             :seal
+             {:jahve 5787,
+              :elohim 2109,
+              :et-verses 7709,
+              :ur-at-name 0,
+              :jehova 0},
+             :aleph-tav [0 0 0 0],
+             :nt-leak 0,
+             :hand-verses 27},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :hu}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Jaj, minden szomjas, jöjjetek a vízhez, és akinek nincsen pénze, jöjjetek, vásároljatok és egyetek; igen, jöjjetek, vásároljatok pénz nélkül és ár nélkül bort és tejet!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "szomjas"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "jöjjetek"
+    },
+    {
+      "surface": "למים",
+      "gloss": "a vízhez"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és aki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincsen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénze"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "jöjjetek"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "vásároljatok"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "és egyetek"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "és jöjjetek"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "vásároljatok"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénz"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "és nélkül"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ár"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bort"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "és tejet"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:16.159318101Z",
+  "model": "glm-5.3"
+}

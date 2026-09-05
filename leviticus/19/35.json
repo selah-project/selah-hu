@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne kövessetek el igazságtalanságot az ítéletben, se hosszmértékben, se súlyban, se űrmértékben.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kövessetek-el"
+    },
+    {
+      "surface": "עול",
+      "gloss": "igazságtalanságot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ítéletben"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "hosszmértékben"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "súlyban"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "és-űrmértékben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:24.319653939Z",
+  "model": "glm-5.3"
+}

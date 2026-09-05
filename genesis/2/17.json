@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "a jó és a rossz ismeretének fájából pedig ne egyél belőle, mert amely napon eszel belőle, halálra halsz meg.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "fájából pedig"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "az ismeretének"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a jó"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "és a rossz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "egyél"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "eszel"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halálra"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "halsz meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:26.867636689Z",
+  "model": "glm-5.3"
+}

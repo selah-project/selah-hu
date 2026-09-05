@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "amelyeken ott a madarak fészkelnek; a gólyának a ciprusfák ⟨van⟩ a háza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amelyeken"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "madarak"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "fészkelnek"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "gólya"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ciprusfák"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "háza"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:32.121453386Z",
+  "model": "glm-5.3"
+}

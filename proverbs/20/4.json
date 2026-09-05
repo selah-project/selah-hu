@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "A tél miatt ⟨a⟩ lusta nem szánt; aratáskor kér majd — és nincs semmi.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "a tél miatt"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "⟨a⟩ lusta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "szánt"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "kér majd"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "aratáskor"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs semmi"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:13.225020568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Jahve ellen hitlenkedtek, mert idegen fiakat szültek; most felfalja őket az újhold ⟨את⟩ az ő részeiket.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve ellen"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "hitlenkedtek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiakat"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "szültek"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "felfalja őket"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "az újhold"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő részeiket"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "az ő részeiket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:00.964594639Z",
+  "model": "glm-5.3"
+}

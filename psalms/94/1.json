@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "El, a bosszúú Jahve, El, a bosszúú, ragyogj elő!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "a bosszúú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "a bosszúú"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ragyogj elő"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:08.604569355Z",
+  "model": "glm-5.3"
+}

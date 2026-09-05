@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "és feltették ⟨את⟩ Jahve ládáját a szekérre, és ⟨את⟩ a ládikót, és ⟨את⟩ az arany egereket, és ⟨את⟩ az ő daganataik képmásait.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "és feltették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a szekérre"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "a szekér"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a ládikót"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "a ládikót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az arany egereket"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "egereit"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az arany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "daganataik képmásait"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "képmásait"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "daganataiknak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:36.536441636Z",
+  "model": "glm-5.3"
+}

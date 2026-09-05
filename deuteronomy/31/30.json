@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És beszélt Moshe egész Izráel gyülekezetének fülébe ⟨את⟩ e dal szavait, amíg bevégződtek.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És beszélt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "fülébe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e dal szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "dal"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "bevégződtek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:31:25.259994882Z",
+  "model": "glm-5.3"
+}

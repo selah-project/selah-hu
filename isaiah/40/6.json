@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Hang szól: Kiálts! És ⟨ő⟩ mondja: Mit kiáltsak? Minden test fű, és minden heszedje mint a mező virága.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kiálts"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mit"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltsak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "test"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "fű"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "heszedje"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "mint a virága"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:27.474244589Z",
+  "model": "glm-5.3"
+}

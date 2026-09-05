@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És a napon, amikor felállították ⟨את⟩ a lakósátrat, beborította a felhő ⟨את⟩ a lakósátrat, a bizonyság sátrának ⟨darabját⟩; és estve a lakósátoron volt a tűz látványaként, reggelig.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "És a napon"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "felállították"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lakósátrat"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakósátrat"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "beborította"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "a felhő"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lakósátrat"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakósátrat"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "a sátor"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a bizonyságnak"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "és estve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakósátoron"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "látványaként"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reggelig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:14.342819449Z",
+  "model": "glm-5.3"
+}

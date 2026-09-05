@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Hát nem olyanok-e nekem, mint a kúsiak fiai, nektek, Izráel fiai? — azt mondja Jahve. Nem ⟨את⟩ Izráelt hoztam-e fel Micrajim (Egyiptom) földjéből, és a filiszteusokat Kaftórból, és Arámot Kírből?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Hát nem"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "mint ... fiai"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "a kúsiak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "olyanok-e"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "azt mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "hoztam-e fel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéből"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "és a filiszteusokat"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "Kaftórból"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "és Arámot"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "Kírből"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:31.752828960Z",
+  "model": "glm-5.3"
+}

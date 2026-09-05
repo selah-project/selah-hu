@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És szolgáltak ⟨את⟩ bálványaiknak, és azok csapdájukká lettek.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "És szolgáltak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bálványaiknak"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "bálványaiknak"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azok"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "csapdájukká"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:27.973553133Z",
+  "model": "glm-5.3"
+}

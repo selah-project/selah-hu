@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "úgy csalja meg az ember ⟨את⟩ felebarátját, és ezt mondja: „Hiszen csak játszom én!”",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "csalja meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és ezt mondja"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hiszen"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "játszom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:54.358052383Z",
+  "model": "glm-5.3"
+}

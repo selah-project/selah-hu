@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És megcsinálta ⟨את⟩ az arany menorákat, tízet, rendeletük szerint, és tett a szentélyben ötöt jobbról és ötöt balról.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcsinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az arany menorákat"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "menorákat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az arany"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tízet"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "rendeletük szerint"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és tett"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "a szentélyben"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ötöt"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "jobbról"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "és ötöt"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "balról"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:02.503240819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Ki művelte és tette, hívva a nemzedékeket az ősidőktől? Én, Jahve, az első, és ⟨את⟩ az utolsókkal — én ⟨vagyok⟩ az.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "művelte"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és tette"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hívva"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "a nemzedékeket"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "az ősidőktől"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "az első"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az utolsókkal"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "az utolsókkal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨vagyok⟩ az"
+    }
+  ],
+  "timestamp": "2026-09-04T20:22:02.588943857Z",
+  "model": "glm-5.3"
+}

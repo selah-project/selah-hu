@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És kivezette mint juhokat ⟨az⟩ ő népét, és mint nyájat vezette őket a pusztában.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "És kivezette"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "mint juhokat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "és vezette őket"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "mint nyájat"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:54.677692445Z",
+  "model": "glm-5.3"
+}

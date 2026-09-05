@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És a pap odaviszi ⟨az⟩ oltárhoz, és lecsavarja ⟨את⟩ a fejét, és füstölögteti az oltáron, és kifolyatja annak a vérét az oltár falára.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "és odaviszi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "az …hoz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltárhoz"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "és lecsavarja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fejét"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "a fejét"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "és füstölögteti"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "és kifolyatja"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "annak a vérét"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ára"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "fal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:37.489486336Z",
+  "model": "glm-5.3"
+}

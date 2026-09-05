@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "minden tiszta szárnyast ehettek",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "szárnyas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehettek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:56:30.022319438Z",
+  "model": "glm-5.3"
+}

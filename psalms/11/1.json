@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "A karnagynak. Dávidé. Jahvéban kerestem oltalmat — hogyan mondjátok lelkemnek: »Menekülj hegyetekre, madár!«",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kerestem oltalmat"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hogyan"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mondjátok"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lelkemnek"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Menekülj"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "hegyetekre"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "madár"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:26.109742244Z",
+  "model": "glm-5.3"
+}

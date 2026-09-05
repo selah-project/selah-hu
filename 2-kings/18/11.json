@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És Asur kirája deportálta ⟨את⟩ Jiszráélt Asurba, és letelepítette őket Chalachban és a Chabor folyónál, Gozán folyójánál, és a médek városaiban.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "És deportálta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélt"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Asurba"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "és letelepítette"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Chalachban"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "és a Chabor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "folyó"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozán"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "és városaiban"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "a médek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:00:30.883035837Z",
+  "model": "glm-5.3"
+}

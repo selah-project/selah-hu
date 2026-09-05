@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és ⟨את⟩ a jebuszit, és ⟨את⟩ az emorit, és ⟨את⟩ a girgasit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jebuszit"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "a jebuszit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az emorit"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emorit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a girgasit"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "a girgasit"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:39.978688176Z",
+  "model": "glm-5.3"
+}

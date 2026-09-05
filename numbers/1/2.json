@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Vegyétek fel ⟨את⟩ a fejét Izráel fiainak egész gyülekezetének, nemzetségeik szerint, atyáik háza szerint, nevek számában, minden férfit, fejenként.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Vegyétek fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fejét"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezetének"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemzetségeik szerint"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ház szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "számában"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nevek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "férfit"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "fejenként"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:11.916847620Z",
+  "model": "glm-5.3"
+}

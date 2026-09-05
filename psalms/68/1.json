@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "A karmesternek; Dávidé; mzimor, ének.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mzimor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:18.883441443Z",
+  "model": "glm-5.3"
+}

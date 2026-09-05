@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Mert ha elesnek, az egyik felállítja ⟨את⟩ társát; és ha az egyik elesik, nincs második, hogy felállítsa őt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "elesnek"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "felállítja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "társát"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "társát"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "elesik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "שני",
+      "gloss": "második"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "hogy felállítsa őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:07.443834507Z",
+  "model": "glm-5.3"
+}

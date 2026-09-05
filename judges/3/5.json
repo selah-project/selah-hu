@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És Jiszráél (Izrael) fiai közé laktak a kenaani, a heti, az emori, a perizi, a hivi és a jebuszi ⟨nép⟩ közé.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "És … fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél (Izrael)"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "laktak"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közé"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a kenaani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a heti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "és az emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "és a perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "és a hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "és a jebuszi"
+    }
+  ],
+  "timestamp": "2026-09-04T18:50:21.414528522Z",
+  "model": "glm-5.3"
+}

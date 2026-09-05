@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Úgy verte-é ⟨őt⟩, mint ahogy verőit verték? Avagy úgy ölettetett-é meg, mint ahogy megöletettjei hullottak el?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "úgy … mint ahogy"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "verőit"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "verte-é ⟨őt⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Avagy"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "mint ahogy"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "megöletettjei"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "megölettek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:23.660227467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨ő⟩ megítéli a világot igazsággal, ítéletet mond a népeknek egyenességben.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "és ⟨ő⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "megítéli"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a világot"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "igazsággal"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ítéletet mond"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "a népeknek"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "egyenességben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:24.510751905Z",
+  "model": "glm-5.3"
+}

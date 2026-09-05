@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És ha nőstény ⟨az⟩, legyen a becslésed harminc sékel.",
+  "tokens": [
+    {
+      "surface": "ו אם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "nőstény"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "a becslésed"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sékel"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:09.915746222Z",
+  "model": "glm-5.3"
+}

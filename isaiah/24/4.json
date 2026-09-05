@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Gyászol és hervad a föld, elhal és hervad a világ, elhalnak a föld népének magasságai.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Gyászol"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "és hervad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "elhal"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "hervad"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a világ"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "elhalnak"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "magasságai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népének"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:51.803067301Z",
+  "model": "glm-5.3"
+}

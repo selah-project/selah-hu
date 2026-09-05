@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "És szétzúzom szorongatóit az ő színe elől, és gyötöröm az őt gyűlölőket.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "És szétzúzom"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "az ő színe elől"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "szorongatóit"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "és az őt gyűlölőket"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "gyötöröm"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:11.810617825Z",
+  "model": "glm-5.3"
+}

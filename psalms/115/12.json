@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Jahve megemlékezett rólunk: áld, áldja ⟨את⟩ Izrael házát, áldja ⟨את⟩ Ahárón házát.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "megemlékezett rólunk"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "áld"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "áldja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "áldja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahárón házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárón"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:06.253398295Z",
+  "model": "glm-5.3"
+}

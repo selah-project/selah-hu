@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "És készítsék ⟨את⟩ a bárányt, és ⟨את⟩ a lisztáldozatot, és ⟨את⟩ az olajat reggelenként, reggelenként — szüntelen égőáldozatul.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "És készítsék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bárányt"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "a bárányt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lisztáldozatot"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "a lisztáldozatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az olajat"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "az olajat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggelenként"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggelenként"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "égőáldozatul"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:16:39.422430762Z",
+  "model": "glm-5.3"
+}

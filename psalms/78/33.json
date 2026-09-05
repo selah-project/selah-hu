@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És elfogyatázza hiábavalóságban napjaikat, és éveiket rettegésben.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "elfogyatázza"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "hiábavalóságban"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "napjaikat"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "és éveiket"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "rettegésben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:41.111847096Z",
+  "model": "glm-5.3"
+}

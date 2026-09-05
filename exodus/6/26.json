@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ez ⟨az⟩ Ahárón és ⟨az⟩ Moshe (Mózes), akikhez Jahve szólt: „Vezessétek ki ⟨את⟩ Izráél fiait Egyiptom földjéről, seregeik szerint.”",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárón"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "és Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akikhez"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Vezessétek ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráél fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráélnek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyiptomnak"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "seregeik szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:53.009540592Z",
+  "model": "glm-5.3"
+}

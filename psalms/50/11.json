@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Ismerem a hegyek minden madarát, és a mező zsibongó vadja velem van.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ismerem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madarát"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "és zsibongó vadja"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "velem van"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:32.692041172Z",
+  "model": "glm-5.3"
+}

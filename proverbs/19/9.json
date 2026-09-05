@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Hazug tanú nem marad büntetlen, és aki hazugságokat fúj, elvész.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tanú"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "hazug"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "marad büntetlen"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "és fúj"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "hazugságokat"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "elvész"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:06.639965437Z",
+  "model": "glm-5.3"
+}

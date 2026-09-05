@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Akivel a kezem megállapodott, sőt karom megerősíti őt.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Akivel"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "a kezem"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "megállapodott"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "karom"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "megerősíti őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:11.810224726Z",
+  "model": "glm-5.3"
+}

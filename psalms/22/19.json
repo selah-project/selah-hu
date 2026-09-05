@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ruháimat megosztják maguknak, és köntösömre sorsot vetnek.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "megosztják"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruháimat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maguknak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ... reá"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "köntösömre"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "sorsot vetnek"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "sors"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:37.751908783Z",
+  "model": "glm-5.3"
+}

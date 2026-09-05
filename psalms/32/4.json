@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Mert nappal és éjjel nehezedett reám ⟨a⟩ kezed, nedvem a nyár perzselésévé fordult. Szelá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és éjjel"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "nehezedett"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "reám"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "fordult"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "nedvem"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "perzselésévé"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "a nyárnak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelá"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:20.776515019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Térdeim megroggyantak a bőjtöléstől, és a testem elvesztette a kövérségét.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "térdeim"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "megroggyantak"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "a bőjtöléstől"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "és a testem"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "elvesztette"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "a kövérségét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:18.414388097Z",
+  "model": "glm-5.3"
+}

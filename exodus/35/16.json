@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "⟨את⟩ az égőáldozat oltárát és ⟨את⟩ a rézrácsot, amely ⟨את⟩ magáé, ⟨את⟩ rúdjait és ⟨את⟩ minden edényét; ⟨את⟩ a medencét és ⟨את⟩ talpazatát;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltárát"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárát"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "rézrácsot"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "rézrácsot"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "a réz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rúdjait"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "rúdjait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a medencét"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "a medencét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "talpazatát"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "talpazatát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:30.915463147Z",
+  "model": "glm-5.3"
+}

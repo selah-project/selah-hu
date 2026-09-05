@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Árpachsád nemzette ⟨את⟩ Seláhot, és Seláh nemzette ⟨את⟩ Ébert.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Árpachsád"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seláhot"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Seláhot"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "és Seláh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ébert"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ébert"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:47.895322308Z",
+  "model": "glm-5.3"
+}

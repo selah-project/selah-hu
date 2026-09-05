@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Mindenkit, akit az én nevemen hívnak, és a dicsőségemre: megteremtem őt, megformáltam őt, sőt megcselekedtem őt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Mindenkit"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "akit hívnak"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "az én nevemen"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "és a dicsőségemre"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "megteremtem őt"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "megformáltam őt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "megcselekedtem őt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:56.419070506Z",
+  "model": "glm-5.3"
+}

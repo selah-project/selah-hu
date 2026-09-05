@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "De minden szárnyas csúszó-mászó, amelynek négy lába van, az utálatos nektek.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "De minden"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "csúszó-mászó"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "szárnyas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelynek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "van"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "lába"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "utálatos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:19.281819208Z",
+  "model": "glm-5.3"
+}

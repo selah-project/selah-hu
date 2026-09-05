@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "A mindent ⟨את⟩ széppé tette annak idejében; az örökkévalóságot is ⟨את⟩ adta szívükbe, úgyhogy nem találja meg az ember ⟨את⟩ a munkát, amelyet az Elohim végzett, kezdettől és végéig.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mindent"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "a mindent"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "széppé"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "idejében"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az örökkévalóságot"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "az örökkévalóságot"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "szívükbe"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "úgyhogy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "megtalálja"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a munkát"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "a munkát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "végzett"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "kezdettől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "végéig"
+    }
+  ],
+  "timestamp": "2026-09-05T00:47:55.215638229Z",
+  "model": "glm-5.3"
+}

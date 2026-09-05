@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Idő az ölni, és idő a gyógyítani; idő a lebontani, és idő az építeni.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "az ölni"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "a gyógyítani"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "a lebontani"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "az építeni"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:41.436288216Z",
+  "model": "glm-5.3"
+}

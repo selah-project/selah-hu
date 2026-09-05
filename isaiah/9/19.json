@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És kap jobbra, és éhes marad, és eszik balra, és nem laknak jól: ember a karja húsát eszi.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "és-kap"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobbra"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "és-éhes-marad"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "és-eszik"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "balra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és-nem"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "laknak-jól"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "karja"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "eszik"
+    }
+  ],
+  "timestamp": "2026-09-04T20:10:38.179846085Z",
+  "model": "glm-5.3"
+}

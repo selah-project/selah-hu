@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Akit fogságba vittek Jerusálajimból ⟨a⟩ fogsággal együtt, amelyet fogságba vittek Jekonjá (Jekóniás), Jehúda királya mellett, akit Nevukadneccar (Nebukadneccár), Bábel királa vitt fogságba.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Akit"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "fogságba vittek"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "Jerusálajimból"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "⟨a⟩ fogsággal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "fogságba vittek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Jekonjá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "vitt fogságba"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadneccar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:55:36.151235991Z",
+  "model": "glm-5.3"
+}

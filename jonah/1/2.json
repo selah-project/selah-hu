@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "„Kelj fel, menj Ninvébe (Ninevébe), a nagy városba, és kiálts ellene, mert felszállt rosszaságuk a színem elé.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninvébe (Ninevébe)"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városba"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "és kiálts"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ellene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "felszállt"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "rosszaságuk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "a színem elé"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:35.093315861Z",
+  "model": "glm-5.3"
+}

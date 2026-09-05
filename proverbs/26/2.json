@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Mint a madár a csapongásban, mint a fecske a röptében, úgy az ok nélküli átok nem száll rá.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Mint a madár"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "a csapongásban"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "mint a fecske"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "a röptében"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "az átok"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ok nélkül"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "száll rá"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:30.224253586Z",
+  "model": "glm-5.3"
+}

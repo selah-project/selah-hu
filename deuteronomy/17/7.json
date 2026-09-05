@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "A tanúk keze legyen benne elsőnek az ő megölésére, és minden nép keze utoljára; és irtsd ki a gonoszt a körödből.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "a tanúk"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "elsőnek"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "az ő megölésére"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "és keze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "utoljára"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "és irtsd ki"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a gonoszt"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "a körödből"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:51.455652428Z",
+  "model": "glm-5.3"
+}

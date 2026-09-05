@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "és ⟨את⟩ a kecskegidák bőreit ráadta a kezeire és a nyaka sima részére.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bőröket"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "bőreit"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "kecskegidák"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "a kecskék"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "ráadta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "a kezeire"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "sima részére"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "a nyaka"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:24.456475775Z",
+  "model": "glm-5.3"
+}

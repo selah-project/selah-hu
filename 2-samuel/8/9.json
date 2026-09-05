@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És meghallotta Tóí, Hamat királya, hogy David (Dávid) megverte ⟨את⟩ egész Hadadézer haderejét,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "És meghallotta"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Tóí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "megverte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Hadadézer haderejét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "haderejét"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    }
+  ],
+  "timestamp": "2026-09-04T19:24:06.098135871Z",
+  "model": "glm-5.3"
+}

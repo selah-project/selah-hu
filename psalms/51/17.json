@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Adonáj, ajkaimat nyisd meg, és szám hirdeti dicséretedet.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ajkaimat"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "nyisd meg"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "és szám"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "hirdeti"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "dicséretedet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:46.918931064Z",
+  "model": "glm-5.3"
+}

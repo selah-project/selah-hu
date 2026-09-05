@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Dávid imádsága. Hajlítsd, Jahve, füledet, felelj nekem, mert szegény és nyomorult vagyok én.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "imádsága"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Hajlítsd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "füledet"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "felelj nekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עני",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és nyomorult"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:31.633005521Z",
+  "model": "glm-5.3"
+}

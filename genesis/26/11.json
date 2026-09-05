@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És megparancsolta Avimelech ⟨את⟩ az egész népnek, mondván: Aki ezt a férfit érinti vagy a feleségét, halállal haljon.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész népnek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népnek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Aki érinti"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "a férfit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "vagy a feleségét"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:59.199650353Z",
+  "model": "glm-5.3"
+}

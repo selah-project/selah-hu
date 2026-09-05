@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Akivel ⟨את⟩ megtaláltatik a te szolgáid közül, az haljon meg, és mi is leszünk az én uramnak szolgáivá.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "akivel"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "megtaláltatik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "a te szolgáid közül"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "haljon meg"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "leszünk"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "az én uramnak"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "szolgáivá"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:22.219114178Z",
+  "model": "glm-5.3"
+}

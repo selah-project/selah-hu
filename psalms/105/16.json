@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "És előhívott éhínséget a földre, a kenyér minden vesszejét eltörte.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És előhívott"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "éhínséget"
+    },
+    {
+      "surface": "על",
+      "gloss": "reá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "vesszejét"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyér"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "eltörte"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:03.272618322Z",
+  "model": "glm-5.3"
+}

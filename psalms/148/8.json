@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "tűz és jégeső, hó és gőz, viharosz szél, végrehajtva az ő szavát:",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "és jégeső"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "hó"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "és gőz"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szél"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "viharosz"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "végrehajtva"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "az ő szavát"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:02.165382938Z",
+  "model": "glm-5.3"
+}

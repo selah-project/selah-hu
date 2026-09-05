@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És készítsd ⟨את⟩ a rúdakat sitim-fából, és bevonod ⟨את⟩ őket aranyszalaggal ⟨arannyal⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És készítsd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a rúdakat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "a rúdakat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "-fából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "és bevonod"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket (a rúdakat)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyszalaggal ⟨arannyal⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:16.512697750Z",
+  "model": "glm-5.3"
+}

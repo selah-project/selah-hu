@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Amikor szívemet adtam ⟨את⟩ arra, hogy megismerjem a bölcsességet, és lássam ⟨את⟩ a foglalatosságot, ami a földön történik — mert nappal és éjjel sincs álom annak szemében, nem látja.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Amikor"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szívemet"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemet"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hogy megismerjem"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "a bölcsességet"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "és lássam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a foglalatosságot"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "a foglalatosságot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "történik"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "és éjjel"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "álom"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nem látja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:32.322476634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Mert így szólt Jahve: a hős foglyát is elveszik, és a zsarnok zsákmánya is megszabadul, és ⟨את⟩ perlekedőddel magam perlekedem, és ⟨את⟩ fiaidat magam szabadítom meg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "foglya"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "a hős"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "elveszik"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "és zsákmánya"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "a zsarnok"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "megszabadul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "perlekedőddel"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "perlekedőddel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "magam"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "perlekedem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiaidat"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaidat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "magam"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "szabadítom meg"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:12.579691962Z",
+  "model": "glm-5.3"
+}

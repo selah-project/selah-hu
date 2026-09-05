@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Siggajon (tévelygő ének) Dávidnak (Dávid), amelyet énekelt Jahvénak, Kús (Kús), a jemini (benjamita) fia szavai miatt.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Siggajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "שר",
+      "gloss": "énekelt"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavai"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "a jemini"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:08.603492638Z",
+  "model": "glm-5.3"
+}

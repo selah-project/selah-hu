@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ne csinálj magadnak faragott képmást, sem akármilyen alakot, ⟨amely⟩ az egekben ⟨van⟩ fenn, és ⟨amely⟩ a földön ⟨van⟩ lenn, és ⟨amely⟩ a vizekben ⟨van⟩ a föld alatt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "csinálj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "faragott képmást"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sem akármilyen"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "alakot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az egekben"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "fenn"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amely"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "lenn"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amely"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a vizekben"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:46.047513830Z",
+  "model": "glm-5.3"
+}

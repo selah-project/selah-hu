@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És heszedben ⟨el⟩készíttetik ⟨a⟩ trón, és ül rá igazságban, Dávid sátrában, ítélve és keresve jogot, és siettetve igazságot.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "és elkészíttetik"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "heszedben"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trón"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és ül"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "igazságban"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sátrában"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ítélve"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "és keresve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jogot"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "és siettetve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:35:40.739376249Z",
+  "model": "glm-5.3"
+}

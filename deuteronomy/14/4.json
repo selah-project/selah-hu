@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ez ⟨az⟩ az állat, amelyet ehettek: az ökör, a juh, a bárány ⟨a⟩ juhok közül, és a kecskegidá⟨a⟩ ⟨a⟩ kecskék közül",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "⟨az⟩ állat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehettek"
+    },
+    {
+      "surface": "שור",
+      "gloss": "az ökör"
+    },
+    {
+      "surface": "שה",
+      "gloss": "a juh"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "bárány ... a juhok közül"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "és a kecskegidá"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨a⟩ kecskék közül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:56:30.908737273Z",
+  "model": "glm-5.3"
+}

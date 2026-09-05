@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Vajon megmentették-e a nemzetek istenei mindegyik ⟨את⟩ a földjét Assur királyának kezéből?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "Vajon"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "mentették-e"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "istenei"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a nemzetek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindegyik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földjét"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assurnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:45.646161389Z",
+  "model": "glm-5.3"
+}

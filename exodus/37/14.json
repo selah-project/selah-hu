@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "A keret mellett voltak a karikák, ⟨az⟩ lakások a rúdaknak, hogy ⟨את⟩ az asztalt vigyék.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "a keret"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "a karikák"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "lakások"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "a rúdaknak"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hogy vigyék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asztalt"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "az asztalt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:35.808406785Z",
+  "model": "glm-5.3"
+}

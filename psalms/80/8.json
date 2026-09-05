@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Elohim Cevaót, téríts vissza minket, és világíttasd arcodat, és megsegíttetünk.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "téríts vissza minket"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "és világíttasd"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "arcodat"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "és megsegíttetünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:22.122226631Z",
+  "model": "glm-5.3"
+}

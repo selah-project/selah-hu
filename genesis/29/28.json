@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És úgy tett Jaakob (Jákob), és betöltötte ennek a hetét, és adta ⟨neki⟩ ⟨את⟩ Ráchelt, a leányát, ⟨neki⟩ feleségül.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És tett"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "és betöltötte"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hetét"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ennek"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ráchelt"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ráchelt"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "a leányát"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:41.429261656Z",
+  "model": "glm-5.3"
+}

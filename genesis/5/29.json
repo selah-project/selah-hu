@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 5:29",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És nevet adott ⟨את⟩ nevének Noach (Noé), mondván: Ez megvigasztal minket munkáinkból és kezünk fáradságából, a földből, amelyet megátkozott Jahve.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevet adott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevének"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevének"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "ינחמנו",
+      "gloss": "megvigasztal minket"
+    },
+    {
+      "surface": "ממעשנו",
+      "gloss": "munkáinkból"
+    },
+    {
+      "surface": "ומעצבון",
+      "gloss": "és fáradságából"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "kezünk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a … -ból"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "földből"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אררה",
+      "gloss": "megátkozott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:18.228340682Z",
+  "model": "glm-5.3"
+}

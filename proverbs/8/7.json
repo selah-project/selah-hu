@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Mert igazságot mormol az én ínyem, és undor az én ajkaimnak a gonoszság.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mormol"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "az én ínyem"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "és undor"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "az én ajkaimnak"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonoszság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:08:58.150452814Z",
+  "model": "glm-5.3"
+}

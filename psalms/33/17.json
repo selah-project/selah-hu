@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Csalás ⟨a⟩ ló a szabadulásra, és erejének sokasága által nem menekül meg.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "csalás"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "⟨a⟩ ló"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "a szabadulásra"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "és sokasága által"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "erejének"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "menekül meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:14.672156472Z",
+  "model": "glm-5.3"
+}

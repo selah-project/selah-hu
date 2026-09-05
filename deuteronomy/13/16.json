@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "ütve üssed ⟨את⟩ annak a városnak a lakóit a kard élével; vesd ⟨את⟩ átok alá ⟨את⟩ őt és mindent, ami benne van, és ⟨את⟩ állatait a kard élével.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ütve"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "üssed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak a városnak a lakóit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakóit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "városnak"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "annak a"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "élével"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "vesd átok alá"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "őt (a várost)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindent, ami benne van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne van"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "állatait"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "állatait"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "élével"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a kard"
+    }
+  ],
+  "timestamp": "2026-09-04T17:57:00.026175566Z",
+  "model": "glm-5.3"
+}

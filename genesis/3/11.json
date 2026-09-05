@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És monda: „Ki tudatta veled, hogy mezítelen vagy? Vajon a fáról, amelyről megparancsoltam neked, hogy ne egyél belőle, ettél?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "tudatta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "mezítelen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Vajon …-ról"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fáról"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyről"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "megparancsoltam neked"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "egyél"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "ettél"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:48.226966131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És mondta: Kérlek, ne hagyj el ⟨את⟩ minket, mert te tudod, hogyan táborozunk a pusztában, és leszel nekünk szemekké.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hagyj el"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ minket",
+      "marks": "minket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "éppen azért"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "táborozásunkat"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "és leszel"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "szemekké"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:29.788581263Z",
+  "model": "glm-5.3"
+}

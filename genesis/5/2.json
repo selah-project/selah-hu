@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Hím-et és nőstényt teremtette ⟨את⟩ őket, és megáldotta ⟨את⟩ őket, és nevüknek Ádámnak hívta ⟨את⟩ a napján megteremttetésüknek.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hím-et"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "és nőstényt"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "teremtette"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldotta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és hívta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevüknek"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nevüknek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ádámnak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napján"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "megteremttetésüknek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:58.928334324Z",
+  "model": "glm-5.3"
+}

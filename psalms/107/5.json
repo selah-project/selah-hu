@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Éhesek, sőt szomjasok — ⟨a⟩ lelkűk bennük elborult.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Éhesek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "szomjasok"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lelkűk"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bennük"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "elborult"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:01.422603659Z",
+  "model": "glm-5.3"
+}

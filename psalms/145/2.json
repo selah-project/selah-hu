@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Minden napon áldalak téged, és dicsérem Nevedet örökre és mindörökké.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "áldalak téged"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "és dicsérem"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Nevedet"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és mindörökké"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:21.598157640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Nem kivánja a bolond az értelemet, hanem ⟨csak⟩ ⟨azt⟩, hogy kinyilatkozzék a szíve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kivánja"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "a bolond"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "az értelem(et)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨csak⟩ ⟨azt⟩"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "hogy kinyilatkozzék"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a szíve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:22.505414371Z",
+  "model": "glm-5.3"
+}

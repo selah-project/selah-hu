@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Mert Ijób ezt mondta: „Igaz vagyok, és ⟨az⟩ El eltávolította a jogomat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijób"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "igaz vagyok"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ⟨az⟩ El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "eltávolította"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "a jogomat"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:28.480942652Z",
+  "model": "glm-5.3"
+}

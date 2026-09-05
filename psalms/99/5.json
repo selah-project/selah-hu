@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 99,
+  "translation": "Magasztaljátok Jahvét, a mi Elohimunkat, és boruljatok le lábainak zsámolyához — szent ⟨ő⟩!",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Magasztaljátok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunkat"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "és boruljatok le"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "zsámolyához"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lábainak"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:13.218583491Z",
+  "model": "glm-5.3"
+}

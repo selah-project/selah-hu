@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Hallj rám, Jaakob, és Izrael, az én hívottam: én ⟨vagyok⟩ ⟨az⟩; én ⟨vagyok⟩ az első, sőt én ⟨vagyok⟩ az utolsó.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hallj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "és Izrael"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "az én hívottam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩ vagyok"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "az első"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "az utolsó"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:35.014146225Z",
+  "model": "glm-5.3"
+}

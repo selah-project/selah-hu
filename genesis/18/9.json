@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És mondták neki: Hol van Sarah (Sára), a te feleséged? És ő monda: Íme, a sátorban ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hol van"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "feleséged"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és monda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "a sátorban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:38.821307274Z",
+  "model": "glm-5.3"
+}

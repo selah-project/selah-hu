@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Küldött rájuk rovarrajt, és az felfalta őket, és békákat, és azok kipusztították őket.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Küldött"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "rovarrajt"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "és az felfalta őket"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "és békákat"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "és azok kipusztították őket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:44.707740116Z",
+  "model": "glm-5.3"
+}

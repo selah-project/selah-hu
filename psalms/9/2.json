@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Hálát adok Jahvénak egész szívemből, elbeszélem minden csodáidat.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Hálát adok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemből"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "elbeszélem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "csodáidat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:06.658109659Z",
+  "model": "glm-5.3"
+}

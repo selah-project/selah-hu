@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "tizenegy nap Hórebtől, a Széír hegye ⟨útján⟩, Kádes-Barneáig —",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "tizen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "egy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Hórebtől"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨útján⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegye"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Széír"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kádes-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneáig"
+    }
+  ],
+  "timestamp": "2026-09-04T17:50:07.196382877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 19:15",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És imádkozott Hizkijáhu Jahve színe előtt, és ezt mondta: Jahve, Izráel Elohimja, a kerubokon trónoló, te vagy az Elohim, egyedül te, minden földi országokra nézve; te alkottad ⟨את⟩ az egeket és ⟨את⟩ a földet.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "És imádkozott"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijáhu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "trónoló"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "a kerubokon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "egyedül te"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden…re nézve"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ország"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "alkottad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egeket"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T20:03:42.306484442Z",
+  "model": "glm-5.3"
+}

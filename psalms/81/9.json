@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Halljad, népem, és figyelmeztetlek rád; Jiszráél (Izráel), ha hallgatsz rám —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Halljad"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "és figyelmeztetlek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "rád"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hallgatsz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:53.644189794Z",
+  "model": "glm-5.3"
+}

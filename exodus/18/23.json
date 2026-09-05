@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Ha megcselekszed ⟨את⟩ ezt az ügyet, és az Elohim is így parancsol neked, akkor megállhatsz, és ez az egész nép is eljut ⟨a⟩ helyére békével.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt az ügyet"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ügyet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "megcselekszed"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "és parancsol neked"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "akkor meg tudsz"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "állni"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és… is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "על",
+      "gloss": "…helyére"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "helyére"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "eljut"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "békével"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:55.265911331Z",
+  "model": "glm-5.3"
+}

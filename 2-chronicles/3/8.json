@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És megcsinálta ⟨את⟩ a szentségek szentélyét: hossza a ház szélességének megfelelően húsz könyök, szélessége húsz könyök; és bevonatta azt jó arannyal, hatszáz talentumért.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "és megcsinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szentségek szentélyét"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentség"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szentélyek"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "hossza"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "פני",
+      "gloss": "felületének"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélessége"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "és szélessége"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "és bevonatta azt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "talentumért"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:03.127526563Z",
+  "model": "glm-5.3"
+}

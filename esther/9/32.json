@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És Eszter parancsa megerősítette ⟨את⟩ e purimi beszédeket, és be lett írva a könyvbe.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "És parancsa"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eszter"
+    },
+    {
+      "surface": "קים",
+      "gloss": "megerősítette"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "beszédeket"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "purimi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "és be lett írva"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "a könyvbe"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:40.403285063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És Jotám (Jótám) elaludt atyáival, és eltemették ⟨את⟩ őt Dávid városában, és uralkodott Aház (Áház), a fia, helyette.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "és elaludt"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotám"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vele (atyáival)"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyái"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "városában"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "és uralkodott"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Aház"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    }
+  ],
+  "timestamp": "2026-09-04T23:18:09.656585778Z",
+  "model": "glm-5.3"
+}

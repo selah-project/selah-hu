@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 22:12",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És ⟨את⟩ ővelük volt ⟨ő⟩ az Elohim házában elrejtőzve hat évig, miközben Ataljáhu uralkodott az ország fölött.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ővelük",
+      "marks": "ővelük (prepozíció: 'velük')"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "elrejtőzve"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "évig"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "és Ataljáhu"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "uralkodott"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    }
+  ],
+  "timestamp": "2026-09-04T23:18:10.455063265Z",
+  "model": "glm-5.3"
+}

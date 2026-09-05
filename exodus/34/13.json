@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Mert ⟨את⟩ oltáraikat lerontjátok, és ⟨את⟩ szobraikat összetöritek, és ⟨את⟩ Aséra-fáit kivágjátok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltáraikat"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "oltáraikat"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "lerontjátok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szobraikat"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "szobraikat"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "összetöritek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aséra-fáit"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Aséra-fáit"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "kivágjátok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:17.261311991Z",
+  "model": "glm-5.3"
+}

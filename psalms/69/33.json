@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Látták ⟨ezt⟩ a szelídek, örvendeznek; a ⟨kik⟩ Elohimot keresik — és él a szívetek.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "látták"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "a szelídek"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "örvendeznek"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "⟨a kik⟩ keresik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimot"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "és él"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "a szívetek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:00.482267026Z",
+  "model": "glm-5.3"
+}

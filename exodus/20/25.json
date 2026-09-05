@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ha kőoltárt csinálsz nekem, ne faragott kövekből építsd ⟨את⟩ azokat, mert ha kardodat suhogtatod fölötte, meggyalázod azt.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kő-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "csinálsz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "építsd"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ őket",
+      "marks": "faragott kövekből (az azokat)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "faragott kövekből"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "kardodat"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "suhogtatod (felemelted)"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fölötte"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "meggyalázod azt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:37.285164303Z",
+  "model": "glm-5.3"
+}

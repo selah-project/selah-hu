@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A te kezeid megformáltak engem, és körben együtt elkészítettek engem — mégis elnyelsz engem!",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "a-te-kezeid"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "megformáltak-engem"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "és-elkészítettek-engem"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "egyttütt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körben"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "és-elnyelsz-engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:54.385388674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Még a magas dolgoktól is félnek, és az úton rémek ⟨vannak⟩, és elhervad a mandulafa, és elneheül a szöcske, és széthullik a kaperbogyó — mert az ember megy az örök házába, és körbejárnak a piacon a gyászolók.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Még"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "a magas dolgoktól"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "félnek"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "és rémek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "és elhervad"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "a mandulafa"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "és elneheül"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "a szöcske"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "és széthullik"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "a kaperbogyó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "megy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "örök"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "és körbejárnak"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "a piacon"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "a gyászolók"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:07.382451471Z",
+  "model": "glm-5.3"
+}

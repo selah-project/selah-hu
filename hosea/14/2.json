@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Térj vissza, Jiszráel (Izrael), íg Jahvéhoz, a te Elohimodhoz, mert megbotlottál bűnödben.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Térj vissza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "íg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimodhoz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "megbotlottál"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "bűnödben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:22:28.350792031Z",
+  "model": "glm-5.3"
+}

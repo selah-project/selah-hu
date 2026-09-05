@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Mert azt mondtátok: „Szövetséget kötöttünk ⟨את⟩ a halállal, és a Seollal alkudtunk — a söprő ostor, ha átvonul, nem ér el bennünket, mert a hazugságot tettük menedékünkké, és a csalás alatt rejtőztünk el.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "azt mondtátok"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "kötöttünk"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a halált"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a halállal"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és a"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seollal"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "alkudtunk"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "söprő"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "ostor"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "végigsöprő"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átvonul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "ér el bennünket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "tettük"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "a hazugságot"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "menedékünkké"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "és a csalás"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "rejtőztünk el"
+    }
+  ],
+  "timestamp": "2026-09-04T20:17:13.779712300Z",
+  "model": "glm-5.3"
+}

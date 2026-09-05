@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 149,
+  "translation": "Mert elégedett Jahve népével, az alázatosokat győzelemmel ékesíti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "elégedett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "népével"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "ékesíti"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "az alázatosokat"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "győzelemmel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:55.342275686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Juhaitokat is, marháitokat is vegyétek el, ahogy mondtátok, és menjetek, és áldjatok meg ⟨את⟩ engem is.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "juhaitokat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "marháitokat"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "vegyétek el"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "mondtátok"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "és menjetek"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "és áldjatok meg"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "engem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:31.294409974Z",
+  "model": "glm-5.3"
+}

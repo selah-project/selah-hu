@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Elment tehát Amászá, hogy összehívja ⟨את⟩ Júdát, de késett a kitűzött időnél túl, amelyet kijelöltek ⟨neki⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Elment"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amászá"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "összehívni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Júdát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júdát"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "de késett"
+    },
+    {
+      "surface": "מן",
+      "gloss": "túl"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "a kitűzött időnél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "kijelöltek neki"
+    }
+  ],
+  "timestamp": "2026-09-04T23:31:52.135212267Z",
+  "model": "glm-5.3"
+}

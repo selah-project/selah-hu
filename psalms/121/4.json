@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 121,
+  "translation": "Íme, nem szunyódkodik és nem alszik Izrael őrzője.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "szunyódkodik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "alszik"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "őrzője"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:29.924155730Z",
+  "model": "glm-5.3"
+}

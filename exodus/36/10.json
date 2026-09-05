@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És összekötötte ⟨את⟩ az öt kárpitot, egyet a másikkal, és öt kárpitot kötött össze, egyet a másikkal.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "és összekötötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az öt kárpitot"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kárpitot"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "a másikkal"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "és öt"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kárpitot"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "kötött össze"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "a másikkal"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:53.366222988Z",
+  "model": "glm-5.3"
+}

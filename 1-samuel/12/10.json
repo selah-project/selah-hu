@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És kiáltottak Jahvéhoz, és mondották: „Vétkeztünk, mert elhagytuk ⟨את⟩ Jahvét, és szolgáltuk ⟨את⟩ a Baalokat és ⟨את⟩ az Astárókat; most hát ments ki minket ellenségeink kezéből, és szolgálunk neked.”",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "És kiáltottak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondották"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Vétkeztünk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "elhagytuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "és szolgáltuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Baalokat"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "a Baalokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az Astárókat"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "az Astárókat"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "ments ki minket"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ellenségeink"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "és szolgálunk neked"
+    }
+  ],
+  "timestamp": "2026-09-05T00:28:45.360157855Z",
+  "model": "glm-5.3"
+}

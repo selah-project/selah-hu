@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És járult Jaakov Jichakhoz, az apjához, és meg tapogatta őt, és mondta: ⟨Az⟩ hang ⟨a⟩ Jaakov hangja, de a kezek Esav kezei.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "és járult"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az apjához"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "és meg tapogatta őt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "⟨Az⟩ hang"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "de a kezek"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezei"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:03.192711793Z",
+  "model": "glm-5.3"
+}

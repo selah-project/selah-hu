@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ha pedig fogadalom vagy önkéntes adomány az ⟨את⟩ ő áldozati adománya, áldozatának előhozatala napján egyék meg ⟨azt⟩; és másnap is meg.ehető, ami megmarad belőle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ha pedig"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "fogadalom"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "önkéntes adomány"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozata"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "adománya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "előhozatalának"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ő áldozatát"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ő áldozatát"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "egyék meg"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "és másnap"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ami megmarad"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mehet enni"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:52.964121067Z",
+  "model": "glm-5.3"
+}

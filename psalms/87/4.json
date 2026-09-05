@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 87,
+  "translation": "Megemlítem Rahávot és Bávelt azoknak, akik ismernek ⟨engem⟩; íme, Peleset és Cór Kússal — ez ott született.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "megemlítem"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Raháv"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "és Bávelt"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "az ismerőimnek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "és Cór"
+    },
+    {
+      "surface": "עם",
+      "gloss": "–val"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "született"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:49.525266443Z",
+  "model": "glm-5.3"
+}

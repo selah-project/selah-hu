@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És történt, amikor Joav a várost őrizte, hogy odahelyezte ⟨את⟩ Uriját arra a helyre, amelyről tudta, hogy vitéz emberek vannak ott.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "amikor őrizte"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "odahelyezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriját"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriját"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "arra a helyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "emberei"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T19:25:41.480473430Z",
+  "model": "glm-5.3"
+}

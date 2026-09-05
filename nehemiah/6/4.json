@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És elküldtek hozzám e beszéd szerint négy ízben, és visszafordítottam ⟨את⟩ őket e beszéd szerint.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "És elküldtek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "beszéd szerint"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ízben"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "és visszafordítottam"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "ezt a beszédet"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "beszéd szerint"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-09-04T22:54:51.722950900Z",
+  "model": "glm-5.3"
+}

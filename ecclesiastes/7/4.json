@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "A bölcsek szíve a gyász házában, és a bolondok szíve az öröm házában.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "a bölcseknek"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "a gyásznak"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "és szíve"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "a bolondoknak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "az örömnek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:35.256133430Z",
+  "model": "glm-5.3"
+}

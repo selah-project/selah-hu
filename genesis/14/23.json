@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "ha egy zsinórtól a saru szíjáig bármit is veszek abból, ami a tiéd, és ne mondhassad: én gazdagítottam meg ⟨את⟩ Avramot.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "egy zsinórtól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "szíjáig"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "a saru"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "veszek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bármit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a tiéd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mondhassad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "gazdagítottam meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramot"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:48.125382652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Idő a sírni, és idő a nevetni; idő a gyászolni, és idő a táncolni.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "a sírni"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "a nevetni"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "a gyászolni"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "a táncolni"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:41.436460319Z",
+  "model": "glm-5.3"
+}

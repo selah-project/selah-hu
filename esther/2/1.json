@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Ezek után, amikoris elhunyt Ahassvéros (Xerxész) király haragja, megemlékezett ⟨את⟩ Vastíról és ⟨את⟩ arról, amit tett, és ⟨את⟩ arról, ami elvégeztetett ellene.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Ezek után"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dolgok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "amikoris elhunyt"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahassvéros"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "megemlékezett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vasti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vasti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "arról, amit tett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "arról, ami elvégeztetett ellene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "elvégeztetett"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ellene"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:38.240092838Z",
+  "model": "glm-5.3"
+}

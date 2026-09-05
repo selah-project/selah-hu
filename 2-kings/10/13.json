@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 10:13",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Jehú pedig rátalált ⟨את⟩ Achazjáhu testvéreire, Jehúda királyának, és mondta: Kik vagytok ti? És azok mondták: Achazjáhu testvérei vagyunk mi, és leszálltunk, hogy üdvözöljük a király fiait és a királyné fiait.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Jehú pedig"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "rátalált"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achazjáhu testvéreire"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvéreire"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjáhu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondták"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvérei"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjáhu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ונרד",
+      "gloss": "és leszálltunk"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "hogy üdvözöljük"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és fiait"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "a királyné"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:00.977246316Z",
+  "model": "glm-5.3"
+}

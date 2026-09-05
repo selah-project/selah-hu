@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Ha pedig nem hallgattok rám, és nem teszitek ⟨את⟩ mind ezeket a parancsolatokat,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha pedig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hallgattok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "teszitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind ezeket a parancsolatokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "a parancsolatokat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:21.696252531Z",
+  "model": "glm-5.3"
+}

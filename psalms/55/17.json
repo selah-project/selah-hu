@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Én az Elohimhoz kiáltok, és Jahve megment engem.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "megment engem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:19.884595314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "És Elohim nyíllal lövi majd őket — hirtelen; és sebeik leszenk ⟨egyszerre⟩.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "lövi majd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "nyíllal"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "hirtelen"
+    },
+    {
+      "surface": "היו",
+      "gloss": "leszenk"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "sebeik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:24.335865752Z",
+  "model": "glm-5.3"
+}

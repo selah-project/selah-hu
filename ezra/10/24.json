@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És az énekesek közül: Eljásiv; és a kapuőrök közül: Salum, Telem és Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "És a … közül"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "énekesek"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljásiv"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és a … közül"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "kapuőrök"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Salum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "és Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "és Uri"
+    }
+  ],
+  "timestamp": "2026-09-04T22:51:02.560523625Z",
+  "model": "glm-5.3"
+}

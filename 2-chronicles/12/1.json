@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És történt, amikor megszilárdult Rechavám (Rehabeám) királysága, és amikor ő megerősödött, elhagyta ⟨את⟩ Jahve Toráját (Törvényét), és egész Izráel vele együtt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "amikor megszilárdult"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "királysága"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavám"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "és amikor ő megerősödött"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "elhagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Toráját"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toráját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:15:42.934426701Z",
+  "model": "glm-5.3"
+}

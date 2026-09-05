@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "A világ minden lakója és a föld lakói: amikor zászlót emelnek a hegyeken — nézzétek! És amikor kürtöt fújnak — halljátok!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakója"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a világ"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "és lakói"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "amikor emelnek"
+    },
+    {
+      "surface": "נס",
+      "gloss": "zászlót"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyeken"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nézzétek"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "és amikor megfúvnak"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "kürtöt"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "halljátok"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:12.631372652Z",
+  "model": "glm-5.3"
+}

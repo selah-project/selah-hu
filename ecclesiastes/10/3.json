@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És még az úton is, miközben a balga jár, szíve híjával van, és mindenkinek megmondja, hogy balga ő.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És még"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "miközben a balga"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jár"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "híjával van"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindenkinek"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "balga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:53.608491927Z",
+  "model": "glm-5.3"
+}

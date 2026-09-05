@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És kipusztította Zimri ⟨את⟩ Baasa egész házát Jahve szava szerint, amelyet Baasa ellen szólt Jehú próféta által.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "kipusztította"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasa egész házát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "szava szerint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "által"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "próféta"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:28.084320166Z",
+  "model": "glm-5.3"
+}

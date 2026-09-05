@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És közeledtek Dávid napjai a halálhoz, és megparancsolta ⟨את⟩ Shelomót (Salamon), az ő fiát, mondván:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "és közeledtek"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a halálhoz"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "és megparancsolta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomót"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomót"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T19:38:22.321485053Z",
+  "model": "glm-5.3"
+}

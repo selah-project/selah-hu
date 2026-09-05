@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És felelt a király, és mondta: Adjátok neki ⟨את⟩ az élő gyermeket, és ⟨a⟩ halottat ne öljétek meg — ő az anyja.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Adjátok"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az élő gyermeket"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "a gyermeket"
+    },
+    {
+      "surface": "החי",
+      "gloss": "az élő"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "és ⟨a⟩ halottat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "öljétek meg"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az anyja"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:49.644507816Z",
+  "model": "glm-5.3"
+}

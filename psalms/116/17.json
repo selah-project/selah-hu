@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Neked áldozom az áldozatot, hálaáldozatul, és Jahve nevében szólítom ⟨őt⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Neked"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "áldozom"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "az áldozatot"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "hálaáldozatul"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "és ... nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "szólítom"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.202058427Z",
+  "model": "glm-5.3"
+}

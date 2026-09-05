@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "A karmesternek, Jónát-élem-rehókím (a néma galamb a távoliak közt) szerint, Dávidnak, miktám (véssett vers), mikor elfogták ⟨את⟩ őt a pelistiek Gatban.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Jónát"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "élem"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rehókím"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktám"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "mikor elfogták"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt (a pelistiek)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelistiek (filiszteusok)"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gatban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:36.646849415Z",
+  "model": "glm-5.3"
+}

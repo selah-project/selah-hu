@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne járj rágalmazóként néped között; ne állj meg felebarátod vére ellen: én vagyok Jahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "járj"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "rágalmazóként"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "néped között"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "állj meg"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vére"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "felebarátod"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:06.112323155Z",
+  "model": "glm-5.3"
+}

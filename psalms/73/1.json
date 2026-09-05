@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Mizmor Asafnak (Asaf zsoltára): bizony jó Izraelnek ⟨az⟩ Elohim, a tiszta szívűeknek.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafnak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izraelnek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨az⟩ Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "a tiszta…"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívűeknek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:40.828659370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És mondott az ő úrnőjének: Bárcsak az én uram a próféta előtt volna, aki Somronban ⟨van⟩! Akkor elvenné ⟨את⟩ őt az ő bélpoklosságától.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "És mondott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–nek"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "az ő úrnője"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "bárcsak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "az én uram"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "a próféta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Somronban"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "elvenné"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt (Naamánt)"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "az ő bélpoklosságától"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:00.358448860Z",
+  "model": "glm-5.3"
+}

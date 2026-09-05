@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Nem ez-e Dávid, akit megénekeltek ⟨את⟩ a körtáncokban, mondván: Saul vert az ő ezreiben, és Dávid az ő tízezreiben?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez-e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "megénekeltek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "a körtáncokban"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vert"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "az ő ezreiben"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "és Dávid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "az ő tízezreiben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:21.007676023Z",
+  "model": "glm-5.3"
+}

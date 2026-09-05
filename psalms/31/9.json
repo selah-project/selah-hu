@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "és nem zártál engem az ellenség kezébe, tágas helyre állítottad lábaimat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "zártál engem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ellenség"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "állítottad"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "tágas helyre"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lábaimat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:39.486555090Z",
+  "model": "glm-5.3"
+}

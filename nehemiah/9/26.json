@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 9:26",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És engedetlenkedtek, és lázadtak ellened, és eldobták ⟨את⟩ torádat hátuk mögé, és ⟨את⟩ prófétáidat megölték, akik tanúságot tettek ellenük, hogy visszahozzák őket hozzád; és nagy gyalázkodásokat követtek el.",
+  "tokens": [
+    {
+      "surface": "וימרו",
+      "gloss": "és engedetlenkedtek"
+    },
+    {
+      "surface": "וימרדו",
+      "gloss": "és lázadtak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "és eldobták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torádat"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "torádat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mögé"
+    },
+    {
+      "surface": "גום",
+      "gloss": "hátukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "prófétáidat"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "prófétáidat"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "megölték"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "העידו",
+      "gloss": "tanúságot tettek"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "להשיבם",
+      "gloss": "hogy visszahozzák őket"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "és cselekedtek"
+    },
+    {
+      "surface": "נאצות",
+      "gloss": "gyalázkodásokat"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "nagyokat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:57:58.439110675Z",
+  "model": "glm-5.3"
+}

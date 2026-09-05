@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Jahve, békét rendelsz nekünk, mert minden cselekedetünket is te végezted el nekünk.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשפות",
+      "gloss": "rendelsz"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békét"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "cselekedetünket"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "te végezted el"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:42.214915030Z",
+  "model": "glm-5.3"
+}

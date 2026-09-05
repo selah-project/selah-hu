@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Tőled ⟨van⟩ az én dicséretem a nagy gyülekezetben; fogadásaimat megadom az ő félői előtt.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "tőled ⟨את⟩"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "az én dicséretem"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "a gyülekezetben"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "fogadásaimat"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "megadom"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "az ő félői"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:02.665380565Z",
+  "model": "glm-5.3"
+}

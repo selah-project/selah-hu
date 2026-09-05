@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Hozzám kiáltanak: „Elohimünk, megismertünk téged, Izrael!”",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "kiáltanak"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimünk"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "megismertünk téged"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:56.073291704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Felvekintenek ellenfeleim egész nap, mert sokan harcolnak ellenem magasságból.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "felvekintenek"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ellenfeleim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sokan"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "harcolnak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "magasságból"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:36.647466653Z",
+  "model": "glm-5.3"
+}

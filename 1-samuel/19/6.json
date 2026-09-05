@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És hallgatott Saúl Yehonátán szavára, és megesküdött Saúl: „Amint él Jahve, nem ölettetik meg.”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "és hallgatott"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonátán"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "és megesküdött"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "él"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "megölettetik"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:26.068513786Z",
+  "model": "glm-5.3"
+}

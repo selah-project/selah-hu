@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És szólt hozzájuk a fiatalok tanácsa szerint, mondván: Az én atyám nehézzé tette ⟨את⟩ igátatokat, és én hozzáadok a ti igátokhoz; az én atyám megfedett ⟨את⟩ titeket ostorokkal, és én skorpiókkal feddek meg ⟨את⟩ titeket.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "a tanácsa szerint"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "a fiatalok"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "az én atyám"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "nehézzé tette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igátatokat"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "igátokat"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "hozzáadok"
+    },
+    {
+      "surface": "על",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "a ti igátokhoz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "az én atyám"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "megfedett"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ostorokkal"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "megfeddek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "skorpiókkal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:20.146005169Z",
+  "model": "glm-5.3"
+}

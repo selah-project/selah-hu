@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És hallották ⟨את⟩, amit a Pelistim tettek Saullel, Javes-Gilád lakói.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "És hallották"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨arról⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javes"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "-Gilád"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit a Pelistim tettek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tettek"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Pelistim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saullel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:22.243285282Z",
+  "model": "glm-5.3"
+}

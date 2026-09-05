@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "És bevitte az ember ⟨את⟩ a férfiakat Joszéf (József) házába, és adott vizet, és megmosták lábaikat, és abrakot adott a szamaruknak.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bevitte"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a férfiakat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a férfiakat"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "házába"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszéf"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "és megmosták"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "lábaikat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "abrakot"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "a szamaruknak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:12.226052201Z",
+  "model": "glm-5.3"
+}

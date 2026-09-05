@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És mondta Moshe (Mózes) Aharonnak (Áronnak): Lépj oda az oltárhoz, és végezd el ⟨את⟩ vétekáldozatodat és ⟨את⟩ égőáldozatodat, és engesztelj magadért és a népért; és végezd el ⟨את⟩ a nép korbanját (áldozatát), és engesztelj értük, ahogyan parancsolta Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nek… (Aharonnak)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "Lépj oda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárhoz"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és végezd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vétekáldozatodat"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "vétekáldozatodat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "égőáldozatodat"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "égőáldozatodat"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztelj"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "magadért"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "és…ért"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és végezd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép korbanját"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korbanját"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztelj"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "értük"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:54.331774537Z",
+  "model": "glm-5.3"
+}

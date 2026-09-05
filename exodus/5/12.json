@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És szétszóródott a nép egész Micrajim (Egyiptom) földjén, hogy torzsát gyűjtsenek szalmául.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "És szétszóródott"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "hogy gyűjtsenek"
+    },
+    {
+      "surface": "קש",
+      "gloss": "torzsát"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "szalmául"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:54.677680784Z",
+  "model": "glm-5.3"
+}

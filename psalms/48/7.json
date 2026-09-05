@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Remegés fogta meg őket ott, szülési fájdalom, mint ⟨a⟩ vajúdó asszony ⟨fájdalma⟩.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Remegés"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "fogta meg őket"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "szülési fájdalom"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "mint a vajúdó asszony"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:58.144154900Z",
+  "model": "glm-5.3"
+}

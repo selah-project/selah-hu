@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És álmodott Josef (József) egy álmot, és elmondotta testvéreinek, és ⟨את⟩ őt még tovább gyűlölték.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "És-álmodott"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "egy-álmot"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és-elmondotta"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "testvéreinek"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "és-még-tovább"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "gyűlölték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:43.990451038Z",
+  "model": "glm-5.3"
+}

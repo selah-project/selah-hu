@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Mert eltávolítom ⟨את⟩ a Beálok neveit a szájából, és nem említtetnek többé az ő nevük szerint.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "És eltávolítom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Beálok neveit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "a neveit"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "a Beáloknak"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "a szájából"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יזזכרו",
+      "gloss": "említtetnek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "nevük szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:32.921254236Z",
+  "model": "glm-5.3"
+}

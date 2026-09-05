@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Boldog ⟨a⟩ ember, akinek Jahve nem tulajdonít vétket, és akinek ⟨a⟩ lelkében nincs csalárdság.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "tulajdonít"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vétket"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "lelkében"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "csalárdság"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:47.065012755Z",
+  "model": "glm-5.3"
+}

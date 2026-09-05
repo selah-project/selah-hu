@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És bizony ⟨את⟩ véreteket a lelketekért számon kérem; minden állat kezétől számon kérem azt, és az ember kezétől, az ember a testvére kezétől számon kérem ⟨את⟩ az ember életét.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "és bizony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "véreteket"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "véreteket"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "lelketekért"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "számon kérem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezétől"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "állat"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "számon kérem azt"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "és kezétől"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezétől"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvére"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "számon kérem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ember életét"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "az életét"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:35.070822058Z",
+  "model": "glm-5.3"
+}

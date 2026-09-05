@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És történt, amikor kimentek a kohénim ⟨a⟩ szentélyből, hogy a felhő megtöltötte ⟨את⟩ Jahve házát.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "amikor kimentek"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohénim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ből"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨a⟩ szentélyből"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "hogy a felhő"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "megtöltötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:49.864139131Z",
+  "model": "glm-5.3"
+}

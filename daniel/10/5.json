@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És felemeltem ⟨את⟩ szemeimet, és láttam, és íme egy férfi öltözve lenge ruhába, és csípője felövezve Ofáz aranyával",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "és felemeltem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szemeimet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemeimet"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "és láttam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "öltözve"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "lenge ruhákba"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "és csípője"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "felövezve"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "arannyal"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Ofáz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:48:18.216160609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Volt rajtam Jahve keze, és kivitt engem Jahve ruachában, és letett engem ⟨a⟩ völgy közepében, és ⟨az⟩ tele volt csontokkal.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Volt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rajtam"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "és kivitt engem"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruachában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "és letett engem"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepében"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "⟨a⟩ völgy"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "és ⟨az⟩"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tele"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontokkal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:13:05.058643338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "De amint jobban elnyomták ⟨את⟩ őt, annyira szaporodott és annyira szétterjedt; és megrettentek a Jiszraél fiai miatt.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "De amint"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "elnyomták"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "annyira"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "szaporodott"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "és annyira"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "szétterjedt"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "és megrettentek"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "יִשׂרָאֵל",
+      "gloss": "Jiszraél"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:44.880062503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És elhagyta ⟨a⟩ Siló lakóhelyét, ⟨a⟩ sátrat, amely az emberek közt lakott.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "És elhagyta"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "lakóhelyét"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Siló"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrat"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "amely lakott"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "az emberek közt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:37.829517265Z",
+  "model": "glm-5.3"
+}

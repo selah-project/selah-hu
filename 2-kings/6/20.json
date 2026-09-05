@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És történt, mikor megérkeztek Somronba, hogy mondta Elisa: Jahve, nyisd meg ⟨את⟩ ezeknek a szemeit, és lássanak; és megnyitotta Jahve ⟨את⟩ a szemeiket, és látták, és íme, Somron közepén ⟨voltak⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "mikor megérkeztek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Somronba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "nyisd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeknek a szemeit"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "a szemeit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezen férfiaknak"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "és lássanak"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "és megnyitotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szemeiket"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "a szemeiket"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "és látták"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepén"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Somron"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:41.058143831Z",
+  "model": "glm-5.3"
+}

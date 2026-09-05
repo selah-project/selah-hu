@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Jobb ⟨a⟩ nyílt dorgálás, mint a rejtett szeretet.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "dorgálás"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "nyílt"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "mint a szeretet"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "rejtett"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:50.609369709Z",
+  "model": "glm-5.3"
+}

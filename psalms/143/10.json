@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 143,
+  "translation": "Taníts engem akaratod megcselekvésére, mert te vagy Elohim-em; a te lelked jó, vezess engem egyenes földre.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Taníts engem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "megcselekvésére"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "akaratod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim-em"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "lelked"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "jó"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vezess engem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földre"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "egyenes(re)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:58.286588903Z",
+  "model": "glm-5.3"
+}

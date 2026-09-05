@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Szent ⟨volt⟩ Izrael Jahvénak, termése első zsengéje; mindenki, aki eszi ⟨את⟩ őt, bűnössé válik, baj jön rájuk — Jahve kijelentése.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Szent"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "első"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "zsengéje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "aki eszi"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bűnössé válik"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baj"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T20:31:39.395722008Z",
+  "model": "glm-5.3"
+}

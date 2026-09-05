@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És vezettelek ⟨את⟩ titeket negyven évig a pusztában: nem avult el a ruháitok rajtatok, és a sarud nem avult el lábadról;",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "És vezettelek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év(ig)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "avult el"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "ruháitok"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "rajtatok"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "és a sarud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "avult el"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lábad"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:46.022523431Z",
+  "model": "glm-5.3"
+}

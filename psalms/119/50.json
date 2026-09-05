@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Ez ⟨az⟩ vigasztalásom nyomorúságomban, hogy igéddel életre kellettél",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "vigasztalásom"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "nyomorúságomban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "igéddel"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "életre kellettél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:19.314308229Z",
+  "model": "glm-5.3"
+}

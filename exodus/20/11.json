@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Mert hat napon át alkotta Jahve ⟨את⟩ az eget és ⟨את⟩ a földet, ⟨את⟩ a tengert és ⟨את⟩ mindent, ami bennük ⟨van⟩; és megpihent a hetedik napon; azért megáldotta Jahve ⟨את⟩ a szombat napját, és megszentelte azt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "hat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alkotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az eget"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az eget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bennük"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "és megpihent"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "hetedik"
+    },
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "azért"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "megáldotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szombat napját"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napját"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "a szombat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "és megszentelte azt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:31.288179490Z",
+  "model": "glm-5.3"
+}

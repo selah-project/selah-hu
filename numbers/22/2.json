@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És látta Bálák, Cippór fia, ⟨את⟩ mindazt, amit tett Jiszráél az emóritákkal.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Bálák"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Cippór"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "az emóritákkal"
+    }
+  ],
+  "timestamp": "2026-09-04T17:40:28.386010469Z",
+  "model": "glm-5.3"
+}

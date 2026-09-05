@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "Állva voltak lábaink kapuidban, Jerusalajim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Állva"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "lábank"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "kapuidban"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalajim"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:54.126293985Z",
+  "model": "glm-5.3"
+}

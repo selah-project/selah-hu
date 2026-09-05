@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És mondta Jehosáfát Izráel királyának: „Kérdezd meg kérlek ma ⟨את⟩ Jahve szavát.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosáfát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Kérdezd meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szavát"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:17:28.402808718Z",
+  "model": "glm-5.3"
+}

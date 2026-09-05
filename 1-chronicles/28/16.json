@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "és ⟨את⟩ az aranyat súly szerint az előrakott kenyér asztalaihoz, asztalonként és asztalonként, és ezüstöt az ezüst asztalokhoz.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "az aranyat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az aranyat"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "súly szerint"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "az asztalaihoz"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "az előrakott kenyérnek"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "asztalonként"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "és asztalonként"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "és ezüstöt"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "az asztalokhoz"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "az ezüst"
+    }
+  ],
+  "timestamp": "2026-09-04T23:09:41.128264390Z",
+  "model": "glm-5.3"
+}

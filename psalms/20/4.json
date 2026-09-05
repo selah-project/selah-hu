@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Emlékezzék meg minden ételáldozatodról, és égőáldozatodat tekintse kövérnek — szela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Emlékezzék meg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "ételáldozatodról"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "és égőáldozatodat"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "tekintse kövérnek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:44.000107952Z",
+  "model": "glm-5.3"
+}

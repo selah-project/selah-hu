@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Szennységük szerint és vétkeik szerint cselekedtem ⟨את⟩ velük, és elrejtettem orcámat előlük.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "szennységük szerint"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "és vétkeik szerint"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "velük"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "és elrejtettem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "orcámat"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "előlük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:14:21.285024693Z",
+  "model": "glm-5.3"
+}

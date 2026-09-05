@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "és ⟨את⟩ Dedánt és ⟨את⟩ Temát és ⟨את⟩ Búzot és ⟨את⟩ minden göndör-hajú templomosát",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Dedánt"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedánt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Temát"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Temát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Búzot"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Búzot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden göndör-hajút"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "göndör-hajú templomosát"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "halántékát"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:00.279002002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Íme, az első dolok eljöttek, és új dolokat jelentek én, mielőtt kicsíráznák, hallatom veletek ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "az első dolok"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "באו",
+      "gloss": "eljöttek"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "és új dolokat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "jelentek"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "kicsíráznák"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "hallatom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "veletek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:32.062042016Z",
+  "model": "glm-5.3"
+}

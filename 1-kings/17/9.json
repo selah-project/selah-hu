@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Kelj fel, menj Carfátba (Cofát), amely Cidonhoz tartozik, és lakj ott; íme, megparancsoltam ott egy özvegyasszonynak, hogy gondoskodjék rólad.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "Carfátba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "Cidonhoz tartozik"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "és lakj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "megparancsoltam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "egy asszonynak"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "özvegy(-asszonynak)"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "hogy gondoskodjék rólad"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:14.567462423Z",
+  "model": "glm-5.3"
+}

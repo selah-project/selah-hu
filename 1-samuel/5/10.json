@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És elküldték ⟨את⟩ ⟨az⟩ Elohim ládáját Ekrónba. És történt, amint ⟨az⟩ Elohim ládája Ekrónba ért, felkiáltottak az ekróniak, mondván: „Hozzátok ide hozzám ⟨את⟩ Izrael Elohimjának ládáját, hogy megöljön engem és ⟨את⟩ népemet!”",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "És elküldték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨az⟩ Elohim ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨az⟩ Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekrónba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "amint ért"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládája"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨az⟩ Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekrónba"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "felkiáltottak"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "az ekróniak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "hozzátok ide"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael Elohimjának ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimjának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "hogy megöljön engem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:26.571969351Z",
+  "model": "glm-5.3"
+}

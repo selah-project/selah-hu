@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Nyomorult vagyok én, és haldokló ifjúságomtól fogva; hordoztam rettegéseidet — meg vagyok zavarodva.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Nyomorult"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "és haldokló"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ifjúságomtól fogva"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "hordoztam"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "rettegéseidet"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "meg vagyok zavarodva"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:07.915250773Z",
+  "model": "glm-5.3"
+}

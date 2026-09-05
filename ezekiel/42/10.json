@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Az udvar falának szélességében, a keleti út felől, a gizra (elkülönített hely) felé és az épület felé — kamrák.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "a szélességében"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "falának"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "a keleti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "פני",
+      "gloss": "a felé"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "gizra (elkülönített hely)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és felé"
+    },
+    {
+      "surface": "פני",
+      "gloss": "a felé"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "az épület"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "kamrák"
+    }
+  ],
+  "timestamp": "2026-09-04T21:15:57.648738221Z",
+  "model": "glm-5.3"
+}

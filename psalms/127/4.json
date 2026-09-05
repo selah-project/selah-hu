@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 127,
+  "translation": "Mint nyilak a hős kezében, úgy a fiak az ifjúságnak.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Mint nyilak"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "a hős"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a fiak"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "az ifjúságnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:01.963110786Z",
+  "model": "glm-5.3"
+}

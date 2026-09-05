@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És az ártatlan vérért is, amelyet kiontott — megtöltötte Jerusálaimot (Jeruzsálem) ártatlan vérrel —, és nem volt hajlandó Jahve megbocsátani.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És … is"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vérért"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "az ártatlan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "kiontott"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "megtöltötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusálaimot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálaimot (Jeruzsálem)"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vérrel"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ártatlan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "volt hajlandó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "megbocsátani"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:53.729175827Z",
+  "model": "glm-5.3"
+}

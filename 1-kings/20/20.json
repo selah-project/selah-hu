@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ütöttek ki-ki ⟨az ő⟩ emberét, és Arám megfutamodott, és Izráél üldözte ⟨őket⟩, és megszökött Ben-Hadad, Arám királya, lóháton lovastársaival.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "És ütöttek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ki-ki"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "emberét"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "és megfutamodott"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "és üldözte őket"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "és megszökött"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arámnak"
+    },
+    {
+      "surface": "על",
+      "gloss": "-n (lóháton)"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ló"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "és lovasokkal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:00.414251101Z",
+  "model": "glm-5.3"
+}

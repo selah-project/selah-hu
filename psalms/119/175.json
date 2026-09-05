@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Éljen a lelkem, és dicsérjen téged, és a te ítéletei segítsenek engem.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "éljen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "és dicsérjen téged"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "és a te ítéletei"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "segítsetek engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:08.242574587Z",
+  "model": "glm-5.3"
+}

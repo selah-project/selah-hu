@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ismét összegyűjtötte Dávid ⟨את⟩ minden ifjút Izráelben, harmincezret.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "És ismét"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "újra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden ifjút"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ifjút"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráelben"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    }
+  ],
+  "timestamp": "2026-09-04T19:24:44.115545772Z",
+  "model": "glm-5.3"
+}

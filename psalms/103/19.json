@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Jahve az egekben állította ⟨fel⟩ trónját, és az ő királysága minden ⟨felett⟩ uralkodik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az egekben"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "állította ⟨fel⟩"
+    },
+    {
+      "surface": "כסאo",
+      "gloss": "trónját"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "és az ő királysága"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "⟨felett⟩ uralkodik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:52.506120573Z",
+  "model": "glm-5.3"
+}

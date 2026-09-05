@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "És megesketé Jószéf ⟨את⟩ Jiszráél fiait, mondván: meglátogatással meglátogat ⟨את⟩ titeket az Elohim, és felvisztek ⟨את⟩ csontjaimat innen.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "És megesketé"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf (József)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "meglátogatással"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "meglátogat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "és felvisztek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "csontjaimat"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "csontjaimat"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "innen"
+    }
+  ],
+  "timestamp": "2026-09-05T00:24:07.448758415Z",
+  "model": "glm-5.3"
+}

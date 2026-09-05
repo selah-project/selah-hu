@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Többen vannak fejem hajszálainál, akik ok nélkül gyűlölnek engem; megerősödtek, akik kiirtanak, hamisan ellenségeim — amit nem raboltam el, azt kell visszaadnom.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "többen vannak"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "hajszálainál"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejem"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "gyűlölőim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ok nélkül"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "megerősödtek"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "akik kiirtanak"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hamisan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "raboltam el"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kell visszaadnom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:15.908762211Z",
+  "model": "glm-5.3"
+}

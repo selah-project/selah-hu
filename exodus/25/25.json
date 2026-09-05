@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És készíts neki ⟨a⟩ szegélyt egy tenyérnyi ⟨szélességben⟩ körül, és készíts arany koszorút a szegélye körül.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És készíts"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "szegélyt"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "egy tenyérnyi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körül"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és készíts"
+    },
+    {
+      "surface": "זר",
+      "gloss": "koszorút"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "a szegélye"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körül"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:29.462348066Z",
+  "model": "glm-5.3"
+}

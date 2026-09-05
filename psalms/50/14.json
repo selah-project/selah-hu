@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Áldozz ⟨a⟩ Elohimnak hálát, és teljesítsd Elyonnak fogadalmaidat!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "áldozz"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimnak"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "hálát"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "és teljesítsd"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyonnak"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "fogadalmaidat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:11.570442414Z",
+  "model": "glm-5.3"
+}

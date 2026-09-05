@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "A szorongatásból kiáltottam Jah-t, Jah válaszolt nekem ⟨a⟩ tágasságban.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "a szorongatás"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kiáltottam"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "válaszolt nekem"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "a tágasságban"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:16.372605059Z",
+  "model": "glm-5.3"
+}

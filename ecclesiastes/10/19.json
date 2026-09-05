@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Nevetésre készítenek kenyeret, és bor örömöt ad az életnek, és az ezüst válaszol ⟨את⟩ mindenre.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "nevetésre"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "készítenek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "וגין",
+      "gloss": "és bor"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örömöt ad"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "az életnek"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "és az ezüst"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "válaszol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindenre"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "mindenre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:59.395514112Z",
+  "model": "glm-5.3"
+}

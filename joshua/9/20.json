@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Ezt tegyük velük: hagyjuk őket élni, és ne legyen rajtunk harag az eskü miatt, amelyet megesküdtünk nekik.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tegyuk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "hagyjuk élni"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "rajtunk"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "harag"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "az eskü"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "megesküdtünk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T18:38:02.708311694Z",
+  "model": "glm-5.3"
+}

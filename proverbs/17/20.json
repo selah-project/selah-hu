@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "A csavaros szívű ⟨nem⟩ talál jót, és a nyelvében megfordult bajba esik.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "csavaros"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szív"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "talál"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "és a megfordult"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "nyelvében"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "esik"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bajba"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:26.144865512Z",
+  "model": "glm-5.3"
+}

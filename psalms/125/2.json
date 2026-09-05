@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 125,
+  "translation": "Jerusálajim — hegyek veszik körül őt, és Jahve veszi körül népét, mostantól örökké.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hegyek"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körülveszik"
+    },
+    {
+      "surface": "לה",
+      "gloss": "őt"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körülveszi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mostantól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:03.720068225Z",
+  "model": "glm-5.3"
+}

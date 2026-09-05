@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Segíts, Jahve, mert elfogyott a hászid, mert eltűntek a hűségesek ⟨az⟩ emberek fiai közül.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Segíts"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "elfogyott"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "a hászid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "eltűntek"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "a hűségesek"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…fiai közül"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:25.401582990Z",
+  "model": "glm-5.3"
+}

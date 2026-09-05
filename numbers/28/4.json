@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "⟨את⟩ az egyik bárányt reggel készítsd el, és ⟨את⟩ a második bárányt készítsd el az estők között.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egyik bárányt"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "a bárányt"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "készítsd el"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a második bárányt"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "a bárányt"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a másodikat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "készítsd el"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "az estők"
+    }
+  ],
+  "timestamp": "2026-09-04T17:44:29.401802728Z",
+  "model": "glm-5.3"
+}

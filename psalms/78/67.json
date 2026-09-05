@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És megutálta Jóséf sátrát, és Efrájim törzsét nem választotta.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "és megutálta"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sátrát"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jóséf"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "és törzsét"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "választotta"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:10.201955498Z",
+  "model": "glm-5.3"
+}

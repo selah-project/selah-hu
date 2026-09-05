@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És az ő ágyasa — Reumá a neve — ő is ⟨a⟩ szülte ⟨את⟩ Teváchot és ⟨את⟩ Gáchamot és ⟨את⟩ Táchast és ⟨את⟩ Maakhát.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "és az ő ágyasa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "és a neve"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumá"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szülte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teváchot"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Teváchot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Gáchamot"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gáchamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Táchast"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Táchast"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Maakhát"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:24.051555688Z",
+  "model": "glm-5.3"
+}

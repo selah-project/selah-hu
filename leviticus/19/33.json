@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És ha jövevény lakik veletek ⟨את⟩ a ti földeteken, ne nyomjátok el ⟨את⟩ őt.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "lakik"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veletek"
+    },
+    {
+      "surface": "גר",
+      "gloss": "jövevény"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "a-ti-földeteken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "nyomjátok-el"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:24.319281514Z",
+  "model": "glm-5.3"
+}

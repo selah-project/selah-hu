@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És tegyen Aharón a két bakra sorsokat: egy sors Jahvénak, és egy sors Azázélnek.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "és tegyen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bak"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "sorsokat"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "sors"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "és sors"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Azázélnek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:38.656643537Z",
+  "model": "glm-5.3"
+}

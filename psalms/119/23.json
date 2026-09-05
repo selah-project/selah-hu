@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Még ha fejedelmek ülnek is ⟨és⟩ ellenem beszélnek, a te szolgád a hukkáidról elmélkedik.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Még... is"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ülnek"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "fejedelmek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "beszélnek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a te szolgád"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "elmélkedik"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "a hukkáidról"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:49.837134175Z",
+  "model": "glm-5.3"
+}

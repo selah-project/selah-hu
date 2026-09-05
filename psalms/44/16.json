@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Egész naphosszat gyalázatom van ⟨előttem⟩, és arcam szégyene befödte ⟨engem⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "naphosszat"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "gyalázatom"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "és szégyene"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcam"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "befödte engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:57.691525584Z",
+  "model": "glm-5.3"
+}

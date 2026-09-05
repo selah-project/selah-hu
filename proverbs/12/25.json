@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Aggodalom az ember szívében meghajtja ⟨őt⟩, de a jó szó megörvendezteti ⟨őt⟩.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "Aggodalom"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "szívében"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "meghajtja"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "de szó"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "megörvendezteti"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:53.533172134Z",
+  "model": "glm-5.3"
+}

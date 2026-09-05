@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Majdnem eltöröltek engem a földön, de én nem hagytam el a te rendelkezéseidet.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "majdnem"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "eltöröltek engem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "de én"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "hagytam el"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "a te rendelkezéseidet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:17.249840728Z",
+  "model": "glm-5.3"
+}

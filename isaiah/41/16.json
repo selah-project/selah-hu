@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Szétszórod őket, és a szél elhordja őket, és a forgószél szétszórja ⟨את⟩ őket — és te örülni fogsz Jahvéban, Izrael Szentjében dicsekedni fogsz.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "Szétszórod"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "és a szél"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "elhordja őket"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "és a forgószél"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "szétszórja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "és te"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "örülni fogsz"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "Szentjében"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "dicsekedni fogsz"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:56.102609553Z",
+  "model": "glm-5.3"
+}

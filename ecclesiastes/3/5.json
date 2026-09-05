@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Idő ⟨a⟩ kövek elhajítására és idő ⟨a⟩ kövek összegyűjtésére; idő ⟨az⟩ ölelésre és idő ⟨a⟩ messze kerülésre az öleléstől.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "elhajítására"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kövek"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "összegyűjtésére"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kövek"
+    },
+    {
+      "surface": "עת",
+      "gloss": "idő"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ölelésre"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "messze kerülésre"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "az öleléstől"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:15.652808850Z",
+  "model": "glm-5.3"
+}

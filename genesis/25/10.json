@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "A mezőt, amelyet Avraham (Ábrahám) megvásárolt ⟨את⟩ a Het fiaitól, oda temették Avrahamot és Szárát (Sárát), az ő feleségét.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "a mezőt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "megvásárolta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ -tól"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaitól"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "temették"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamot"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "és Szárát"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "az ő feleségét"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:42.422580472Z",
+  "model": "glm-5.3"
+}

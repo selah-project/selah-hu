@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne edd ⟨את⟩ a rossz szemű ember kenyerét, és ne kívánd az ő ínyencségeit!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "edd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenyerét"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerét"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szemű"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "kívánd"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ínyencségeit"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:23.660697514Z",
+  "model": "glm-5.3"
+}

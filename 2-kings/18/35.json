@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Kicsoda minden ország istenei közül, akik megmentették ⟨את⟩ a földjüket a kezemből, hogy Jahve kimentené ⟨את⟩ Jeruzsálemet a kezemből?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kicsoda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "istenei"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ország"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "mentették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földjüket"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "földjüket"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "kezemből"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "kimentené"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzsálemet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálemet"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "kezemből"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:45.646603933Z",
+  "model": "glm-5.3"
+}

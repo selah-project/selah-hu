@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "És bevitte Jóséf ⟨את⟩ Jaakobot (Jákob), atyját, és eléje állította Paroh elé; és megáldotta Jaakob ⟨את⟩ Paroh-t.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bevitte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jóséf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobot (Jákob)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyját"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "és eléje állította"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldotta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh-t"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh-t"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:11.489001626Z",
+  "model": "glm-5.3"
+}

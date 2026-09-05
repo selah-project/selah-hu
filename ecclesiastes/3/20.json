@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mindnyájan egy helyre mennek; minden a porból lett, és minden visszatér a porhoz.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mennek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "helyre"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "egy helyre"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "a porból"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "שב",
+      "gloss": "visszatér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "a porhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:40.973607134Z",
+  "model": "glm-5.3"
+}

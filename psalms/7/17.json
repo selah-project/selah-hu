@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Visszatér az ő fáradalma a fejére, és a koponyájára száll alá az ő erőszakossága.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "visszatér"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "az ő fáradalma"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "a fejére"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és a"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "koponyájára"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "az ő erőszakossága"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "száll alá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:10.164618812Z",
+  "model": "glm-5.3"
+}

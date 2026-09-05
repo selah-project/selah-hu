@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Kedves volt, Jahve, földednek ⟨a⟩ kegyed, visszahoztad Jaakov (Jákob) fogságát.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Kedves volt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "földednek"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "visszahoztad"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fogságát"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:21.235428111Z",
+  "model": "glm-5.3"
+}

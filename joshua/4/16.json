@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "„Parancsold meg ⟨את⟩ a papoknak, a tanúság ládájának hordozóinak, hogy jöjjenek fel a Jordánból.”",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "parancsold meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a papoknak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papoknak"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "hordozóinak"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládájának"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "a tanúság"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "hogy jöjjenek fel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jordán"
+    }
+  ],
+  "timestamp": "2026-09-04T18:34:43.024252428Z",
+  "model": "glm-5.3"
+}

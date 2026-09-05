@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Te szóld ⟨את⟩ mindazt, amit megparancsolok neked, és Aharon, a te testvéred, szóljon Paróhoz, hogy ⟨el⟩bocsássa ⟨את⟩ Jiszráél fiait az ő földjéről.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "szóld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "megparancsolok neked"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "a te testvéred"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "szóljon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz (Paróhoz)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "hogy ⟨el⟩bocsássa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "az ő földjéről"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:49.030163772Z",
+  "model": "glm-5.3"
+}

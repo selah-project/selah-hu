@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 129,
+  "translation": "Sokszor szorongattak engem ifjúságomtól, ámde nem bírtak velem.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Sokszor"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "szorongattak engem"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ifjúságomtól"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ámde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bírtak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "velem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.648375942Z",
+  "model": "glm-5.3"
+}

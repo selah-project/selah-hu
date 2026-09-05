@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Íme, ártalmat fogant, és bajt fogan, és hazugságot szül.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "fogant"
+    },
+    {
+      "surface": "און",
+      "gloss": "ártalmat"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "és fogan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bajt"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "és szül"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugságot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:48.079154345Z",
+  "model": "glm-5.3"
+}

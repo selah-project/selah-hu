@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Jahve, Elohimom! Hozzád kiáltottam, és meggyógyítottál engem.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kiáltottam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "és meggyógyítottál engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:42.757795796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Mert irigyeltem a gőgösöket, a bűnösök békéjét látva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "irigyeltem"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "a gőgösöket"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békéjét"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a bűnösök"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "látva"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:40.829082014Z",
+  "model": "glm-5.3"
+}

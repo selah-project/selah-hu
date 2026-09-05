@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Szeretetemért vádolnak engem, én pedig imádság ⟨vagyok⟩.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Szeretetemért"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "szeretetem"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "vádolnak engem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "imádság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:54.245446402Z",
+  "model": "glm-5.3"
+}

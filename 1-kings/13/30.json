@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És elhelyezte ⟨את⟩ holttestét a saját sírjában; és gyászkodtak fölötte: „Jaj, testvérem!”",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "És elhelyezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "holttestét"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "holttestét"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "a saját sírjában"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "és gyászkodtak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fölötte"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvérem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:44.530420623Z",
+  "model": "glm-5.3"
+}

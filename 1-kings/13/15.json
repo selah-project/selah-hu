@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És monda neki: Jer ⟨את⟩ velem a házba, és egyél kenyeret!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Jer"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "a házba"
+    },
+    {
+      "surface": "ו אכל",
+      "gloss": "és egyél"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:05.073165743Z",
+  "model": "glm-5.3"
+}

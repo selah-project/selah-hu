@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Megesküdött Adonáj Jahve ⟨a⟩ szentségére: íme, napok jönnek rátok, és elvisznek ⟨את⟩benneteket horgokkal, és utolsókatokat halászhorgokkal.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Megesküdött"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "szentségére"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napok"
+    },
+    {
+      "surface": "באים",
+      "gloss": "jönnek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "rátok"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "és elvisznek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩benneteket",
+      "marks": "horgokkal"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "horgokkal"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "és utolsókatokat"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "halászhorgokkal"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "halászhorgokkal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:03.336375425Z",
+  "model": "glm-5.3"
+}

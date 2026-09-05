@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Gyűlöltem a gonoszok gyülekezetét, és a bűnösökkel nem ülök.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Gyűlöltem"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezetét"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és a bűnösökkel"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bűnösökkel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ülök"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:59.635568768Z",
+  "model": "glm-5.3"
+}

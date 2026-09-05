@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És rendezzék el Aharon fiai, a papok, ⟨את⟩ a darabokat, ⟨את⟩ a fejet és ⟨את⟩ a színt a fára, amely a tűzön ⟨van⟩, amely az oltáron ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "és rendezzék el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a darabokat"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "a darabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fejet"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "a fej"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a színt"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "a szín"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "a fára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűzön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltáron"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:07.328753342Z",
+  "model": "glm-5.3"
+}

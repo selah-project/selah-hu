@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "A tengerre leszállók a hajókban, akik munkát végeznek a nagy vizeken —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "leszállók"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengerre"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "a hajókban"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "művelők"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a vizeken"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nagy(okat)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:51.826229156Z",
+  "model": "glm-5.3"
+}

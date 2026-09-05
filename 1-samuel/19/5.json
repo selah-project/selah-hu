@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "hiszen ⟨az⟩ ⟨életét⟩ a tenyerébe tette, és leütötte ⟨את⟩ a filiszteust, és Jahve nagy szabadulást művelt egész Izráelnek; láttad, és örvendeztél — miért vétkeznél hát ártatlan vérben, hogy Davíd ⟨את⟩ ok nélkül megöld?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "tette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "életét (נפשו)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "életét"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "a tenyerébe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "leütötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a filiszteust"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "a filiszteust"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és művelt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "szabadulást"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelnek"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "láttad"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "és örvendeztél"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "és miért"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "vétkeznél"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vérben"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ártatlan"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "megölni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíd"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ok nélkül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:26.068093726Z",
+  "model": "glm-5.3"
+}

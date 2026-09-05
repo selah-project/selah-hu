@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Átkozott, aki veszi a megvesztegetés ⟨pénzét⟩, hogy megöljön ⟨את⟩ egy nefest — ártatlan vért —, és mondja az egész nép: Ámen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Átkozott"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "aki veszi"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "a megvesztegetés ⟨pénzét⟩"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "hogy megöljön"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "egy nefest"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vért"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ártatlan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:17.587637887Z",
+  "model": "glm-5.3"
+}

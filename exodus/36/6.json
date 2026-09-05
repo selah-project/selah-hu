@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És megparancsolta Moshe, és hírt vitettek végig a táborban, mondván: „Férfi és asszony ne végezzen többé munkát a szentség felajánlására.” És a nép visszafogattatott attól, hogy hozzon.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "és hírt vitettek végig"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangot"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a táborban"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "és asszony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "végezzen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "felajánlására"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentség"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "És visszafogattatott"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "attól, hogy hozzon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:52.552855393Z",
+  "model": "glm-5.3"
+}

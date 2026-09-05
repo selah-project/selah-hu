@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "És megáldotta Jaakob ⟨את⟩ Paroht, és kiment Paroh színe elől.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "És megáldotta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroht"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroht"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "és kiment"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:43.324848979Z",
+  "model": "glm-5.3"
+}

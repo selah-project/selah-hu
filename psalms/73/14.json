@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "És megvertetett ⟨van⟩ egész nap, és dorgáltattam minden reggel.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "És ⟨lettünk⟩"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "megvertetett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "és dorgáltattam"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "minden reggel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:13.790016541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És megáldotta Dávid ⟨את⟩ Jahvét a teljes gyülekezet szeme láttára, és mondta Dávid: Áldott vagy te, Jahve, Izráel (Izrael) Elohimja, a mi atyánk, öröktől örökké.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "megáldotta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "szeme láttára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atyánk"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "öröktől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-04T23:09:31.626719981Z",
+  "model": "glm-5.3"
+}

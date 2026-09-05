@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "Mert ott ülnek trónok az ítélet ⟨székében⟩, Dávid (David) házának trónjai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ülnek"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "trónok"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ítélet(re)"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "trónjai"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:14.634734573Z",
+  "model": "glm-5.3"
+}

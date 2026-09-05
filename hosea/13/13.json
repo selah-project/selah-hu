@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "A vajúdó asszony kínjai jönnek rá; ő nem bölcs fiú, mert a kellő időben nem marad meg ⟨a⟩ gyermekek kitörésének helyén.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "kínjai"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "vajúdó asszonynak"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "jönnek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עת",
+      "gloss": "a kellő időben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "marad meg"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "kitörésének helyén"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "gyermekeknek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:58.192564234Z",
+  "model": "glm-5.3"
+}

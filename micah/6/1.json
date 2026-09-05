@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Halljátok most ⟨את⟩, amit Jahve mond: kelj fel, perelj ⟨את⟩ a hegyekkel, és hallják a halmok a szavadat.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "most"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mond"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kelj fel"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "perelj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hegyekkel"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "a hegyekkel"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "és hallják"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "a halmok"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "a szavadat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:29:12.444659659Z",
+  "model": "glm-5.3"
+}

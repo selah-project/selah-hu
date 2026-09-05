@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És látta Szara ⟨את⟩ Hagár (Hágár) fiát, az egyiptomiét, akit ő szült Avrahámnak (Ábrahámnak), gúnyolódva.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Szara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagár fiát"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagár"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "az egyiptomiét"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ő szült"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahámnak"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "gúnyolódva"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:16.543895912Z",
+  "model": "glm-5.3"
+}

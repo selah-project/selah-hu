@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "„Parancsold meg Izrael fiainak, hogy küldjék ki a táborból ⟨את⟩ minden sültkóros embert, és minden folyásosat, és mindenkit, aki holttest miatt tisztátalan.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Parancsold meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael fiainak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "hogy küldjék ki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—ból"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a táborból"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "sültkóros embert"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "זב",
+      "gloss": "folyásosat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és mindenkit"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalan"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "holttest miatt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:29:41.015336411Z",
+  "model": "glm-5.3"
+}

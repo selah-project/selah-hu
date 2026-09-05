@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Szolgáidnak fiai lakoznak, és magjuk teelőtted megáll⟨⟨⟩⟩att⟨⟨⟩⟩",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáidnak"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "lakoznak"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "és magjuk"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "teelőtted"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "megáll"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:11.740369640Z",
+  "model": "glm-5.3"
+}

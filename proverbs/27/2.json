@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Dicsérjen téged idegen, és ne a te szájad; más, és ne a te ajkaid.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "Dicsérjen téged"
+    },
+    {
+      "surface": "זר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a te szájad"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "más"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "a te ajkaid"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:35.903116206Z",
+  "model": "glm-5.3"
+}

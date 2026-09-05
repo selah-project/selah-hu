@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Kölcsönöz a gonosz, és nem fizet meg; az igaz pedig irgalmas és ad.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "Kölcsönöz"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizet meg"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "és az igaz"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "irgalmas"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "és ad"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:45.083978794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "és kimegy a pap a házból a ház bejáratához, és elzárja ⟨את⟩ a házat hét napra.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "és kimegy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a házból"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házból"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a bejáratához"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "és elzárja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:50.929419110Z",
+  "model": "glm-5.3"
+}

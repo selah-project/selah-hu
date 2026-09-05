@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 32:36",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Mert megítéli Jahve ⟨az⟩ ő népét, és szolgái fölött könyörül meg, mert látja, hogy elfogyott ⟨a⟩ kéz, és nincs többé körbezárva sem, elhagyatva sem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "megítéli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ő népét"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ... fölött"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "könyörül meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "látja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אזלת",
+      "gloss": "elfogyott"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kéz"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "és nincs többé"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "körbezárva sem"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "elhagyatva sem"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:03.591134115Z",
+  "model": "glm-5.3"
+}

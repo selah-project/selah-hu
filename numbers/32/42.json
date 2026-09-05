@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És Novach elment, és elfoglalta ⟨את⟩ Kenátot és ⟨את⟩ leányfalvait, és elnevezte azt Novachnak a maga neve után.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "És Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "és elfoglalta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenátot"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenátot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "leányfalvait"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "leányfalvait"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és elnevezte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "azt"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novachnak"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "a maga neve után"
+    }
+  ],
+  "timestamp": "2026-09-04T17:44:51.938145169Z",
+  "model": "glm-5.3"
+}

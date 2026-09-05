@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És a földrengés után tűz — nem a tűzben ⟨van⟩ Jahve; és a tűz után halk, szelíd hang.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "és után"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "a földrengés"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a tűzben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és után"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hang"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "halk"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "szelíd"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:50.647212058Z",
+  "model": "glm-5.3"
+}

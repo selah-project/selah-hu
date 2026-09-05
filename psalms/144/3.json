@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Jahve, mi ⟨az⟩ ember, hogy megismered őt, az ember fia, hogy számba veszed őt?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "hogy megismered őt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "hogy számba veszed őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:22.935344720Z",
+  "model": "glm-5.3"
+}

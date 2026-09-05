@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És az ötödik évben ehetitek ⟨את⟩ gyümölcsét, hogy megszaporodjék nektek termése: én ⟨vagyok⟩ Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "évben"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "ötödik"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehetitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyümölcsét"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "gyümölcsét"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "hogy-megszaporodjék"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "termése"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:11.712193867Z",
+  "model": "glm-5.3"
+}

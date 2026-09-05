@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondta Jahve: „Törlöm el ⟨את⟩ az embert, akit megteremtettem, ⟨a⟩ föld színéről — embertől a marháig, a csúszó-mászójáig és az ég madaráig —, mert megbántam, hogy megalkottam ⟨את⟩ őket.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "törlöm el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "megteremtettem"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színéről"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "föld"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "embertől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "a marháig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "a csúszó-mászójáig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "madaráig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "megbántam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "megalkottam őket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:16.077605913Z",
+  "model": "glm-5.3"
+}

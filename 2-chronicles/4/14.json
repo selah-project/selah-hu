@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ⟨את⟩ az állványokat megcsinálta, és ⟨את⟩ a medencéket megcsinálta az állványokra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "az állványokat"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "állványokat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "megcsinálta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a medencéket"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "medencéket"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "megcsinálta"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "állványokra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:19.636689938Z",
+  "model": "glm-5.3"
+}

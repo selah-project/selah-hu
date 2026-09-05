@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ezek a nevei Aharon fiainak: az elsőszülött Nádáv, és Avihú, Elázár és Itámár.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "a nevei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "az elsőszülött"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nádáv"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "és Avihú"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázár"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "és Itámár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:24.417393865Z",
+  "model": "glm-5.3"
+}

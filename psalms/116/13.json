@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "A szabadítás kelyhét emelem fel, és a Jahve nevében szólítom.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "kelyhét"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "szabadítás"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "emelem fel"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "és a ... nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "szólítom"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:01.716267406Z",
+  "model": "glm-5.3"
+}

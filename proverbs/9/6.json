@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Hagyjátok el ⟨a⟩ balgákat, és éljetek, és járjatok az értelem útján!",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "Hagyjátok el"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "⟨a⟩ balgákat"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "és éljetek"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "és járjatok"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az … útján"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "értelem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:00.899517028Z",
+  "model": "glm-5.3"
+}

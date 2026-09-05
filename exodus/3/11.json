@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta Moshe (Mózes) az Elohimnak: Ki vagyok én, hogy elmenjek Paróhoz, és hogy kivezzem ⟨את⟩ Izráel fiait Micrajimból?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "elmenjek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróhoz"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "és hogy"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "kivezzem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráel fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:37.521535218Z",
+  "model": "glm-5.3"
+}

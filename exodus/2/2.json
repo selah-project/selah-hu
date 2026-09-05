@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És fogant az asszony, és szült egy fiat, és látta őt, hogy jó ⟨az⟩, és elrejtette őt három hónapig.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "És fogant"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "בן",
+      "gloss": "egy fiat"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "és elrejtette őt"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "hónapig"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:21.948931095Z",
+  "model": "glm-5.3"
+}

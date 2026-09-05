@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Aki győzelmet ad a királyoknak, aki megszabadítja ⟨את⟩ Dávidot, szolgáját, a rossz kardtól.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Aki"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "győzelmet"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "a királyoknak"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "aki megszabadítja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgáját"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "a kardtól"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rossz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:10.192798925Z",
+  "model": "glm-5.3"
+}

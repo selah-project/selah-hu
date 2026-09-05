@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Dávidtól. Áldott ⟨van⟩ Jahve, sziklám, aki megtanítja kezeimet a harcra, ujjaimat a hadviselésre.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "sziklám"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "aki megtanítja"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezeimet"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "a harcra"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ujjaimat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "a hadviselésre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:22.934649463Z",
+  "model": "glm-5.3"
+}

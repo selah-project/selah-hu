@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 76,
+  "translation": "Te ⟨vagy⟩ a félelmetes, te; és ki állhat meg színed előtt, mihelyst haragra gerjedsz?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "félelmetes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "állhat meg"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "színed előtt"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "mihelyst"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "haragod"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:45.860189535Z",
+  "model": "glm-5.3"
+}

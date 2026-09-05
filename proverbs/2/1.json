@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Fiam, ha beszédeimet ⟨את⟩ elveszed, és parancsolataimat ⟨את⟩ magadnál rejted el,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "elveszed"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "beszédeimet"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "és parancsolataimat"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "rejted el"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ magadnál",
+      "marks": "magadnál"
+    }
+  ],
+  "timestamp": "2026-09-04T22:08:16.992638817Z",
+  "model": "glm-5.3"
+}

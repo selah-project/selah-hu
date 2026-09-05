@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Minden csontom mondja: Jahve, ki ⟨van⟩ hozzád hasonló, aki kimenti a szegényt ⟨az⟩ erősebb ⟨kezéből⟩, ⟨את⟩ a szegényt és ⟨את⟩ a nincstelent fosztogatójától?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "csontom"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hozzád hasonló"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kimenti"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a szegényt"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "⟨az⟩ erősebb"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨kezéből⟩"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "és a szegényt"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és a nincstelent"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "fosztogatójától"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.200214892Z",
+  "model": "glm-5.3"
+}

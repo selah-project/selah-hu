@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "és erősítsek magamnak hűséges tanúkat: ⟨את⟩ Uriját, a papot, és ⟨את⟩ Zekarjáhut, Jeverekjáhu fiát.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "és erősítsek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "magamnak"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "tanúkat"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "hűségeseket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriját"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriját"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Zekarjáhut"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjáhut"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeverekjáhunak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:10:36.309603754Z",
+  "model": "glm-5.3"
+}

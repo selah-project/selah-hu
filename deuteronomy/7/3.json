@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ne házasodj össze velük: a te leányodat ne add az ő fiának, és az ő leányát ne vedd el a te fiadnak.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "házasodj össze"
+    },
+    {
+      "surface": "בם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "a te leányod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "add"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "az ő fiának"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "és az ő leánya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vedd el"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "a te fiadnak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:39.208021647Z",
+  "model": "glm-5.3"
+}

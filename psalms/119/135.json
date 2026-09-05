@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Arcod világítsd szolgádra, és taníts meg ⟨את⟩ rendeleteidre.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "arcod"
+    },
+    {
+      "surface": "האר",
+      "gloss": "világítsd"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "szolgádra"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "és taníts meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rendeleteidre"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "rendeleteidre"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:31.306525468Z",
+  "model": "glm-5.3"
+}

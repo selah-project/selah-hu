@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Mert a kerúbok kiterjesztették szárnyaikat a láda helye fölé, és befedték a kerúbok a ládát és annak rúdjait felülről.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "a kerúbok"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kiterjesztették"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "szárnyaikat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helye"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "a láda"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "és befedték"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "a kerúbok"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "a ládát"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "rúdjait"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "felülről"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:16.100169147Z",
+  "model": "fable-5-hand"
+}

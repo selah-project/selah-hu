@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És annak a földnek az aranya jó; ⟨van⟩ ott bedolach és a soham-kő.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "És az aranya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "annak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolach"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "és a kő"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "soham"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:52.252438424Z",
+  "model": "glm-5.3"
+}

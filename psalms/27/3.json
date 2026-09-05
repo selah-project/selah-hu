@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Ha tábor telepszik ellenem, nem fél a szívem; ha háború kel ellenem, ebben én bízom.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "telepszik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "fél"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "a szívem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "háború"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ebben"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "bízom"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:42.560250121Z",
+  "model": "glm-5.3"
+}

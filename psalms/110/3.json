@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 110,
+  "translation": "Néped önkéntes ajándék hatalmad napján, szentség ékességeiben; a hajnal méhéből neked ⟨van⟩ a harmat, ifjúságodhoz.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Néped"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "önkéntes ajándék"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "hatalmadnak"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ékességeiben"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentség"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "méhéből"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "hajnal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "טל",
+      "gloss": "harmat"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ifjúságod"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:06.842447918Z",
+  "model": "glm-5.3"
+}

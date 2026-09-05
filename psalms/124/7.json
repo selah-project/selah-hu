@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 124,
+  "translation": "Lelkünk, mint a madár, megszabadult a csapdaverők tőréből; a tőr eltört, és mi megszabadultunk.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Lelkünk"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "mint a madár"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "megszabadult"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "a tőr(e)ből"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "csapdaverőknek"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "a tőr"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "eltört"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "és mi"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "megszabadultunk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:01.088993419Z",
+  "model": "glm-5.3"
+}

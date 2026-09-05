@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 125,
+  "translation": "Mert nem nyugszik meg a gonoszság pálca a igazak sorsán, hogy az igazak ne nyújtsák kezüket gonoszságra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "nyugszik meg"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pálca"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "a gonoszság"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "sorsán"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "az igazak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "nyújtsák"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "az igazak"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "gonoszságra"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kezüket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:03.720242842Z",
+  "model": "glm-5.3"
+}

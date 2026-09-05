@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És monda: Menj, kérj magadnak edényeket kívülről, ⟨את⟩ minden szomszédodtól — üres edényeket, ne kevesítsd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Menj"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "kérj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "edényeket"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "minden szomszédod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "szomszédod"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "edényeket"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "üres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "kevesítsd"
+    }
+  ],
+  "timestamp": "2026-09-04T19:54:53.696188574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ezek a nevei Aharon fiainak, a felkent papok, akiknek megtöltötte ⟨a⟩ kezüket, hogy papi szolgálatot végezzenek.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "a nevei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "a felkentek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiknek"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "megtöltötte"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kezüket"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hogy papi szolgálatot végezzenek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:24.417518752Z",
+  "model": "glm-5.3"
+}

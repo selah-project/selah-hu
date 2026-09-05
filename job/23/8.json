@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Íme, előre megyek — és ő nincs ⟨ott⟩; és hátra — és nem értem őt.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "előre"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "megyek"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "és ő nincs ⟨ott⟩"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "és hátra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "értem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:24:19.075450512Z",
+  "model": "glm-5.3"
+}

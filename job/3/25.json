@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mert amitől féltem, az rám jött, és amit rettegtem, az érkezett hozzám.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "amitől féltem"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "féltem"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "és rám jött"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amit"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "rettegtem"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "érkezett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hozzám"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:10.991671889Z",
+  "model": "glm-5.3"
+}

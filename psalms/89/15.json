@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Igazság és jog ⟨a⟩ trónusod alapja, heszed és hűség járnak orcád előtt.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Igazság"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és jog"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "alapja"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "trónusod"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "és hűség"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "járnak előtt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:54.839931953Z",
+  "model": "glm-5.3"
+}

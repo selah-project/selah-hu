@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És kenőpénzt ne vegyél át, mert a kenőpénz megvakítja a látókat, és elferdíti az igazak szavait.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "És kenőpénzt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vegyél át"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "a kenőpénz"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "megvakítja"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "a látókat"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "és elferdíti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:57.849170826Z",
+  "model": "glm-5.3"
+}

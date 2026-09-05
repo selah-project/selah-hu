@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És sietett, és kiürítette korsóját a vájúba, és még futott a kúthoz meríteni, és mert mind az ő tevéinek.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "És sietett"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "és kiürítette"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "korsóját"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "a vájúba"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "és futott"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "a kúthoz"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "meríteni"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "és mert"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mind…nek"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "az ő tevéinek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:04.175536296Z",
+  "model": "glm-5.3"
+}

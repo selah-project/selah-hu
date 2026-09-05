@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Egy házban ⟨legyen⟩ megenni; ne vigyél ki a házból a húsból kifelé, és csontot ne törjetek meg benne.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "egy házban"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "megenni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "vigyél ki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "abból"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házból"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a ... ból"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "húsból"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "kifelé"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "és csontot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "törjetek meg"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:56.125682264Z",
+  "model": "glm-5.3"
+}

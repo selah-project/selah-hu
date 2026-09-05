@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Szólj Izrael fiainak, és mondd nekik: én ⟨vagyok⟩ Jahve, a ti Elohimotok:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Szólj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:56.163822672Z",
+  "model": "glm-5.3"
+}

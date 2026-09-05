@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Felkelek hát, és körüljárom a várost, a piacokon és a tereken keresem ⟨את⟩ azt, akit szeret a lelkem; kerestem őt, de nem találtam meg.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "Felkelek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hát"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "és körüljárom"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "a piacokon"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "és a tereken"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "keresem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, akit szeret a lelkem"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "akit szeret"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "kerestem őt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "találtam meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:30:02.600056071Z",
+  "model": "glm-5.3"
+}

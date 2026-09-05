@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 1:15",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És a tíz nap végén jobbnak és húsosabbnak látszott az ő megjelenésük minden fiatalénál, akik ⟨את⟩ a király ételét eszik.",
+  "tokens": [
+    {
+      "surface": "ומקצת",
+      "gloss": "és a végén"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nap"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "látszott"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "az ő megjelenésük"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jobbnak"
+    },
+    {
+      "surface": "ובריאי",
+      "gloss": "és húsosabbnak"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsban"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-nál"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "fiatalánál"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "akik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a király ételét"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "a király ételét"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:55.035517677Z",
+  "model": "glm-5.3"
+}

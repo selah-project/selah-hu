@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És erősködött rajta Avsalom, és elküldött vele ⟨את⟩ Amnont és ⟨את⟩ a király összes fiait.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "És erősködött"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldött"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnont"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király összes fiait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T19:27:51.559529539Z",
+  "model": "glm-5.3"
+}

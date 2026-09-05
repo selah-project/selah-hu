@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Miktám Dávidnak (Dávidhoz): őrizzen meg ⟨minket⟩ El, mert hozzád menekültem.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktám"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "őrizzen meg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "menekültem"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hozzád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:34.025968159Z",
+  "model": "glm-5.3"
+}

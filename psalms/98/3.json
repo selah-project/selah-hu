@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 98,
+  "translation": "Emlékezett heszedjére és hűségére Izráel háza iránt; látták a föld minden széle ⟨את⟩ a mi Elohimunk szabadítását.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezett"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "heszedjére"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "és hűségére"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "háza iránt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "látták"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "széle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mi Elohimunk szabadítását"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "szabadítását"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:06.312259854Z",
+  "model": "glm-5.3"
+}

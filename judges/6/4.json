@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És tábort ütöttek ellenük, és elpusztították ⟨את⟩ a föld termését egészen Azzáig menve, és nem hagytak életben tartót Jiszráelben, sem juhot, sem ökröt, sem szamarat.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "És tábort ütöttek"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "és elpusztították"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld termését"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "termését"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "Azzáig menve"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "hagytak"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "életben tartót"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jiszráelben"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "sem juhot"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "sem ökröt"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "sem szamarat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:51:43.750695621Z",
+  "model": "glm-5.3"
+}

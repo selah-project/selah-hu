@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És szerette Shelomo ⟨את⟩ Jahvét, hogy járjon Dávidnak, az ő atyjának rendelkezéseiben; csak a magaslatokon áldozott ő, és füstölőáldozatot bemutatott.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "és szerette"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hogy járjon"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "rendelkezéseiben"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő atyjának"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "a magaslatokon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "áldozott"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "és füstölőáldozatot bemutatott"
+    }
+  ],
+  "timestamp": "2026-09-04T19:38:22.624940582Z",
+  "model": "glm-5.3"
+}

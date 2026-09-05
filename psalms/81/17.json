@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "És etette volna ⟨őt⟩ a búza kövérjéből, és a sziklából mézzel elégítettelek volna ⟨meg téged⟩.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "és etette volna őt"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "a kövérjéből"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "búza"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "és a sziklából"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "mézzel"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "elégítettelek volna téged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:34.925349729Z",
+  "model": "glm-5.3"
+}

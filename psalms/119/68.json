@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Jó vagy te, és jót cselekszel; taníts meg rendeleteidre.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "vagy te"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "és jót cselekszel"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "taníts meg"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "rendeleteidre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:03.570226395Z",
+  "model": "glm-5.3"
+}

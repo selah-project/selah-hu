@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Jahve, felhoztad életemet a Seolból, megelevenítettél engem a gödörbe szállók közül.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "felhoztad"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a Seol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "életemet"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "megelevenítettél engem"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "a ... szállók közül"
+    },
+    {
+      "surface": "בור",
+      "gloss": "gödörbe"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.199845751Z",
+  "model": "glm-5.3"
+}

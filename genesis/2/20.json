@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És nevezett az ember neveket minden állatnak, és az égi madaraknak, és minden mezei vadnak; de az embernek nem találtatott segítő, vele szemközt.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevezett"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "neveket"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "állatnak"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "és az égi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "madaraknak"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "חית",
+      "gloss": "vadnak"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mezei"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "az embernek pedig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "találtatott"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "segítő"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "vele szemközt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:26.868543443Z",
+  "model": "glm-5.3"
+}

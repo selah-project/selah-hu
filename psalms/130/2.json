@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 130,
+  "translation": "Adonáj, hallgasd meg a hangomat! Legyenek füled figyelmessel ⟨a⟩ könyörgésem hangjára.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hallgasd meg"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "a hangomat"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "Legyenek"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "füled"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "figyelmessel"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "⟨a⟩ hangjára"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "könyörgésem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:47.522287590Z",
+  "model": "glm-5.3"
+}

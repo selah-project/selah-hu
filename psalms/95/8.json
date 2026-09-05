@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 95,
+  "translation": "Ne keményítsétek a szíveteket, mint Merivá-nál, mint Masszá napján a pusztában.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "keményítsétek"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "a szíveteket"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "mint Merivá-nál"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "mint … napján"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Masszá"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:16.087023672Z",
+  "model": "glm-5.3"
+}

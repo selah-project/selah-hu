@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Akkor megnyílnak a vakok szemei, és a süketek fülei kinyílnak.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Akkor"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "megnyílnak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemei"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "a vakok"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "és fülei"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "a süketek"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "kinyílnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:28.006128457Z",
+  "model": "glm-5.3"
+}

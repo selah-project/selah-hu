@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Élek én — Adonáj Jahve szava —, ha nem a király helyén, aki királlyá tette ⟨את⟩ őt, akinek ⟨את⟩ esküjét megvetette, és ⟨את⟩ szövetségét megszegte, vele együtt Bábel (Babilon) közepében hal meg.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Élek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "szava"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyén"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "aki királlyá tett"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akinek"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "megvetette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esküjét"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "esküjét"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amelynek"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "megszegte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségét"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "szövetségét"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": " vele"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepében"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábel"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:05:52.141959274Z",
+  "model": "glm-5.3"
+}

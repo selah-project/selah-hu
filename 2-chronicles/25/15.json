@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És felgerjedt Jahve haragja Amacjahu ellen, és elküldött hozzá egy prófétát, és az ezt mondta neki: Miért kerested ⟨את⟩ annak a népnek az isteneit, amelyek nem szabadították meg ⟨את⟩ a népüket a te kezedből?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "felgerjedt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "Amacjahu ellen"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldött"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prófétát"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "kerested"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak a népnek az isteneit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…isteneit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "szabadították meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népüket"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "népüket"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "a te kezedből"
+    }
+  ],
+  "timestamp": "2026-09-04T23:20:39.413447263Z",
+  "model": "glm-5.3"
+}

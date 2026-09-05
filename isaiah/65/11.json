@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "És ti, akik elhagyjátok Jahvét, akik felejtitek ⟨את⟩ szent hegyemet, akik asztalt terítetek a Gádnak, és töltötök a Meninek vegyített bort —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "és ti"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "elhagyjátok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "akik felejtitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szent hegyemet"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyemet"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "szent"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "asztalt terítetek"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "a Gádnak"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "asztalt"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "és töltötök"
+    },
+    {
+      "surface": "למני",
+      "gloss": "a Meninek"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "vegyített bor"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:37.966142160Z",
+  "model": "glm-5.3"
+}

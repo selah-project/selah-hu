@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Mély vizek ⟨van⟩ a tanács az ember szívében, és az értelemben ⟨bíró⟩ ember kirázza azt.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "mély"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "a tanács"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "a szívében"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ו איש",
+      "gloss": "és ⟨az⟩ ember"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "értelemben"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "kirázza azt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:31.501748883Z",
+  "model": "glm-5.3"
+}

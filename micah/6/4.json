@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Mert felhoztalak Micrajim (Egyiptom) földjéről, és a szolgák házából megváltottalak, és elküldtem elődbe ⟨את⟩ Moshe-t (Mózest), Aharon-t (Áront) és Mirjámot (Máriát).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "felhoztalak"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "és a házból"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgák"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "megváltottalak"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "és elküldtem"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "elődbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe-t (Mózest)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe-t (Mózest)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon-t (Áront)"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "és Mirjámot (Máriát)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:29:12.445367699Z",
+  "model": "glm-5.3"
+}

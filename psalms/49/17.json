@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Ne félj, amikor meggazdagodik ⟨az⟩ ember, amikor megnövekszik házának dicsősége;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "félj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "meggazdagodik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨az⟩ ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "megnövekszik"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsősége"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "házának"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:59.609682027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Jahvétől ⟨את⟩ ez lett; ⟨ez⟩ csodálatos a szemünkben.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Jahvétől ⟨את⟩",
+      "marks": "ez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "csodálatos"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "a szemünkben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:08.838310248Z",
+  "model": "glm-5.3"
+}

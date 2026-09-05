@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És szólt Balak (Bálák) Bilamnak (Bálám): „Se átkozni ne átkozd ⟨את⟩ őket, se áldani ne áldd ⟨את⟩ őket!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamnak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "se"
+    },
+    {
+      "surface": "קב",
+      "gloss": "átkozni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "átkozd őket"
+    },
+    {
+      "surface": "גם",
+      "gloss": "se"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "áldani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "áldd őket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:41:05.950518685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És kivonult, és harcolt a pelistimiekkel, és lerontotta ⟨את⟩ Gát falát, és ⟨את⟩ Jabné falát, és ⟨את⟩ Asdód falát; és városokat épített Asdódban és a pelistimiek között.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kivonult"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "harcolt"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "a pelistimiekkel"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "lerontotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gát falát"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "falát"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jabné falát"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "falát"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Jabné"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Asdód falát"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "falát"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asdód"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "épített"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "városokat"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Asdódban"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "és a pelistimiek között"
+    }
+  ],
+  "timestamp": "2026-09-04T23:19:35.309115909Z",
+  "model": "glm-5.3"
+}

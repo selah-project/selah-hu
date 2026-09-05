@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "De nyújtsd ki mégis a kezedet, és sújd meg mindazt, ami az övé — bizony áld ⟨azaz: elkárol⟩ téged a te arcodra!",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "De"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nyújtsd ki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mégis"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a kezedet"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "és sújd meg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bizony ⟨ha⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨nem⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "arcodra"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "áld téged"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:21.571743474Z",
+  "model": "glm-5.3"
+}

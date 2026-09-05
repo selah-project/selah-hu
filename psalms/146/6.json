@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 146,
+  "translation": "aki készíti az eget és a földet, ⟨את⟩ a tengert és ⟨את⟩ mindent, ami azokban ⟨van⟩; ⟨az⟩ igazságot mindörökké őrző.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "készíti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az eget"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "és a földet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azokban"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "az őrző"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mindörökké"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:44.308875172Z",
+  "model": "glm-5.3"
+}

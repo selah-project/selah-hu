@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ágyamban az éjszakákon kerestem ⟨את⟩ azt, akit szeret a lelkem; kerestem őt, de nem találtam meg.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ágyamban"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "az éjszakákon"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "kerestem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, akit szeret a lelkem"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "akit szeret"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "kerestem őt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "találtam meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:30:02.599697546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Vajjon szánt-e a szántóvető egész nap, hogy vessen? Megnyitja-é és egyenetleníti-e földje forgácsát szüntelen?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Vajjon szüntelen(-e)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "egész nap"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "szánt"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "a szántóvető"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "hogy vessen"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Megnyitja-é"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "és egyenetleníti"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "földje forgácsát"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:11.442944587Z",
+  "model": "glm-5.3"
+}

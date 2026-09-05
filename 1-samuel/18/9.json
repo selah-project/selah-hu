@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És történt: Shaúl (Saul) szemet vetett ⟨את⟩ Dávidra (Dávid) attól a naptól fogva és ezutánra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "עון",
+      "gloss": "szemet vetett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidra"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "attól a naptól"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "fogva"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "és ezutánra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:49.368543471Z",
+  "model": "glm-5.3"
+}

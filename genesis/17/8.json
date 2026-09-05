@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És adok neked és utódodnak utánad ⟨את⟩ a vándorlásod földjét, ⟨את⟩ egész Kenaan (Kánaán) földjét, örök birtokul, és Elohimjuk leszek nekik.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "És adok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "és utódodnak"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "utánad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "földet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "vándorlásodnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Kenaan földjét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "birtokul"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örök"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "és leszek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimjuk"
+    }
+  ],
+  "timestamp": "2026-09-04T16:28:06.954102860Z",
+  "model": "glm-5.3"
+}

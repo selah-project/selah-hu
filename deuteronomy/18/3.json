@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És ez lesz a papok jussa ⟨את⟩ a néptől, ⟨את⟩ az áldozatvivőktől: akár ökröt, akár juhot áldoznak — adják a papnak a lapockát, az állkapocs-két oldalát és a gyomrot.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "És ez"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "joga"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-től",
+      "marks": "a néptől"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-től",
+      "marks": "az áldozatvivőktől"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "az áldozatvivők"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "az áldozatot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "akár"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökröt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "akár"
+    },
+    {
+      "surface": "שה",
+      "gloss": "juhot"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "adják"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papnak"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "a lapockát"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "és az állkapcsokat"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "és a gyomrot"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:58.427755156Z",
+  "model": "glm-5.3"
+}

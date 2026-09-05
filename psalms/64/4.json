@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "Akik nyelvüket kardként élesítették, kiművelték a nyilukat — keserű szót.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Akik"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "élesítették"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "kardként"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "a nyelvüket"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "kiművelték"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "a nyilukat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szót"
+    },
+    {
+      "surface": "מר",
+      "gloss": "keserű"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:59.832176284Z",
+  "model": "glm-5.3"
+}

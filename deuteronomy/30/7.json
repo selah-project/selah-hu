@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És rárakja Jahve, a te Elohimod, ⟨את⟩ mind ezen átkokat ellenségeidre és gyűlölőidre, akik üldöztek téged.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "rárakja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind ezen átkokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "ez átkokat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "על",
+      "gloss": "‑ra"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeid"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ‑ra"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "gyűlölőid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "üldöztek téged"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:47.962481984Z",
+  "model": "glm-5.3"
+}

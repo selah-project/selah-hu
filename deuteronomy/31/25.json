@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És megparancsolta Moshe (Mózes) ⟨את⟩ a levitáknak, a Jahve szövetségládájának hordozóinak, mondván:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a levitáknak"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a levitáknak"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "hordozóinak"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládája"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetség-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:21.825235409Z",
+  "model": "glm-5.3"
+}

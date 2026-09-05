@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 126,
+  "translation": "Fordítsd vissza, Jahve, ⟨את⟩ fogságunkat, mint a patakok a déli pusztán!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Fordítsd vissza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fogságunkat"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "fogságunkat"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "mint a patakok"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "a déli pusztán"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:08.892294495Z",
+  "model": "glm-5.3"
+}

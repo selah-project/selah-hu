@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Íme, messzire vándorolnék, a sivatagban szállnék meg. Szela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "messzire"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "vándorolnék"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "megszállnék"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a sivatagban"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:40.278717674Z",
+  "model": "glm-5.3"
+}

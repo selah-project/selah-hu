@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Zsírjukba zárkóztak be, szájuk gőgösen szólt.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "zsírjukba"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "zárkóztak be"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "szájuk"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "gőgösen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:09.042020508Z",
+  "model": "glm-5.3"
+}

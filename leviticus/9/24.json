@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És tűz jött ki Jahve színe elől, és elfogyasztotta ⟨את⟩ az égőáldozatot és ⟨את⟩ a zsírokat a oltáron; és látta az egész nép, és ujjongtak, és arcukra estek.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "és kijött"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "a színe elől"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és elfogyasztotta"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a zsírokat"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "a zsírokat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "és ujjongtak"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "és estek"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "arcuk"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:29.506406360Z",
+  "model": "glm-5.3"
+}

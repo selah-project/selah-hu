@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És küldök rájuk ⟨את⟩ a kardot, ⟨את⟩ az éhínséget és ⟨את⟩ a döghalált, míg el nem fogyatkoznak arról a földről, amelyet adtam nekik és atyáiknak.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "és küldök"
+    },
+    {
+      "surface": "בם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kardot"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "a kardot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az éhínséget"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "az éhínséget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a döghalált"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a döghalált"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "el nem fogyatkoznak"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "arról"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "és atyáiknak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:40:37.958571768Z",
+  "model": "glm-5.3"
+}

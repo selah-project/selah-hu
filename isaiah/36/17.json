@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "amíg meg nem jövök, és el nem viszlek ⟨את⟩ titeket egy földre, a ti földetekhez hasonlóra — gabonának és mustnak földjére, kenyérnek és szőlőknek földjére.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "באי",
+      "gloss": "meg nem jövök"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "és el nem viszlek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "egy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földre"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "a ti földetekhez hasonlóra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gabonának"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "és mustnak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyérnek"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "és szőlőknek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:32.478806643Z",
+  "model": "glm-5.3"
+}

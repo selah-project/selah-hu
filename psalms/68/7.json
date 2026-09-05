@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Elohim egylakókat ad otthonba, kivezeti a foglyokat ⟨a⟩ boldogságba — de a lázadók kiégett földön laknak.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "otthonba ad"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "egylakókat"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "otthonba"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "kivezeti"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "a foglyokat"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "boldogságba"
+    },
+    {
+      "surface": "אך",
+      "gloss": "de"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "a lázadók"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "laknak"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "kiégett földön"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:58.038014966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 1:13",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És adtam ⟨את⟩ szívemet, hogy kutassak és fürkésszek bölcsességben mindent, ami meglett az ég alatt: ez rossz foglalatosság, amelyet Elohim adott az ember fiai kezébe, hogy gyötrődjenek benne.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "És adtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szívemet"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemet"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hogy kutassak"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "és fürkésszek"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "bölcsességben"
+    },
+    {
+      "surface": "על",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "[amit]"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "meglett"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "foglalatosság"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiai kezébe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "hogy gyötrődjenek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:30.340858124Z",
+  "model": "glm-5.3"
+}

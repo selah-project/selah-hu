@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "és Izébelről is szólt Jahve, mondván: a kutyák megeszik ⟨את⟩ Izébelt Jizreel (Jezréel) bástyájánál.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "és ... is"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izébelről"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "a kutyák"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "megeszik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izébelt"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izébelt"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "bástyájánál"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:47.248996694Z",
+  "model": "glm-5.3"
+}

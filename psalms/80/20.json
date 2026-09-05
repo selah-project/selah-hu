@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Jahve, Elohim Cevaót, téríts vissza minket! Ragyogtasd orcádat, és megszabadulunk!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "téríts vissza minket"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ragyogtasd"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "és megszabadulunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:41.820711655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És mondta: Bocsáss el engem, mert felkelt a hajnal. De ⟨ő⟩ mondta: Nem bocsátlak el, ha meg nem áldasz engem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "bocsáss el engem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "felkelt"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "a hajnal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "bocsátlak el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha nem"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "megáldasz engem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:56.566233684Z",
+  "model": "glm-5.3"
+}

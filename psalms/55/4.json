@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Az ellenség hangjától, a gonoszak szorongatása elől, mert hamisságot szórnak rám, és haragjukban üldöznek engem.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "hangjától"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "szorongatása"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosznak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "szórnak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "און",
+      "gloss": "hamisságot"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "és haragjukban"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "üldöznek engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:24.004050388Z",
+  "model": "glm-5.3"
+}

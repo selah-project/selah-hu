@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Hát nem te vagy az, aki kiszárította a tengert, a nagy mélység vizeit, aki a tenger mélységéből utat tett a megváltottaknak, hogy átvonuljanak?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Hát nem"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "te"
+    },
+    {
+      "surface": "היא",
+      "gloss": "te vagy az"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "aki kiszárította"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tengert"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizeit"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "a mélység"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "aki utat tett"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "a mélységéből"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "utat"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "hogy átvonuljanak"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "a megváltottaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:41.749822287Z",
+  "model": "fable-5-hand"
+}

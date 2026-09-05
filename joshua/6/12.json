@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És korán reggel felkelt Jehosúa, és a papok felemelték ⟨את⟩ Jahve ládáját.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "korán reggel felkelt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosúa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "és felemelték"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T18:38:28.624294286Z",
+  "model": "glm-5.3"
+}

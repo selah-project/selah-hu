@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És én megkeményítem ⟨את⟩ Paró szívét, és üldözőbe veszi őket; és megdicsőülök Paróban és egész seregében, és megtudják az egyiptomiak, hogy én vagyok Jahve. És így tettek.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "És én megkeményítem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paró szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "és üldözőbe veszi"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "és megdicsőülök"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paróban"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "seregében"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "és megtudják"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "az egyiptomiak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "És így tettek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ezt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:27.269850387Z",
+  "model": "glm-5.3"
+}

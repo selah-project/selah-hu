@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Shemuél pedig még nem ismerte ⟨את⟩ Jahvét, és még nem lett megnyilatkozva felé ⟨a⟩ Jahve szava.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuél pedig"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "még nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismerte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "és még nem"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "lett megnyilatkozva"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "felé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:44.768842503Z",
+  "model": "glm-5.3"
+}

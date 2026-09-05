@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Nyomorog, aki csalárd tenyeret munkál, de a szorgalmasok keze meggazdagít.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Nyomorog"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "munkál"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tenyeret"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "csalárd"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "de keze"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "szorgalmasak"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "meggazdagít"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:13.111090662Z",
+  "model": "glm-5.3"
+}

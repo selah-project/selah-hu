@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És a nép nem tért vissza ⟨ahhoz⟩, aki ⟨azt⟩ verte, és ⟨את⟩ Jahve Cevaót nem keresték.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "És a nép"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tért vissza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨ahhoz⟩"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "aki ⟨azt⟩ verte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jahve Cevaót"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "keresték"
+    }
+  ],
+  "timestamp": "2026-09-04T20:10:23.008997605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Felszállt füst orrlyukában, és tűz szájából emésztett; parazsak gyulladtak meg tőle.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Felszállt"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "füst"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "orrlyukában"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "és tűz"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "szájából"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "emésztett"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "parazsak"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "gyulladtak meg"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:19.615571574Z",
+  "model": "glm-5.3"
+}

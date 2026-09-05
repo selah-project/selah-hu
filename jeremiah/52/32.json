@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "És szólt ⟨את⟩ vele jókat, és felállította ⟨את⟩ az ő trónját a királyok trónjai fölé, akik ⟨את⟩ vele Bábelben vannak.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "vele (Jehójakinnal)"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "jókat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és felállította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő trónját"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "az ő trónját"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "a trónjának"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "a királyoknak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "vele (Bábelben)"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Bábelben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:42:20.225012007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Ti pedig halljátok Jahve szavát, egész fogsága mindazoknak, akiket elküldtem Jerusálajimból Bábelbe.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ti pedig"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "halljátok"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "fogsága"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "elküldtem"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusálajimból"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bábelbe"
+    }
+  ],
+  "timestamp": "2026-09-04T20:44:17.715362374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Hogyan hordozhatom én magam egyedül a terheteket és a teheteiteket és a vitáitokat?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Hogyan"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hordozhatok"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "én magam egyedül"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "a terheteket"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "és a teheteiteket"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "és a vitáitokat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:48:42.496577711Z",
+  "model": "glm-5.3"
+}

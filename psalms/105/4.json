@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Keressétek Jahvét és ⟨az⟩ ő erejét, keressétek ⟨az⟩ ő orcáját szüntelen!",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Keressétek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "és ⟨az⟩ ő erejét"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "keressétek"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨az⟩ ő orcáját"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:03.653448416Z",
+  "model": "glm-5.3"
+}

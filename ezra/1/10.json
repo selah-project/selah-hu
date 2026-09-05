@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Keforok aranyból harminc, keforok ezüstből másodrendűek négyszáz és tíz, más edények ezer.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "Keforok"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyból"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "keforok"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüstből"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "másodrendűek"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "és tíz"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "edények"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    }
+  ],
+  "timestamp": "2026-09-04T22:47:21.989448524Z",
+  "model": "glm-5.3"
+}

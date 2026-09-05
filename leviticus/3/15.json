@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ⟨את⟩ a két vesét, és ⟨את⟩ a zsírt, amely rajtuk van, amely a csípőknél van, és ⟨את⟩ a máj fölötti cimpát — a vesék mellett távolítja el.",
+  "tokens": [
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "és ⟨את⟩",
+      "marks": "a két vesét"
+    },
+    {
+      "surface": "שְׁתֵּ֣י",
+      "gloss": "két"
+    },
+    {
+      "surface": "הַכְּלָיֹ֔ת",
+      "gloss": "vesét"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "הַחֵ֨לֶב֙",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עֲלֵהֶ֔ן",
+      "gloss": "rajtuk"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…nál"
+    },
+    {
+      "surface": "הַכְּסָלִ֑ים",
+      "gloss": "a csípőknél"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a máj cimpáját"
+    },
+    {
+      "surface": "הַיֹּתֶ֨רֶת֙",
+      "gloss": "a máj fölötti cimpát"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…on"
+    },
+    {
+      "surface": "הַכָּבֵ֔ד",
+      "gloss": "a májon"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…mellett"
+    },
+    {
+      "surface": "הַכְּלָיֹ֖ת",
+      "gloss": "a vesék"
+    },
+    {
+      "surface": "יְסִירֶֽנָּה",
+      "gloss": "távolítja el"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:24.380386846Z",
+  "model": "glm-5.3"
+}

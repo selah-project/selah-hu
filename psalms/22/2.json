@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Énem, Énem (istenem), miért hagytál el, távol ⟨van⟩ az én segítségemtől ⟨az⟩ én üvöltésem szava?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Énem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Énem"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "hagytál el"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "távol"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "az én segítségemtől"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szava"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "én üvöltésem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:15.228157726Z",
+  "model": "glm-5.3"
+}

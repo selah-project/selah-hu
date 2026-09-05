@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Maradj ⟨את⟩ velem, ne félj, mert aki keresi ⟨את⟩ az életemet, keresi ⟨את⟩ az életedet, mert őrizetben vagy nálam.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Maradj"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "félj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "keresi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az életemet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "életemet"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "keresi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az életedet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "életedet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "őrizetben"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nálam"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:46.857610967Z",
+  "model": "glm-5.3"
+}

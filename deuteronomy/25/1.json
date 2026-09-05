@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Ha ⟨van⟩ vita emberek között, és ⟨ők⟩ a bíráskodás elé járulnak, és megítélik ⟨őket⟩, akkor adjanak igazat ⟨את⟩ az igaznak, és tegyenek bűnössé ⟨את⟩ a bűnöst.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨van⟩"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "vita"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "emberek"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "és járulnak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elé"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "a bíráskodás"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "és megítélik"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "adjanak igazat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az igaznak"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "az igaznak"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "és tegyenek bűnössé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bűnöst"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "a bűnöst"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:12.424601732Z",
+  "model": "glm-5.3"
+}

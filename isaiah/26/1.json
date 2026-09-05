@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Ama napon éneklik ezt az éneket Jehúda földjén: Erős város ⟨van⟩ nekünk; szabadulást tesz falakká és sáncokká.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ama napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "éneklik"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "az éneket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erős"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "szabadulást"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "tesz"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "falakká"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "és sáncokká"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:05.945386480Z",
+  "model": "glm-5.3"
+}

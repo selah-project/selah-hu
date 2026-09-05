@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Ne öld le kovászszal áldozatom vérét, és ne maradjon reggelig a Pészach-ünnep áldozata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "öld le"
+    },
+    {
+      "surface": "על",
+      "gloss": "vele"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kovász"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vér"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "áldozatom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "maradjon"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "reggelig"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozata"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ünnepének"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "a Pészach"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:22.247844275Z",
+  "model": "glm-5.3"
+}

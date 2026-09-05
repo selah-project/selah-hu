@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És cselekszem benned ⟨את⟩ azt, amit nem cselekedtem, és ⟨את⟩ amit nem cselekeszem hasonlót többé, minthogy minden útálatosságod miatt.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "és cselekszem"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit nem cselekedtem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "amit nem cselekeszem hasonlót"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "cselekeszem"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "hasonlót"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "יען",
+      "gloss": "minthogy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "útálatosságod"
+    }
+  ],
+  "timestamp": "2026-09-04T20:58:42.122082872Z",
+  "model": "glm-5.3"
+}

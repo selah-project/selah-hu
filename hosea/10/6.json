@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Azt is ⟨את⟩ elviszik Assurba, ajándékul Jarév királynak; Efrajimet szégyen fogja el, és Izrael megszégyenül a maga tanácsától.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Azt"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "Assurba"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "elviszik"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ajándékul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "királynak"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarév"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "szégyen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimet"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "fogja el"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "és megszégyenül"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "a maga tanácsától"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:40.036779412Z",
+  "model": "glm-5.3"
+}

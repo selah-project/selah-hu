@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Én pedig — majdnem eltérült a lábam, léptei ⟨majdnem⟩ kicsúsztak.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én pedig"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "majdnem"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "elterült"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "a lábam"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "⟨majdnem⟩"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "kicsúsztak"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "léptei…"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:40.828927792Z",
+  "model": "glm-5.3"
+}

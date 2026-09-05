@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mindaz az ember, aki ellentmond ⟨את⟩ a te szádnak, és nem hallgat ⟨את⟩ a te szavaidra — mindenben, amit parancsolsz neki, halállal lakoljon; csak légy erős és bátor!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mindaz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "ellentmond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te szádnak"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a te szádnak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hallgat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te szavaidra"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "a te szavaidra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindenben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "parancsolsz neki"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "halállal lakoljon"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "légy erős"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "és bátor"
+    }
+  ],
+  "timestamp": "2026-09-04T18:34:09.991213475Z",
+  "model": "glm-5.3"
+}

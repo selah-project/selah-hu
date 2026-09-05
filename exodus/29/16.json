@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És vágd le ⟨את⟩ a kost, és vedd ⟨את⟩ a vérét, és hintsd az oltárra köröskörül.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "és vágd le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kost"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a kost"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "és vedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vérét"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "a vérét"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "és hintsd"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:05.467826703Z",
+  "model": "glm-5.3"
+}

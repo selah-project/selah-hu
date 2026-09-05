@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ⟨volt⟩ lakóhelyük Mesától, ⟨amikor⟩ eljön ⟨az ember⟩ Szefár hegységéig, a kelet hegyéig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És ⟨volt⟩"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "lakóhelyük"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "Mesától"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "eljön ⟨az ember⟩"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Szefárig"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegy"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "a kelet ⟨hegye⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:49.031405763Z",
+  "model": "glm-5.3"
+}

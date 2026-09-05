@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És követeket küldött Ahávhoz (Acháb), Izráel királyához, a városba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És küldött"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "követeket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahávhoz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyához"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelnek"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "a városba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:28.342706442Z",
+  "model": "glm-5.3"
+}

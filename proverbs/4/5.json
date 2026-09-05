@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Szerezd ⟨meg⟩ a hokmát, szerezd ⟨meg⟩ a binát; el ne felejtsd, és el ne hajolj az én számnak igéitől.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "szerezd"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "a hokmát"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "szerezd"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "a binát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "felejtsd"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "hajolj el"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "— az én … igéitől"
+    },
+    {
+      "surface": "פי",
+      "gloss": "számának"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:28.742115044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Halljátok, szigetek, engem, és figyeljetek, népek, messziről! Jahve a méhből hívott engem, anyám méhéből említette meg nevemet.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok"
+    },
+    {
+      "surface": "איים",
+      "gloss": "szigetek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "engem"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "és figyeljetek"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "messziről"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "a méhből"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "hívott engem"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "méhéből"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anyámnak"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "említette meg"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nevemet",
+      "marks": "nevemet"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.231936501Z",
+  "model": "glm-5.3"
+}

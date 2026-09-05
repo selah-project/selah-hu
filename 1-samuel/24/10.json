@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És mondta Dávid Saulnak: Miért hallgatod ⟨את⟩ az emberek szavait, mondván: Íme, Dávid a te rosszadat keresi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulnak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hallgatod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az emberek szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "keresi"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "a te rosszadat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:16:47.348437545Z",
+  "model": "glm-5.3"
+}

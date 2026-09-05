@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "A Jiszráél (Izrael) fiai elsőszülöttjeitől ⟨את⟩tól vette ⟨את⟩ a pénzt: öt és hatvan és három száz és ezer, a szent sékelben.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩tól"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "elsőszülöttjeitől"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a pénzt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "a pénzt"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "öt"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "és hatvan"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "és három"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "és ezer"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sékelben"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:07.686233121Z",
+  "model": "glm-5.3"
+}

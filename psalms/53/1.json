@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "A karmesternek, Mahalath szerint, oktató ének, Dávidtól (l\/Dávid).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalath"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "oktató ének"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:06.677060672Z",
+  "model": "glm-5.3"
+}

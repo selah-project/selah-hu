@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Elpusztítod a hazugság beszélőit; a véres és csaló embert útálja Jahve.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Elpusztítod"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "a beszélőit"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "a hazugságnak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "véres"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "és csaló"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "útálja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:34.300951423Z",
+  "model": "glm-5.3"
+}

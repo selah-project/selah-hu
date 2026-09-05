@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És mondta Esav: „Íme, én halálba ⟨megyek⟩, és mi ⟨haszna⟩ ez nekem, ⟨a⟩ elsőszülöttség?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "⟨megyek⟩"
+    },
+    {
+      "surface": "למות",
+      "gloss": "halálba"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "és miért"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "elsőszülöttség"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:43.082556211Z",
+  "model": "glm-5.3"
+}

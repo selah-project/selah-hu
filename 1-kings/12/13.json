@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És felelt a király a népnek keményen, és elhagyta ⟨את⟩ a vének tanácsát, amelyet tanácsoltak neki.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népnek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "keményen"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "és elhagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vének tanácsát"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "tanácsát"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "a vének"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "tanácsoltak neki"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:20.145681009Z",
+  "model": "glm-5.3"
+}

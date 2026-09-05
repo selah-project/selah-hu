@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Rendelkezéseidben gyönyörködöm, nem felejtem el a te szavadat.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "rendelkezéseidben"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "gyönyörködöm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "felejtem el"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "a te szavadat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:03.308947295Z",
+  "model": "glm-5.3"
+}

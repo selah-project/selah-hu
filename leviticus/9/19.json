@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ a zsírokat a tulkból és a kosból: a farkat, a béltakarót, a veséket és a máj csücskét.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a zsírokat"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "a zsírokat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "השור",
+      "gloss": "a tulk"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és -ból"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a kosból"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "a farkat"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "a béltakarót"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "a veséket"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "a csücskét"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "a máj"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:20.588227639Z",
+  "model": "glm-5.3"
+}

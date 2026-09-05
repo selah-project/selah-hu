@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Láttam ⟨את⟩ minden cselekedetet, ami megcselekedtetett a nap alatt, és ímé: az egész üresség és a szél gyötrelme.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden cselekedetet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "cselekedetet"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ami megcselekedtetett"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és ímé"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "üresség"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "és a szél gyötrelme"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:30.341180398Z",
+  "model": "glm-5.3"
+}

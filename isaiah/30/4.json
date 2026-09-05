@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "mert Coánban voltak fejei, és követei elérkeztek Chanészig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Coánban"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "fejei"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "és követei"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Chanész"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "elérkeztek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:18:00.009744040Z",
+  "model": "glm-5.3"
+}

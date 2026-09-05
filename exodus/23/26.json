@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Nem lesz magzatvesztő és meddő a földeden; ⟨את⟩ napjaid számát betöltöm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "magzatvesztő"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "és meddő"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "a földeden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "napjaid számát"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "számát"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "napjaid"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "betöltöm"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:40.346826104Z",
+  "model": "glm-5.3"
+}

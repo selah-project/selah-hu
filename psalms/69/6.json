@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Elohim, te ismered a balgaságomat, és vétkeim előled nem rejtőztek el.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ismered"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "a balgaságomat"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "és vétkeim"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "előled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "rejtőztek el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:15.909114031Z",
+  "model": "glm-5.3"
+}

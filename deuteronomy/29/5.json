@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Kenyeret nem ettetek, bort és részegítő italt nem ittatok — azért, hogy tudjátok: én ⟨vagyok⟩ Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ettetek"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "bort"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "és részegítő italt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "ittatok"
+    },
+    {
+      "surface": "למען",
+      "gloss": "azért, hogy"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "tudjátok"
+    },
+    {
+      "surface": "כי",
+      "gloss": ": (hogy)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:43.373609366Z",
+  "model": "glm-5.3"
+}

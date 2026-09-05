@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Fülük van, de nem hallanak; orruk van, de nem szagolnak.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "fülük"
+    },
+    {
+      "surface": "להם",
+      "gloss": "van"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hallanak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "orruk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "van"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "szagolnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:19.451546083Z",
+  "model": "glm-5.3"
+}

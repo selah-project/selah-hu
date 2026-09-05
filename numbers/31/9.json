@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És foglyul vitték Izrael fiai ⟨את⟩ Midján asszonyait és ⟨את⟩ kisgyermekeiket, és ⟨את⟩ minden állatukat, és ⟨את⟩ minden jószágukat, és ⟨את⟩ minden vagyonukat kifosztották.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "foglyul vitték"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midján asszonyait"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "asszonyait"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midján"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "kisgyermekeiket"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "kisgyermekeiket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden állatukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "állatukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden jószágukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "jószágukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden vagyonukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "vagyonukat"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "kifosztották"
+    }
+  ],
+  "timestamp": "2026-09-04T17:46:02.815861037Z",
+  "model": "glm-5.3"
+}

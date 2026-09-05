@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És megbánta Jahve, hogy megalkotta ⟨את⟩ az embert a földön, és bánkódott szívében.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "és megbánta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "megalkotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "és bánkódott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szívében"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:16.075154422Z",
+  "model": "glm-5.3"
+}

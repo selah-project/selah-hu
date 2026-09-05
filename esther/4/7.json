@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És elmondta neki Mordecháj ⟨את⟩ mindazt, ami érte történt, és ⟨את⟩ az ezüst pontos összegét, amelyet Háman mondott, hogy a király kincstáraira mérjen a jehudim miatt, hogy elpusztítsa őket.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "És-elmondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecháj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "érte-történt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és-⟨את⟩",
+      "marks": "az-ezüst-összegét"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "pontos-összegét"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "az-ezüstnek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondott"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Háman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "hogy-mérjen"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "kincstáraira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a-király"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "a-jehudim-miatt"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "hogy-elpusztítsa-őket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:27.293777999Z",
+  "model": "glm-5.3"
+}

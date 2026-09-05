@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Nem használnak a hamisság kincsei, de a cedaká a haláltól megment.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "használnak"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "kincsei"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hamisság"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "de a cedaká"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "megment"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "a haláltól"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:23.622936796Z",
+  "model": "glm-5.3"
+}

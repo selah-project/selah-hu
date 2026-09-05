@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Van egy rossz, amit láttam a nap alatt: mint a tévedés, ami ⟨a⟩ uralkodó színe előől kerül ki.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "egy rossz"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "amit láttam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "mint a tévedés"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "ami kijő"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "a színe előől"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "az uralkodó"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:36.739197050Z",
+  "model": "glm-5.3"
+}

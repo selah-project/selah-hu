@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ugyanígy készített a Hékál bejáratahoz olajfa ajtófélfákat — ⟨את⟩ a negyedik részből.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "És ugyanígy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "a bejáratahoz"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "a Hékál"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ajtófélfákat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "olajfa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "(olaj-)fáé"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "a negyedik rész"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "a negyedik rész"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:18.525743469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És lovakon vitték őt ⟨את⟩, és eltemették őt atyáival együtt Jehúda városában.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "És vitték őt"
+    },
+    {
+      "surface": "על",
+      "gloss": "lovakon"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "⟨a lovak⟩"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyáival"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "városában"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    }
+  ],
+  "timestamp": "2026-09-04T23:19:04.124009518Z",
+  "model": "glm-5.3"
+}

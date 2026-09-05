@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És úgy tett Dávid, ahogyan parancsolta neki Jahve, és leverte ⟨את⟩ a pelistieket Gévától egészen bejöttéig Gézerbe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És úgy tett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "parancsolta neki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és leverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a pelistieket"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelistieket"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Gévától"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "באך",
+      "gloss": "bejöttéig"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gézerbe"
+    }
+  ],
+  "timestamp": "2026-09-04T19:22:29.043007369Z",
+  "model": "glm-5.3"
+}

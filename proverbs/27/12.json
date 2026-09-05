@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Az eszes látja a bajt, és elrejtőzik; a balgák továbbmennek, és megbüntettetnek.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "eszes"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látja"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bajt"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "elrejtőzik"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "balgák"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "továbbmennek"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "megbüntettetnek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:22.894100831Z",
+  "model": "glm-5.3"
+}

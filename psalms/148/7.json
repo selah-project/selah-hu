@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "Dicsérjétek ⟨את⟩ Jahvét a földről, tanninok és minden mélységek:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanninok"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "mélységek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:02.165142804Z",
+  "model": "glm-5.3"
+}

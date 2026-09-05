@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Te, Jahve, ne zárd el irgalmaidat előlem; heszed-ed és igazságod szüntelen őrizzenek engem.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "zárd el"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "irgalmaidat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "előlem"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszed-ed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "és igazságod"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "őrizzenek engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:06.088552746Z",
+  "model": "glm-5.3"
+}

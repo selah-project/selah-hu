@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Mindenki szemei feléd várnak, és te megadod nékik ⟨את⟩ eledelüket annak idejében.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "szemei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "feléd"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "várnak"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "és te"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "megadod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nékik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eledelüket"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "eledelüket"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "annak idejében"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:04.666318964Z",
+  "model": "glm-5.3"
+}

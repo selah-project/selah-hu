@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És Szusán várában megölték és elpusztították a jehudák ötszáz embert.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "és Szusánban"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "várában"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "megölték"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "a jehudák"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "és elpusztították"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:30.643011250Z",
+  "model": "glm-5.3"
+}

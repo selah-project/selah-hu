@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És állt, és megáldotta ⟨את⟩ Izrael egész gyülekezetét nagy hangon, mondván:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "És állt"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael egész gyülekezetét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezetét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hang(on)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:57.693382096Z",
+  "model": "glm-5.3"
+}

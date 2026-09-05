@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És amikor a szüzek másodszor egybegyűltek, Mordechai (Márdokeus) akkor a király kapujában ült.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "és amikor…egybegyűltek"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "a szüzek"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "másodszor"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "és Mordechai (Márdokeus)"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ült"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a…kapujában"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:40.881069062Z",
+  "model": "glm-5.3"
+}

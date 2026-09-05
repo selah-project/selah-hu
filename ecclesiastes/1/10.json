@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Van ⟨dolog⟩, amiről mondják: „Lásd, ez új ⟨ez⟩? — már régen volt, örök időktől fogva, ami előttünk volt.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨dolog⟩"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "amiről mondják"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lásd"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "már régen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "örök időktől fogva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "előttünk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:52.861440360Z",
+  "model": "glm-5.3"
+}

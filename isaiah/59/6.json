@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Szövedékeikből nem lesz ruha, és nem takarják be magukat cselekedeteikkel; cselekedeteik a hamisság cselekedetei, és erőszaknak munkája van tenyereikben.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "szövedékeik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesznek"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "ruhává"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "takarják be magukat"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "cselekedeteikkel"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "cselekedeteik"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "cselekedetei"
+    },
+    {
+      "surface": "און",
+      "gloss": "a hamisságnak"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "és munkája"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszaknak"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "tenyereikben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:29:25.490049828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Hét napon át végezz engesztelést az oltáron, és szenteled meg ⟨את⟩ azt; és lesz az oltár szentségek szentsége: mindaz, ami az oltárhoz ér, megszenteltetéssé lesz.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "végezz engesztelést"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "és szenteled meg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (az oltárt)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentség"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentsége"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindaz"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ami ér"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "az oltárhoz"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "megszenteltetéssé lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:17.294684361Z",
+  "model": "glm-5.3"
+}

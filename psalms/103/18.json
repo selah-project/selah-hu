@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "azoknak, akik megtartják szövetségét, és emlékeznek parancsolataira, hogy megtegyék ⟨azokat⟩;",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "azoknak, akik megtartják"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "szövetségét"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "és emlékeznek"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "parancsolataira"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "hogy megtegyék ⟨azokat⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:52.505973266Z",
+  "model": "glm-5.3"
+}

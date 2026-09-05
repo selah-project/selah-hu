@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Mert Attaljáhu, a gonosz asszony, az ő fiai áttörték ⟨את⟩ az Elohim házát, és Jahve házának minden szent tárgyát a Baaloknak készítették.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Attaljáhu"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "a gonosz asszony"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "az ő fiai"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "áttörték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és még"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "szent tárgyát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "készítették"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "a Baaloknak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:19:04.815000905Z",
+  "model": "glm-5.3"
+}

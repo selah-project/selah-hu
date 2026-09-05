@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És ítélkezett ⟨את⟩ Izráél fölött a filiszteusok napjaiban húsz esztendeig.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "És ítélkezett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "napjaiban"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filiszteusok"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendeig"
+    }
+  ],
+  "timestamp": "2026-09-05T00:12:48.499518706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "és az ő serege és a megszámláltjai: három és ötven ezer és négy száz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "és az ő serege"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "és a megszámláltjai"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "és ötven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "és négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:09.293302404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Ítélj meg igazságod szerint, Jahve, Elohim! És ne örüljenek nekem!",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ítélj meg"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "igazságod szerint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "És ne"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "örüljenek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:16.374136697Z",
+  "model": "glm-5.3"
+}

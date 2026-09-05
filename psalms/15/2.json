@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Aki tökéletesen jár, és igazságot cselekszik, és igazat szól a szívében.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "jár"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tökéletesen"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "és cselekszik"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "és szól"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "igazat"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "a szívében"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:29.541682768Z",
+  "model": "glm-5.3"
+}

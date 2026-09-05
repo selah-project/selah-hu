@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És mondták David férfiai hozzá: Íme, mi itt Jehudában félünk, és még inkább, ha megyünk Keilába, a Pelistim csatasoraiba.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…férfiai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehudában"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "félünk"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "és még"
+    },
+    {
+      "surface": "כי",
+      "gloss": "inkább, ha"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "megyünk"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Keilába"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ba"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "csatasoraiba"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Pelistim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:16:13.558160495Z",
+  "model": "glm-5.3"
+}

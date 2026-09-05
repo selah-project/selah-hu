@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Tűnjenek el a bűnösök a földről, és a gonoszok ne legyenek többé. Áldd, lelkem, ⟨את⟩ Jahvét! Hallelu-Jah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "Tűnjenek el"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "a bűnösök"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "és a gonoszok"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ne legyenek"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Áldd"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:37.809704455Z",
+  "model": "glm-5.3"
+}

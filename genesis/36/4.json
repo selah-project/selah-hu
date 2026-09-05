@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És Ádá Ézsauénak (Ézsau) szülte ⟨את⟩ Elifázt, és Bosmát megszülte ⟨את⟩ Reuélt.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "És szülte"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ádá"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Ézsauénak (Ézsau)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifázt"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifáz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "és Bosmát"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "megszülte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuél"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuél"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:59.791412013Z",
+  "model": "glm-5.3"
+}

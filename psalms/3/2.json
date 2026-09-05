@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Jahve, mennyivel megsokasodtak szorongatóim! Sokan kelnek fel ellenem!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mennyivel"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "megsokasodtak"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "szorongatóim"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sokan"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "kelnek fel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:43.013792627Z",
+  "model": "glm-5.3"
+}

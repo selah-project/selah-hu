@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Én pedig megkeményítem ⟨את⟩ Paró szívét, és megsokasítom ⟨את⟩ jeleimet és ⟨את⟩ csodáimat Micrajim földjén.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én pedig"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "megkeményítem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paró szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "és megsokasítom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeleimet"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "jeleimet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "csodáimat"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "csodáimat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:49.030342581Z",
+  "model": "glm-5.3"
+}

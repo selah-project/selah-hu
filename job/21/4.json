@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Vajon ⟨vajon⟩ emberhez szól-e az én panaszom, és ha úgy ⟨van⟩, miért ne volna rövid a lelkem?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "⟨vajon⟩ ⟨én⟩"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "emberhez"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "az én panaszom"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miért"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "volna rövid"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "a lelkem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:23:01.718165629Z",
+  "model": "glm-5.3"
+}

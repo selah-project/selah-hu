@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 8:6",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megáldotta Ezrá ⟨את⟩ Jahvét, a nagy Elohimot; és felelt az egész nép: „Ámén, Ámén!” kezük felemelésével; és meghajoltak, és leborultak Jahve előtt, arccal a földig.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "És megáldotta"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezrá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohimot"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "a nagy"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "és felelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámén"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámén"
+    },
+    {
+      "surface": "במעל",
+      "gloss": "felemelésével"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kezük"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "és meghajoltak"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "és leborultak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve ⟨előtt⟩"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "arccal"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földig"
+    }
+  ],
+  "timestamp": "2026-09-04T22:56:15.620640568Z",
+  "model": "fable-5-hand"
+}

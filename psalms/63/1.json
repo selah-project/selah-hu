@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 63,
+  "translation": "Zsoltár Dávidnak (l'Dávid), amikor Jehúda (Júda) pusztájában volt.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "amikor volt"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pusztájában"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:03.903564654Z",
+  "model": "glm-5.3"
+}

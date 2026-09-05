@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És bevitték ⟨את⟩ a lakást (miskánt) Moshéhez (Mózeshez): ⟨את⟩ a sátrat és ⟨את⟩ minden edényét, csatjait, deszkáit, reteszeit, oszlopait és talpazatait.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "és bevitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lakást"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakást (miskánt)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sátrat"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "a sátrat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "csatjait"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "deszkáit"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "reteszeit"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "és oszlopait"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "és talpazatait"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:58.863586399Z",
+  "model": "glm-5.3"
+}

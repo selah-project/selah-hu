@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Bocsásd el bizonyosan ⟨את⟩ az anyát, és ⟨את⟩ a fiakat magadnak vedd, hogy jól legyen néked, és hosszúra nyújtsd ⟨a te⟩ napjaidat.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "bocsásd"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "el bizonyosan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az anyát"
+    },
+    {
+      "surface": "האם",
+      "gloss": "az anyát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fiakat"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "a fiakat"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vedd"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "jól legyen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "néked"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "és hosszúra nyújtsd"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napjaidat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:24.464650930Z",
+  "model": "glm-5.3"
+}

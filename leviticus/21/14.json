@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Özvegyet, és elbocsátottat, és meggyalázottat, paráznát — ⟨את⟩ ezeket ne vegye el, hanem szüzet az ő népéből vegyen el asszonyul.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "Özvegyet"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "és elbocsátottat"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "és meggyalázottat"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "paráznát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vegye el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨hanem⟩"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "szüzet"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "az ő népéből"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vegyen el"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asszonyul"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:17.980372749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Szemeim szüntelenül Jahve ⟨felé néznek⟩, mert ⟨ő⟩ kihozza lábaimat a hálóból.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "szemeim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "kihozza"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "hálóból"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lábaimat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:07.933764703Z",
+  "model": "glm-5.3"
+}

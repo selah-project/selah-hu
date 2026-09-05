@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És odavette ⟨את⟩ a nép karbánját, és fogta ⟨את⟩ a bűnért való bakot, amely a népé volt, és levágta azt, és bűnáldozattá tette, mint az elsőt.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "és odavette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép karbánját"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "karbánt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bűnért való bakot"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "bakot"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a bűnért való"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a népé volt"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "és levágta azt"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "és bűnáldozattá tette"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "mint az elsőt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:48.118793545Z",
+  "model": "glm-5.3"
+}

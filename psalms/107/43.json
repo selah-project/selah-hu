@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Ki ⟨a⟩ bölcs, és megőrzi ⟨ezeket⟩, és meggondolják Jahve heszed-jét?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "és megőrzi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨ezeket⟩"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "és meggondolják"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "heszed-jét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:51.826178936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És monda Saúl (Saul) a szolgájának: „Jó a szavad; jer, menjünk!” És elmentek ⟨abba⟩ a városba, ahol ott volt az Elohim embere.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "a szolgájának"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Jó"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "a szavad"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "jer"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "menjünk"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨abba⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:06:48.525290742Z",
+  "model": "glm-5.3"
+}

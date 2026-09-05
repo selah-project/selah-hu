@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "hogy alacsony királyság legyen, fel ne emelje magát, hogy megtartsa ⟨את⟩ az ő szövetségét, hogy fennálljon.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "hogy legyen"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "királyság"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "alacsony"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "emelje fel magát"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hogy megtartsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő szövetségét"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "az ő szövetségét"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "hogy fennálljon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:05:52.141453093Z",
+  "model": "glm-5.3"
+}

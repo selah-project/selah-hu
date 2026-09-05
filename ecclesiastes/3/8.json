@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Idő szeretni és idő gyűlölni; idő a háborúra és idő ⟨a⟩ békére.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "szeretni"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "gyűlölni"
+    },
+    {
+      "surface": "עת",
+      "gloss": "idő"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "háborúra"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békére"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:15.653659796Z",
+  "model": "glm-5.3"
+}

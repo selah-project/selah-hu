@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "A fiatal oroszlánok szűkölködnek és éheznek, de akik keresik Jahvét, nem szűkölködnek semmi jóban.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "A fiatal oroszlánok"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "szűkölködnek"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "és éheznek"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "de akik keresik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "szűkölködnek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jóban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:12.849365732Z",
+  "model": "glm-5.3"
+}

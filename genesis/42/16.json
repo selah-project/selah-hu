@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Küldjetek egyet közületek, és vegye el ⟨את⟩ testvéreteket; ti pedig legyetek megkötve, és bizonyíttassanak meg szavaitok, ⟨van⟩-e igazság ⟨את⟩ veletek; és ha nem — Paró életére, hogy kémek vagytok ti!",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Küldjetek"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "közületek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és vegye el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreteket"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "testvéreteket"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ti pedig"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "legyetek megkötve"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "és bizonyíttassanak meg"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "szavaitok"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "az igazság"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek",
+      "marks": "veletek"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "kémek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:32.731796042Z",
+  "model": "glm-5.3"
+}

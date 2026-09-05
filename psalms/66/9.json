@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "Aki nefesünket az életbe helyezte, és nem adta lábunkat ⟨a⟩ tántorgásnak.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "helyezte"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefesünket"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "az életbe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "⟨a⟩ tántorgásnak"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "lábunkat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:24.862539192Z",
+  "model": "glm-5.3"
+}

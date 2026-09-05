@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Meddig forgatom ⟨a⟩ tanácsokat lelkemben, szomorúság szívemben naphosszat? Meddigmagasodik ellenségem felém?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨meddig⟩"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "forgatom"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "⟨a⟩ tanácsokat"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "lelkemben"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "szomorúság"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "szívemben"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "naphosszat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨meddig⟩"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "magasodik"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "felém"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:52.635684873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És felajánlották a fejedelmek ⟨את⟩ az oltár fölavatásának ⟨áldozatát⟩, azon a napon, amikor felkenték ⟨את⟩ azt; és felajánlották a fejedelmek ⟨את⟩ az ő áldozatukat az oltár előtt.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "és felajánlották"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "a fejedelmek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltár fölavatásának áldozatát"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "fölavatását"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "azon a napon"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "amikor felkenték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (az oltárt)"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "és felajánlották"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "a fejedelmek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő áldozatukat"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "az ő áldozatukat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:29:49.295785317Z",
+  "model": "glm-5.3"
+}

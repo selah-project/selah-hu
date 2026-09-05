@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És Uzzí nemzette ⟨את⟩ Zrachjá-t, és Zrachjá nemzette ⟨את⟩ Merajót-ot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "és Uzzí"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zrachját"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zrachjá"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "és Zrachjá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajótot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajót"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:55.160225190Z",
+  "model": "glm-5.3"
+}

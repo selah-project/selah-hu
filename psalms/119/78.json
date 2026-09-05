@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Szégyenkezzenek a gőgösek, mert hazugsággal ferdítettek el engem; én a te rendeléseidről elmélkedem.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "szégyenkezzenek"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "a gőgösek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugsággal"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "ferdítettek el engem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "elmélkedem"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "a te rendeléseidről"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:47.694617135Z",
+  "model": "glm-5.3"
+}

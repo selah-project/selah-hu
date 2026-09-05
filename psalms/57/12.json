@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 57,
+  "translation": "Magasságban ⟨légy⟩ az egek fölött, Elohim, az egész föld fölött a dicsőséged!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Magasságban ⟨légy⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "a dicsőséged"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:16.293963121Z",
+  "model": "glm-5.3"
+}

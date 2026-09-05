@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És lesújtasz ⟨את⟩ Aháb (Acháb) házára, uradra, és én megbüntetem a próféták, szolgáim vérét, és minden Jahve-szolga vérét Izébel (Jezabel) kezéből.”",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "és lesújtasz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aháb házára"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házára"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháb"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "uradra"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "és megbüntetem"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgáim"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a próféták"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "és vérét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgájának"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izébel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:36.045065930Z",
+  "model": "glm-5.3"
+}

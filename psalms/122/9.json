@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "A Jahve, a mi Elohimunk háza miatt keresem a te javadat.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "keresem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "javadat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a te ...adat (2. személyű rag)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:01.618863378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Mindenki, akit találnak, átdöfés alatt lesz, és mindenki, aki elfogadtatott, kardra esik.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Mindenki"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "akit találnak"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "átdöfés alatt lesz"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és mindenki"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "aki elfogadtatott"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "esik"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:36:24.359833896Z",
+  "model": "glm-5.3"
+}

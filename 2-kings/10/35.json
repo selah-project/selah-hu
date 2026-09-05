@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És elaludt Jehú az ő atyáival, és eltemették ⟨את⟩ őt Somronban, és uralkodott Jehoáchaz, az ő fia, helyette.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "És elaludt"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyáival"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Somronban"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "és uralkodott"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoáchaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:01.319286865Z",
+  "model": "glm-5.3"
+}

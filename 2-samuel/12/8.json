@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "és adtam neked ⟨את⟩ a te uradnak házát és ⟨את⟩ a te uradnak feleségeit öledbe, és adtam neked ⟨את⟩ Izrael házát és Júdát; és ha kevés lett volna, hozzáadtam volna neked ennyit meg ennyit.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "és adtam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te uradnak házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "a te uradnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a te uradnak feleségeit"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "feleségeit"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "a te uradnak"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "öledbe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "és adtam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "és Júdát"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "hozzáadtam volna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ennyit"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "meg ennyit"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:29.272033252Z",
+  "model": "glm-5.3"
+}

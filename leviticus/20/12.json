@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És a férfi, aki hálik ⟨את⟩ a menyével — halállal haljanak mindketten: keveredést cselekedtek, vérük rajtuk.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És a férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hálik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menyével"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "menyét"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "haljanak"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindketten"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "keveredést"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "cselekedtek"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "vérük"
+    },
+    {
+      "surface": "בם",
+      "gloss": "rajtuk"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:22.242754299Z",
+  "model": "glm-5.3"
+}

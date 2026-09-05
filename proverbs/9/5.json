@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Jöjjetek, egyetek az én kenyeremből, és igyatok a borból, amelyet kevertem!",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Jöjjetek"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "egyetek"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "az én kenyeremből"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "és igyatok"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "a borból"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "amelyet kevertem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:00.899284508Z",
+  "model": "glm-5.3"
+}

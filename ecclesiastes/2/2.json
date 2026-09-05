@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "A nevetésről azt mondtam: megbolondult; és az örömről: mit művel ez?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "a nevetésről"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "megbolondult"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "és az örömről"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "művel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:56.448460513Z",
+  "model": "glm-5.3"
+}

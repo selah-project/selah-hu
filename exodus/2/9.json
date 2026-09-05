@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És mondta neki Paró lánya: „Vidd ⟨את⟩ ezt a gyermeket, és szoptasd őt nekem, és én megadom ⟨את⟩ a bérzedet.” És elvette az asszony ⟨את⟩ a gyermeket, és szoptatta őt.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "Vidd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a gyermeket"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermeket"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "és szoptasd őt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "megadom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bérzedet"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "a bérzedet"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "és elvette"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermeket"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "és szoptatta őt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:59.561291436Z",
+  "model": "glm-5.3"
+}

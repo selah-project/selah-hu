@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Emlékezz meg arról, hogy én ⟨milyen⟩ mulandó ⟨vagyok⟩; mi okból teremtettél hiábavalósággal minden emberfiát?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezz meg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "מה",
+      "gloss": "(milyen)"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "mulandó"
+    },
+    {
+      "surface": "על",
+      "gloss": "(mi) okból"
+    },
+    {
+      "surface": "מה",
+      "gloss": "(mi)…"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "hiábavalósággal"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "teremtettél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az embernek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:25.930398799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 98,
+  "translation": "Zengjetek Jahvénak lanttal, lanttal és ⟨את⟩ az ének hangjával.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Zengjetek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "lanttal"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "lanttal"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "és a hang"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "éneknek"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.206361547Z",
+  "model": "glm-5.3"
+}

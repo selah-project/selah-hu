@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "„Menj, gyűjtsd össze ⟨את⟩ mind a Susánban találtatott júdeaiakat, és böjtöljetek értem: ne egyetek és ne igyatok három napig, éjjel és nappal — én is és szolgálóleányaim is így böjtölök; és így bemegyek a királyhoz, ami nem a törvény szerint van, és ha elveszek — elveszek.”",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "gyűjtsd össze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind a júdeaiakat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "a júdeaiakat"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "a találtatottakat"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Susánban"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "és böjtöljetek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "értem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyetek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "igyatok"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "és nappal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "és szolgálóleányaim"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "böjtölök"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "és így"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "bemegyek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "a törvény szerint"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "elveszek"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "elveszek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:59.879590793Z",
+  "model": "glm-5.3"
+}

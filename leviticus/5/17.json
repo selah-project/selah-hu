@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És ha egy lélek vétkezik, és megcselekszi Jahve minden parancsolata közül egyet, amelyet nem szabad megcselekedni, pedig ⟨ő⟩ nem tudta — vétkes ⟨az⟩, és hordozza vétkét.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "vétkezik"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "és megcselekszi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden… közül"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsolatából"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "szabad cselekedni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudta"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "vétkes"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "és hordozza"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "vétkét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:33.583738438Z",
+  "model": "glm-5.3"
+}

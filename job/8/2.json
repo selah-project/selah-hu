@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Meddig beszélsz ezekről, és ⟨sz⟩ nagy szél ⟨a⟩ szájad szavainak?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "אן",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "beszélsz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezekről"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "és szél"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "szavai"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "szájad"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:48.157309943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És megformázta ⟨את⟩ a két oszlopot rézből; tizennyolc könyök az egyik oszlop magassága, és egy tizenkét könyök hosszú zsinór körülfogta ⟨את⟩ a második oszlopot.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "és megformázta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a két oszlopot"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "oszlopot"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rézből"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tizennyolc"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(nyolc-tíz)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "magassága"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "az oszlop"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "ווחוט",
+      "gloss": "és zsinór"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tizenkét"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(két-tíz)"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "körülfogta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a második oszlopot"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "az oszlopot"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    }
+  ],
+  "timestamp": "2026-09-04T19:40:17.708076842Z",
+  "model": "glm-5.3"
+}

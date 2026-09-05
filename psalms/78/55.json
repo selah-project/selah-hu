@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 78:55",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És elűzött előlük népeket, és sorskötelekkel juttatta nekik ⟨az⟩ örökséget, és Izrael törzseit lakta sátraikban.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "elűzött"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "előlük"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népeket"
+    },
+    {
+      "surface": "ויפילם",
+      "gloss": "juttatta nekik"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "sorskötelekkel"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "örökséget"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "lakott(?) — lakatta"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "sátraikban"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "törzseit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:32.761418960Z",
+  "model": "glm-5.3"
+}

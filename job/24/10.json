@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Mezítelenül járnak ⟨ruha⟩ nélkül, és éhesen ⟨a⟩ kévét viszik.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "mezítelenül"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "járnak"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "⟨ruha⟩"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "és éhesen"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "viszik"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "a kévét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:24:18.941675312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Jobb egy dolog vége a kezdeténél; jobb a hosszú lélek a gőgös léleknél.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "vége"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "egy dolog"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "a kezdeténél"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "a hosszú"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "a gőgös"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "léleknél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:13.141830324Z",
+  "model": "glm-5.3"
+}

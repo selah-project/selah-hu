@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És mondta Jahve a sátánnak: Íme, kezedben van, csak ⟨את⟩ az ő élethez ne nyúlj — őrizd meg!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "a sátánnak"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "kezedben van"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő életét"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "az ő életét"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "őrizd meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:17.613469795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És mondta: Szólj kérlek Selomóhoz (Salamon), a királyhoz, mert nem fordítja el arcodat, és adjon nekem ⟨את⟩ Avisagot, a sunemit asszonyt feleségül.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Szólj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Selomóhoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "fordítja el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcod"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "arcod"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adjon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avisagot"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avisagot"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "a sunemit asszonyt"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:03.490804873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 87,
+  "translation": "Dicsőséges dolgok ⟨mondatnak⟩ rólad, ⟨te⟩ az Elohim városa. Szela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "dicsőséges dolgok"
+    },
+    {
+      "surface": "מדובר",
+      "gloss": "mondatnak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "rólad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:49.525096506Z",
+  "model": "glm-5.3"
+}

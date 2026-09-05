@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És elküldték ⟨את⟩ a tarka köntöst, és elvitték apjukhoz, és mondák: Ezt találtuk; ismerd meg kérlek, fiaidé a köntös-e vagy sem.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "És elküldték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tarka köntöst"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "a … köntöst"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "tarka"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "és elvitték"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "apjukhoz"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondák"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ezt"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "találtuk"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ismerd meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "a köntös"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiaidé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "-e"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:48.909420858Z",
+  "model": "glm-5.3"
+}

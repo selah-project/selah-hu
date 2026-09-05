@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Mert elsimította magának ⟨ez⟩ a maga szemében, hogy megtaláltassék gonoszsága és gyűlöltté legyen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "elsimította"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "magának"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a maga szemében"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "hogy megtaláltassék"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "gonoszsága"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "és gyűlöltté legyen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:15.195443157Z",
+  "model": "glm-5.3"
+}

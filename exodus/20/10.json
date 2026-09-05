@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "de a hetedik nap szombat ⟨van⟩ Jahvénak, a te Elohimodnak: ne tégy semmi munkát se te, se fiad, se leányod, se szolgád, se szolgálóleányod, se állatod, se jövevényed, aki kapuidban ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "de a nap"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "hetedik"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szombat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tégy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "se te"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "se fiad"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "se leányod"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "se szolgád"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "se szolgálóleányod"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "se állatod"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "se jövevényed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "kapuidban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:31.287999145Z",
+  "model": "glm-5.3"
+}

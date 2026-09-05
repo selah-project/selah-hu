@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ne felelj felebarátod ellen hamis tanúságot.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "felelj"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "felebarátod ellen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanúságot"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hamis"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:03.418375706Z",
+  "model": "glm-5.3"
+}

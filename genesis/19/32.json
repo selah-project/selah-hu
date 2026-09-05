@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Gyere, itassuk atyánkkal ⟨את⟩ a bort, és feküdjünk vele, hogy életben tartsunk magunkat atyánktól utódot.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Gyere"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "itassuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyánkkal"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "atyánkkal"
+    },
+    {
+      "surface": "יין",
+      "gloss": "a bort"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "és feküdjünk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "hogy életben tartsunk"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "atyánktól"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "utódot"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:34.918466050Z",
+  "model": "glm-5.3"
+}

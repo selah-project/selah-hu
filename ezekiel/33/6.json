@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 33:6",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Az őr pedig, ha látja ⟨את⟩ a kardot eljönni, és nem fúj kürtöt, és a nép nem vigyázott, és eljön a kard, és elvesz közülük egy lelket: ⟨az⟩ a maga vétkében veszik el, de a vérét az őr kezétől kérem számon.",
+  "tokens": [
+    {
+      "surface": "והצפה",
+      "gloss": "az őr pedig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "látja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kardot"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "a kardot"
+    },
+    {
+      "surface": "באה",
+      "gloss": "eljönni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "fúj"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "kürtöt"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "és a nép"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "vigyázott"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "és eljön"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "és elvesz"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "közülük"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "egy lelket"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "vétkében"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "veszik el"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "de a vérét"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezétől"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "az őr"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "kérek számon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:11:17.169039167Z",
+  "model": "glm-5.3"
+}

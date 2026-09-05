@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És elébbre helyezte ⟨את⟩ a szolgálókat és ⟨את⟩ gyermekeiket, ⟨את⟩ Leát és gyermekeit pedig utoljára, és ⟨את⟩ Rähelt és ⟨את⟩ Józéfet utoljára.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "és helyezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgálókat"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "a szolgálókat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "gyermekeiket"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "először"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leát"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "és gyermekeit"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "utoljára"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rähelt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józéfet"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "utoljára"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:45.545621240Z",
+  "model": "glm-5.3"
+}

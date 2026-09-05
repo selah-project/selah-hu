@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Szájukat az égbe helyezték, és nyelvük jár ⟨a⟩ földön.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "helyezték"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az égbe"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "szájukat"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "és nyelvük"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "jár"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:18.508220904Z",
+  "model": "glm-5.3"
+}

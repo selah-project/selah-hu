@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 113,
+  "translation": "A nap kelésétől annak lenyugvásáig dicsért legyen Jahve neve!",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "kelésétől"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "lenyugvásáig"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "dicsért legyen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "neve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:03.085229763Z",
+  "model": "glm-5.3"
+}

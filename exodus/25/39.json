@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Egy talentum tiszta aranyból csinálják ⟨את⟩ azt, ⟨את⟩ mindezt az edényeket.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "egy talentum"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyból"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tisztából"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "csinálják"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindezt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ezeket az edényeket"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:42.029798203Z",
+  "model": "glm-5.3"
+}

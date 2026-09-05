@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Mert ott kértek tőlünk foglyul ejtőink énekszót, és gyötrőink vidámságot: „Énekeljetek nekünk Cijon énekéből!”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "kértek tőlünk"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "foglyul ejtőink"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "énekszót"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ének-"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "és gyötrőink"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vidámságot"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Énekeljetek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "énekéből"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:07.926085956Z",
+  "model": "glm-5.3"
+}

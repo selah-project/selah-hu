@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Hirdetem nevedet testvéreimnek, a gyülekezet közepén dicsőítlek téged.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Hirdetem"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nevedet"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "testvéreimnek"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a közepén"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "dicsőítlek téged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:48.285870836Z",
+  "model": "glm-5.3"
+}

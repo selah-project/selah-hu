@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ Parsandatát, és ⟨את⟩ Dalfónt, és ⟨את⟩ Aszpatát",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Parsandatát"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parsandatát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Dalfónt"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalfónt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aszpatát"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aszpatát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:30.643191316Z",
+  "model": "glm-5.3"
+}

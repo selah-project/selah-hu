@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Távol ⟨van⟩ a megváltás a gonoszoktól, mert rendelkezéseidet nem kutatták.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Távol"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "a gonoszoktól"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "a megváltás"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "rendelkezéseidet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "kutatták"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:00.248296605Z",
+  "model": "glm-5.3"
+}

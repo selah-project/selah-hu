@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Te ismered gyalázatomat és szégyenemet és megszégyenülésemet; előtted vannak minden szorongatóim.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ismered"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "gyalázatomat"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "és szégyenemet"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "és megszégyenülésemet"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "szorongatóim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:00.927147168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Kezedben ⟨vannak⟩ ⟨az⟩ én időim; ragadj ki engem ellenségeim kezéből és üldözőimtől.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "kezedben"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "én időim"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ragadj ki engem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "és üldözőimtől"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:35.309910110Z",
+  "model": "glm-5.3"
+}

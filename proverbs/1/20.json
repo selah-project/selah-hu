@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "A bölcsesség kint kiált, a tereken adja a hangját.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "A bölcsesség"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kint"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "kiált"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "a tereken"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "adja"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "a hangját"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:29.322459127Z",
+  "model": "glm-5.3"
+}

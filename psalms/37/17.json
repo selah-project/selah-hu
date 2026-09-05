@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Mert a bűnösök karjai összetörnek, de a megtartó ⟨a⟩ jámboroknak Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "karjai"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bűnösök"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "összetörnek"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "de a megtartó"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "jámboroknak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:01.863286218Z",
+  "model": "glm-5.3"
+}

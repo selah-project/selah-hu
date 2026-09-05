@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És az ő testvérének neve Juvál (Jubál); ő lett minden hárfát és sípot pengetőnek atyja.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "És neve"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérének"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Juvál"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "pengetőnek"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "hárfát"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "és sípot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:41.230442811Z",
+  "model": "glm-5.3"
+}

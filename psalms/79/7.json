@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 79,
+  "translation": "Mert felfalták ⟨את⟩ Jaakobot (Jákobot), és ⟨את⟩ lakóhelyét pusztasággá tették.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "felfalták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "lakóhelyét"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "lakóhelyét"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "pusztasággá tették"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:03.033113069Z",
+  "model": "glm-5.3"
+}

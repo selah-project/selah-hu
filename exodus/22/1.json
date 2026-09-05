@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha a tolvaj betörés közben található meg, és megveretik, és meghal — nincs neki vérdíj.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "betörés közben"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "található meg"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "a tolvaj"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "és megveretik"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "és meghal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "vérdíj"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:22.589118214Z",
+  "model": "glm-5.3"
+}

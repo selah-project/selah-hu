@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Nappal megparancsolja Jahve a heszedjét, és éjjel ének ⟨van⟩ velem, ⟨és⟩ imádság életem Eljéhez.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Nappal"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "megparancsolja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedjét"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "és éjjel"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "ének"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "velem"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "imádság"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Eljéhez"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "életem(nek)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:13.964877895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Szóljatok Izrael egész gyülekezetéhez, ezt mondván: e hónap tizedik ⟨napján⟩ vegyenek maguknak ⟨minden⟩ ember egy bárányt az atyák házánként, egy bárányt egy házra.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Szóljatok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezetéhez"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ezt mondván"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "tizedik ⟨napján⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "e hónap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "vegyenek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maguknak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨minden⟩ ember"
+    },
+    {
+      "surface": "שה",
+      "gloss": "egy bárányt"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "atyák"
+    },
+    {
+      "surface": "שה",
+      "gloss": "egy bárányt"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "egyre házra"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:43.356822058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Mert a moly megeszi őket, mint a ruhát, és a féreg megeszi őket, mint a gyapjút; de igazságom örökké lesz, és szabadításom nemzedékről nemzedékre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "mint a ruhát"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "megeszi őket"
+    },
+    {
+      "surface": "עש",
+      "gloss": "a moly"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "és mint a gyapjút"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "megeszi őket"
+    },
+    {
+      "surface": "סס",
+      "gloss": "a féreg"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "és igazságom"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "és szabadításom"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:27.416169035Z",
+  "model": "glm-5.3"
+}

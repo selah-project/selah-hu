@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Részt, mint ⟨a⟩ rész, egyenek — eladott javain kívül, az atyák ⟨házai⟩ szerint.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "részt"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "mint rész"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "eenek"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "eladott javai"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "az atyák"
+    }
+  ],
+  "timestamp": "2026-09-05T00:11:30.474460958Z",
+  "model": "glm-5.3"
+}

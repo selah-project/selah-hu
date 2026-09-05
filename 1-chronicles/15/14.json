@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És megszentelték magukat a papok és a leviták, hogy felvigyék ⟨את⟩ Jahve, Izrael Elohimjának ⟨a⟩ ládáját.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "És megszentelték magukat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "és a leviták"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "hogy felvigyék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimjának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T23:58:51.744361201Z",
+  "model": "glm-5.3"
+}

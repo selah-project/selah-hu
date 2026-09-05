@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 129,
+  "translation": "Jahve ⟨az⟩ igaz: elvágta a gonoszok köteleit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "⟨az⟩ igaz"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "elvágta"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "köteleit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.648662175Z",
+  "model": "glm-5.3"
+}

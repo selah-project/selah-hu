@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 138,
+  "translation": "Ha a szorongatás közepette járok, megelevenítesz; ellenségeim haragja ellen nyújtod ⟨ki⟩ ⟨a⟩ kezed, és jobbod megment engem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "járok"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepette"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "szorongatás"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "megelevenítesz"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "nyújtod"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "és megment engem"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jobbod"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:23.406930341Z",
+  "model": "glm-5.3"
+}

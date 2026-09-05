@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 9:27",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Emlékezz a szolgáidra, Avrahamra (Ábrahám), Jichakra (Izsák) és Jaakovra (Jákob); ne nézz e nép konokságára, sem rosszaságára, sem bűnére.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezz"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "szolgáidra"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamra"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jichakra"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "és Jaakovra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "nézz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "konokságára"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sem -ra"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "rosszaságára"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sem -ra"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "bűnére"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:49.725995902Z",
+  "model": "glm-5.3"
+}

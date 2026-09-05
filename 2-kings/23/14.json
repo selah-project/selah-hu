@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És összetörte ⟨את⟩ a szobrokoszlopokat, és kivágta ⟨את⟩ az Asérákat, és csontokkal töltötte meg ⟨את⟩ helyüket — emberi csontokkal.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "És összetörte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szobrokoszlopokat"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "a szobrokoszlopokat"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "és kivágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Asérákat"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "az Asérákat"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "és töltötte meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helyüket"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "helyüket"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontokkal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "emberi"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:47.114067845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 32:43",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Ujjongjatok, népek, az ő népe felett, mert megbosszulja szolgáinak vérét, bosszút fordít ellenfeleire, és engesztelést szerez földjéért, népéért.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Ujjongjatok"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "az ő népe felett"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vérét… vérétől függően"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáinak"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "megbosszulja"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "bosszút"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "fordít"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "ellenfeleire"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztelést szerez"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "földjéért"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népéért"
+    }
+  ],
+  "timestamp": "2026-09-04T18:31:23.236944453Z",
+  "model": "glm-5.3"
+}

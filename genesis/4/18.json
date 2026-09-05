@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És született Hanokhnak ⟨את⟩ Irad, és Irad nemzette ⟨את⟩ Mechujáelt, és Mechujáel nemzette ⟨את⟩ Metusáelt, és Metusáel nemzette ⟨את⟩ Lamechet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "és született"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "Hanokhnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "és Irad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechujáelt"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mechujáelt"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "és Mechujáel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metusáelt"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metusáelt"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "és Metusáel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lamechet"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lamechet"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:16.583522167Z",
+  "model": "glm-5.3"
+}

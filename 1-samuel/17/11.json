@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És meghallotta Saul (Saul) és egész Jisraél ⟨את⟩ e szavait a filiszteusnak, és elcsüggedtek, és féltek nagyon.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "És meghallotta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "a filiszteusnak"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "és elcsüggedtek"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "és féltek"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:18.001792607Z",
+  "model": "glm-5.3"
+}

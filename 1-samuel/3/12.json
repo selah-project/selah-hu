@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Azon a napon végrehajtok Élinél ⟨את⟩ mindent, amit beszéltem az ő háza felől — kezdve és bevégzve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "végrehajtok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑nál"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "beszéltem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑hez"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "az ő háza"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kezdve"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "és bevégzve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:50.488681844Z",
+  "model": "glm-5.3"
+}

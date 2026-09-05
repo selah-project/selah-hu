@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Akkor visszafordulnak ellenségeim ⟨hátra⟩, amikor kiáltok; ezt tudom, hogy Elohim ⟨van⟩ nekem.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "visszafordulnak"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:52.794763539Z",
+  "model": "glm-5.3"
+}

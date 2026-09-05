@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És készíts asztalt sitim-fából: két könyök a hossza, és egy könyök a szélessége, és egy és fél könyök a magassága.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És készíts"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "asztalt"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "két könyök"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és egy könyök"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és egy"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél könyök"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "a magassága"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:32.983204651Z",
+  "model": "glm-5.3"
+}

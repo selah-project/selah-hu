@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "És eltartotta Jóséf ⟨את⟩ atyját és ⟨את⟩ testvéreit és ⟨את⟩ atyja házának egészét kenyérrel, a gyermekek szája szerint.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "És eltartotta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jóséf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyját"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "testvéreit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "atyja házának egészét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egészét"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyérrel"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "szája szerint"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "a gyermekek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:43.325251647Z",
+  "model": "glm-5.3"
+}

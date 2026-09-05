@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "akkor parancsoljon a kohan, és mossák ki ⟨את⟩ azt, amin a folyás van, és zárja el ⟨azt⟩ másodszor is hét napra.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "akkor parancsoljon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohan"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "és mossák ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amin a folyás van"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "a folyás"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "és zárja el"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napra"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "másodszor"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:32.095255360Z",
+  "model": "glm-5.3"
+}

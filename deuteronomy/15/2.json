@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És ez az elengedés dolga: engedje el minden kölcsöngazda a kezét, amivel felebarátjának kölcsönzött; ne szorítsa ⟨את⟩ felebarátját és ⟨את⟩ testvérét, mert elengedés kikiáltatott Jahvéra.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "És ez"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dolga"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "az elengedésnek"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "engedje el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "gazdája"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kölcsönnek"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "keze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "kölcsönzött"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "felebarátjának"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "szorítsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "testvérét"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérét"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kikiáltatott"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "elengedés"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéra"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:34.057587491Z",
+  "model": "glm-5.3"
+}

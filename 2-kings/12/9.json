@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És beleegyeztek a papok, hogy ne vegyenek pénzt a néptől, és hogy ne erősítsék meg ⟨את⟩ a ház repedéseit.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "És beleegyeztek"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "vegyenek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénzt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩tól",
+      "marks": "a néptől"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "és hogy ne"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "erősítsék meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ház repedéseit"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "repedését"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:59:27.750674166Z",
+  "model": "glm-5.3"
+}

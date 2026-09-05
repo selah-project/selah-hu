@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Meddig, Jahve, a gonoszok — meddig a gonoszok ujjonganak?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ujjonganak"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:00.573935437Z",
+  "model": "glm-5.3"
+}

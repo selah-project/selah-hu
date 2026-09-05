@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És monda néki a király: „Mi ⟨van⟩ veled?” És monda: „Bizony özvegyasszony vagyok én, és meghalt a férjem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "לה",
+      "gloss": "néki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asszony"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "özvegy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "a férjem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:29:11.114910490Z",
+  "model": "glm-5.3"
+}

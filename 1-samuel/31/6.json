@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És meghalt Saúl és három fia, és a fegyvereinek hordozója, és minden embere, aznap együtt.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "És meghalt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "és három"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "és hordozója"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fegyvere(i)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "és"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "embere"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:21:29.418287376Z",
+  "model": "glm-5.3"
+}

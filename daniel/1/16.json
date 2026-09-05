@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És történt, hogy az őr elvitte ⟨את⟩ az ő ételüket és az ő italuk borát, és adott nekik zöldséget.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "az őr"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "elvitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő ételüket"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "az ő ételüket"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "és a bor"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "az ő italuk"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "zöldséget"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:55.035701375Z",
+  "model": "glm-5.3"
+}

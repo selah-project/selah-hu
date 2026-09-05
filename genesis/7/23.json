@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És eltörölte ⟨את⟩ az egész létezőt, ami a föld színén volt — az embertől a barmokig, a csúszó-mászóig és az égi madarakig; és eltöröltettek a földről. És megmaradt csak Noach (Noé) és azok, akik vele voltak a bárkában.",
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "És eltörölte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész létezőt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "létezőt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színén"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "föld"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "az embertől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "barmok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "csúszó-mászó"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és -ig"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madár"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "és eltöröltettek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földről"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "És megmaradt"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és akik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨vele⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "a bárkában"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:06.491136323Z",
+  "model": "glm-5.3"
+}

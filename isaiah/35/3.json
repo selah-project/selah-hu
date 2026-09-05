@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Erősítsétek az ernyedt kezeket, és a tántorgó térdeket tegyétek szilárdakká!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Erősítsétek"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "kezeket"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "ernyedt"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "és térdeket"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "tántorgó"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "tegyétek szilárdakká"
+    }
+  ],
+  "timestamp": "2026-09-04T20:18:42.436089142Z",
+  "model": "glm-5.3"
+}

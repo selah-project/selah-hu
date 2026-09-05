@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És fordítsuk ⟨את⟩ a mi Elohimunk ládáját magunkhoz, mert nem kerestük őt Sául (Saul) napjaiban.”",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "és fordítsuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mi Elohimunk ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "magunkhoz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "kerestük őt"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "napjaiban"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    }
+  ],
+  "timestamp": "2026-09-04T23:05:01.556853236Z",
+  "model": "glm-5.3"
+}

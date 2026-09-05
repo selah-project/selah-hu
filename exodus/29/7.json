@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És vedd ⟨את⟩ a kenet olaját, és ontsd a fejére, és kend fel ⟨את⟩ őt.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "És vedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az olaját"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "az olaját"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a kenetnek"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "és ontsd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "a fejére"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "és kend fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:56:50.346083659Z",
+  "model": "glm-5.3"
+}

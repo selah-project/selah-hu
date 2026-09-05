@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Azon a napon eldobja az ember ⟨את⟩ ezüstbálványait és ⟨את⟩ aranybálványait, amelyeket neki csináltak imádatra, a vakondokoknak és a denevéreknek.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "eldobja"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezüstbálványait"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "bálványait"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ezüst-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "aranybálványait"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "bálványait"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "arany-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "csináltak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "imádatra"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "a vakondok-"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "vermeknek"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "és a denevéreknek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:07:31.935359641Z",
+  "model": "glm-5.3"
+}

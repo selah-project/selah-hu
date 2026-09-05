@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 13:6",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Hiúságot láttak és hazug jövendölést, akik mondják: „Jahve kijelentése” — de Jahve nem küldte el őket, és ők mégis várták, hogy beteljesedjék a szó.",
+  "tokens": [
+    {
+      "surface": "חזו",
+      "gloss": "láttak"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "hiúságot"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "és hazug jövendölést"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "hazug"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "akik mondják"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "küldte el őket"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "és várták"
+    },
+    {
+      "surface": "לקים",
+      "gloss": "hogy beteljesedjék"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a szó"
+    }
+  ],
+  "timestamp": "2026-09-04T21:02:14.804757194Z",
+  "model": "glm-5.3"
+}

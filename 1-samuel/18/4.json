@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És levetkőzte Jehonatán ⟨את⟩ a köntöst, amely rajta volt, és odaadta Dávidnak, és ruházatát, és kardját, és íját, és övét.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "És levetkőzte"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a köntöst"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "a köntöst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta volt"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "és odaadta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "és ruházatát"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és egészen"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kardjáig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és egészen"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "íjáig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és egészen"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "övéig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:18.440738217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "„Védd meg a Jiszráél fiainak bosszúját a midjániaktól ⟨את⟩; azután te összegyűjtetsz a népedhez.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Védd meg"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "bosszúját"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "a midjániaktól"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "a midjániak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "azután"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "összegyűjtetsz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "a néped"
+    }
+  ],
+  "timestamp": "2026-09-04T17:45:36.753547794Z",
+  "model": "glm-5.3"
+}

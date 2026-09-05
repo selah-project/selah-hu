@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 5:21",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És történt, mikor Hírám hallotta ⟨את⟩ Selomo (Salamon) szavait, hogy igen nagyot örvendett, és mondta: Áldott legyen Jahve a mai napon, aki adott Dávidnak bölcs fiút e nagy nép élén.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mikor hallotta"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hírám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selomo szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "hogy örvendett"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "igen nagyot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott legyen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a mai napon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiút"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "על",
+      "gloss": "élén"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:45.579063622Z",
+  "model": "glm-5.3"
+}

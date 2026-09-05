@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És történt ezen a napon, épp ezen a napon: kihozta Jahve ⟨את⟩ Izráél fiait Egyiptom földjéről, seregeik szerint.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "épp"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "kihozta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráél fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyiptom"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "seregeik"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:38.913725919Z",
+  "model": "glm-5.3"
+}

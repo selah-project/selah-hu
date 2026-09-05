@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És visszavitt ⟨את⟩ engem a szentély külső kapujának útján, a keletre nézőnek, és az zárva volt.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "És visszavitt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "a szentély külső kapujának útján"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapuja"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "a szentély"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "külső"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "néző"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "keletre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és az"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "zárva volt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:17:04.666015392Z",
+  "model": "glm-5.3"
+}

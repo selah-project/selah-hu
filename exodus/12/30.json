@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És felkelt Paroh éjjel, ő meg minden szolgája és egész Micrajim, és nagy kiáltás támadt Micrajimban, mert nincs ház, amelyben nincs ott halott.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgája"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "kiáltás"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "מת",
+      "gloss": "halott"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:31.293931173Z",
+  "model": "glm-5.3"
+}

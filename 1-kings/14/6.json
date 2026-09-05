@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És történt, amikor Achijáhú hallotta ⟨את⟩ lábainak zaját a bejáratnál belépve, hogy azt mondta: Jöjj be, Jeravám felesége! Miért ez — te idegennek mutatod magad? És én keményet küldettem hozzád.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "amikor hallotta"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achijáhú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lábai zaját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zaját"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "lábai"
+    },
+    {
+      "surface": "באה",
+      "gloss": "belépve"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "a bejáratnál"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és azt mondta"
+    },
+    {
+      "surface": "באי",
+      "gloss": "Jöjj be"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "felesége"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeravám"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "את",
+      "gloss": "te"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "idegennek mutatod magad"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "És én"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "küldettem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "keményet"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:32.241367594Z",
+  "model": "glm-5.3"
+}

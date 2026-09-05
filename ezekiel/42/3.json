@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "A húsz ⟨könyök⟩ szemben, amely a belső udvarhoz ⟨tartozik⟩, és a kőburkolattal szemben, amely a külső udvarhoz ⟨tartozik⟩ — folyosó a folyosóval szemben, a harmadik ⟨szinten⟩.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "A húsz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "udvarhoz"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "a belső"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "és … szemben"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "kőburkolattal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "udvarhoz"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "a külső"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "folyosó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-val … ellen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "folyosó"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "a harmadik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:15:12.820570172Z",
+  "model": "glm-5.3"
+}

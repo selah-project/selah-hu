@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "a ti kicsinyeitek, a ti feleségeitek és a te jövevényed, aki a te táboraid közepette van, a te fáid favágójától a te vized merítőjéig —",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "a ti kicsinyeitek"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "a ti feleségeitek"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "és a te jövevényed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepette"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "a te táboraid"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "favágójától"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "a te fáid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "merítője"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "a te vized"
+    }
+  ],
+  "timestamp": "2026-09-04T18:29:45.341355761Z",
+  "model": "glm-5.3"
+}

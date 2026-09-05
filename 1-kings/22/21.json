@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És kijött a lélek, és megállt Jahve előtt, és mondta: én megtévesztem őt. És mondta Jahve ⟨neki⟩: mivel?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "és kijött"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "a lélek"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "és megállt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "megtévesztem őt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "במה",
+      "gloss": "mivel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:51:19.528122621Z",
+  "model": "glm-5.3"
+}

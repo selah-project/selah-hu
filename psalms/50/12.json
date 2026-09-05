@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Ha megéhezném, nem mondom meg neked, mert enyém ⟨a⟩ földkeregség és teljessége.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "megéhezném"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לי",
+      "gloss": "enyém"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨a⟩ földkeregség"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "és teljessége"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:32.692249944Z",
+  "model": "glm-5.3"
+}

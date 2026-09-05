@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Ragadt a porra a lélekem; élessz meg ígéreted szerint.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "Ragadt"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "a porra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lélekem"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "élessz meg"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ígéreted szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:43.861547455Z",
+  "model": "glm-5.3"
+}

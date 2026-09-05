@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És amikor bejöttek, meglátta ⟨את⟩ Eliábót, és monda: Bizony, Jahve előtt ⟨van⟩ az ő felkentje (Mashihája).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És amikor"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "bejöttek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "meglátta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliábót"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliábót"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és monda"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "az ő felkentje (Mashihája)"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:11.562359772Z",
+  "model": "glm-5.3"
+}

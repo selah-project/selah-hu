@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "„Mikor ⟨a⟩ jelölt időt elfogadom, én magam egyenesen ítélek.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mikor"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "elfogadom"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "jelölt időt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én magam"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "egyenesen"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ítélek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.928725346Z",
+  "model": "glm-5.3"
+}

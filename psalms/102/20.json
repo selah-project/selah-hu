@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Mert letekintett szentsége magasságából, Jahve az égből a földre nézett.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "letekintett"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "magasságából"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "szentsége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "az égből"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iránt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nézett"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:56.668760047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Örüljön a te atyád és a te anyád, és ujjongjon, aki szült téged.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Örüljön"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "a te atyád"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "és a te anyád"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "és ujjongjon"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "aki szült téged"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:08.697490965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 76,
+  "translation": "A mennyből hallattad az ítéletet; a föld félt és elcsendesült.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "a mennyből"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "hallattad"
+    },
+    {
+      "surface": "דין",
+      "gloss": "az ítéletet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "félt"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "és elcsendesült"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.207276470Z",
+  "model": "glm-5.3"
+}

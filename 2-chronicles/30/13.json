@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És összegyűlt Jerusalaimba nép sok, hogy megtartsák ⟨את⟩ a mácótot ünnepét a második hónapban — gyülekezet nagyon nagy számban.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "és összegyűlt"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaimba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sok"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy megtartsák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ünnepet"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ünnepét"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "a mácótok"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "a hónapban"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nagyszámban"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T23:22:09.010176546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És biztonságosan vezette őket, és nem féltek, és a tenger beborította ⟨את⟩ ellenségeiket.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "vezette"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "biztonságosan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "féltek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ellenségeiket"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ellenségeiket"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "borította be"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:32.760912919Z",
+  "model": "glm-5.3"
+}

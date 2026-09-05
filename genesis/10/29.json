@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ⟨את⟩ Ofirt, és ⟨את⟩ Chavilát, és ⟨את⟩ Jovávot; mindezek Joktán fiai ⟨voltak⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ofirt"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Ofirt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chavilát"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jovávot"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovávot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktán"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:49.031182672Z",
+  "model": "glm-5.3"
+}

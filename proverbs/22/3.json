@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Látja az eszes a bajt, és elrejtőzik; a balgák átmegynek, és megbüntettetnek.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "az eszes"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látja"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "a bajt"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "és elrejtőzik"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "a balgák"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "átmegynek"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "és megbüntettetnek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:28.171998656Z",
+  "model": "glm-5.3"
+}

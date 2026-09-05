@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És szólt Elohim Avrahamhoz (Ábrahám): Száraj, a te feleséged — ne hívd ⟨את⟩ a nevét Szárainak, mert Sára a neve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Száraj"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "a te feleséged"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "hívd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nevét"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Szárainak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "a neve"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:52.001243105Z",
+  "model": "glm-5.3"
+}

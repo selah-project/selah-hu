@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Jaj annak, aki ezt mondja az apának: „mit nemzel?” — és az asszonynak: „mit vajúdsz?”",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "az apának"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "nemzel"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "és az asszonynak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "vajúdsz"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:10.661539640Z",
+  "model": "glm-5.3"
+}

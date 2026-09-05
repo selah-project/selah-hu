@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ültetett egy tamariszkuszt Beer-Sebában, és ott hívta Jahve nevét: El Olam (az örökkévalóság Istene).",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "és ültetett"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "tamariszkuszt"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sebában"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és hívotta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-09-05T00:47:08.915744548Z",
+  "model": "fable-5-hand"
+}

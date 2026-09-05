@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És menjen ki a kohen a táboron kívülre, és nézze meg a kohen, és íme, meggyógyult a cáorát verése a cáorát-betegről —",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "És menjen ki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívülre"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "a tábor"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és nézze meg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "meggyógyult"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "verése"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "a cáorát"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "a cáorát-beteg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:18.016737309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Ha bölcs lettél, magadnak lettél bölcs; ha gúnyolódtál, egyedül viseled el.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bölcs lettél"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "lettél bölcs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ha gúnyolódtál"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "viszed el"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:00.048526025Z",
+  "model": "glm-5.3"
+}

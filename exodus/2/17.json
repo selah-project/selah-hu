@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És jöttek a pásztorok, és elűzték őket; de felkelt Moshe (Mózes), és megmentette őket, és megitatta ⟨את⟩ a juhaikat.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "és jöttek"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "a pásztorok"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "és elűzték őket"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "de felkelt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "és megmentette őket"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "és megitatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a juhaikat"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "a juhaikat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:43.499964862Z",
+  "model": "glm-5.3"
+}

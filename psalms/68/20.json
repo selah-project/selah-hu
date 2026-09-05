@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Áldott ⟨legyen⟩ Adonáj — naponként terhel ⟨minket⟩; ⟨az⟩ El, a mi szabadításunk. Szela.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "יום",
+      "gloss": "naponként"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "terhel"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "minket"
+    },
+    {
+      "surface": "האל",
+      "gloss": "az-El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "a-szabadításunk"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:31.736981153Z",
+  "model": "glm-5.3"
+}

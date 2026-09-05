@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És elfoglaltuk ⟨את⟩ az ő földjüket, és adtuk azt örökségül a Reuvenieknek, a Gádiaknak és Menásse törzsének felének.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "és elfoglaltuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő földjüket"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "az ő földjüket"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "és adtuk azt"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "örökségül"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "a Reuvenieknek"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "és a Gádiaknak"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "és ... felének"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "törzsének"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menásse"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:43.374109541Z",
+  "model": "glm-5.3"
+}

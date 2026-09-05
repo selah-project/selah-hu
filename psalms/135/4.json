@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Mert Jah Jaakobot választotta magának, Izráelt saját tulajdonául.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobot"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "választotta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "magának"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "saját tulajdonául"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:16.349757882Z",
+  "model": "glm-5.3"
+}

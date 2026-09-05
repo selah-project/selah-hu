@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És ⟨את⟩ fiait is odahozod, és felöltözteted ⟨את⟩ őket köntösökbe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "odahozod"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "és felöltözteted"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "köntösökbe"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:21.575928730Z",
+  "model": "glm-5.3"
+}

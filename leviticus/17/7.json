@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És ne áldozzák többé ⟨את⟩ áldozataikat a szairjuknak, amelyek után ⟨ők⟩ paráználkodnak — örök rendtartás lesz ez nekik, nemzedékeiknek.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "áldozzák"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áldozataikat"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "áldozataikat"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "a szairjuknak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ők"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "paráználkodnak"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "utánuk"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "rendtartás"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örök"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nemzedékeiknek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:59.471414099Z",
+  "model": "glm-5.3"
+}

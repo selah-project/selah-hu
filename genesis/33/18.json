@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 33:18",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Jaakov pedig békében megérkezett Schemem (Sikem) városába, amely Kenaan földjén van, mikor Paddan-Aramból visszatért, és ⟨את⟩ a város színe elé verte sátrát.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "megérkezett"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "békében"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városába"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Schemem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "mikor visszatért"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aramból"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ésverte sátrát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a város színét"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színe elé"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:44.824225257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Reggel kivirágzik és tovatűnik, estére lekaszálva elhervad.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "kivirágzik"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "és tovatűnik"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "estére"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "lekaszálva"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "elhervad"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:03.956143201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Dicsekedjetek ⟨az⟩ ő szent nevével; örvendjen ⟨a⟩ szív Jahvét keresőké!",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Dicsekedjetek"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "névével"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "szent"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvendjen"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szív"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "keresőké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:03.653283437Z",
+  "model": "glm-5.3"
+}

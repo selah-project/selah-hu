@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 42:1",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És kivitt engem a külső udvarra, az északi út felé, és bevezetett engem a laskába, amely a gizrával szemben van és amely az épülettel szemben van, észak felé.",
+  "tokens": [
+    {
+      "surface": "ויוצאני",
+      "gloss": "És kivitt engem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a … -ra"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "udvarra"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "külső"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "az út"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "felé"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "az északi"
+    },
+    {
+      "surface": "ויבאני",
+      "gloss": "és bevezetett engem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a … -ba"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "laskába"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "szemben van"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "a gizrával"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amely"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "szemben van"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "az épülettel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "észak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:15:12.819864015Z",
+  "model": "glm-5.3"
+}

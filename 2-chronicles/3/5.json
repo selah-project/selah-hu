@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ⟨את⟩ a nagy házat borította ciprusfákkal, és bevonatta azt jó arannyal, és felvitt rá pálmaoszlopokat és láncokat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nagy házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "borította"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fákkal"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ciprusfákkal"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "és bevonatta azt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "és felvitt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "pálmaoszlopokat"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "és láncokat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:03.126990348Z",
+  "model": "glm-5.3"
+}

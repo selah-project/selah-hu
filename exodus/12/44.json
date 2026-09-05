@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És minden szolga, egy férfi pénzen vett vásárlása — körülmetéled ⟨את⟩ őt, akkor ehet abból.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "És minden"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfi"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "vásárlása"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénzen"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "körülmetéled"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abból"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:53.879365150Z",
+  "model": "glm-5.3"
+}

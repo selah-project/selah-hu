@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Nem kiált-e a hokmá, és nem adja-e a tevuná ⟨a⟩ hangját?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nem…-e"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "a hokmá"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "kiált"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "és a tevuná"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "adja"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "hangját"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:44.290314806Z",
+  "model": "glm-5.3"
+}

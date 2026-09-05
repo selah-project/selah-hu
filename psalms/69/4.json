@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Kifáradtam kiáltásomtól, kiszáradt a torkom, megfogyatkoztak a szemeim, várva Elohimomra.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "kifáradtam"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kiáltásomtól"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "kiszáradt"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "a torkom"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "megfogyatkoztak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "a szemeim"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "várva"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimomra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:24.908706481Z",
+  "model": "glm-5.3"
+}

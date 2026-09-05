@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És elfogyott a víz a tömlőből, és ledobta ⟨את⟩ a gyermeket az egyik bokor alá.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "és elfogyott"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a víz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...ből"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "a tömlő"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "és ledobta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyermeket"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermeket"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alá"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "bokor"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:38.996716880Z",
+  "model": "glm-5.3"
+}

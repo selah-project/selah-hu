@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 112,
+  "translation": "Hős ⟨lesz⟩ a földön ⟨az⟩ ő magva; ⟨az⟩ egyenesek nemzedéke áldott.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Hős"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨lesz⟩"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "magva"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nemzedéke"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "egyenesek"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "áldott"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:21.650484049Z",
+  "model": "glm-5.3"
+}

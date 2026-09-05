@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És feláldozták ⟨את⟩ fiaikat és ⟨את⟩ leányaikat a démonoknak",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "és feláldozták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaikat"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiaikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "leányaikat"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "leányaikat"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "a démonoknak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:15.211190971Z",
+  "model": "glm-5.3"
+}

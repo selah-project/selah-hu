@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "„Kelj fel, és menj le a fazekas házába, és ott meghallatom veled ⟨את⟩ az én szavaimat!”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "és menj le"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "a fazekas"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "és ott"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "meghallatom veled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az én szavaimat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "az én szavaimat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:38:17.189624352Z",
+  "model": "glm-5.3"
+}

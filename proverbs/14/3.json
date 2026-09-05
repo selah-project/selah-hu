@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "A balga szájában a gőg ostora, és a bölcsek ajkai megőrzik ⟨őket⟩.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "szájában"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "a balga"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ostora"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "a gőg"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "és az ajkai"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "a bölcsek"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "megőrzik őket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:49.505810460Z",
+  "model": "glm-5.3"
+}

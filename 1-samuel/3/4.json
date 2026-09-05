@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És Jahve szólította Semuélt, és ⟨az⟩ így szólt: „Íme, itt vagyok.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És szólította"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuélt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és így szólt"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "„Íme, itt vagyok.”"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:41.810651671Z",
+  "model": "glm-5.3"
+}

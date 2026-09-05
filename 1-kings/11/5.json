@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ment Selomo (Salamon) Astárté után, a cidoiak istennője után, és Milkom után, az ammóniak utálata után.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És ment"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Astárté"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "istennője"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "a cidoiaknak"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "és után"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "utálata"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "az ammóniaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:08.945538552Z",
+  "model": "glm-5.3"
+}

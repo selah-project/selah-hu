@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondta: dobd ⟨את⟩ a földre! És ledobta ⟨את⟩ a földre, és kígyóvá lett — és elfutott Moshe az előle.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "dobd őt"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "és ledobta őt"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "kígyóvá"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "és elfutott"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "az előle"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:07.862378116Z",
+  "model": "glm-5.3"
+}

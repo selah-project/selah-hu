@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És Binjámin törzséből ⟨את⟩ Géba-t és ⟨את⟩ határvárosait, és ⟨את⟩ Álemet-et és ⟨את⟩ határvárosait, és ⟨את⟩ Anátót-ot és ⟨את⟩ határvárosait; minden városuk tizenhárom város ⟨az⟩ ő családjaik szerint.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "és törzséből"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjámin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gébát"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gébát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "határvárosait"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "határvárosait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Álemetet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Álemetet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "határvárosait"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "határvárosait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Anátótot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anátótot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "határvárosait"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "határvárosait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "városuk"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tizen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "három"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "családjaik szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:24.805152570Z",
+  "model": "glm-5.3"
+}

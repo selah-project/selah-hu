@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "A tökéletes igazsága egyenessé teszi az ő útját, de gonoszsága folytán a gonosz elbukik.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "igazsága"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "a tökéletesnek"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "egyenenessé teszi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "útját"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "de gonoszsága folytán"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "elbukik"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:20.143901421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Urijá (Uriás) pedig a király házának bejáratánál aludt ⟨את⟩ az ő urának minden szolgájával együtt, és nem ment le a házába.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "aludt"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijá"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő urának minden szolgája"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgájával"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "az ő urának"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ment le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a házába"
+    }
+  ],
+  "timestamp": "2026-09-04T19:25:39.975192666Z",
+  "model": "glm-5.3"
+}

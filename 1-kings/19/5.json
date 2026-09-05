@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És lefeküdt és aludt egy retem-bokor alatt, és íme ⟨ez⟩ egy követő érte nyúlt, és mondta neki: Kelj fel, egyél!",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "és lefeküdt"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "és aludt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "retem-bokor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "követő"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "érte nyúlt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "egyél"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:10.760421506Z",
+  "model": "glm-5.3"
+}

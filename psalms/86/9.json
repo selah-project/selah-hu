@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Minden népek, amelyeket alkottál, eljönnek és leborulnak orcádra, Adonáj, és dicsőítik nevedet.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "alkottál"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "eljönnek"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "és leborulnak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "orcádra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "és dicsőítik"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "nevedet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:02.360949678Z",
+  "model": "glm-5.3"
+}

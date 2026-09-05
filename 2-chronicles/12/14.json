@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És ⟨a⟩ rosszat cselekedte, mert nem készítette el az ő szívét, hogy keressen ⟨את⟩ Jahvét.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "cselekedte"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "készítette el"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "az ő szíve"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hogy keressen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:15:34.512109352Z",
+  "model": "glm-5.3"
+}

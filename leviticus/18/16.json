@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Testvéred feleségének meztelenségét ne fedd fel: testvéred meztelensége ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "meztelenségét"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségének"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fedd fel"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "meztelensége"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:15.824440984Z",
+  "model": "glm-5.3"
+}

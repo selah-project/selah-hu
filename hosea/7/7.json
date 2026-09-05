@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Mindannyian felhevültek ⟨mint⟩ a kemence, és felfalták ⟨את⟩ bíráikat; minden királyuk elestek — nincs köztük, aki hozzám kiáltana.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "mindannyian"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "felhevültek"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "a kemence"
+    },
+    {
+      "surface": "ויאכלו ואכלו",
+      "gloss": "és felfalták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bíráikat"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "bíráikat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "királyuk"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "elestek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "aki kiált"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "köztük"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:51.061561468Z",
+  "model": "glm-5.3"
+}

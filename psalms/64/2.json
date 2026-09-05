@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "Hallgasd meg, Elohim, a hangomat panaszomban; az ellenség félelmétől őrizd az életemet.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hallgasd meg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "a hangomat"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "panaszomban"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "félelmétől"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "őrizd"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "az életemet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:59.831775083Z",
+  "model": "glm-5.3"
+}

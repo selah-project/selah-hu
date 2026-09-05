@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És megcsinálta ⟨את⟩ a füstölés oltárát sitimfából: egy könyök ⟨volt⟩ a hossza, és egy könyök a szélessége — négyzet alakú —, és két könyök a magassága; magából ⟨a kőből⟩ voltak a szarvai.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcsinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a füstölés oltárát"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltár"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "a füstölés"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fája"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "egy könyök"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és egy könyök"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "négyzet alakú"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "és két könyök"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "a magassága"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "magából"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "a szarvai"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:12.404696145Z",
+  "model": "glm-5.3"
+}

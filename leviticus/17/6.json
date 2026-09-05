@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És szórja a kohén ⟨את⟩ a vért Jahve oltárára, a találkozás sátorának bejáratánál, és füstölögtesse a zsírt nyugtató illatként Jahvénak.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "és szórja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohén"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ra"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "és füstölögtesse"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "illatként"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "nyugtató"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:59.471254778Z",
+  "model": "glm-5.3"
+}

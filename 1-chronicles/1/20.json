@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Joktán nemzette ⟨את⟩ Almodádot, és ⟨את⟩ Sélétet, és ⟨את⟩ Hacarmávetet, és ⟨את⟩ Járachot.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Joktán"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodádot"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodádot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Sélétet"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sélétet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hacarmávetet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hacarmávetet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Járachot"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Járachot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:47.895744881Z",
+  "model": "glm-5.3"
+}

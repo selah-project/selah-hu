@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És elvetem őt magamnak a földön, és megkönyörülök ⟨azon⟩, akit ⟨את⟩ Lo-Ruhamá (nem-könyörültek) ⟨volt⟩, és mondom Lo-Amminak (nem-népem): Népem vagy te, és ⟨az⟩ azt mondja: Elohimim vagy (az én Elohimom)!",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "és elvetem őt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "magamnak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "és megkönyörülök"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "könyörületet kapott"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "és mondom"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "Lo-Ammi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:17:49.844974163Z",
+  "model": "glm-5.3"
+}

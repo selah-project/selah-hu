@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "⟨A⟩ húsukból nem ehettek, és ⟨a⟩ tetemükhöz nem nyúlhattok — tamék ⟨azok⟩ nektek.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "⟨A⟩ húsukból"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehettek"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "és ⟨a⟩ tetemükhöz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nyúlhattok"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "tamék"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨azok⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:20.096384290Z",
+  "model": "glm-5.3"
+}

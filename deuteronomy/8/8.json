@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Búza és árpa földjére, szőlőtőre és fügére és gránátalmára; olajolaj és méz földjére.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "Búza"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "és árpa"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "szőlőtőre"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "és fügére"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "és gránátalmára"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olaj"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olaj"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "és méz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:53.086039284Z",
+  "model": "glm-5.3"
+}

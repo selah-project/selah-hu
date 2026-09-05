@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És megmutatta nekem ⟨את⟩ Jehosuát (Józsué), a főpapot, amint Jahve angyala előtt áll, és a sátán állt a jobbján, hogy vádolja őt.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "és megmutatta nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosuát"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosuát"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "a fő"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "állt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "angyala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "és a sátán"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "állt"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "a jobbján"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "hogy vádolja őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:32:59.115402498Z",
+  "model": "glm-5.3"
+}

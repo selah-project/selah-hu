@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha megsanyargatjátok ⟨את⟩ őket — mert ha kiáltani kiáltanak hozzám, meghallom hallom kiáltásukat:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "megsanyargatva"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sanyargatjátok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "kiáltani"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "kiáltanak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozám"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "meghallom"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hallom"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "kiáltásukat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:57.523766836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és azt mondta: „Amikor szülőnőknek segítetek ⟨את⟩ a héber asszonyoknak, és meglátjátok ⟨őket⟩ a szülőszéken: ha fia ⟨az⟩, öljetek meg ⟨את⟩ őt, de ha leánya ⟨az⟩, akkor éljen.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és azt mondta"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "amikor szülőnőknek segítetek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a héber asszonyoknak"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "a héber asszonyoknak"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "és meglátjátok"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨őket⟩ a"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "szülőszéken"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "öljetek meg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt (a fiút)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "de ha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leánya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "akkor éljen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:41.158939496Z",
+  "model": "glm-5.3"
+}

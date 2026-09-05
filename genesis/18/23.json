@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És közeledett Avraham, és mondta: „Ugyan eltörlöd-e az igazat a gonosszal együtt?”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "És közeledett"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ugyan…-e"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "eltörlöd"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igazat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosszal"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:20.323162223Z",
+  "model": "glm-5.3"
+}

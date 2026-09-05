@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Hogy ne hányjon ki titeket a föld, amikor megfertőztitek őt, ahogy kihányta ⟨את⟩ a népet, amely előttetek volt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Hogy ne"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "hányjon ki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "a ti megfertőztetésetek"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "amikor megfertőztitek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "kihányta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "előttetek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:52.350434947Z",
+  "model": "glm-5.3"
+}

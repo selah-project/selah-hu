@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 134,
+  "translation": "Áldjon meg téged Jahve Cionból, aki alkotta az egeket és ⟨את⟩ a földet!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "áldjon meg téged"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Cionból"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aki alkotta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egeket"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "és a földet"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.200529272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 142,
+  "translation": "Amikor ruach-om elborít ⟨engem⟩, te tudod ösvényemet; az úton, amelyen járok, csapdát rejtettek el nekem.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "amikor elborít"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "engem"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruach-om"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "ösvényemet"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "זו",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "járok"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "rejtettek el"
+    },
+    {
+      "surface": "פח",
+      "gloss": "csapdát"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:54.952697977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Benned, Jahve, keresek menedéket, soha ne szégyenüljek meg, igazságodban ments ki engem.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Benned"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "keresek menedéket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "szégyenüljek meg"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "soha"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "igazságodban"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ments ki engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:39.367682063Z",
+  "model": "glm-5.3"
+}

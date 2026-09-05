@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És történt a húsz év végén, amelyben megépítette Shelomo (Salamon) ⟨את⟩ a két házat: ⟨את⟩ Jahve házát és ⟨את⟩ a király házát.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "a végén"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyben"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "megépítette"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a két házat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "házat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:00.338159532Z",
+  "model": "glm-5.3"
+}

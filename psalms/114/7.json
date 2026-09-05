@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 114,
+  "translation": "Az Adonáj színe előtt reszkess, föld, Jaakov Eloahja színe előtt!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "reszkess"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov (Jákob)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:12.915555517Z",
+  "model": "glm-5.3"
+}

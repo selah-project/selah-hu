@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ Izebél (Jezabel) megeszik a kutyák Jizréel (Jezreel) határában, és nem lesz, aki eltemesse. És kinyitotta az ajtót, és megszökött.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebél"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "megeszik"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "a kutyák"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "határában"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizréel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nem lesz"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "aki eltemesse"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "és kinyitotta"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "az ajtót"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "és megszökött"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:41.042201741Z",
+  "model": "glm-5.3"
+}

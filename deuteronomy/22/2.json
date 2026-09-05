@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha pedig nincs közel hozzád a testvéred, és nem ismered ⟨את⟩ őt: vidd be házadba, és legyen veled, amíg testvéred meg nem keresi, és add vissza neki.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ha pedig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "közel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "ismered"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "és vidd be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bele"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "külsemébe"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "házadnak"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "meg nem keresi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "meg nem keresi őt"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "és add vissza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:54.796813067Z",
+  "model": "glm-5.3"
+}

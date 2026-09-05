@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Ad ⟨a⟩ vadalatt ⟨az⟩ eledelét, a hollók fiainak, amelyek hívnak.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Ad"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "⟨a⟩ vadalatnak"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "eledelét"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "a holló"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "hívnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:44.624918322Z",
+  "model": "glm-5.3"
+}

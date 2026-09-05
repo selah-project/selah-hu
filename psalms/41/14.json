@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Áldott ⟨legyen⟩ Jahve, Izrael Elohimja, öröktől fogva és örökké. Ámen és ámen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "öröktől fogva"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "és ámen"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:42.810836155Z",
+  "model": "glm-5.3"
+}

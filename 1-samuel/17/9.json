@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Ha képes ⟨את⟩ velem megküzdeni, és megver engem, akkor leszünk nektek szolgákká; ha pedig én képes leszek ⟨את⟩ őelőtte, és megverem őt, akkor lesztek nekünk szolgákká, és szolgáltok ⟨את⟩ minket.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "képes"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "megküzdeni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "velem"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "és megver"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "akkor leszünk"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "szolgákká"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha pedig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "képes leszek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "őelőtte"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "és megverem"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "akkor lesztek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "szolgákká"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "és szolgáltok"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "minket"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:18.001333502Z",
+  "model": "glm-5.3"
+}

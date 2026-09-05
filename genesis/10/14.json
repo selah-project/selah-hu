@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ⟨את⟩ a Patrusikat és ⟨את⟩ a Kaszluhikat — akik közül kijöttek onnan a Plistim — és ⟨את⟩ a Kaftorikat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a Patrusikat"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "a Patrusikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Kaszluhikat"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "a Kaszluhikat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kijöttek"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Plistim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Kaftorikat"
+    },
+    {
+      "surface": "כפתורים",
+      "gloss": "a Kaftorikat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:46.810251160Z",
+  "model": "glm-5.3"
+}

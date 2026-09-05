@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Laktass minket reggel a te heszed-ddel, és vígan éneklünk és örülünk minden napunkon.",
+  "tokens": [
+    {
+      "surface": "שבענu",
+      "gloss": "Laktass minkel"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a te heszed-ddel"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "és vígan éneklünk"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "és örülünk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "napunkon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:44.276723202Z",
+  "model": "glm-5.3"
+}

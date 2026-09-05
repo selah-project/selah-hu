@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "és lerázta Parót és seregét a Szúf-tengerben, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "és lerázta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parót"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "és seregét"
+    },
+    {
+      "surface": "בים",
+      "gloss": "a ... -ben"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Szúf-tenger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tart a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:28.997123649Z",
+  "model": "glm-5.3"
+}

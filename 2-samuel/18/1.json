@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És számba vette Dawíd (Dávid) ⟨את⟩ a népet, amely ⟨את⟩ vele volt, és föléjük rendelt ezres-vezéreket és százas-vezéreket.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "És-számba-vette"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawíd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és-rendelt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "föléjük"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vezérei"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezreinek"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "és-vezérei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "százasainak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:33:09.913174413Z",
+  "model": "glm-5.3"
+}

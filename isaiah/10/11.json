@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Nemde, ahogy cselekedtem Somronnal és az ő bálványaival, úgy cselekszem Jerusalajimmel és az ő bálványaival?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Somronnal"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "és az ő bálványaival"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "cselekszem"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerusalajimmel"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "és az ő bálványaival"
+    }
+  ],
+  "timestamp": "2026-09-04T20:09:51.020005829Z",
+  "model": "glm-5.3"
+}

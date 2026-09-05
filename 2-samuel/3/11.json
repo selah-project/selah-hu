@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És nem tudott többé válaszolni ⟨את⟩ Avnernek egy szót, mert félt ⟨את⟩ őt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "tudott"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "válaszolni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnernek"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnernek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "egy szót"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "félt... -e"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:21:35.422422914Z",
+  "model": "glm-5.3"
+}

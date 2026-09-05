@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Aki szót megválaszol, mielőtt meghallaná — az esztelenség az neki, és gyalázat.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "megválaszol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szót"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "meghallaná"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "esztelenség"
+    },
+    {
+      "surface": "היא",
+      "gloss": "az"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "és gyalázat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:18.841450367Z",
+  "model": "glm-5.3"
+}

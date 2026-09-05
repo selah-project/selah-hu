@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És láttad ⟨את⟩ atyáink nyomorúságát Micrajimban, és ⟨את⟩ kiáltásukat meghallottad a Szuf-tenger partján.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "És láttad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyáink nyomorúságát"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorúságát"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atyáink"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "kiáltásukat"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "kiáltásukat"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "meghallottad"
+    },
+    {
+      "surface": "על",
+      "gloss": "partján"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Szuf-"
+    }
+  ],
+  "timestamp": "2026-09-04T22:56:28.012118187Z",
+  "model": "glm-5.3"
+}

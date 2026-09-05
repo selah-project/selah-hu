@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Íme, ⟨את⟩ annak vérének nem hozták be a szent hely belsejébe — ennem ennétek ⟨את⟩ ⟨azt⟩ a szent helyen, ahogy megparancsoltam.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "hozták be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak vérének"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "annak vérének"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-ba"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent hely"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "belsejébe"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ennem"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ennétek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨azt⟩",
+      "marks": "ennétek"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a szent helyen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "megparancsoltam"
+    }
+  ],
+  "timestamp": "2026-09-04T17:11:39.848683403Z",
+  "model": "glm-5.3"
+}

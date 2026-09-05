@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert gyógyíthatatlan ⟨az⟩ ő sebei, mert eljutott Jehúdáig, elérte népem kapujáig, Jerusálajimig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "gyógyíthatatlan"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "⟨az⟩ ő sebei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "באה",
+      "gloss": "eljutott"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdáig"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "elérte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapujáig"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajimig"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:54.206111539Z",
+  "model": "glm-5.3"
+}

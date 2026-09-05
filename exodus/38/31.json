@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És ⟨את⟩ a udvar talpazatait köröskörül, és ⟨את⟩ az udvar kapujának talpazatait, és ⟨את⟩ a sátorszentély összes cövekeit, és ⟨את⟩ az udvar összes cövekeit köröskörül.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a udvar talpazatait"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "talpazatait"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "a udvar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az udvar kapujának talpazatait"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "talpazatait"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapujának"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a sátorszentély összes cövekeit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "cövekeit"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a sátorszentély"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az udvar összes cövekeit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "cövekeit"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:18.830075832Z",
+  "model": "glm-5.3"
+}

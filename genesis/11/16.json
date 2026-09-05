@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Ever négy és harminc évet, és nemzette ⟨את⟩ Peleget (Peleg).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleget (Peleg)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:00.710246604Z",
+  "model": "glm-5.3"
+}

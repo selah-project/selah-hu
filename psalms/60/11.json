@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "Ki visz engem a megerősített városba? Ki vezet engem Edómig?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "visz engem"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városba"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "megerősített"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "vezet engem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eddig —"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edómig"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:39.651112011Z",
+  "model": "glm-5.3"
+}

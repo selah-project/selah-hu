@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És mondják: Azért, mert elhagyták ⟨את⟩ Jahve, az ő Elohimjuk szövetségét, és meghajoltak más istenek előtt, és azokat szolgálták.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "És mondják"
+    },
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "elhagyták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szövetséget"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "a szövetséget"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "az ő Elohimjuk"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "és meghajoltak"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "isteneknek"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "és szolgálták őket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:13.042607726Z",
+  "model": "glm-5.3"
+}

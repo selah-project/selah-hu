@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Döbbenten meg gyalázatukért cserébe, akik ezt mondják nekem: »Hah, hah!«",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Döbbenten meg"
+    },
+    {
+      "surface": "על",
+      "gloss": "ért"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "cserébe"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "gyalázatuknak"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "amik mondják"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:17.499440360Z",
+  "model": "glm-5.3"
+}

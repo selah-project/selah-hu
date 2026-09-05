@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Mert ⟨את⟩ igájának terhét és ⟨את⟩ vállának vesszejét, a rajta levő elnyomó pálcáját összetörted, mint Midján napján.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igájának terhét"
+    },
+    {
+      "surface": "על",
+      "gloss": "igát"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "terhét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "vállának vesszejét"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "vesszejét"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "vállának"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "pálcáját"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "az elnyomó(é)"
+    },
+    {
+      "surface": "בו",
+      "gloss": "amely rajta"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "összetörted"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "mint napján"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midján"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:48.020519769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És hasítsa fel ⟨את⟩ azt szárnyaival, ne vállassza szét, és füstölgesse fel ⟨את⟩ azt a kohen ⟨a⟩ oltáron, a fákon, amelyek ⟨a⟩ tűzön vannak: égőáldozat ⟨az⟩, tűzáldozat, megnyugtató illat Jahvénak.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "és hasítsa fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a madarat)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "szárnyaival"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "vállassza szét"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "és füstölgesse fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a madarat)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "oltáron"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "a fákon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűzön"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "égőáldozat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozat"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "illat"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "megnyugtató"
+    },
+    {
+      "surface": "ליהווה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:48.145138983Z",
+  "model": "glm-5.3"
+}

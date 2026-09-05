@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És monda a nép Jehosuának: ⟨את⟩ Jahvét, a mi Elohimunkat szolgáljuk, és az ő szavát hallgatjuk meg.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jehosuának"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "⟨Jehosua⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunkat"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "szolgáljuk"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "és az ő szavát"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "hallgatjuk meg"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:08.225380029Z",
+  "model": "glm-5.3"
+}

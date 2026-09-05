@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Örökre elvet-e Adonáj, és nem lesz-e többé kegyes?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Örökre(-e)"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "elvet"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "fog(-e)"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "kegyeskedni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:15.574192652Z",
+  "model": "glm-5.3"
+}

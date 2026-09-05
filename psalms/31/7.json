@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Gyűlöltem a hiúságok őrzőit, de én Jahvéba kapaszkodtam.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Gyűlöltem"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "az őrzőit"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "a hiúságok"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "hazug"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "de én"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéba"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "kapaszkodtam"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:06.433603625Z",
+  "model": "glm-5.3"
+}

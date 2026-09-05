@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "⟨Aki⟩ megbocsát minden vétkeidet, ⟨aki⟩ meggyógyít minden betegségedet,",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "megbocsát"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "vétkeidet"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "meggyógyít"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "betegségedet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:56.782374784Z",
+  "model": "glm-5.3"
+}

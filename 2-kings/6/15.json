@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És korán kelt az Elohim emberének szolgája, hogy felkeljen, és kiment, és íme: egy sereg vette körül ⟨את⟩ a várost, és lovak és harci szekerek. És mondta az ő szolgája neki: Jaj, uram! Hogyan cselekedjünk?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "És korán kelt"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "szolgája"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "hogy felkeljen"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "és kiment"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sereg"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "vette körül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "és lovak"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "és harci szekerek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "az ő szolgája"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Hogyan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "cselekedjünk"
+    }
+  ],
+  "timestamp": "2026-09-04T19:54:05.363518076Z",
+  "model": "glm-5.3"
+}

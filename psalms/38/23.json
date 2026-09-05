@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Siess segítségemre, Adonáj, én szabadításom!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "siess"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "segítségemre"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "én szabadításom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:31.076585049Z",
+  "model": "glm-5.3"
+}

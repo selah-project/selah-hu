@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ha a föld népe eltakarja szemeit ⟨את⟩ attól az embertől, amikor magvából ad a Móleknek, és nem ölik meg ⟨את⟩ őt —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "eltakarja"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "szemeit… el"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szemeiket"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "szemeiket"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–tól"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az embertől"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "attól"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "amikor ad"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "magvából"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a Móleknek"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ölik meg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:10.197783105Z",
+  "model": "glm-5.3"
+}

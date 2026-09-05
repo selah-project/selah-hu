@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És kiment a nép, és kifosztotta ⟨את⟩ az Aram táborát; és lett egy szeá finomliszt egy sékelért, és két szeá árpa egy sékelért, Jahve szava szerint.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "és kiment"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "és kifosztotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Aram táborát"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "táborát"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "egy szeá"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "finomliszt"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "egy sékelért"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "és két szeá"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "árpa"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "egy sékelért"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "—szava szerint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:56:39.825439680Z",
+  "model": "glm-5.3"
+}

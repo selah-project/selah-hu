@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És készítsék ⟨את⟩ az efodot: arany, kékség, bíborpiros, karmazsín féreg-piros és sodrott len — tervezőmunka szerint.",
+  "tokens": [
+    {
+      "surface": "ו עשו",
+      "gloss": "És készítsék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az efodot"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "az efodot"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "kékség"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "és bíborpiros"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "karmazsín féreg"
+    },
+    {
+      "surface": "שני",
+      "gloss": "piros"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és len"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "sodrott"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "munka"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tervező-"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:51.949004794Z",
+  "model": "glm-5.3"
+}

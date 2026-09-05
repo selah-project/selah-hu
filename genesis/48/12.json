@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "És kivitte Jószéf ⟨את⟩ őket az ő térdei közül, és meghajolt orcájával a földig.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "És kivitte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "közül"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "az ő térdei"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "és meghajolt"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "orcájával"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földig"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:08.261753219Z",
+  "model": "glm-5.3"
+}

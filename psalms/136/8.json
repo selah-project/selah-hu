@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "⟨את⟩ a napot, hogy uralkodjék nappal, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a napot"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a napot"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "hogy uralkodjék"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:34.959793500Z",
+  "model": "glm-5.3"
+}

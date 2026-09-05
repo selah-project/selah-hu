@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És összehívta Bárák ⟨את⟩ Zebulunt és ⟨את⟩ Naftalit Kodesba, és felvonult a lába nyomán tízezer ember, és följebbment vele Debóra.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "és összehívta"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Bárák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulunt"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulunt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Naftalit"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalit"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kodesba"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "és felvonult"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "a lába nyomán"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "és följebbment"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debóra"
+    }
+  ],
+  "timestamp": "2026-09-04T18:50:21.096381236Z",
+  "model": "glm-5.3"
+}

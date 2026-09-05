@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Nem eltitkoljuk azokat fiaik elől, az utolsó nemzedéknek hirdetve Jahve dicséreteit, és erejét, és csodáit, amelyeket tett.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "eltitkoljuk"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "fiaik elől"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nemzedéknek"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "utolsó"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "hirdetve"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "dicséreteit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "és erejét"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "és csodáit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amiket"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:15.111338324Z",
+  "model": "glm-5.3"
+}

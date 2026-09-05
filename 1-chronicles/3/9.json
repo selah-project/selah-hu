@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ezek mind Dávid (Dávid) fiai voltak, a ágyasok (ági feleségek) fiain kívül, és Támár (Támár), az ő nővérük.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid (Dávid)"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaianak"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "ági feleségek"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "és Támár (Támár)"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nővérük"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:43.881003162Z",
+  "model": "glm-5.3"
+}

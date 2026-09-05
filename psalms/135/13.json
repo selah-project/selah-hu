@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Jahve, a te neved örökké megmarad, Jahve, a te emlékezeted nemzedékről nemzedékre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a te neved"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "a te emlékezeted"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:03.614285167Z",
+  "model": "glm-5.3"
+}

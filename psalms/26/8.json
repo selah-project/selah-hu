@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Jahve, szeretem házad lakóhelyét, és dicsőséged sátora helyét.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "szeretem"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "lakóhelyét"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "házad"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "és helyét"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "sátra"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "dicsőséged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:59.636127824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És ezek ⟨a⟩ nevei Izrael (Izráel) fiainak, akik Micrajimba (Egyiptomba) jöttek: ⟨את⟩ Jaakov (Jákob), férfi és háza népe vele jöttek.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "És ezek"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nevei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael (Izráel)"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "akik jöttek"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micrajimba (Egyiptomba)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov (Jákob)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov (Jákob)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "és háza népe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "jöttek"
+    }
+  ],
+  "timestamp": "2026-09-05T00:24:37.728859728Z",
+  "model": "glm-5.3"
+}

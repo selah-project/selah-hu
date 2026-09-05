@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Mert Jahve szeretetéből ⟨את⟩-titeket, és mert megtartotta ⟨את⟩ az esküt, amelyet atyáitoknak megesküdött, kivitt titeket Jahve erős kézzel, és megváltott a szolgaság házából, Paró, Micrajim (Egyiptom) királyának kezéből.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "szeretetéből"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "és mert megtartotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az esküt"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "az esküt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "megesküdött"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "atyáitoknak"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "kivitt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kézzel"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "erős"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "és megváltott"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "a házából"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgaságnak"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-05T00:27:10.116642546Z",
+  "model": "glm-5.3"
+}

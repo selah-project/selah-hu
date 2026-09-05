@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 79,
+  "translation": "Öntsd ki haragodat azokra a népekre, amelyek nem ismernek téged, és a királyságokra, amelyek a te Neveden nem hívtak.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Öntsd ki"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "haragod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a népekre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ismernek téged"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "a királyságokra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "a te Neveden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hívtak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:03.032955564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "De te ugyanaz ⟨vagy⟩, és éveid nem érnek véget.",
+  "tokens": [
+    {
+      "surface": "ו אתה",
+      "gloss": "De te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ugyanaz"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "és éveid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "érnek véget"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:09.210563284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 140,
+  "translation": "Bizony hálát adnak a cadikim a nevednek, lakoznak az egyenesek a te orcád előtt.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "a cadikim (igazak)"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "hálát adnak"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "a nevednek"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "lakoznak \/ leülnek"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "az egyenesek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az orcád \/ a te orca előtt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "a te orcád"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:30.660085393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Mert ⟨את⟩ minden cselekedetet az Elohim ítéletbe visz, minden rejtett dologra, akár jó, akár rossz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden cselekedetet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "cselekedetet"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "visz"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ítéletbe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "rejtett dologra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "akár"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "akár"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:33.107381405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Visszafordítasz ⟨bennünket⟩ az ellenség elől, és gyűlölőink zsákmányolnak maguknak.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Visszafordítasz bennünket"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátra"
+    },
+    {
+      "surface": "מני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ellenség"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "és gyűlölőink"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "zsákmányolnak"
+    },
+    {
+      "surface": "למו",
+      "gloss": "maguknak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:41.753866241Z",
+  "model": "glm-5.3"
+}

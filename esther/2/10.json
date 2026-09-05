@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Nem közölte Eszter ⟨את⟩ népét és ⟨את⟩ származását, mert Mordocháj meghagyta neki, hogy ne közölje.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "közölte"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Eszter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népét"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "népét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "származását"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "származását"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordocháj"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "meghagyta"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "közölje"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:27.404117273Z",
+  "model": "glm-5.3"
+}

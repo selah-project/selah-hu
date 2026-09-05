@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Dávid zsoltára. Jahve, kicsoda vendégeskedik sátradban? Kicsoda lakik szent hegyeden?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kicsoda"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "vendégeskedik"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sátradban"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kicsoda"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "lakik"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "hegyén"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "szentségeden"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:29.541443821Z",
+  "model": "glm-5.3"
+}

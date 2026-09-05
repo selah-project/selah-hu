@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 36:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Az egyik kárpit hossza harminc ⟨könyök⟩, és négy könyök az egyik kárpit szélessége; egy méret ⟨van⟩ a tizenegy kárpiton.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "hossza"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "a kárpit"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "és négy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélessége"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "a kárpit"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "egy méret"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "(egy)"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "a tizenegy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(kárpiton)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kárpiton"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:38.760515748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Ha elfelejtelek téged, Jerusálajim, felejtse el jobb kezem ⟨a maga ügyességét⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "elfelejtelek téged"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "felejtse el"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "jobb kezem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:33.126697317Z",
+  "model": "glm-5.3"
+}

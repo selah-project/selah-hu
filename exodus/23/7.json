@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "A hazug beszédtől távol tartsd magad, és az ártatlant és az igazat ne öld meg, mert a bűnöst nem igazolom.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "beszédtől"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "a hazug"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "távol tartsd magad"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "és az ártatlant"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "és az igazat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "öld meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "igazolom"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a bűnöst"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:57.848836119Z",
+  "model": "glm-5.3"
+}

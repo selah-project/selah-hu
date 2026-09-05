@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ⟨את⟩ Jattirt legelőjével, és ⟨את⟩ Estemoát legelőjével.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jattirt"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jattirt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjével"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjével"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Estemoát"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Estemoát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjével"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjével"
+    }
+  ],
+  "timestamp": "2026-09-04T18:46:02.574600407Z",
+  "model": "glm-5.3"
+}

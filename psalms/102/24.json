@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Elgyengítette útközben az erőmet, megrövidítette napjaimat.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "elgyengítette"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "útközben"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "erőmet"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "megrövidítette"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjaimat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:29.614494342Z",
+  "model": "glm-5.3"
+}

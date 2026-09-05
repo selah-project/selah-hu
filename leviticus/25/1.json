@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És szólt Jahve Moshe (Mózes) hegyén, a Szináj-hegyen, mondván:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "hegyén"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "a Szináj-hegyen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:36.581122726Z",
+  "model": "glm-5.3"
+}

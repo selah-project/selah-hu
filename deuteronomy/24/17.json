@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Ne hajlítsd el a jövevény jogát, se az árváét, és ne vedd zálogba az özvegy ruháját.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "hajlítsd el"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "a jogát"
+    },
+    {
+      "surface": "גר",
+      "gloss": "a jövevény"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "se az árváét"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "vedd zálogba"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "a ruháját"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "az özvegy"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:14.658124398Z",
+  "model": "glm-5.3"
+}

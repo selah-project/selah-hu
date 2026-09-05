@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Aki megüti apját vagy anyját, halállal haljon.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Aki megüti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apját"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "vagy anyját"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:27.452651566Z",
+  "model": "glm-5.3"
+}

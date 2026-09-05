@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 124,
+  "translation": "A feljárárok éneke, Dávidtól. Ha nem lett volna Jahve, aki ⟨volt⟩ mellettünk — mondja el immár Izráel —,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a feljárárok"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "ha nem lett volna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "aki ⟨volt⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja el"
+    },
+    {
+      "surface": "נא",
+      "gloss": "immár"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:52.159368689Z",
+  "model": "glm-5.3"
+}

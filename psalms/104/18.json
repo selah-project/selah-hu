@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "A magas hegyek a vadkecskéknek ⟨valók⟩; a sziklák menedék a szirti nyulaknak.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "hegyek"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "magasak"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "a vadkecskéknek"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "sziklák"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "menedék"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "a szirti nyulaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:32.121712519Z",
+  "model": "glm-5.3"
+}

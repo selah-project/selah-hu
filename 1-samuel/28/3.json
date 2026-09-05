@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És Shemuel (Sámuel) meghalt, és gyászolták őt egész Izrael, és eltemették őt Ramában, az ő városában. És Saul eltávolította a halottidézőket és ⟨את⟩ a jósokat az országból.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "És Shemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "és gyászolták"
+    },
+    {
+      "surface": "לו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "és eltemették őt"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramában"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "az ő városában"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "És Saul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "eltávolította"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "a halottidézőket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jósokat"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "a jósokat"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "az országból"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:13.136386849Z",
+  "model": "glm-5.3"
+}

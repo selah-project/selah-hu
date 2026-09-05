@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "„Azért, mert felemeltelek a porból, és vezetőül adtalak népem, Izráél fölé, te pedig Jarobám (Jeroboám) útján jártál, és vétkessé tetted ⟨את⟩ népemet, Izráélt, hogy felingerelj engem vétkeikkel:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Azért, mert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "felemeltelek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a … -ból"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "porból"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "és adtalak"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "vezetőül"
+    },
+    {
+      "surface": "על",
+      "gloss": "… fölé"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "jártál"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobám"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "és vétkessé tetted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet, Izráélt"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráélt"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "hogy felingerelj engem"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "vétkeikkel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:15.082615677Z",
+  "model": "glm-5.3"
+}

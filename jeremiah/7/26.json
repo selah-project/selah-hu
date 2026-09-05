@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "De nem hallgattak rám, és nem hajlották ⟨את⟩ fülüket, hanem megkeményítették ⟨את⟩ nyakukat — gonoszul tetten az atyáiknál.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "De nem"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hallgattak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "hajlították"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fülüket"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "fülüket"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "hanem megkeményítették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyakukat"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "nyakukat"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "gonoszul tetten"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "az atyáiknál"
+    }
+  ],
+  "timestamp": "2026-09-04T20:35:11.880970800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 142,
+  "translation": "Kiterítem előtte panaszomat, nyomorúságomat előtte megjelentem.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "kiterítem"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "panaszomat"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "nyomorúságomat"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "megjelentem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:54.952446528Z",
+  "model": "glm-5.3"
+}

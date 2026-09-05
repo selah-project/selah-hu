@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És szólt Paroh: Íme, most sokan ⟨a⟩ föld népei, és ti megállítjátok ⟨את⟩ őket az ő terheikből.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sokan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe(i)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "és megállítjátok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "az ő terheikből"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:50.929259168Z",
+  "model": "glm-5.3"
+}

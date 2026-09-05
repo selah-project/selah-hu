@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "és kimentelek ⟨את⟩ e várost Asszíria királyának kezéből, és megoltalmazom e várost.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "és kezéből"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asszíria"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "kimentelek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "e várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "és megoltalmazom"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ért"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:19.497152075Z",
+  "model": "glm-5.3"
+}

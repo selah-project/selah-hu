@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Emelkedj fel, a föld bírája, fizess vissza ⟨a⟩ gőgösöknek!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Emelkedj fel"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "bírája"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "השב",
+      "gloss": "fizess vissza"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "⟨a⟩ megfizetést"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "gőgösöknek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:08.604821992Z",
+  "model": "glm-5.3"
+}

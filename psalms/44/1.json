@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "A karmesternek, a Korach-fiainak, oktató ének.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a fiainak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "oktató ének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:28.650805615Z",
+  "model": "glm-5.3"
+}

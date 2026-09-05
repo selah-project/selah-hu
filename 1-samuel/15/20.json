@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És monda Saul Sámuelnek: Hiszen hallgattam Jahve szavára, és jártam az úton, amelyen elküldött engem Jahve, és behoztam ⟨את⟩ Ágágot, Amálek királyát, és ⟨את⟩ Amáleket kiirtottam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sámuelnek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Hiszen"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hallgattam"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "és jártam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "elküldött engem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "és behoztam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ágágot"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Ágágot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Amáleket"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amáleket"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "kiirtottam"
+    }
+  ],
+  "timestamp": "2026-09-04T19:10:38.210440464Z",
+  "model": "glm-5.3"
+}

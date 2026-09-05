@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Jaj, akik mélyre ásnak, hogy elrejtsenek tanácsot Jahve elől, és sötétségben vannak tetteik, és mondják: Ki lát minket, és ki ismer minket?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "jaj"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "akik mélyre ásnak"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahve elől"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "hogy elrejtsenek"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tanácsot"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és ⟨van⟩"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "sötétségben"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "tetteik"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondják"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "lát minket"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "ismer minket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:17:09.174243706Z",
+  "model": "glm-5.3"
+}

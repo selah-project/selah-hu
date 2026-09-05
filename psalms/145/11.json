@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Királyságod dicsőségét mondják, és hatalmadról szólnak.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőségét"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "Királyságod"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mondják"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "és hatalmadról"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "szólnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:53.169531944Z",
+  "model": "glm-5.3"
+}

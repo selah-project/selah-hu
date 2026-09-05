@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 143,
+  "translation": "Mert ellenség üldözi az én lelkemet, a földre tiporja az én életemet; sötétségbe ültetett engem, mint az ősidők halottait.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "üldözi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ellenség"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "tiporja"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "életemet"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ültetett engem"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "sötétségbe"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "mint a halottait"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "az ősidőknek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:34.396240076Z",
+  "model": "glm-5.3"
+}

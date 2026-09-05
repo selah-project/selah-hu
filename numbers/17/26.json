@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És megtevé Moshe, ahogyan megparancsolta Jahve őt ⟨את⟩, úgy tette.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megtevé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "őt ⟨את⟩",
+      "marks": "őt (Moshe)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tette"
+    }
+  ],
+  "timestamp": "2026-09-04T17:38:02.489488085Z",
+  "model": "glm-5.3"
+}

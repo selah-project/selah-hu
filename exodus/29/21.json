@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 29:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És vegyél a vérből, amely ⟨az⟩ oltáron ⟨van⟩, és a kenet olajából, és hintsd Aháronra (Áronra) és ruháira, és fiaira, és fiai ruháira ⟨את⟩ véle; és megszenteltetik ⟨ő⟩, és ruhái, és fiai, és fiai ruhái ⟨את⟩ véle.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "És vegyél"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vérből"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "oltáron"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨az⟩ oltáron"
+    },
+    {
+      "surface": "ומשמן",
+      "gloss": "és az olajából"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a kenet"
+    },
+    {
+      "surface": "והזית",
+      "gloss": "és hintsd"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aháronra (Áronra)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ruháira"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháira"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és fiaira"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiaira"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ruháira"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruháira"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ véle",
+      "marks": "fiai ruháira véle"
+    },
+    {
+      "surface": "וקדש",
+      "gloss": "és megszenteltetik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "és ruháira"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "ובגדי",
+      "gloss": "és ruhái"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ véle",
+      "marks": "fiai ruhái véle"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:32.078430544Z",
+  "model": "glm-5.3"
+}

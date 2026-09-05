@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Bűnnek kijelentése ⟨van⟩ a hitvány felé szívem mélyén: nincs Elohim félelme a szeme előtt.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "Bűn"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "a hitvány felé"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mélyén"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "félelme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "a szeme"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:15.195288236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És összeköltak Amon szolgái ellene, és megölették ⟨את⟩ a királyt a házában.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "és összeköltak"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ellene"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "és megölették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "a házában"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:34.424644088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És történt negyven nap végén, hogy Noach (Noé) kinyitotta ⟨את⟩ a bárka ablakát, amelyet készített.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "végén"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "kinyitotta"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bárka ablakát"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ablakát"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "a bárka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készített"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:10.009248267Z",
+  "model": "glm-5.3"
+}

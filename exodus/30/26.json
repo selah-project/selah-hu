@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És kend be vele ⟨את⟩ a találkozás sátrát, és ⟨את⟩ a bizonyság ládáját.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "És kend be"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a találkozás sátrát"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrát"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a találkozásnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bizonyság ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a bizonyságnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:15.270750235Z",
+  "model": "glm-5.3"
+}

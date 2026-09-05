@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És készítsd el ⟨את⟩ az oltárt sitsim-fából: öt könyök hosszú és öt könyök széles, négyszögű lesz az oltár, és három könyök a magassága.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És készítsd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárt"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fájából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitism"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "és öt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "széles"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "négyszögű"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "és három"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "a magassága"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:22.937674390Z",
+  "model": "glm-5.3"
+}

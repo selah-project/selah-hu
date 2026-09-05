@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 14:9",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Csak Jahve ellen ne lázadjatok, és ti se féljetek ⟨את⟩ az ország népétől, mert ők a mi kenyerünk; eltávozott az árnyékuk róluk, és Jahve ⟨van⟩ ⟨את⟩ velünk — ne féljetek tőlük.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve ellen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמרדו",
+      "gloss": "lázadjatok"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "és ti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ország népétől"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "a mi kenyerünk"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ők"
+    },
+    {
+      "surface": "סר",
+      "gloss": "eltávozott"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "árnyékuk"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "róluk"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראם",
+      "gloss": "féljetek tőlük"
+    }
+  ],
+  "timestamp": "2026-09-04T17:34:28.453642693Z",
+  "model": "glm-5.3"
+}

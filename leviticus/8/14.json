@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És előhozatta ⟨את⟩ a bűnért szóló bikát, és Aharon és ⟨את⟩ az ő fiai rátették kezeiket a bűnért szóló bika fejére.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "előhozatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bűnért szóló bikát"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bikát"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a bűnért szóló"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "ráta­szított"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és az ő fiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezeiket"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kezeiket"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejére"
+    },
+    {
+      "surface": "פר",
+      "gloss": "biká"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a bűnért szóló"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:32.199621757Z",
+  "model": "glm-5.3"
+}

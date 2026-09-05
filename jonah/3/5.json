@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És hittek Ninve férfiai az Elohimban, és böjtöt hirdettek, és zsákot öltöttek magukra, nagyjuktól a kicsinyjekig.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "És hittek"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiai"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninve"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "az Elohimban"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "és hirdettek"
+    },
+    {
+      "surface": "צום",
+      "gloss": "böjtöt"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "és öltöttek"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "zsákot"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "nagyjuktól"
+    },
+    {
+      "surface": "ו-עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "kicsinyjekig"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:56.603369465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Az igazak vágya csak jó, a gonoszak várakozása pedig harag.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "vágya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazaknak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "várakozása"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszaknak"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "harag"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:25.520732055Z",
+  "model": "glm-5.3"
+}

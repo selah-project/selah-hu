@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Őrizd nyelvedet a rossztól, és ajkaidat a csalás beszédétől!",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Őrizd"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "nyelvedet"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "a rossztól"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "és ajkaidat"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a beszédétől"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "a csalás"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:28.697563614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És szolgálták Izráel fiai ⟨את⟩ Eglont, Móáb királyát, tizennyolc évig.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "És szolgálták"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglont"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglont"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móáb"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "nyolc"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évig"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:29.688969359Z",
+  "model": "glm-5.3"
+}

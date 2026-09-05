@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És lett reggel, és írt David ⟨את⟩ a levelet Joavnak (Jóábnak), és elküldte Urija (Uriás) kezével.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "írt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "levelet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Joavnak"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "elküldte"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezével"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    }
+  ],
+  "timestamp": "2026-09-04T19:25:41.480060564Z",
+  "model": "glm-5.3"
+}

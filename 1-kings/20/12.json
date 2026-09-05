@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És történt, amikor ⟨את⟩ ezt a dolgot meghallotta — ő pedig ivott, ő és a királyok a sátrakban —, hogy mondta szolgáinak: „Álljatok rendbe!” És rendbe álltak a város ellen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "amikor meghallotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ivott"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "és a királyok"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "a sátrakban"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "álljatok rendbe"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "és rendbe álltak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:02.056172468Z",
+  "model": "glm-5.3"
+}

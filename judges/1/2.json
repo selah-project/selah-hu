@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondta Jahve: Jehúda menjen fel; íme, kezembe adtam ⟨את⟩ az országot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "menjen fel"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az országot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezembe"
+    }
+  ],
+  "timestamp": "2026-09-04T18:48:37.271964178Z",
+  "model": "glm-5.3"
+}

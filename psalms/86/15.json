@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Te pedig, Adonáj, irgalmas és kegyes El, hosszú tüzeltségű, és nagy heszed és hűség ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Te pedig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "irgalmas"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "és kegyes"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "tüzeltségű"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "és nagy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "és hűség"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:20.237011707Z",
+  "model": "glm-5.3"
+}

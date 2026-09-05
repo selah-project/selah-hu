@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "Mindnyájan úgy tévelyegtünk, mint a juhok, kiki a maga útjára fordultunk, és Jahve őreá hozta ⟨את⟩ mindnyájunk vétkét.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Mindnyájan"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "mint a juhok"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "tévelyegtünk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiki"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "a maga útjára"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "fordultunk"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "hozzaütötte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "őreá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindnyájunk vétkét"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vétkét"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "mindnyájunk"
+    }
+  ],
+  "timestamp": "2026-09-04T20:27:10.533255011Z",
+  "model": "glm-5.3"
+}

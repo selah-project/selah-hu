@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Abban az időben felvonultak Nevukadnecar (Nebukadnezár), Bábel királyának szolgái Jerusálaim ellen, és a város ostrom alá került.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Abban az időben"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "felvonultak"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnecar (Nebukadnezár)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálaim ellen"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "és került"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ostrom alá"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:34.716792359Z",
+  "model": "glm-5.3"
+}

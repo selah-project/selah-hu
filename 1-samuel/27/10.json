@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És mondta Akís: „Hová törtetek ma?” És mondta Dávid: „Jehúda (Júda) déli vidékére, és a Jérachmeelita déli vidékére, és a Kénita déli vidékére.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akís"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kérdő részecske)"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "törtetek (fosztogattatok)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "déli vidékére"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és -ra"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "déli vidékére"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "a Jérachmeelita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és -hez"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "déli vidékére"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "a Kénita"
+    }
+  ],
+  "timestamp": "2026-09-04T19:18:04.631712296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 18:13",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "„Hát nem hirdettetett meg az én uramnak ⟨את⟩ az, amit cselekedtem, mikor Ízável megölte ⟨את⟩ Jahve prófétáit, és elrejtettem Jahve prófétái közül száz embert, ötvenet-ötvenen, egy barlangban, és élelmeztem őket kenyérrel és vízzel?”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Hát nem"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "hirdettetett meg"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "az én uramnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit cselekedtem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "mikor megölte"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ízável"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve prófétáit"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "prófétái"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "és elrejtettem"
+    },
+    {
+      "surface": "מנביאי",
+      "gloss": "prófétái közül"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötvenet"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötvenen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "egy barlangban"
+    },
+    {
+      "surface": "ואכלכלם",
+      "gloss": "és élelmeztem őket"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyéren"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "és vízen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:03.681147212Z",
+  "model": "glm-5.3"
+}

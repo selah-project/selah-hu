@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Fiam, ha vétkezők csábítanak téged, ne engedj.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Fiam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "csábítanak"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "vétkezők"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "engedj"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:11.229439742Z",
+  "model": "glm-5.3"
+}

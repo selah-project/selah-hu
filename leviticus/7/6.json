@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Minden hímnemű a papok közül eheti ⟨את⟩ ⟨azt⟩; szent helyen étetik; szentségek szentsége ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hímnemű"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "a papok közül"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "eheti ⟨azt⟩"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "étetik"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentségek"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentsége"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:09.563283618Z",
+  "model": "glm-5.3"
+}

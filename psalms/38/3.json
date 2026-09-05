@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Mert nyilaid belém fúródtak, és kezed rám nehezedett.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "nyilaid"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "belém fúródtak"
+    },
+    {
+      "surface": "בי",
+      "gloss": "belém"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "és rám nehezedett"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:52.692593275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "mert a munkát végzőknek adták azt, és megerősítették vele ⟨את⟩ a Jahve házát.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "végzőinek"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "a munka"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "adták azt"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "és megerősítették"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jahve házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:14.107917812Z",
+  "model": "glm-5.3"
+}

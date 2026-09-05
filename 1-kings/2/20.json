@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ⟨az asszony⟩ ezt mondta: „Egy kicsiny kérést kérek ⟨את⟩-tedtől; ne fordítsd el ⟨את⟩ arcomat.” És a király ezt mondta neki: „Kérj, édesanyám, mert nem fordítom el ⟨את⟩ arcodat.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "kérést"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kicsinyt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "kérek"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "tőled ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "fordítsd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcomat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcomat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "kérj"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "édesanyám"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "fordítom el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcodat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "arcodat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:20.519775582Z",
+  "model": "glm-5.3"
+}

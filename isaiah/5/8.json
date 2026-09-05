@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Jaj a házat házhoz érőknek, mezőt mezőhöz közelítőknek, míg helynek vége ⟨lesz⟩, és ti egyedül laktok ⟨ majd ⟩ a föld közepette!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "érőknek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házhoz"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mezőt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mezőhöz"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "közelítőknek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "vége"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helynek"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "és laktok"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepette"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:49.128150606Z",
+  "model": "glm-5.3"
+}

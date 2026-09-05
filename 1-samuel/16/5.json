@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És monda: Békesség; áldozni jöttem Jahvénak; szenteljétek meg magatokat, és jöjjetek velem ⟨את⟩ az áldozáshoz. És megszentelte Jisait (Isai) és ⟨את⟩ fiait, és meghívta őket ⟨את⟩ az áldozatra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Békesség"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "áldozni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jöttem"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "szenteljétek meg magatokat"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "és jöjjetek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "velem ⟨את⟩"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "az áldozáshoz"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "És megszentelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisait"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisait (Isai)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és meghívta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "az áldozatra"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:11.561980711Z",
+  "model": "glm-5.3"
+}

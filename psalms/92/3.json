@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "Hirdetni hajnalban a heszededet, és a hűségedet az éjszakákon",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Hirdetni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hajnalban"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a heszededet"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "és a hűségedet"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "az éjszakákon"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:08.854610356Z",
+  "model": "glm-5.3"
+}

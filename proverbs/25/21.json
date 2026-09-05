@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Ha éhezik a gyűlölőd, etesd meg őt kenyérrel; és ha szomjazik, itasd meg őt vízzel.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "éhezik"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "a gyűlölőd"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "etesd meg őt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyérrel"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "szomjazik"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "itasd meg őt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vízzel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:16.760189187Z",
+  "model": "glm-5.3"
+}

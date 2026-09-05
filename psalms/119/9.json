@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Mivel tisztítja meg ⟨את⟩ az útját ⟨a⟩ ifjú? Azzal, hogy őrzi a te igédet.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Mivel"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "tisztítja meg"
+    },
+    {
+      "surface": "נער",
+      "gloss": "⟨a⟩ ifjú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az útját"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "az útját"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "a te igédet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:45.473484702Z",
+  "model": "glm-5.3"
+}

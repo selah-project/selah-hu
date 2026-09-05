@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És íme, nemzett egy fiút, aki látta apjának minden bűnét, amelyet elkövetett, és látva félte, és nem tette úgy az.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "És íme"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzett"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiút"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apjának minden bűnét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bűnét"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apjának"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "elkövetett"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "és látva félte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tette"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "úgy az"
+    }
+  ],
+  "timestamp": "2026-09-04T21:04:52.233829505Z",
+  "model": "glm-5.3"
+}

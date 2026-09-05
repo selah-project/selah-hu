@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 36:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És Timna ágyasa volt Elifaznak, Esav fiának, és szült Elifaznak ⟨את⟩ Amáleket; ezek Ada fiai, Esav feleségének.",
+  "tokens": [
+    {
+      "surface": "ותמנע",
+      "gloss": "És Timna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "ágyasa"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elifaznak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavnak"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elifaznak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amáleket"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amáleket"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adának"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségének"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:33.256877289Z",
+  "model": "glm-5.3"
+}

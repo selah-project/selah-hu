@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 112,
+  "translation": "Dicsérjétek Jah-t! Boldog ⟨az⟩ ember, aki fél ⟨את⟩ Jahvét, az ő parancsolataiban gyönyörködve nagyon.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "parancsolataiban"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gyönyörködve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:21.650154301Z",
+  "model": "glm-5.3"
+}

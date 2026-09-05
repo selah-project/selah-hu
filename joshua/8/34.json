@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És azután felolvasta ⟨את⟩ a Tora (Tóra) minden szavát, az áldást és az átkot, mindazok szerint, amik meg vagynak írva a Tora könyvében.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "és azután"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aztán"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "felolvasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden szavát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a Torának"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "az áldást"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "és az átkot"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "mindazok szerint"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "amik meg vagynak írva"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "a könyvében"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a Torának"
+    }
+  ],
+  "timestamp": "2026-09-04T18:37:31.746779536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megparancsoltam ⟨את⟩ nektek abban az időben ⟨את⟩ mind a dolgokat, amelyeket meg kell tennetek.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "És megparancsoltam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nektek"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind a dolgokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a dolgokat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "meg kell tennetek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:50.150871282Z",
+  "model": "glm-5.3"
+}

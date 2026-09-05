@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Élt pedig Sém, miután nemzette ⟨את⟩ Arpaksadot (Arpaksád), ötszáz évet, és nemzett fiakat és leányokat.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Élt pedig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sém"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "miután"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpaksadot"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpaksadot (Arpaksád)"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nemzett"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiakat"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "és leányokat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:50.428616690Z",
+  "model": "glm-5.3"
+}

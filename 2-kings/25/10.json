@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És ⟨את⟩ Jerusálajim falait köröskörül lerontotta a kasdi seregnek mind a hadereje, amely a mészárosok főnöke alatt ⟨állt⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jerusálajim falait"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "falait"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "lerontotta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hadereje"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "רב",
+      "gloss": "főnöke"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mészárosok"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:36.021321802Z",
+  "model": "glm-5.3"
+}

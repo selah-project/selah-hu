@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Elvetett ezüstnek nevezték ⟨azokat⟩, mert elvetette Jahve ⟨őt bennük⟩ — mert elvetette őket Jahve.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "elvetett"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nevezték"
+    },
+    {
+      "surface": "להם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "elvetette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "őket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:34:30.821745053Z",
+  "model": "glm-5.3"
+}

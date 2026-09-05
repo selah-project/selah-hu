@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "És most ne féljetek: én eltartalak ⟨את⟩ titeket és ⟨את⟩ a ti kicsinyeiteket. És megvigasztalta ⟨את⟩ őket, és beszélt az ő szívükre.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "eltartalak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a ti kicsinyeiteket"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "a ti kicsinyeiteket"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "és megvigasztalta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és beszélt"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "szívükre"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:00.741912559Z",
+  "model": "glm-5.3"
+}

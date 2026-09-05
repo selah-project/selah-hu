@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És mondtak Moshenek (Mózesnek): „Te beszélj velünk, és mi hallgatunk; de ne beszéljen velünk ⟨את⟩ az Elohim, hogy meg ne haljunk.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondtak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshenek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "és mi hallgatunk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "de ne"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "beszéljen"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy…ne"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "meg haljunk"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:43.639953771Z",
+  "model": "glm-5.3"
+}

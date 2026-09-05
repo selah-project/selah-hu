@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Miért zendültek fel a népek, és a nemzetek miért gondolnak hiábavalót?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "zendültek fel"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "és a nemzetek"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "gondolnak"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "hiábavalót"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:30.053561110Z",
+  "model": "glm-5.3"
+}

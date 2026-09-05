@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 55:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Miért méritek pénzt ⟨את⟩ ami nem kenyér, és fáradságotokat ⟨ami⟩ nem lakatja jól? Halljátok meg érettem hallgatva, és egyetek jót, és lakjon jóllakásban a lelketek!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "תשקלו",
+      "gloss": "méritek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénzt"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "⟨ami⟩ nem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyér"
+    },
+    {
+      "surface": "ויגיעכם",
+      "gloss": "és fáradságotokat"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "⟨ami⟩ nem"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "lakatja jól"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok meg"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "hallgatva"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "érettem"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "és egyetek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "ותתענג",
+      "gloss": "és lakjon jóllakásban"
+    },
+    {
+      "surface": "בדשן",
+      "gloss": "zsírságban"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "a lelketek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:16.159741164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És meghajolt az ember, és megaláztatott a férfi, és ne kegyelmezz nekik.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "és meghajolt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "és megaláztatott"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kegyelmezz"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T20:07:26.466469023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Jahve, ⟨van⟩ heszed ⟨a⟩ mennyekben, hűséged egészen a felhőkig ⟨ér⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "⟨a⟩ mennyekben"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "hűséged"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "a felhőkig"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:37.035316802Z",
+  "model": "glm-5.3"
+}

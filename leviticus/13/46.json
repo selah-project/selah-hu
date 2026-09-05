@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Minden nap, ameddig a négua ⟨van⟩ benne, tisztátalan ⟨lesz⟩; tisztátalan ⟨ő⟩; egyedül lakjék, a táboron kívül legyen lakóhelye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ameddig"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "a négua"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tisztátalan ⟨lesz⟩"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lakjék"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "a táboron"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "lakóhelye"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:21.061496502Z",
+  "model": "glm-5.3"
+}

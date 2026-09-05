@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Jahve, erőddel örvendezik ⟨a⟩ király, és szabadításodban — mennyire ujjong ⟨ő⟩!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "erőddel"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvendezik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "és szabadításodban"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mennyire"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ujjong"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨nagyon⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:53.691931765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ami volt, az rég meg lett nevezve, és ismert, hogy ⟨ő az⟩ ember; és nem tud pereskedni azzal, aki hatalmasabb nála.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ami"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "rég"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "meg lett nevezve"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a neve"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "és ismert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "tud"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "pereskedni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-vel"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "aki hatalmasabb"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nála"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:07.297356905Z",
+  "model": "glm-5.3"
+}

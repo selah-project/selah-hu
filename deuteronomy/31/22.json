@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És megírta Moshe (Mózes) ⟨את⟩ ezt az éneket azon a napon, és megtanította ⟨את⟩ Jiszráel (Izrael) fiainak.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "És megírta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt az éneket"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "az éneket"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "és megtanította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráel fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel (Izrael)"
+    }
+  ],
+  "timestamp": "2026-09-04T18:33:16.054511086Z",
+  "model": "glm-5.3"
+}

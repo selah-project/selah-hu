@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És körülvezette Elohim ⟨את⟩ a népet a pusztai úton, a Szuf-tenger felé; és harcra készen vonultak fel Izrael fiai Micrajim földjéről.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "És körülvezette"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "a pusztai"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Szuf"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "harcra készen"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vonultak fel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:56.627718653Z",
+  "model": "glm-5.3"
+}

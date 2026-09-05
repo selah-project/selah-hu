@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "És szólt Paró a fivéreihez: „Mi a foglalkozásotok?” És mondják Parónak: „Juhászok a te szolgáid, éppúgy mi, éppúgy atyáink.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a fivérei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "a foglalkozásotok"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondják"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…nak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "juhászok"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juh-"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "a te szolgáid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "éppúgy"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "éppúgy"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "atyáink"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:43.869003782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És Ahólivámá (Oholibáma) megszülte ⟨את⟩ Jeúst és ⟨את⟩ Jalámot és ⟨את⟩ Korachot; ezek Esav (Ézsau) fiai, akik neki születtek Kenaan (Kánaán) országában.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "és Ahólivámá"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "megszülte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeúst"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeúst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jalámot"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jalámot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Korachot"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachot"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "születtek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "országában"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:48.292696656Z",
+  "model": "glm-5.3"
+}

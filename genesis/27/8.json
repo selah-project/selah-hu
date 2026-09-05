@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És most, fiam, hallgass a szavamra, arra, amit én parancsolok ⟨את⟩ neked.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgass"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "a szavamra"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "arra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parancsolok"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ neked",
+      "marks": "(téged)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:31:24.754198053Z",
+  "model": "glm-5.3"
+}

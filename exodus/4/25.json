@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És fogta Cippóra (Szippóra) ⟨את⟩ a kőkést, és levágta fia előbőrét, és hozzáérintette a lábához, és mondta: mert véres vő vagy te nekem.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cippóra"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kőkés"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "és levágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fia előbőrét"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "előbőrét"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "fia"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "és hozzáérintette"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "a lábához"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "vő"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "véres"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:55.620522143Z",
+  "model": "glm-5.3"
+}

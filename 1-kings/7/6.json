@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ⟨את⟩ az oszlopok csarnokát megcsinálta: ötven könyök ⟨volt⟩ a hossza, és harminc könyök a szélessége, és ⟨van⟩ egy csarnok ⟨előttük⟩, és oszlopok és vastag gerenda előttük.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az oszlopok csarnokát"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "csarnok"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "az oszlopok"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "megcsinálta"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötven"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "és csarnok"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellenében"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "arcaik"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "és oszlopok"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "és vastag gerenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellenében"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "arcaik"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:55.740988640Z",
+  "model": "glm-5.3"
+}

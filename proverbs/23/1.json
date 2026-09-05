@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ha elé ülsz enni ⟨את⟩ egy uralkodóval, vedd észre gondosan ⟨את⟩ azt, ami előtted van.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ülsz"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "enni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egy uralkodóval"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "uralkodóval"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vedd észre"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "gondosan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, ami előtted van"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "azt, ami"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted van"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:23.858114234Z",
+  "model": "glm-5.3"
+}

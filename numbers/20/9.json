@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És fogta Moshe (Mózes) ⟨את⟩ a bottot Jahve színe elől, ahogyan megparancsolta neki.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És fogta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bottot"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "a bottot"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "megparancsolta neki"
+    }
+  ],
+  "timestamp": "2026-09-04T17:39:43.698525251Z",
+  "model": "glm-5.3"
+}

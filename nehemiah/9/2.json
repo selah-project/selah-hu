@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 9:2",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És elváltak Izráel magja minden idegen fiatól, és felálltak, és megvallották bűneiket és atyáik vétkeit.",
+  "tokens": [
+    {
+      "surface": "ויבדלו",
+      "gloss": "És elváltak"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden ... tól"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiától"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "és felálltak"
+    },
+    {
+      "surface": "ויתודו",
+      "gloss": "és megvallották"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ nullásként ⟩"
+    },
+    {
+      "surface": "חטאתיהם",
+      "gloss": "bűneiket"
+    },
+    {
+      "surface": "ועונות",
+      "gloss": "és vétkeit"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "atyáik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:56:22.977164737Z",
+  "model": "glm-5.3"
+}

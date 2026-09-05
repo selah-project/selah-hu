@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És monda Avsalom Húsajnak: ez a te heszeded ⟨את⟩ a te barátod iránt? Miért nem mentél el ⟨את⟩ a te barátoddal?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Húsaj"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a te heszeded"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te barátod iránt"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "a te barátod"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "mentél el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te barátoddal"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "a te barátoddal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:29:42.877904631Z",
+  "model": "glm-5.3"
+}

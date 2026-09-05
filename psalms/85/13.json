@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Bizony, Jahve megadja a jót, és a földünk megadja a termését.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "megadja"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "a jót",
+      "marks": "a jót"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "és a földünk"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "megadja"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "a termését"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.201434626Z",
+  "model": "glm-5.3"
+}

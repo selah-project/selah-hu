@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És történt, mihelyst megerősödött a királyság a kezében, hogy megölte ⟨את⟩ szolgáit, akik megölték ⟨את⟩ a királyt, az ő atyját.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mihelyst"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "megerősödött"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "a királyság"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a kezében"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "megölte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáit"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "akik megölték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő atyját"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:31.274405939Z",
+  "model": "glm-5.3"
+}

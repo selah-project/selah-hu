@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Áldozzatok igazságnak áldozatait, és bízzatok Jahvéban.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Áldozzatok"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "áldozatait"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságnak"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "és bízzatok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "[Jahvéban]"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:24.687911191Z",
+  "model": "glm-5.3"
+}

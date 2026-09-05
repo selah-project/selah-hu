@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Ne legyen neki heszedet nyújtó, és ne legyen árváinak kegyelmet adó.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "משך",
+      "gloss": "heszedet nyújtó"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "kegyelmet adó"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "árváinak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:14.566415138Z",
+  "model": "glm-5.3"
+}

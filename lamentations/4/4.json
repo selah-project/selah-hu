@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "A szopós nyelve rátapadt szájpadlására a szomjtól; a kicsinyek kenyeret kértek, és nincs, aki szétossza nekik.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "ratapadt"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nyelve"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "a szopósnak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "szájpadlására"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "a szomjtól"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "a kicsinyek"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "kértek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "szétosztó"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:18.739255493Z",
+  "model": "glm-5.3"
+}

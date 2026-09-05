@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És behelyezte ⟨את⟩ a rúdakat a gyűrűkbe a ládának oldalaira, hogy vigyék ⟨את⟩ a ládát.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "behelyezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a rúdakat"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "a rúdakat"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "a gyűrűkbe"
+    },
+    {
+      "surface": "על",
+      "gloss": "erre"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "az oldalaira"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "a ládának"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hogy vigyék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ládát"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "a ládát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:32.022561209Z",
+  "model": "glm-5.3"
+}

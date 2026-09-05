@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És megkérdezte ⟨את⟩ a fáraó udvariembereit, akik ⟨את⟩-vel vele voltak őrzésben ura házában, mondván: Miért rosszak a ti arcotok ma?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "És megkérdezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fáraó udvariembereit"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "udvariembereit"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a fáraó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "őrzésben"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ura"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "a ti arcotok"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "rosszak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:17.350275256Z",
+  "model": "glm-5.3"
+}

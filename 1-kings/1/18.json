@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És most, íme, Adonijá király lett, és most, uram, ⟨a⟩ király, te nem tudod.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonijá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király lett"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨a⟩ király"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudod"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:19.394433540Z",
+  "model": "glm-5.3"
+}

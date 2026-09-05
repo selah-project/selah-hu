@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Rontanunk rontottunk ellened, és nem tartottuk meg ⟨את⟩ a parancsolatokat és ⟨את⟩ a rendelkezéseket és ⟨את⟩ a jogrendeket, amelyeket megparancsoltál ⟨את⟩ Moshe (Mózes) szolgádnak.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "Rontanunk"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "rontottunk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "tartottuk meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a parancsolatokat"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "a parancsolatokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a rendelkezéseket"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "a rendelkezéseket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jogrendeket"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "a jogrendeket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "megparancsoltál"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe szolgádnak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:54:24.829721406Z",
+  "model": "glm-5.3"
+}

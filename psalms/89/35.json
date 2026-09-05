@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Nem gyalázom meg szövetségem, és ami ajkaimból kijön, nem változtatom meg.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "gyalázom meg"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségem"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "és ami kijön"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ajkaimból"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "változtatom meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:20.809369160Z",
+  "model": "glm-5.3"
+}

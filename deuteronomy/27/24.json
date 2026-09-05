@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Átkozott, aki titkon üti meg felebarátját; és mondja az egész nép: Ámen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Átkozott"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "aki üti meg"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "titkon"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:19.896741877Z",
+  "model": "glm-5.3"
+}

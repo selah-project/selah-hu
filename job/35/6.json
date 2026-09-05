@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Ha vétkeztél, mit művelsz ⟨vele⟩? És ha sokszorozódtak bűneid, mit teszel ⟨neki⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "vétkeztél"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "művelsz"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨vele⟩"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "És ha sokszorozódtak"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "bűneid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teszel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:27:14.221357263Z",
+  "model": "glm-5.3"
+}

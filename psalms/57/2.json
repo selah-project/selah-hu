@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 57,
+  "translation": "Kegyelem meg engem, Elohim, kegyelem meg engem, mert benned keres menedéket ⟨a⟩ nefesem, szárnyaid árnyékában oltalmazkodom, míg elmúlnak a veszedelmek.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kegyelem meg engem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kegyelem meg engem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "keres menedéket"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨a⟩ nefesem"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "árnyékában"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "szárnyaid"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "oltalmazkodom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "elmúlnak"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "a veszedelmek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:47.109526307Z",
+  "model": "glm-5.3"
+}

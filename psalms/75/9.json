@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "Mert pohár ⟨van⟩ Jahve kezében, és a bor habzik, telve keverékkel, és ő csorogtat abból; bizony a seprőjét facsarják ki és isszák a föld minden hitványai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "pohár"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "és a bor"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "habzik"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "telve"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "keverékkel"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "és csorogtat"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "abból"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "a seprőjét"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "facsarják ki"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "isszák"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "hitványai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:04.766656115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Hol vannak ⟨most⟩ a bölcseid? És mondják meg ⟨kérlek⟩ neked, és tudják meg, mit tanácsolt Jahve Cevaót Micrajim ⟨ellen⟩!",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "hol"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "⟨most⟩"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "bölcseid"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "mondják meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kérlek⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "tudják meg"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "tanácsolt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ellen⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T23:36:15.481156718Z",
+  "model": "glm-5.3"
+}

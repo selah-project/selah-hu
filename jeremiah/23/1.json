@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Jaj a pásztoroknak, akik elveszejtik és szétszórják ⟨את⟩ legelőm nyáját — Jahve kijelentése.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "a pásztoroknak"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "elveszejtik"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "és szétszórják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legelőm nyáját"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nyáját"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "legelőm"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T20:42:47.880663129Z",
+  "model": "glm-5.3"
+}

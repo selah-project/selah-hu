@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "A zajongás hangjától megfutottak a népek; a te felemelkedésedtől szétszóródtak a nemzetek.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "A hangjától"
+    },
+    {
+      "surface": "המון",
+      "gloss": "a zajnak"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "megfutottak"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "felemelkedésedtől"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "szétszóródtak"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nemzetek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:03.081125333Z",
+  "model": "glm-5.3"
+}

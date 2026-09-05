@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Van, aki úgy szitkozódik, mint a kard döfései, de a bölcsek nyelve gyógyítás.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "szitkozódik"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "mint a döfései"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "de a nyelve"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bölcseknek"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "gyógyítás"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:55.957760552Z",
+  "model": "glm-5.3"
+}

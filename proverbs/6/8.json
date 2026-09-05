@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "nyáron előkészíti élelmét, aratáskor összegyűjti eledelét.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "előkészíti"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "nyáron"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "élelmét"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "összegyűjti"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "aratáskor"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "eledelét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:08:35.907930866Z",
+  "model": "glm-5.3"
+}

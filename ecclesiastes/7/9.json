@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ne siess a lelkedben haragra, mert a harag a balgák kebelében nyugszik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "siess"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "a lelkedben"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "haragra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "a harag"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "kebelében"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "a balgák"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "nyugszik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:20.371852408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És korán reggel keltek, és a nap felragyogott a vízre, és látta Moáb átellenben ⟨את⟩ a vizet vörösnek, mint a vér.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "és korán keltek"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "és a nap"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "felragyogott"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vízre"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "átellenben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vizet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizet"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "vörösnek"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "mint a vér"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:18.335764579Z",
+  "model": "glm-5.3"
+}

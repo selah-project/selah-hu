@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "Ellátmányát megáldom — bizony megáldom; szegényeit kenyérrel jóllakatom.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Ellátmányát"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "megáldom"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "bizony megáldom"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "szegényeit"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "jóllakatom"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyérrel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.495734315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "„Vedd ⟨את⟩ Aháront (Áront) és ⟨את⟩ fiait vele, és ⟨את⟩ a ruhákat, és ⟨את⟩ a felkenés olaját, és ⟨את⟩ a bűnért ⟨את⟩ való bikát, és ⟨את⟩ a két kost, és ⟨את⟩ a mácót ⟨את⟩ tartalmazó kosarat:",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Vedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aháront (Áront)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aháront (Áront)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a ruhákat"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "a ruhákat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a felkenés olaját"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olaját"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a felkenés"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bikát"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bikát"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a bűnért való"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a két kost"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "kost"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kosarat"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kosarat"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "a mácóknak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:51.680143182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "A kimerültnek nem adtál vizet inni, és az éhesnek megtagadtad a kenyeret.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "a kimerült(nek)"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "adtál inni"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "és az éhesnek"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "megtagadtad"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "a kenyeret"
+    }
+  ],
+  "timestamp": "2026-09-04T22:23:27.315384361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Mert ahogyan számol magában ⟨a lelkében⟩, olyan ő: „Egyél és igyál!” — mondja néked, de az ő szíve nincs veled.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "számol"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "magában"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olyan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Egyél"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "és igyál"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "néked"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "de szíve"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:23.660839443Z",
+  "model": "glm-5.3"
+}

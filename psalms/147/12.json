@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Magasztald, Jerusálajim, ⟨את⟩ Jahvét; áldd, Cion, a te Elohimod!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Magasztald"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "áldd"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:44.625783447Z",
+  "model": "glm-5.3"
+}

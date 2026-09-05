@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "akiknek szájuk hiábavalóságot szól, és jobb kezük hazug jobb kéz.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "akiknek"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "szájuk"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "hiábavalóságot"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "és jobb kezük"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobb kéz"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazug"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:29.095296858Z",
+  "model": "glm-5.3"
+}

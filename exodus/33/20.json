@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És monda: „Nem tudod ⟨את⟩ az én arcomat látni, mert nem lát meg engem az ember, és él.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "látni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az én arcomat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az én arcomat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "lát meg engem"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "és él"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:28.824951054Z",
+  "model": "glm-5.3"
+}

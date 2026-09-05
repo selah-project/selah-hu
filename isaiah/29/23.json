@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Mert amikor látja gyermekeit — kezeim ⟨az⟩ művét — ⟨az ő⟩ közepében, megszentelik a nevemet, és megszentelik ⟨את⟩ Jákob Szentjét, és Jiszráel (Izrael) Elohimját rettegve tisztelik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "amikor látja"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "gyermekeit"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "művét"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezeim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "közepében"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "megszentelik"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "a nevemet"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "és megszentelik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jákob Szentjét"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Szentjét"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jiszráel Elohimját"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimját"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "retttegve tisztelik"
+    }
+  ],
+  "timestamp": "2026-09-04T20:17:03.241002430Z",
+  "model": "glm-5.3"
+}

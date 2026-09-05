@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És sódarokkal őrölte fogaimat, hamuba tiport engem.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "És őrölte"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "sódarokkal"
+    },
+    {
+      "surface": "שני",
+      "gloss": "fogaimat"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "tiport engem"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "hamuba"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:36.680660076Z",
+  "model": "glm-5.3"
+}

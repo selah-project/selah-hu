@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 96,
+  "translation": "Örüljenek az egek, és örvendezzen a föld; zúgjon ⟨a⟩ tenger és teljessége.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "örüljenek"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "és örvendezzen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "zúgjon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨a⟩ tenger"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "és teljessége"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:57.131819682Z",
+  "model": "glm-5.3"
+}

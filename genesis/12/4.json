@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És elment Avram, ahogyan szólt hozzá Jahve, és elment ⟨את⟩ vele Lót; Avram pedig öt és hetven esztendő fia volt, amikor kiment Harránból.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele (Lót)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lót"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "Avram pedig"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "és hetven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "kilépésekor"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Harránból"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:46.065404211Z",
+  "model": "glm-5.3"
+}

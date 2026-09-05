@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És mondta Elijahú (Illés) az egész népnek: Gyertek közel hozzám! És odament hozzá az egész nép. Ő pedig megjavította ⟨את⟩ Jahve oltárát, amely le volt döntve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahú"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népnek"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Gyertek közel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "És odament"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "megjavította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve oltárát"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "amely le volt döntve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:27.186837671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A téged félek lássanak ⟨engem⟩, és örüljenek, mert a te igédben reménykedtem.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "a téged félek"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "lássanak (engem)"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "és örüljenek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "a te igéd(ben)"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "reménykedtem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:22.271054694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Az esztelen haragja már egy nap alatt ismertté válik, de a gyakorlott elrejti a gyalázatot.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "esztelen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "egy nap alatt"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ismertté válik"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "és elrejti"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "gyalázatot"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "gyakorlott"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:44.763655091Z",
+  "model": "glm-5.3"
+}

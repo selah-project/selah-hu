@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 15:29",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "⟨A⟩ bennszülöttnek Izrael fiai között és ⟨a⟩ jövevénynek, aki köztük lakik, egy Tora (Tóra) lesz nektek, ⟨a⟩ vétkesnek a tévedésből.",
+  "tokens": [
+    {
+      "surface": "האזרח",
+      "gloss": "⟨A⟩ bennszülöttnek"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "Izel fiai között"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "és ⟨a⟩ jövevénynek"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "aki lakik"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "köztük"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "לעשה",
+      "gloss": "⟨a⟩ vétkesnek"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "a tévedésből"
+    }
+  ],
+  "timestamp": "2026-09-04T17:36:43.145582109Z",
+  "model": "glm-5.3"
+}

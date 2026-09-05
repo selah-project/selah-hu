@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Ahárón háza, bízzatok Jahvéban! ⟨Ő⟩ ⟨az⟩ segítségük és pajzsuk!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárón"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bízzatok"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "segítségük"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "és pajzsuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ő⟩ ⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:06.253103890Z",
+  "model": "glm-5.3"
+}

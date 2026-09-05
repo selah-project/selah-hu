@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És visszatér a por a földre, ahogyan ⟨volt⟩, és a lélek visszatér az Elohimhoz, aki adta ⟨azt⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "És visszatér"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "a por"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "ahogyan ⟨volt⟩"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "és a lélek"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "visszatér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohimhoz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "adta ⟨azt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:07.383026451Z",
+  "model": "glm-5.3"
+}

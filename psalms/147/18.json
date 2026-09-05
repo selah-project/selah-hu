@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Elküldi szavát, és megolvasztja őket; szelet fújatja meg, és folynak a vizek.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "elküldi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "és megolvasztja őket"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "fújatja meg"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "szele"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "folynak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:06.389876933Z",
+  "model": "glm-5.3"
+}

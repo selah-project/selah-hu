@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 128,
+  "translation": "A lépcsők éneke. Boldog mindenki, aki féli Jahvét, aki az ő útjain jár.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a lépcsők"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "aki féli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "aki jár"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "az ő útjain"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:22.352587335Z",
+  "model": "glm-5.3"
+}

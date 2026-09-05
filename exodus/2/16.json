@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Midján kohanénak hét leánya volt, és ⟨ők⟩ eljötttek, mertertek, és megtöltötték ⟨את⟩ az itatóvályákat, hogy megitassák az ő atyjuk nyáját.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "és a kohannak"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midján"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hét"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leánya"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "és eljötttek"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "merítettek"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "és megtöltötték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az itatóvályákat"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "az itatóvályákat"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "hogy megitassák"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nyáját"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "atyjuk"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:09.194031993Z",
+  "model": "glm-5.3"
+}

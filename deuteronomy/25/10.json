@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És a neve Izraelben így hivatik: a lehúzott sarú háza.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "és hivatik"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a neve"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izraelben"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "a lehúzott"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sarú"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:05.550815203Z",
+  "model": "glm-5.3"
+}

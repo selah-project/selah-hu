@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megmutatta nekik ⟨את⟩ a város bejáratát, és levágták ⟨את⟩ a várost a kard élével, és ⟨את⟩ a férfit és ⟨את⟩ egész családját elbocsátották.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "megmutatta nekik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a város bejáratát"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "bejáratát"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "levágták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "élével"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a férfit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész családját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "családját"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "elbocsátották"
+    }
+  ],
+  "timestamp": "2026-09-04T18:48:50.613734810Z",
+  "model": "glm-5.3"
+}

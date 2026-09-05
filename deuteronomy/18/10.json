@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Ne találtassék benned, aki átcsereti fiát vagy leányát a tűzben, aki jósöl jóslásokat, jelkész, igéző és boszorkány.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "találtassék"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "aki átcsereti"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "vagy leányát"
+    },
+    {
+      "surface": "באש",
+      "gloss": "a tűzben"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "aki jósöl"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "jóslásokat"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "jelkész"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "és igéző"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "és boszorkány"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:39.659025311Z",
+  "model": "glm-5.3"
+}

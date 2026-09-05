@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Szép ⟨a⟩ tájék, az egész föld öröme ⟨az⟩ Cion hegye, az észak oldalai, a nagy király városa.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Szép"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "tájék"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "öröme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "oldalai"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "az észak"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "városa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:12.480109849Z",
+  "model": "glm-5.3"
+}

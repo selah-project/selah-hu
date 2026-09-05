@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És elfogták ⟨את⟩ a királyt, és felvitték őt ⟨את⟩ Bábel királyához, Riblába; és szóltak vele ⟨את⟩ ítéletet.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "és elfogták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "és felvitték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyához"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábelnek"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblába"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "és szóltak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "vele ⟨את⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ítéletet"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:36.668084447Z",
+  "model": "glm-5.3"
+}

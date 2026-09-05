@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ha fazékban ⟨készül⟩ ⟨az⟩ áldozatod lisztáldozata, lisztből olajjal készüljön.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "lisztáldozata"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "fazékban"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "áldozatod"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "lisztből"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "készüljön"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:55.435767785Z",
+  "model": "glm-5.3"
+}

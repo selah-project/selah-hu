@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És így történt vele: a nép eltaposta ⟨את⟩ őt a kapuban, és meghalt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és így történt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "eltaposta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kapuban"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:56:28.581976422Z",
+  "model": "glm-5.3"
+}

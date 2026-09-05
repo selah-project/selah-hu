@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "A hónap kilencedikén, és erőre kapott az éhínség a városban, és nem volt kenyér a föld népének.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "kilencedikén"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónap"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "erőre kapott"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "az éhínség"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyér"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T20:05:30.723107084Z",
+  "model": "glm-5.3"
+}

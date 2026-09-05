@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 142,
+  "translation": "Hozzád kiáltottam, Jahve; mondtam: ⟨te vagy⟩ menedékem, osztályrészem az élők földjén.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Kiáltottam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Hozzád"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "menedékem"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "osztályrészem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az élők"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:45.828905878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 76,
+  "translation": "És ⟨van⟩ Salémben ⟨az⟩ sátra, és lakhelye Cijonban.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És ⟨van⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Salémben"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "⟨az⟩ sátra"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "és lakhelye"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cijonban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:22.040086826Z",
+  "model": "glm-5.3"
+}

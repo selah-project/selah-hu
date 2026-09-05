@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Ő épít nékem házat, és megalapozom ⟨את⟩ az ő trónját mindörökre.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "épít"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nékem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házat"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "és megalapozom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő trónját"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trónját"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mind"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T23:05:55.017022374Z",
+  "model": "glm-5.3"
+}

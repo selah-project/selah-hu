@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Látták ⟨azt⟩ a szigetek, és megfélemlődtek, a föld szélei remegtek, közeledtek, és jöttek.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Látták"
+    },
+    {
+      "surface": "איים",
+      "gloss": "a szigetek"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "és megfélemlődtek"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "szélei"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "remegtek"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "közeledtek"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "és jöttek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:00.709875958Z",
+  "model": "glm-5.3"
+}

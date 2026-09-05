@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Ne hagyjanak meg belőle semmit reggelig, és csontot ne törjenek benne; a peszách egész rendtartása szerint tegyék ⟨את⟩ azt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "hagyjanak meg"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "és csontot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "törjenek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "egész…szerint"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "rendtartása"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "a peszách"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "tegyék"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:09.479073877Z",
+  "model": "glm-5.3"
+}

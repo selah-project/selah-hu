@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Szemében megvetett a megvetendő, de ⟨את⟩ a Jahvét félőket megtiszteli; kárára esküdött, és nem változtatja meg.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "megvetett"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "a megvetendő"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a Jahvét félőket"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "félőket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "megtiszteli"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "esküdött"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kárára"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "változtatja meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:29.542069022Z",
+  "model": "glm-5.3"
+}

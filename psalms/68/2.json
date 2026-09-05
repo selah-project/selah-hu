@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Keljen fel Elohim, szóródjanak szét ellenségei, és fusson meg előle az, aki gyűlöli őt.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Keljen fel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "szóródjanak szét"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ellenségei"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "és fusson meg"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "aki gyűlöli őt"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "előle"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:18.883679412Z",
+  "model": "glm-5.3"
+}

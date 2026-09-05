@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 111,
+  "translation": "Kézének munkái ⟨az⟩ igazság és jog, megbízhatók minden rendelése.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "Kézének munkái"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kézének"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "igazság"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és jog"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "megbízhatók"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "rendelése"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:09.683362817Z",
+  "model": "glm-5.3"
+}

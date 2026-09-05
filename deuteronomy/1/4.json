@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "azután, hogy megverte ⟨את⟩ Szíchont, az emóriak királyát, aki Hesbonban lakik, és ⟨את⟩ Ógot, a Básán királyát, aki Astárótban lakik, Edreiben —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "azután"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "hogy megverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szíchont"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Szíchont"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emóriak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "lakik"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Hesbonban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ógot"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ógot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "a Básán"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "lakik"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Astárótban"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edreiben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:50:07.196704872Z",
+  "model": "glm-5.3"
+}

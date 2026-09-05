@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 13:13",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És mondta Semuél Saulnak: „Esztelenül cselekedtél, nem tartottad meg ⟨את⟩ Jahve, a te Elohimod parancsát, amelyet megparancsolt neked; mert most megerősítette volna Jahve ⟨את⟩ a te királyságodat Izráel ⟨fölött⟩ örökre.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sault"
+    },
+    {
+      "surface": "נסכלת",
+      "gloss": "esztelenül cselekedtél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "tartottad meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parancsát"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "megparancsolt neked"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "העתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "megerősítette volna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "királyságodat"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "királyságodat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T19:10:22.570692030Z",
+  "model": "glm-5.3"
+}

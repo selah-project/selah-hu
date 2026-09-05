@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Szolgáljatok ⟨את⟩ Jahvét félelemmel, és ujjongjatok rettegéssel!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Szolgáljatok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "félelemmel"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "és ujjongjatok"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "rettegéssel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:26.981305994Z",
+  "model": "glm-5.3"
+}

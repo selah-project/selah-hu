@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És felelt és mondta: Nemde ⟨את⟩ azt, amit Jahve tesz a számba, ⟨את⟩ azt nem őrzöm-é meg beszélni?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit Jahve tesz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "tesz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "a számba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (az őrzendő szót)"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "nem őrzöm-é"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "beszélni"
+    }
+  ],
+  "timestamp": "2026-09-04T17:41:37.099616902Z",
+  "model": "glm-5.3"
+}

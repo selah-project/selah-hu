@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És az ember ⟨את⟩ az ő orcáját szögezte, mindaddig, míg szégyellt ⟨ő⟩; és sírt az Elohim embere.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "szögezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő orcáját"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "az ő orcáját"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és tartotta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mindaddig, míg"
+    },
+    {
+      "surface": "בש",
+      "gloss": "szégyellt"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "és sírt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:56:02.284931749Z",
+  "model": "glm-5.3"
+}

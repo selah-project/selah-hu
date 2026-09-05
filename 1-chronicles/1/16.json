@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és ⟨את⟩ az arvadit, és ⟨את⟩ a cemarit, és ⟨את⟩ a hamatit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az arvadit"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "az arvadit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a cemarit"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "a cemarit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hamatit"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "a hamatit"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:39.979045512Z",
+  "model": "glm-5.3"
+}

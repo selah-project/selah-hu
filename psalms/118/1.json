@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Adjatok hálát Jahvénak, mert jó, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Adjatok hálát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tart a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:16.586561874Z",
+  "model": "glm-5.3"
+}

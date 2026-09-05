@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És fogta a föld népe ⟨את⟩ Jehoachazt (Joakház), Josijjáhu (Jósiás) fiát, és királlyá tette őt apja helyére Jerusálaimban (Jeruzsálem).",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "És fogta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachazt"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachazt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josijjáhu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "és királlyá tette őt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyére"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apja"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusálaimban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:24:29.727203413Z",
+  "model": "glm-5.3"
+}

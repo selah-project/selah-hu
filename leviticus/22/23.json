@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És szarvast vagy bárányt, ha túltengő vagy hiányos ⟨tagú⟩, önkéntes adományként megteheted ⟨את⟩ azt, de fogadási esküre nem lesz elfogadva.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "És szarvast"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "vagy bárányt"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "túltengő"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "vagy hiányos"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "önkéntes adományként"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "megteheted"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a szarvat\/bárányt)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "de fogadási esküre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "lesz elfogadva"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:51.029939298Z",
+  "model": "glm-5.3"
+}

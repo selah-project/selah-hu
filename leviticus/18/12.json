@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Apád nővérének nemzettségét ne fedd fel: apád húsa ⟨ez⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nemzettségét"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nővérének"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apád"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fedd fel"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "húsa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apád"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ez⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:46.554635312Z",
+  "model": "glm-5.3"
+}

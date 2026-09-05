@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És mondta Dávid: „Jahve, Izrael Elohimja, hallóan hallotta meg a szolgád, hogy Saul keresi a bejutást Kelába (Keilába), hogy elpusztítsa a várost az én miattam.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallóan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallotta meg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a szolgád"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "keresi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "a bejutást"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ba"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kelába"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "hogy elpusztítsa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "az én miattam"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:52.360283590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "Hirdették az egek ⟨az⟩ igazságát, és látták minden népek ⟨az⟩ ő dicsőségét.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "hirdették"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "igazságát"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "és látták"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "dicsőségét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:13.876598326Z",
+  "model": "glm-5.3"
+}

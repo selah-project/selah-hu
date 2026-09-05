@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 44:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Ne féljetek, és ne rettegjetek! Hát nem akkortól hallattam veled, és nem hirdettem-e ki? És ti a tanúim. Van Eloah rajtam kívül? És nincs Szikla — ⟨egyet sem⟩ ismertem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפחדו",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תרהו",
+      "gloss": "rettegjetek"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hát nem"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "akkortól"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "hallattam veled"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "és kihirdettem"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "és ti"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "a tanúim"
+    },
+    {
+      "surface": "היש",
+      "gloss": "van"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "rajtam kívül"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Szikla"
+    },
+    {
+      "surface": "בל",
+      "gloss": "egyet sem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismertem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:24:29.409504612Z",
+  "model": "glm-5.3"
+}

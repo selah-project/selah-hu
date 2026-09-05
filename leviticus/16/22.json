@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És hordozza a kecskebak rajta ⟨את⟩ minden vétküket az elválasztott földig, és elbocsátja ⟨את⟩ a kecskebakát a pusztában.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "És hordozza"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "a kecskebak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden vétküket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "vétküket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "az elválasztott"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "és elbocsátja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kecskebakát"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "a kecskebakát"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:17.896422458Z",
+  "model": "glm-5.3"
+}

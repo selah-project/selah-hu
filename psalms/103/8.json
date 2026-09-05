@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Irgalmas és kegyes Jahve, hosszú orrú ⟨haragú⟩ és nagy heszedű.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Irgalmas"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "és kegyes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "orrú ⟨haragú⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "és nagy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszedű"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:33.185865787Z",
+  "model": "glm-5.3"
+}

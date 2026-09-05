@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Elégtelenné tetted a te szolgád szövetségét, megszentségtelenítetted a földig az ő koronáját.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "elégtelenné tetted"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetség"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a te szolgád"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "megszentségtelenítetted"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földig"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "az ő koronáját"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:17.498985581Z",
+  "model": "glm-5.3"
+}

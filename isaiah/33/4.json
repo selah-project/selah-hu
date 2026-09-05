@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És összegyűjtetik a zsákmányotok, gyűjtögetés, mint a sáska; mint a méhek rajzása, úgy nyüzsögnek rajta.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "És összegyűjtetik"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "zsákmányotok"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "gyűjtögetés"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "a sáska"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "mint a rajzása"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "a méheknek"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "nyüzsög"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:03.081308751Z",
+  "model": "glm-5.3"
+}

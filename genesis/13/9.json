@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Nemde ⟨az⟩ egész föld a te színed előtt ⟨van⟩? Válj el, kérlek, tőlem: ha balra, én jobbra; és ha jobbra, én balra.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨az⟩ föld"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a te színed előtt"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "Válj el"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "balra"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "én jobbra"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "jobbra"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "én balra"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:06.193901088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Abímelek pedig nem közeledett hozzá, és mondta: Adonáj, ⟨még⟩ egy igazságos népet is megölsz?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Abímelek pedig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "közeledett"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hozá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igazságos"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "megölsz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:02.600090291Z",
+  "model": "glm-5.3"
+}

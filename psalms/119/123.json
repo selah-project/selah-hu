@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Szemeim elpattantak szabadításodért és igazságod igéjéért.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Szemeim"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "elpattantak"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "szabadításodért"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "és igéjéért"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "igazságod"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:34.102178525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Ne forduljon vissza megszégyenülve a megtört; a nyomorult és a koldus dicsérje nevedet.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "forduljon vissza"
+    },
+    {
+      "surface": "דך",
+      "gloss": "a megtört"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "megszégyenülve"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a nyomorult"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és a koldus"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "dicsérjék"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nevedet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:57.091462575Z",
+  "model": "glm-5.3"
+}

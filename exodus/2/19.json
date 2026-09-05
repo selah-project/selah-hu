@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ők azt mondták: egy egyiptomi férfi mentett meg minket a pásztorok kezéből; sőt még vizet is merített nekünk, és megitatta ⟨את⟩ a nyájat.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "és ők azt mondták"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "egyiptomi"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "mentett meg minket"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "a kezéből"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "a pásztoroknak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt még"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "merített"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "és megitatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nyájat"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a nyájat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:43.500306973Z",
+  "model": "glm-5.3"
+}

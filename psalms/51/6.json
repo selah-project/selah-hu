@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Ellened, egyedül ellened vétkeztem, és a rosszat szemed előtt cselekedtem, hogy igaznak bizonyulj beszédedben, tiszta légy ítéletedben.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ellened"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "egyedül ellened"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétkeztem"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "és a rosszat"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "szemed előtt"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "igaznak bizonyulj"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "beszádben"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "tiszta légy"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "ítéletedben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:45.638269430Z",
+  "model": "glm-5.3"
+}

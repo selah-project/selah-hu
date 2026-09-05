@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Boldog ⟨a⟩ nép, amely ismeri a kürtzengést: Jahve, orcád világosságában járnak.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "amely ismeri"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "a kürtzengést"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "világosságában"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcád"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "járnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:54.840104475Z",
+  "model": "glm-5.3"
+}

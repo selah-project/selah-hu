@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Szájuk van, de nem beszélnek; szemeik vannak, de nem látnak.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Szájuk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "van"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "beszélnek"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "szemeik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vannak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "látnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:03.614747415Z",
+  "model": "glm-5.3"
+}

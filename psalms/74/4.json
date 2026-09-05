@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Ordítoztak ellenfeleid gyülekezeted közepén, jelképeiket jelekül állították fel.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Ordítoztak"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ellenfeleid"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepén"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "gyülekezetednek"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "felállították"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "jelképeiket"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "jelekül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:22.337806095Z",
+  "model": "glm-5.3"
+}

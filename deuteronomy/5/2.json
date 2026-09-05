@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Jahve, a mi Elohimunk kötött ⟨את⟩ velünk szövetséget a Hórebcken.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kötött"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "a Hóreben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:57.493642855Z",
+  "model": "glm-5.3"
+}

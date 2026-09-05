@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Jégesővel ölette meg szőlőiket, és fügefáikat a dermesztő jéggel.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "ölette meg"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "Jégesővel"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "szőlőiket"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "és fügefáikat"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "a dermesztő jéggel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:44.708267950Z",
+  "model": "glm-5.3"
+}

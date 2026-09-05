@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Meztelenül éjszakáznak ruha nélkül, és nincs takarójuk a hidegben.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Meztelenül"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "éjszakáznak"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "takarójuk"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "a hidegben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:23:49.489953211Z",
+  "model": "glm-5.3"
+}

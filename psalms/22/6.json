@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Hozzád kiáltottak, és megszabadultak; benned bíztak, és nem szégyenültek meg.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Hozzád"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "kiáltottak"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "és megszabadultak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bíztak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "szégyenültek meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:04.203508033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És amikor odaérsz, ládd meg ott Jehút (Jéhu), Jehosáfát fiát, Nimsi fiát; és menj be, és emeld fel őt ⟨את⟩ testvérei közül, és vezesd ⟨את⟩ szobából szobába.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "És amikor odaérsz"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ládd meg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehút (Jéhu)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosáfát"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimsi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "és menj be"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "és emeld fel őt"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "közül"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérei"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "és vezesd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt (Jehú)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "szobából"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "szobába"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:38.656016823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Jahvéban igazakká lesz ⟨ő⟩ és dicsekszik Izráél egész magja.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "igazakká lesznek"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "és dicsekszik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    }
+  ],
+  "timestamp": "2026-09-04T20:22:35.479524567Z",
+  "model": "glm-5.3"
+}

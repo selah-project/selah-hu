@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Ha ezt mondják: »Jöjj ⟨את⟩ velünk, leselkedjünk vér után, lesben álljunk az ártatlan ellen ok nélkül« —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mondják"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Jöjj"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk",
+      "marks": "velünk"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "leselkedjünk"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "vér után"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "lesben álljunk"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "az ártatlan ellen"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ok nélkül"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:11.229771865Z",
+  "model": "glm-5.3"
+}

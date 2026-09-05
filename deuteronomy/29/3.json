@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "és nem adott néktek Jahve szívet a megismerésre, és szemeket a látásra, és fülekkel a hallásra, egészen a mai napig.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "néktek"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívet"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "a megismerésre"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "és szemeket"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a látásra"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "és fülekkel"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "a hallásra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen…ig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap(á)ig"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e(z)"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:46.022282808Z",
+  "model": "glm-5.3"
+}

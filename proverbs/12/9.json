@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Jobb a lenézett, akinek szolgája ⟨van⟩, mint a magát magasra tartó, aki kenyerre szorul.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "a lenézett"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "és szolgája"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "mint a magát magasra tartó"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "és szorul"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:33.693970853Z",
+  "model": "glm-5.3"
+}

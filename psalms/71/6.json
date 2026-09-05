@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Rád támaszkodtam a méhtől, anyám méhéből te vágtál ki; rólam szól dicséretem szüntelen — benned van dicséretem szüntelen.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Rád"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "támaszkodtam"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "a méhtől"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "méhéből"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anyám"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "vágtál ki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "dicséretem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:30.671359009Z",
+  "model": "glm-5.3"
+}

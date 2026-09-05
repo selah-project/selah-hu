@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Mert éretted hordoztam a gyalázatot, szégyen borította be arcomat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "éretted"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "hordoztam"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "a gyalázatot"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "borította be"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "szégyen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcomat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:15.909567547Z",
+  "model": "glm-5.3"
+}

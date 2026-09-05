@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ne sírjatok a halottért, és ne zokogjatok érte; sírjatok, sírjatok azért, aki eltávozott, mert nem tér vissza többé, és nem látja ⟨את⟩ a születésének földjét.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "sírjatok"
+    },
+    {
+      "surface": "למת",
+      "gloss": "a halottért"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "zokogjatok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "érte"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "sírjatok"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "sírjatok"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "azért, aki eltávozott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "térsz vissza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és látja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a születésének földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "születésének"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:13.042875729Z",
+  "model": "glm-5.3"
+}

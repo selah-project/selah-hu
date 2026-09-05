@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "íme, kipusztítom Baasát és az ő házát, és a te házadat úgy adom, mint Jarobám házát, Nébát fiáét.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "íme"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "kipusztítom"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "… után"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasát"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "és … után"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "házát"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "és adom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te házadat"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "a te házadat"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "mint háza"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobám"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nébát"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:15.082804125Z",
+  "model": "glm-5.3"
+}

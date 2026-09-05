@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 57,
+  "translation": "Kiáltok ⟨az⟩ Elohimhoz, az El Eljonhoz (a Magasságos Elhez), ⟨ahhoz⟩ az Elhez, aki bevégzi ⟨értem⟩.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Kiáltok"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨az⟩ Elohimhoz"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "az El Eljon (a Magasságos)"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨ahhoz⟩ az Elhez"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "aki bevégzi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨értem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:47.109714754Z",
+  "model": "glm-5.3"
+}

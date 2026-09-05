@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 21:23",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Ne maradjon éjjel hullája a fán, hanem temetve temeted el őt ugyanazon a napon, mert az Elohim átka ⟨az⟩ felakasztott; és ne tedd tisztátalanná ⟨את⟩ földedet, amelyet Jahve, a te Elohimod, ad neked örökségül.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "maradjon éjjel"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "hullája"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "fán"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "קבור",
+      "gloss": "temetve"
+    },
+    {
+      "surface": "תקברנו",
+      "gloss": "temeted el őt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ugyanazon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "átka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "⟨az⟩ felakasztott"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "tedd tisztátalanná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "földedet"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "földedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "örökségül"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:01.314582174Z",
+  "model": "glm-5.3"
+}

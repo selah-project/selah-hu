@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Mert mije több a bölcsnek a balgánál? Mit ér a szegény, aki tud járni az élők előtt?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mije"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "több"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "a bölcsnek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mint"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "a balga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "a szegénynek"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "aki tud"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "járni"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az élőknek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:59.704012316Z",
+  "model": "glm-5.3"
+}

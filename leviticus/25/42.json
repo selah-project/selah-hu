@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Mert az én szolgáim ők, akiket kihoztam ⟨את⟩ őket Micrajim (Egyiptom) földjéről; nem adathatnak el szolga-eladással.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgáim"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ők"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "kihoztam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "adathatnak el"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "eladással"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolga"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:04.741423034Z",
+  "model": "glm-5.3"
+}

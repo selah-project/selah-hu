@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "⟨את⟩ A tanúság ládáját és ⟨את⟩ rúdjait, és ⟨את⟩ a fedélzetet (kapóretet).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tanúság ládáját"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a tanúság"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "rúdjait"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "rúdjait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fedélzetet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "a fedélzetet (kapóretet)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:58.863963713Z",
+  "model": "glm-5.3"
+}

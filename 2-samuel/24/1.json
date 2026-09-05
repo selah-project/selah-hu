@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És ismét haragra gerjedt Jahve Izrael ellen, és ő felbújtotta ⟨את⟩ Dávidot ellenük, mondván: menj, számláld meg ⟨את⟩ Izraelt és ⟨את⟩ Júdát.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "és ismét(tett hozzá)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "újból"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "haragra gerjedni"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izrael ellen"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "és felbújtotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "számláld meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Júdát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    }
+  ],
+  "timestamp": "2026-09-04T19:36:26.796771171Z",
+  "model": "glm-5.3"
+}

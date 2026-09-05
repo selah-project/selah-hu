@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 15:4",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Íme, tűznek adatott elégésre: ⟨את⟩ mindkét végét megette a tűz, és a közepe megperzselődött — vajon alkalmas-e munkára?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "tűznek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adatott"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "elégésre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindkét végét"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mindkét"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "végét"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "megette"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "ותוכו",
+      "gloss": "és a közepe"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "megperzselődött"
+    },
+    {
+      "surface": "היצלח",
+      "gloss": "alkalmas-e"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "munkára"
+    }
+  ],
+  "timestamp": "2026-09-04T23:40:50.812936190Z",
+  "model": "glm-5.3"
+}

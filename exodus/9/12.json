@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És Jahve megkeményítette ⟨את⟩ Paró szívét, és nem hallgatott rájuk, ahogyan Jahve szólt Moshehez.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "és megkeményítette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paró szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatott"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:28.762047495Z",
+  "model": "glm-5.3"
+}

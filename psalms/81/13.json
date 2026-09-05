@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "És elküldtem őket szívük konokságában: saját tanácsaikban járnak.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "elküldtem őket"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "konokságában"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "szívük"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "járnak"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "saját tanácsaikban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:31.247278384Z",
+  "model": "glm-5.3"
+}

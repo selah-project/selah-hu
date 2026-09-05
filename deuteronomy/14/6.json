@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És minden állat, amely hasítja ⟨את⟩ a patát, és a hasadékot két patára választja el, és felhozza ⟨את⟩ a kérőt — az állatok közül azt ehetitek.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "állat"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "hasítja"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "a patát"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "és választja el"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "hasadékot"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "patára"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "felhozza"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "a kérőt"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "az állatok közül"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehetitek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:39.940852818Z",
+  "model": "glm-5.3"
+}

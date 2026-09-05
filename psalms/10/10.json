@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A letiporásra lelapul, megalázkodik, és hatalmas karmai által esnek el a nyomorultak.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "a letiporásra"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "lelapul"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "és esnek el"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "hatalmas karmai által"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "a nyomorultak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:27.308926892Z",
+  "model": "glm-5.3"
+}

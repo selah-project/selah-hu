@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És Joszéf (József) ura fogta őt ⟨את⟩, és őt adta a börtön házába, arra a helyre, ahol a király foglyai vannak megkötözve; és ott volt a börtön házában.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És fogta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ura"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszéf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt (Joszéfet)"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "és őt adta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebbe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a házába"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "a börtön"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helyre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "foglyai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "megkötözve"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és volt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házában"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "a börtön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:39.172694490Z",
+  "model": "glm-5.3"
+}

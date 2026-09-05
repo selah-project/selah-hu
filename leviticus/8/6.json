@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És előhozta Moshe (Mózes) ⟨את⟩ Aharont (Áron) és ⟨את⟩ fiait, és megfürösztötte ⟨את⟩ őket vízben.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "előhozta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "és megfürösztötte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:08.225397963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Legyenek szüntelenül Jahve színe előtt, és vágja ki emléküket a földről.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Legyenek"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "és vágja ki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "emléküket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:50.502769711Z",
+  "model": "glm-5.3"
+}

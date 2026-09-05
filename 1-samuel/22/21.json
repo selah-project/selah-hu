@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És elmesélte Avjatar (Abiátár) Dávidnak, hogy megölte Sául ⟨את⟩ Jahve papjait.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "és elmesélte"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "megölte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve papjait"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "papjait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:46.856980527Z",
+  "model": "glm-5.3"
+}

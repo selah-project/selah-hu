@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Bizony, Jahve, pusztasággá tették Assur királyai ⟨את⟩ minden országokat és ⟨את⟩ az ő földjüket.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "pusztasággá tették"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden országokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "országokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő földjüket"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "az ő földjüket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:20.551570811Z",
+  "model": "glm-5.3"
+}

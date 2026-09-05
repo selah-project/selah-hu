@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 15:27",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És ha egy lélek vétkezik tévedésből, akkor állítson elő egy kecskét, egy esztendős leányát, vétekáldozatul.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "vétkezik"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "tévedésből"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "akkor állítson elő"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kecskét"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leányát"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "egy esztendős"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "vétekáldozatul"
+    }
+  ],
+  "timestamp": "2026-09-04T17:37:29.617732773Z",
+  "model": "glm-5.3"
+}

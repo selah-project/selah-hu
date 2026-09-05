@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És mondták a király ifjai, az ő szolgái: Keressenek a királynak szép külsejű szűz leányokat.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ifjai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "az ő szolgái"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "Keressenek"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "leányokat"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "szűz"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "szép"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "külsejű"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:38.240332832Z",
+  "model": "glm-5.3"
+}

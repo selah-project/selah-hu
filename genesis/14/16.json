@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És visszahozta ⟨את⟩ minden jószágot, és Lótot (Lót), testvérét, és jószágát is visszahozta, és ⟨את⟩ az asszonyokat és ⟨את⟩ a népet is.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "És visszahozta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden jószágot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "jószágot"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és … is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lótot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lótot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérét"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "és jószágát"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "visszahozta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és … is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asszonyokat"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "az asszonyokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:54.282308998Z",
+  "model": "glm-5.3"
+}

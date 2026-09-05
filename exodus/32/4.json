@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És átvette ⟨azokat⟩ kezükből, és formázta ⟨את⟩ faragószerszámmal, és készítette borjúvá, öntött képformává; és mondták: Ezek a te isteneid, Jiszráél (Izrael), akik kihoztak téged Micrajim földjéből.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "átvette"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "kezükből"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "és formázta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "faragószerszámmal"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "faragószerszámmal"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "és készítette"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "borjúvá"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "öntött képformává"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondtak"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "isteneid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "kihoztak"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéből"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:06.956316862Z",
+  "model": "glm-5.3"
+}

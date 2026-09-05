@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Ezekből szakadoztak szét ⟨a⟩ népek szigetei az ő földjeikben, mindenki az ő nyelvére, az ő nemzetségeikre, az ő népeikben.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Ezekből"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "szakadoztak szét"
+    },
+    {
+      "surface": "איי",
+      "gloss": "szigetei"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨a⟩ népek"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "az ő földjeikben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "az ő nyelvére"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "az ő nemzetségeikre"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "az ő népeikben"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:21.007162100Z",
+  "model": "glm-5.3"
+}

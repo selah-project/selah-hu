@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne szedd kamatát testvéredtől: pénz kamatját, eleség kamatját, kamatját mindannak, ami kamatra adatik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "szedd kamatát"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "testvéredtől"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatját"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénz"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatját"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eleség"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindannak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "…"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "kamatra adatik"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:10.602980313Z",
+  "model": "glm-5.3"
+}

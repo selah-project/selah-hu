@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Hús-szemeid vannak-e neked, vagy úgy látsz-e, ahogy a halandó ember lát?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "Szemeid"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hús"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vannak-e neked"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ahogy lát"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "a halandó"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "látsz te"
+    }
+  ],
+  "timestamp": "2026-09-04T22:20:42.242045055Z",
+  "model": "glm-5.3"
+}

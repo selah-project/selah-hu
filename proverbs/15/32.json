@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Aki elbocsátja a fegyelmezést, megveti a saját lelkét, de aki hallgatja a feddést, szívet szerez.",
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "elbocsátja"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "a fegyelmezést"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "megveti"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a saját lelkét"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "de aki hallgatja"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "a feddést"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "szerez"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:16.367997082Z",
+  "model": "glm-5.3"
+}

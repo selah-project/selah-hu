@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Nézz le szentséged lakóhelyéről, a mennyből, és áldd meg ⟨את⟩ népedet, ⟨את⟩ Jisráélt, és ⟨את⟩ a földet, amelyet nekünk adtál, ahogy megesküdtél atyáinknak: tejjel és mézzel folyó földre.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "nézz le"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "lakóhelyéről"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "szentséged"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ből"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a mennyből"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "és áldd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népedet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisráélt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "adtál"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "megesküdtél"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "atyáinknak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földre"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "folyó"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tejjel"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "és mézzel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:49.846839932Z",
+  "model": "glm-5.3"
+}

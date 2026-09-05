@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "és ⟨את⟩ a hitit, és ⟨את⟩ a perizit, és ⟨את⟩ a refáit —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hitit"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a hitit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a perizit"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "a perizit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a refáit"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "a refáit"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:11.491059183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És öltsön fel a kohan (pap) lenköntösét, és lennadrágát vegye fel a testére, és emelje fel ⟨את⟩ a hamut, amelyet megemésztette ⟨את⟩ az égőáldozatot a tűz az oltáron, és helyezze azt az oltár mellé.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "És öltsön fel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohan (pap)"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "köntösét"
+    },
+    {
+      "surface": "בד",
+      "gloss": "len"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "és nadrágját"
+    },
+    {
+      "surface": "בד",
+      "gloss": "len"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "vegyen fel"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "testére"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "és emelje fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hamut"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "a hamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "megemészt"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatot"
+    },
+    {
+      "surface": "על",
+      "gloss": "…on"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "és helyezze"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "mellé"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:06.887066074Z",
+  "model": "glm-5.3"
+}

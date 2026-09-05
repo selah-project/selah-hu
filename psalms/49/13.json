@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "És az ember méltóságban nem hál meg: hasonlatossá vált ⟨a⟩ barmokhoz, elnémultan pusztultak el.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "És az ember"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "méltóságban"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "hál meg"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "hasonlatossá vált"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "⟨a⟩ barmokhoz"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "elnémultan pusztultak el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:23.939266710Z",
+  "model": "glm-5.3"
+}

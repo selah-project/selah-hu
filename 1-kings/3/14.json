@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ha utaimon jársz, törvényeim és parancsolataim megőrzésére, ahogy Dávid, atyád járt, akkor meghosszabbítom ⟨את⟩ napjaidat.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "jársz"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "utaimon"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "megőrzésére"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "törvényeim"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "és parancsolataim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "járt"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "akkor meghosszabbítom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "napjaidat"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "napjaidat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:36:53.660800925Z",
+  "model": "glm-5.3"
+}

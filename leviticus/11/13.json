@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ezeket utáljátok a madarak közül: ne egyétek meg őket, utálat ⟨azok⟩: ⟨את⟩ a keselyűt, és ⟨את⟩ a szakállas keselyűt (a pereszt), és ⟨את⟩ az oznáját (a halászsast)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "ezeket"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "utáljátok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "közül"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "a madarak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "egyétek meg"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "utálat"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨azok⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a keselyűt"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "a keselyűt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szakállas keselyűt"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "a szakállas keselyűt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az oznáját"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "az oznáját"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:00.013410428Z",
+  "model": "glm-5.3"
+}

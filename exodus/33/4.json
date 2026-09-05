@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És meghallotta a nép ⟨את⟩ ezt a rossz hírt, és gyászba borultak, és nem tett magára senki az ékszereit.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "És meghallotta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a rossz hírt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a hírt"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "és gyászba borultak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "tett"
+    },
+    {
+      "surface": "איש",
+      "gloss": "senki"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "az ékszereit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "magára"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:29.455239196Z",
+  "model": "glm-5.3"
+}

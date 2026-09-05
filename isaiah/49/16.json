@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Íme, ⟨a⟩ tenyereimbe véstelek téged; falaid szüntelenül előttem vannak.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tenyereimbe"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "véstelek téged"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "falaid"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:33.384686195Z",
+  "model": "glm-5.3"
+}

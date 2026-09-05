@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Kovászossal ne süssék; részükül adtam ⟨את⟩-⟨azt⟩ az én tűzáldozataimból; szentségek szentsége ⟨ez⟩, mint a bűnáldozat és mint a vétekáldozat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "süssék"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kovászossal"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "részükül"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tűzáldozataimból"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentsége"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentségeinek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "mint-a-bűnáldozat"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "és-mint-a-vétekáldozat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:11.438494410Z",
+  "model": "glm-5.3"
+}

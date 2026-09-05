@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha bizonyosan megtaláltatik a kezében a lopott — ökörtől szamárig juhig, élve —, kettőt fizessen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "bizonyosan megtaláltatva"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "megtaláltatik"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "a lopott"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ökörtől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "szamár"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "שה",
+      "gloss": "juh"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élve"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettőt"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizessen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:22.589904342Z",
+  "model": "glm-5.3"
+}

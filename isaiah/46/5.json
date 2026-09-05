@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Kihez hasonlítotok engem, és kit tennétek velem egyenlőnek? Kihez mérnétek engem, hogy hasonlók legyünk?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "Kihez"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "hasonlítotok engem"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "és kit tennétek velem egyenlőnek"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "Kihez mérnétek engem"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "hogy hasonlók legyünk"
+    }
+  ],
+  "timestamp": "2026-09-04T20:24:30.417920910Z",
+  "model": "glm-5.3"
+}

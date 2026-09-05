@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ne legyen férfi eszköze asszonyon, és ne öltsön férfi asszony köntösét, mert utálatos Jahvénak, a te Elohimodnak minden, aki ezeket cselekszi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "eszköze"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "על",
+      "gloss": "asszonyon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asszony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "öltsön"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "köntösét"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asszony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "utálatos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimodnak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aki cselekszi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezeket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:24.464135878Z",
+  "model": "glm-5.3"
+}

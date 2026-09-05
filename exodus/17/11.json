@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És történt, amikor felemelte Moshe a kezét, akkor Izrael győzött, és amikor leeresztette a kezét, akkor Amalek győzött.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "felemelte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "akkor győzött (Izrael)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "és amikor"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "leeresztette"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "akkor győzött (Amalek)"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:50.313969432Z",
+  "model": "glm-5.3"
+}

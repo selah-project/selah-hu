@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Csak éppen mikor megeszik ⟨את⟩ a szarvast és ⟨את⟩ a dámvadat, úgy eheted ⟨azt⟩: a tisztátalan és a tiszta együtt eheti ⟨azt⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak éppen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mikor"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "megeszik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szarvast"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "a szarvast"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a dámvadat"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a dámvadat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "eheted ⟨azt⟩"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "a tisztátalan"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "és a tiszta"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "eheti ⟨azt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:33.825746037Z",
+  "model": "glm-5.3"
+}

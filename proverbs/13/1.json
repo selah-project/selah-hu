@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Bölcs fia ⟨az⟩ atyai fenyítésnek, de a csúfoló nem hallgat feddésre.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "fenyítésnek"
+    },
+    {
+      "surface": "אב",
+      "gloss": "atyai"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "de a csúfoló"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgat"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "feddésre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:12.040530598Z",
+  "model": "glm-5.3"
+}

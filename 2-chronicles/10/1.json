@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És elment Rehavam Shehembe, mert Shehembe jött az egész Izrael, hogy királyává tegye ⟨את⟩ őt.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shehembe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shehembe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "jött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "hogy királyává tegye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:14:07.794432471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "A kánaani ⟨a⟩ keleten és ⟨a⟩ nyugaton, és az emori, és a hitti, és a perizzi, és a jebuszi ⟨a⟩ hegyen, és a hivvi Hermon alatt, Micpa földjén.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "a kánaani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "keleten"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "és nyugaton"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "és az emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "és a hitti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "és a perizzi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "és a jebuszi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyen"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "és a hivvi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpa"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:08.229272033Z",
+  "model": "glm-5.3"
+}

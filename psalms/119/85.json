@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Ástak nekem a kevélyek vermeket, amelyek nem a te Tórád szerint vannak.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ástak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "a kevélyek"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "vermeket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "a te Tórád szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:17.249321695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És aki eléggeti ⟨את⟩ azokat, mossa meg a ruháit, és mossa meg ⟨את⟩ testét vízben, és ezek után bemehet a táborba.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "és aki eléggeti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mossa meg"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "a ruháit"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "és mossa meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testét"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "testét"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "és ezek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "után"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bemehet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "be"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a táborba"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:51.058981132Z",
+  "model": "glm-5.3"
+}

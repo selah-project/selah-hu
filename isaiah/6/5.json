@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 6:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondtam: jaj nekem, mert elpusztultam, mert tisztátalan ajkú ember vagyok én, és tisztátalan ajkú nép között lakom én, mert ⟨את⟩ a királyt, Jahvét, a Cevaótot, látták az én szemeim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És mondtam"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "jaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נדמיתי",
+      "gloss": "elpusztultam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalan"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ajkú"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "vagyok én"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "és … között"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalan"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ajkú"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "lakom én"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨lakom⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "a Cevaótot"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "látták"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "az én szemeim"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:19.142349697Z",
+  "model": "glm-5.3"
+}

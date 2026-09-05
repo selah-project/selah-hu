@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 10:36",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És a napok, amelyeken Jehú uralkodott Jiszráél fölött, huszonnyolc év ⟨volt⟩, Somronban.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "És a napok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeken"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uralkodott"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "huszon-"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "-nyolc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Somronban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:01.319465603Z",
+  "model": "glm-5.3"
+}

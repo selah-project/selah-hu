@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Éjjel és nappal nem alszik ki, örökké felszáll a füstje; nemzedékről nemzedékre pusztává lesz; örökre, örökre senki nem megy át rajta.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "és nappal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "alszik ki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "felszáll"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "füstje"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nemzedékre"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "pusztává lesz"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "אין",
+      "gloss": "senki"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nem megy át"
+    },
+    {
+      "surface": "בה",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T20:18:25.105253514Z",
+  "model": "glm-5.3"
+}

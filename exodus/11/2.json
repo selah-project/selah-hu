@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Szólj kérlek ⟨a⟩ nép fülébe, és kérjen ⟨את⟩ minden férfi a társától, és minden asszony ⟨את⟩ a barátnőjétől ezüsttárgyakat és aranytárgyakat.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Szólj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "fülébe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "és kérjenek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "minden férfi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a társától"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "és minden asszony"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "a barátnőjétől"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tárgyakat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "és tárgyakat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:25.539275156Z",
+  "model": "glm-5.3"
+}

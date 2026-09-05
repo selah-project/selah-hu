@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 111,
+  "translation": "Jahve félelme ⟨a⟩ bölcsesség kezdete; jó belátásuk ⟨van⟩ mindazoknak, akik azokat cselekeszik; dicsérete megáll örökre.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "kezdete"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "a bölcsességnek"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "félelme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "belátás"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindazoknak"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "akik azokat cselekeszik"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "dicsérete"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "megáll"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:58.359158908Z",
+  "model": "glm-5.3"
+}

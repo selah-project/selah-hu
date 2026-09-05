@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Ha tszáraat-folt lesz az emberen, akkor vigyék a kohenhez.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "folt"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tszáraat-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "az emberen"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "akkor vigyék"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenhez"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.229694071Z",
+  "model": "glm-5.3"
+}

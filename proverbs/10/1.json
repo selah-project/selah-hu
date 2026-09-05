@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Selomó (Salamon) példázatai. A bölcs fiú örvendezteti az apját, de a balga fiú ⟨az⟩ ő anyjának bánata.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "példázatai"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomó (Salamon)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiú"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvendezteti"
+    },
+    {
+      "surface": "אב",
+      "gloss": "az apját"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "de fiú"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "balga"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "bánata"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ő anyjának"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:23.622642809Z",
+  "model": "glm-5.3"
+}

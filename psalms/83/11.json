@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Elpusztultak En-Dórban, trágyává lettek ⟨a⟩ földön.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Elpusztultak"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dórban"
+    },
+    {
+      "surface": "היו",
+      "gloss": "lettek"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "trágyává"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:03.992133160Z",
+  "model": "glm-5.3"
+}

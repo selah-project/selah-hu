@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És történt e dolgok után, hogy az Elohim megkísértette ⟨את⟩ Avrahamot (Ábrahámot), és szólt hozzá: „Avraham!” És ő mondta: „Íme, itt vagyok.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "után"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "e dolgok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "hogy az Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "megkísértette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamot"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamot (Ábrahámot)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Íme, itt vagyok"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:03.756712823Z",
+  "model": "glm-5.3"
+}

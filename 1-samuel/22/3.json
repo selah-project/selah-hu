@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És elment onnan Dávid Micpébe, Moábba, és ezt mondta Moáb királyának: Jöjjenek ki, kérlek, az én atyám és az én anyám ⟨את⟩ veletek, amíg megtudom, mit cselekszik értem Elohim.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Micpébe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "Jöjjenek ki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "és anyám"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek",
+      "marks": "veletek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "megtudom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "értem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:16:43.979205295Z",
+  "model": "glm-5.3"
+}

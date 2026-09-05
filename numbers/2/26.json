@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És a serege és az ő megszámláltjaik: kétszáz-hatvanezeregyszer — hatvankét ezer és hétszáz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "és a serege"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "és az ő megszámláltjaik"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "és hatvan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "és hét"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:48.545550057Z",
+  "model": "glm-5.3"
+}

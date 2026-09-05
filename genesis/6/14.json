@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Csinálj magadnak bárkát góferfából; kamrákat csinálj a bárkában, és kend be ⟨את⟩ őt belülről és kívülről kóferrel (szurokkal).",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Csinálj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "bárkát"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fájából"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gófer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kamrákat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "csinálj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bárkában"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "a bárkát"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "és kend be"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "belülről"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "és kívülről"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "kóferrel (szurokkal)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:10.168883408Z",
+  "model": "glm-5.3"
+}

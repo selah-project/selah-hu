@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És megnyitotta a föld ⟨את⟩ a száját, és elnyelte ⟨את⟩ őket és ⟨את⟩ házaikat, és ⟨את⟩ minden embert, aki Korához tartozott, és ⟨את⟩ minden vagyonukat.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "És megnyitotta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a száját"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "a száját"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "és elnyelte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "házaikat"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "házaikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden embert, aki Korához tartozott"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "embert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Korához tartozott"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden vagyonukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "vagyonukat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:37:39.312732999Z",
+  "model": "glm-5.3"
+}

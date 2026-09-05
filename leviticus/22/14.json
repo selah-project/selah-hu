@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És egy ember, ha tévedésből eszik a szentségből, akkor hozzáteszi annak ötödét, és odaadja a papnak ⟨את⟩ a szentséget.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "és egy ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a szentségből"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "tévedésből"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "hozzáteszi"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "annak ötödét"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ahhoz"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és odaadja"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szentséget"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentséget"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:36.407468975Z",
+  "model": "glm-5.3"
+}

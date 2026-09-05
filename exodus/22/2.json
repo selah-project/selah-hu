@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha felkelt rá a nap, vérdíj terheli ⟨őt⟩: teljes értéket fizessen; ha nincs miből ⟨neki⟩, eladatik lopásáért.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "felkelt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "vérdíj"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "fizessen"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "teljes értéket"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "és eladatik"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "lopásáért"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:22.589342283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "Csak Elohimnak csendesüljön lelkem, mert tőle van reménységem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimnak"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "csendesüljön"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "reménységem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:01.975685418Z",
+  "model": "glm-5.3"
+}

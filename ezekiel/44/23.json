@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És ⟨את⟩ népemet megtanítják a szent és a közönséges közti különbségre, és a tisztátalan és tiszta közt tudatják velük.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "megtanítják"
+    },
+    {
+      "surface": "בין",
+      "gloss": "közti (első)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a szent"
+    },
+    {
+      "surface": "לחol",
+      "gloss": "és a közönséges"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "közti (második)"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "a tisztátalan"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "és tiszta"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "tudatják velük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:16:26.089385813Z",
+  "model": "glm-5.3"
+}

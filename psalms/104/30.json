@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Kibocsátod lélegzetedet — teremttetnek, és megújítod ⟨a⟩ föld színét.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Kibocsátod"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "lélegzetedet"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "teremttetnek"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "és megújítod"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színét"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:39.104964012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Sötétséget küldött, és beborult ⟨az⟩ — és nem lázadtak szava ellen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Küldött"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sötétséget"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "és beborult"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "lázadtak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szavát"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "szava ellen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:55.274202638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ⟨את⟩ Bet-Cúrt és ⟨את⟩ Szókót és ⟨את⟩ Adulámot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "Bet-Cúrt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-Cúrt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Szókót"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Szókót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Adulámot"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulámot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:13:22.113056817Z",
+  "model": "glm-5.3"
+}

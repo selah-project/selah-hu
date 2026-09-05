@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "A karmesternek. Dávid zsoltára.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltára"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid (zsoltara)"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:42.588321741Z",
+  "model": "glm-5.3"
+}

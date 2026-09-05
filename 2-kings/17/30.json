@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És Bável férfiai csinálták ⟨את⟩ Szukkót-Benótot, és Kút férfiai csinálták ⟨את⟩ Nergált, és Hamát férfiai csinálták ⟨את⟩ Asimát.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "És ... férfiai"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bável"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "csinálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szukkót-Benótot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Szukkót"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benót"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "és ... férfiai"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kút"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "csinálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergált"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergál"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "és ... férfiai"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamát"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "csinálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asimát"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Asimá"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:18.180969380Z",
+  "model": "glm-5.3"
+}

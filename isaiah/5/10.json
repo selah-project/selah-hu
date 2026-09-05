@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Mert tíz ígás szőlőskert egy bátot ad, és egy hómer vetés egy éfát ad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "ígás (ökörpár-nyi)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "szőlőskert"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "adnak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bátot (folyadékmérték)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "és vetés"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "hómer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ad"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "éfát"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:26.032109576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És levetkőztették Jiszráél fiai ⟨את⟩ ékességüket a Hóreb (Hóreb) hegyétől.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "És levetkőztették"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ékességüket"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ékességüket"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "a hegyétől"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Hóreb"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:25.488729037Z",
+  "model": "glm-5.3"
+}

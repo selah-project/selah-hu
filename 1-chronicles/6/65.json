@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És Gád törzséből ⟨את⟩ Raamótot Giléádban és ⟨את⟩ legelőit, és ⟨את⟩ Machanájimot és ⟨את⟩ legelőit.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "És a törzsből"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamótot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamótot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Giléádban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőit"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "legelőit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Machanájimot"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Machanájimot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőit"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "legelőit"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:51.031025243Z",
+  "model": "glm-5.3"
+}

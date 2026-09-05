@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Legyenek kedvesek szájam beszédei és szívem elmélkedése előtted, Jahve, sziklám és megváltóm.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "kedvesek"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "beszédei"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szájam"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "és elmélkedése"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "sziklám"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "és megváltóm"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:10.557124250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És tették ⟨את⟩ fegyverzetét Astárót házába, és ⟨את⟩ testét fel szögezték Bet-Seán falára.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "És tették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fegyverzetét"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fegyverzetét"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Astárót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "testét"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "testét"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "fel szögezték"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "falára"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Seán"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:22.243099978Z",
+  "model": "glm-5.3"
+}

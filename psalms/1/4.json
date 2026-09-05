@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Nem így a számkivetők, hanem mint a pelyva, amelyet elsodor a szél.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "a számkivetők"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "mint a pelyva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "elsodor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a szél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:37:07.728395876Z",
+  "model": "glm-5.3"
+}

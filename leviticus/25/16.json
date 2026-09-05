@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 25:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Az évek sokasága szerint növeld annak vételárát, és az évek kevés volta szerint csökkentsd annak vételárát; mert a termények számát ⟨ő⟩ adja el neked.",
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sokasága"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "az évek"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "növeld"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "vételárát"
+    },
+    {
+      "surface": "ו לפי",
+      "gloss": "és szerint"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevés volta"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "az évek"
+    },
+    {
+      "surface": "תמעיט",
+      "gloss": "csökkentsd"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "vételárát"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "számát"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "termények"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ad el"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:44.923379352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Mindenná, ami magától pusztult el, és amit széttéptek — a madártól és az állattól — nem ehetnek a kohanitok.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ami magától pusztult el"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "és amit széttéptek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "a madar"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és -tól"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "az állat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ehetnek"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohanitok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:15:57.635996533Z",
+  "model": "glm-5.3"
+}

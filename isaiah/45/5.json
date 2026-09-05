@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Én ⟨vagyok⟩ Jahve, és nincs több; rajtam kívül nincs Elohim. Öveztelek téged, pedig nem ismertél engem.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "több"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "rajtam kívül"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "öveztelek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "pedig nem"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ismertél engem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:02.595582546Z",
+  "model": "glm-5.3"
+}

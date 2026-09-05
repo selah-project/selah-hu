@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És elküldött Izevel egy küldöttet Elijához, ezt mondván: „Így tegyenek az istenek, és így tegyenek még többet, ha holnap ilyenkor nem teszem ⟨את⟩ a nefesedet úgy, mint ⟨a⟩ egyikükét közülük.”",
+  "tokens": [
+    {
+      "surface": "וישלח... ותשלח",
+      "gloss": "És elküldött"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "egy küldöttet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elijához"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ezt mondván"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "tegyenek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az istenek"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "és így"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "tegyenek még"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ilyenkor"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "holnap"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "teszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nefesedet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefesedet"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "úgy, mint"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyikükét"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "közülük"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:19.812325907Z",
+  "model": "glm-5.3"
+}

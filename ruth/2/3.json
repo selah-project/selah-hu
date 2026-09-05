@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 2:3",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És elment, és eljött, és szedegetett a mezőn az aratók után; és véletlenül akadt a mező arra a részére, amely Boazé volt, aki Elimelech nemzetségéből való volt.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "és eljött"
+    },
+    {
+      "surface": "ותלקט",
+      "gloss": "és szedegetett"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "az aratók"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "és akadt"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "véletlenül"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "részére"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőnek"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boaznak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "a nemzetségéből"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelech"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:28.367671615Z",
+  "model": "glm-5.3"
+}

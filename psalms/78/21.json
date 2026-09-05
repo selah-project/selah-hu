@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Ezért meghallotta Jahve, és megharagudott, és tűz gyúlt Jaakovban (Jákob), és harag is feljárt Izráelben,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ezért"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "meghallotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "és megharagudott"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "és tűz"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "gyúlt"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakovban (Jákob)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "אף",
+      "gloss": "harag"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "feljárt"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráelben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:37.952599675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 67,
+  "translation": "Hogy megismerjék a földön utadat, minden népek között megszabadításodat.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Hogy megismerjék"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "utadat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "megszabadításodat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:44.997840539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És helyezd ⟨את⟩ az aranyoltárt a füstáldozathoz a tanúság ládájának elé, és tedd ⟨את⟩ a bejárat függönyét a lakrész elé.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "és helyezd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az aranyoltárt"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltár"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az arany-"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "a füstáldozathoz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládája"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a tanúságnak"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "és tedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a függönyt"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "függöny"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "a bejárat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "a lakrésznak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:12.619525027Z",
+  "model": "glm-5.3"
+}

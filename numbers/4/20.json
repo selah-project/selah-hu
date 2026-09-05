@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ne menjenek be, hogy lássák, mikor ⟨el⟩nyelik ⟨את⟩ a szentséget, és meghaljanak.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "menjenek be"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy lássák"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "mikor ⟨el⟩nyelik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szentséget"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentséget"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "és meghaljanak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:05.181156239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 67,
+  "translation": "⟨A⟩ föld adta termését, megáld minket Elohim, a mi Elohimunk",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "adta"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "termését"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "megáld minket"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:17.966930377Z",
+  "model": "glm-5.3"
+}

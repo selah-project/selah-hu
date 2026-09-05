@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Hímessel szőtt ruhában vezettetik a királyhoz; utána szüzek, a barátnői — hozzád vezettetnek.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "hímessel szőtt ruhában"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "vezettetik"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a királyhoz"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "szüzek"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "utána"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "a barátnői"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "vezettetnek be"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hozzád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:04.355943591Z",
+  "model": "glm-5.3"
+}

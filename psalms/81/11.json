@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Én ⟨vagyok⟩ Jahve, a te Elohimod, aki felhoztalak Micrajim (Egyiptom) földjéről; tágítsd fel a szádat, és én megtöltöm.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimod"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "aki felhoztalak"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "tágítsd"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "szádat"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "és megtöltöm"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:53.644671389Z",
+  "model": "glm-5.3"
+}

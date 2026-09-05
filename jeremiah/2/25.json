@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 2:25",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Fogd vissza lábadat a mezítlábastól, és torkodat a szomjúságtól; de te azt mondtad: Nincs remény! Nem — mert idegeneket szerettem, és utánuk megyek.",
+  "tokens": [
+    {
+      "surface": "מנעי",
+      "gloss": "Fogd vissza"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lábadat"
+    },
+    {
+      "surface": "מיחף",
+      "gloss": "a mezítlábastól"
+    },
+    {
+      "surface": "וגורנך",
+      "gloss": "és torkodat"
+    },
+    {
+      "surface": "מצמאה",
+      "gloss": "a szomjúságtól"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "de te azt mondtad"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "Nincs remény"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "szerettem"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "idegeneket"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "és utánuk"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "megyek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:32:19.389402216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "és ⟨את⟩ bennünket kihozott onnét, hogy bevihessen ⟨את⟩ bennünket, hogy nekünk adja ⟨את⟩ azt a földet, amelyre megesküdött atyáinknak",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "és ⟨את⟩ bennünket",
+      "marks": "bennünket"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "kihozott"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnét"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "bevihessen"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bennünket",
+      "marks": "bennünket"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hogy adja"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "azt a földet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "meesküdött"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "atyáinknak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:22.454786375Z",
+  "model": "glm-5.3"
+}

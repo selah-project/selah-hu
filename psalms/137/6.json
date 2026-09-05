@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Tapadjon nyelvem ⟨az⟩ ínyemhez, ha nem emlékezem rád, ha nem emelem fel ⟨את⟩ Jerusálajimöt örömöm feje fölé.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Tapadjon"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "nyelvem"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ínyemhez"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "emlékezem rád"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "emelem fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusálajimöt"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajimöt"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "feje"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "örömöm"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:33.126967974Z",
+  "model": "glm-5.3"
+}

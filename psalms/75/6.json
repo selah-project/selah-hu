@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "Ne emeljétek a magasba szarvatokat, ne beszéljetek gőgösen kőkemény nyakkal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "emeljétek"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "a magasba"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "szarvatokat"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "beszéljetek"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "nyakkal"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "gőgösen kőkemény"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:03.206138818Z",
+  "model": "glm-5.3"
+}

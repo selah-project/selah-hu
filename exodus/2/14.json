@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 2:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ⟨ő⟩ azt mondta: ki tett téged férfivé, fejedelmmé és bíróvá fölénk? Hogy megölj engem, azt mondod, ahogy megölted ⟨את⟩ az egyiptomit? És Mose (Mózes) félt, és mondta: valóban kiderült az ügy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tett téged"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "férfivá"
+    },
+    {
+      "surface": "שר",
+      "gloss": "fejedelmmé"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "és bíróvá"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fölénk"
+    },
+    {
+      "surface": "הלהרגני",
+      "gloss": "hogy megölj engem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondasz"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "megölted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egyiptomit"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "az egyiptomit"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "és félt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "valóban"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "kiderült"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az ügy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:09.193577429Z",
+  "model": "glm-5.3"
+}

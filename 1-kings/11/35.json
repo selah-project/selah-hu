@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és elveszem a királyságot a fiának kezéből, és neked adom azt ⟨את⟩, a tíz törzset.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "és elveszem"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "a királyságot"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "a kezéből"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a fiának"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "és adom azt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tíz törzset"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "a tíz"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "törzset"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:49.298447660Z",
+  "model": "glm-5.3"
+}

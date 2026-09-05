@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Este, reggel és délben gondolkodom, és nyögdécselok, és meghallja hangomat.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Este"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "és reggel"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "és délben"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "gondolkodom"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "és nyögdécselok"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "és meghallja"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hangomat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:19.884834960Z",
+  "model": "glm-5.3"
+}

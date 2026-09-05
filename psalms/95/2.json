@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 95,
+  "translation": "Előzzük meg arcát hálaadással, zsoltárokkal ujjongjunk ⟨neki⟩!",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Előzzük meg"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "arcát"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "hálaadással"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "zsoltárokkal"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "ujjongjunk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:06.323390690Z",
+  "model": "glm-5.3"
+}

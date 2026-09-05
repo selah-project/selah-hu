@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megnövekedett egészen az ég seregéig, és a földre vetette a seregből és a csillagokból ⟨némelyeket⟩, és eltaposta őket.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "és megnövekedett"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "seregéig"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "és a földre vetette"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a … közül"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sereg"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és a … közül"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "csillagok"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "és eltaposta őket"
+    }
+  ],
+  "timestamp": "2026-09-04T23:55:04.893397890Z",
+  "model": "glm-5.3"
+}

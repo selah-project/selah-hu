@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "A szegényt nyomorgatja, hogy gyarapodjon ⟨neki⟩; a gazdagnak ad — csak szűkölködésig.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "nyomorgatja"
+    },
+    {
+      "surface": "דל",
+      "gloss": "A szegényt"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "hogy gyarapodjon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "a gazdagnak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "szűkölködésig"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:06.644523097Z",
+  "model": "glm-5.3"
+}

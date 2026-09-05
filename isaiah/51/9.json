@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 51:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Ébredj, ébredj, öltsd fel az erőt, Jahve karja! Ébredj, mint az ősi napokban, az örök nemzedékek ⟨idején⟩! Hát nem te vagy az, aki széthasította Rahabot (a kevélyt), aki átdöfte a tannint (a szörnyet)?",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "Ébredj"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "ébredj"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "öltsd fel"
+    },
+    {
+      "surface": "עז",
+      "gloss": "az erőt"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "karja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "Ébredj"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "mint ... napjai"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ősi"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "nemzedékek"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "örök"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Hát nem"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "te"
+    },
+    {
+      "surface": "היא",
+      "gloss": "te vagy az"
+    },
+    {
+      "surface": "המחצבת",
+      "gloss": "aki széthasította"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahabot (a kevélyet)"
+    },
+    {
+      "surface": "מחוללת",
+      "gloss": "aki átdöfte"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "a tannint (a szörnyet)"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:41.749527813Z",
+  "model": "fable-5-hand"
+}

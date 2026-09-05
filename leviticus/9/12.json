@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És levágta ⟨את⟩ az égőáldozatot, és odavitték Aharon fiai hozzá ⟨את⟩ a vért, és köröskörül az oltárra hintette azt.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "levágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatot"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "odavitték"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "hintette azt"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:51.706034431Z",
+  "model": "glm-5.3"
+}

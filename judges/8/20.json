@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És mondta Jeternek, az ő elsőszülöttjének: „Kelj fel, öld meg ⟨את⟩ őket!” De a legény nem rántotta ki a kardját, mert félt, mert még legény volt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "Jeternek"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "elsőszülöttjének"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "öld meg"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "De nem"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "rántotta ki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a legény"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kardját"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "félt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "még"
+    },
+    {
+      "surface": "נער",
+      "gloss": "legény"
+    }
+  ],
+  "timestamp": "2026-09-04T18:53:05.854188430Z",
+  "model": "glm-5.3"
+}

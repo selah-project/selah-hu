@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Göngyöld le rólam ⟨a⟩ gyalázatot és a megvetést, mert a te edváidat megtartottam.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Göngyöld le"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "rólam"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "⟨a⟩ gyalázatot"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "és a megvetést"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "a te edváidat"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "megtartottam"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:49.836968568Z",
+  "model": "glm-5.3"
+}

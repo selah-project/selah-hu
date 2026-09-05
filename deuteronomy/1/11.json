@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Jahve, atyáitok Elohimja szaporítson titeket még ezerannyiszor, és áldjon meg ⟨את⟩benneteket, ahogy megígérte nektek!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "atyáitok"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "szaporítson"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "titeket"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "mint vagytok"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "annyiszor"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és áldjon meg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩benneteket",
+      "marks": "benneteket"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "megígérte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:48:42.496430334Z",
+  "model": "glm-5.3"
+}

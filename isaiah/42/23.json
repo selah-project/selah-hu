@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Ki ⟨van⟩ közületek, aki ⟨ezt⟩ meghallgat, figyel és hall a jövőre?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "közületek"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "meghallgat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨ezt⟩"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "figyel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "és hall"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "a jövőre"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:25.144614512Z",
+  "model": "glm-5.3"
+}

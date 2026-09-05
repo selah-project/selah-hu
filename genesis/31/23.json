@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És magához vette ⟨את⟩ az ő testvéreit vele együtt, és üldözte őt három... hét nap útján, és utolérte őt a Gileád hegyén.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és magához vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő testvéreit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "az ő testvéreit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele együtt"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "és üldözte"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "őt (nyomában)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nap"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "és odaragadt (utolérte)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyen"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "a Gileád"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:32.658912032Z",
+  "model": "glm-5.3"
+}

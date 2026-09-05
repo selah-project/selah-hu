@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 21:12",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És elment Dávid, és vette ⟨את⟩ Saul csontjait és ⟨את⟩ Jehonatánnak, az ő fiának csontjait ⟨את⟩ a jáves-giladi férfiaktól, akik ellopták ⟨את⟩ őket a Bét-Sán teréről, ahol felakasztották őket a pelistiek, azon a napon, amikor a pelistiek megöltek ⟨את⟩ Sault a Gilboán.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ -tól"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "férfiaitól"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "jáves"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "-giladi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "ellopták"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "a Bét-Sán teréről"
+    },
+    {
+      "surface": "מרחob",
+      "gloss": "teréről"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bét-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Sán"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "תלום",
+      "gloss": "felakasztották"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "a pelistiek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "megölésének"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sault"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sault"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "a Gilboán"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:46.479068166Z",
+  "model": "glm-5.3"
+}

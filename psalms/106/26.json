@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És felemelte kezét ellenük, hogy ledöntse ⟨את⟩ őket a pusztában.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "És felemelte"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "hogy ledöntse"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:29.116097838Z",
+  "model": "glm-5.3"
+}

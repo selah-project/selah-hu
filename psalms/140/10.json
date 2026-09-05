@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 140,
+  "translation": "A körülvevőim fejét ajkiknak a fáradsága borítsa be ⟨őt⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "fejét"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "körülvevőimnek"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fáradsága"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ajkiknak"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "borítsa be őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:46.389816415Z",
+  "model": "glm-5.3"
+}

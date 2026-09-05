@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És adta a börtönház felügyelője József kezébe ⟨את⟩ az összes foglyot, akik a börtönházban ⟨voltak⟩, és ⟨את⟩ mindazt, amit ott tesznek, ő volt a megtevő.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És adta"
+    },
+    {
+      "surface": "שר",
+      "gloss": "a felügyelője"
+    },
+    {
+      "surface": "בית",
+      "gloss": "-ház"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "a börtön(nek)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "József"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes foglyot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "foglyot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a börtönházban"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "a börtön(ben)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "tesznek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a megtevő"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:18.975543561Z",
+  "model": "glm-5.3"
+}

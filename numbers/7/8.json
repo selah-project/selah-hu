@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ⟨את⟩ a négy szekeret és ⟨את⟩ a nyolc marhát adta a Merári fiainak, az ő szolgálatjuk szerint, Itámár keze alatt, Aharón fijáé, a papé.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a négy szekeret"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "a szekeret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nyolc marhát"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "nyolc"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a marhát"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a fiai(nak)"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merári"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "az ő szolgálatjuk"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "keze alatt"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itámár"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:53.173448462Z",
+  "model": "glm-5.3"
+}

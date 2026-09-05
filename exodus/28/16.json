@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Négyzetű legyen, kettéhajtva; egy zéret legyen a hossza és egy zéret a szélessége.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "négyzetű"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kettéhajtva"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "egy zéret"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "és egy zéret"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "a szélessége"
+    }
+  ],
+  "timestamp": "2026-09-04T16:56:26.539601816Z",
+  "model": "glm-5.3"
+}

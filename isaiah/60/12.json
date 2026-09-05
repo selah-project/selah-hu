@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "Mert a nemzet és az ország, amely nem szolgál neked, elvész, és a nemzetek pusztasággá pusztíttatnak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "a nemzet"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "és az ország"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "szolgál neked"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "elvész"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "és a nemzetek"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pusztasággá"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "pusztíttatnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:27:58.636243063Z",
+  "model": "glm-5.3"
+}

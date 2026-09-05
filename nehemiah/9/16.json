@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "De ők és atyáink kevélykedtek, és megkeményítették ⟨את⟩ nyakukat, és nem hallgattak a te parancsaidra.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "De ők"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "és atyáink"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "kevélykedtek"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "és megkeményítették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyakukat"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "nyakukat (tarkójukat)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hallgattak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parancsaidra"
+    }
+  ],
+  "timestamp": "2026-09-04T22:56:14.281589501Z",
+  "model": "glm-5.3"
+}

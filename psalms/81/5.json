@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Mert rendelet ez Izráelnek: törvény Jáakob (Jákob) Elohimjának.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "חק",
+      "gloss": "rendelet"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izráelnek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "törvény"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimjának"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jáakob"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:54.812825535Z",
+  "model": "glm-5.3"
+}

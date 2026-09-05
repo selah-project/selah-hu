@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És ti meggyalázzátok ⟨את⟩ ⟨őt⟩, amikor azt mondjátok: »Adonáj asztala meg van gyalázva, és gyümölcse megvetett annak eledele.«",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "és ti"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "meggyalázzátok"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨őt⟩ — a Nevét"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "amikor azt mondjátok"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "asztala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "meg van gyalázva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "és gyümölcse"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "megvetett"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "annak eledele"
+    }
+  ],
+  "timestamp": "2026-09-04T21:37:06.427859466Z",
+  "model": "glm-5.3"
+}

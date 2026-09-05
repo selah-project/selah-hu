@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Legyen az ő vége kiirtásra, a másik nemzedékben legyen törölve az ő nevük.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "az ő vége"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kiirtásra"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nemzedékben"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "másik"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "legyen törölve"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "az ő nevük"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:50.502384085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Az ember ajándéka tágít helyet neki, és a nagyok elé vezeti őt.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "ajándéka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "tágít"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "és … elé"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "a nagyok"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "vezeti őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:18.842021087Z",
+  "model": "glm-5.3"
+}

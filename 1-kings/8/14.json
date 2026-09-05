@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És elfordította a király ⟨את⟩ az ő arcát, és megáldotta ⟨את⟩ egész Izrael gyülekezetét — és egész Izrael gyülekezete állt.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "és elfordította"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő arcát"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "az ő arcát"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Izrael gyülekezetét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezetét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "állt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:29.147018408Z",
+  "model": "glm-5.3"
+}

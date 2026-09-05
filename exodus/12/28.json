@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És elmentek, és megcselekedték Izrael fiai, ahogyan parancsolta Jahve ⟨את⟩ Moshénak (Mózesnek) és Aharánnak, úgy cselekedtek.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "elmentek"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "megcselekedték"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshénak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshénak"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharánnak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "cselekedtek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:25.158555247Z",
+  "model": "glm-5.3"
+}

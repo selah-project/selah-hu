@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Boldog ⟨az⟩ a nép, amelynek így van; boldog ⟨az⟩ a nép, amelynek Jahve ⟨az⟩ Elohimja!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "így van"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "boldog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "amelynek Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "az Elohimja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:53.034611407Z",
+  "model": "glm-5.3"
+}

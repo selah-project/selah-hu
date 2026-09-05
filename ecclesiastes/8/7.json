@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Mert nem tudja ⟨ő⟩, mi lesz, mert amikor megtörténik, ki jelenti meg neki?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nem ⟨ő⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "megtörténik"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "jelenti meg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:57.476451321Z",
+  "model": "glm-5.3"
+}

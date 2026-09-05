@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Társa vagyok mindazoknak, akik félik téged, és ⟨azoknak⟩, akik megtartják parancsolataidat.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "társa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "vagyok én"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindazoknak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "félik téged"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "és ⟨azoknak⟩, akik megtartják"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "parancsolataidat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:56.100786033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És történt másnap, hogy jöttek a filiszteusok, hogy kifosszák ⟨את⟩ az elesetteket, és megtalálták ⟨את⟩ Sault és ⟨את⟩ fiait elesve a Gilboa hegyén.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "másnap"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hogy jöttek"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filiszteusok"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "hogy kifosszák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az elesetteket"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "az elesetteket"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "és megtalálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sault"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sault"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "elesve"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyen"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-04T23:03:09.965332269Z",
+  "model": "glm-5.3"
+}

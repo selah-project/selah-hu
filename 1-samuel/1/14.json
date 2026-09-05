@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És monda néki Eli: Meddig leszesz ittas? Vesd el ⟨את⟩ borodat magadról!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "néki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mikorig"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "leszesz ittas"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Vesd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borodat"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "borodat"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "magadról"
+    }
+  ],
+  "timestamp": "2026-09-04T19:02:23.498979936Z",
+  "model": "glm-5.3"
+}

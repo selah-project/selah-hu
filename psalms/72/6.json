@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Szálljon alá, mint az eső a nyírt fűre, mint záporesők, megöntözve a földet.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Szálljon alá"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "mint az eső"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "גז",
+      "gloss": "a nyírt fű"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "mint záporesők"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "megöntözve"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.543649197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 95,
+  "translation": "Jöjjetek, boruljunk le és térdepeljünk, áldjuk Jahvét, a mi alkotónkat, az ő orcája előtt.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Jöjjetek"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "boruljunk le"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "és térdepeljünk"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "áldjuk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "alkotónkat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:16.086512392Z",
+  "model": "glm-5.3"
+}

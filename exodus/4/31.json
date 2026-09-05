@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És hitt a nép, és hallották, hogy meglátogatta Jahve ⟨את⟩ Izrael fiait, és hogy látta ⟨את⟩ nyomorúságukat, és meghajoltak és leborultak",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "És hitt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "és hallották"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "meglátogatta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "és hogy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyomorúságukat"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "nyomorúságukat"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "és meghajoltak"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "és leborultak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:57.274712284Z",
+  "model": "glm-5.3"
+}

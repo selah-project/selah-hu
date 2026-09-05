@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És mondta Avrahámnak: Űzd el ezt a szolgálót és ⟨את⟩ a fiát, mert nem örököl ennek a szolgálónak a fia az én fiammal, Jichakkal (Izsákkal).",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahámnak"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Űzd el"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ezt a szolgálót"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fiát"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a fiát"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "örököl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "szolgálónak"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ennek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "בני",
+      "gloss": "az én fiammal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichakkal"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:16.544135557Z",
+  "model": "glm-5.3"
+}

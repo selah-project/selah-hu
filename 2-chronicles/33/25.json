@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És megölte a föld népe ⟨את⟩ mind az összeesküvőket a király ellen, Amonét, és királlyá tette a föld népe ⟨את⟩ Joásijáhut, az ő fiát, őhelyette.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "És megölte"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind az összeesküvőket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "az összeesküvőket"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amoné"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "és királlyá tette"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joásijáhut"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Joásijáhut"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "őhelyette"
+    }
+  ],
+  "timestamp": "2026-09-04T23:23:20.631278800Z",
+  "model": "glm-5.3"
+}

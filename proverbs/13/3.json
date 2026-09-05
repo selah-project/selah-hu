@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Aki őrzi száját, őrzi ⟨a⟩ lelkét; aki tátja ajkait, annak romlás ⟨lesz⟩.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "száját"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lelkét"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "tátja"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ajkait"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "romlás"
+    },
+    {
+      "surface": "לו",
+      "gloss": "annak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:12.041165857Z",
+  "model": "glm-5.3"
+}

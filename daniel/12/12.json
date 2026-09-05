@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Boldog, aki várva vár és eljut ezerháromszáz harmincöt napig.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "aki várva vár"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "és eljut"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "napokig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "három"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "és öt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:47:18.362599336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És nevezte Elohim a szárazföldet földnek, és a vizek gyűjtőhelyét nevezte tengereknek; és látta Elohim, hogy jó.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevezte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "a szárazföldet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földnek"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "és a gyűjtőhelyét"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nevezte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tengereknek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:59.627500358Z",
+  "model": "glm-5.3"
+}

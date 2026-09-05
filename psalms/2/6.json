@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "„Én ⟨az⟩ én királyomat fölállítottam a Cionon, az én szent hegyemen.”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "fölállítottam"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyomat"
+    },
+    {
+      "surface": "על",
+      "gloss": "a...-on"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyén"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:38.529740964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És monda Jehúda (Júda) az ő testvéreinek: Mi haszna, hogy megöljük ⟨את⟩ a mi testvérünket, és eltakarjuk ⟨את⟩ az ő vérét?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "az ő testvérei"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "haszna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "megöljük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mi testvérünket"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "a mi testvérünket"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "és eltakarjuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő vérét"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "az ő vérét"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:18.915726604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Amikor megítéltetik, jőjjön ki bűnösnek, és az imádsága legyen bűnné.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "amikor megítéltetik"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jőjjön ki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bűnösnek"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "és az imádsága"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "bűnné"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:56.291053620Z",
+  "model": "glm-5.3"
+}

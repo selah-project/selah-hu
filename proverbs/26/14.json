@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Az ajtó a maga pantján forog, és a lusta a maga ágyán ⟨forog⟩.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "az ajtó"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "forog"
+    },
+    {
+      "surface": "על",
+      "gloss": "pantján"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "az ő csuklópántján"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "és a lusta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ágyán"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "az ő fekhelyén"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:12.322548277Z",
+  "model": "glm-5.3"
+}

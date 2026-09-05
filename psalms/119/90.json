@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Nemzedékről nemzedékre ⟨van⟩ a te hűséged; megalapoztad a földet, és az megáll.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "Nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "a te hűséged"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "megalapoztad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "és az megáll"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:38.151786485Z",
+  "model": "glm-5.3"
+}

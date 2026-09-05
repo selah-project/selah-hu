@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Boldogok, akik őrzik ⟨az⟩ ⟨az ő⟩ bizonyságait, teljes szívből keresik őt.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldogok"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "akik őrzik"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "bizonyságait"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívből"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "keresik őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:44.353398759Z",
+  "model": "glm-5.3"
+}

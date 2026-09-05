@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ⟨az⟩ asszony, aki bármely állathoz közeledik, hogy párosodjék vele ⟨את⟩: öld meg ⟨את⟩ az asszonyt és ⟨את⟩ az állatot — halállal halandnak meg, vérük ⟨van⟩ rajtuk.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "És asszony"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "közeledik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bármely"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "állathoz"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "hogy párosodjék"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "öld meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asszonyt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszonyt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "az állatot"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "halandnak meg"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "vérük"
+    },
+    {
+      "surface": "בם",
+      "gloss": "rajtuk"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:51.694274229Z",
+  "model": "glm-5.3"
+}

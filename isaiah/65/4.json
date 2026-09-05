@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "amelyek a sírokban ülnek, és a rejtekhelyeken töltenek éjszakát; amelyek disznóhúst esznek, és edényeikben undorító ételek főzete.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "amelyek ülnek"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "a sírokban"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "és a rejtekhelyeken"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "töltenek éjszakát"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "amelyek esznek"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húst"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "a disznó"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "és főzete"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "undorító ételek"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "edényeikben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:31:16.799849295Z",
+  "model": "glm-5.3"
+}

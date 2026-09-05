@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "és ⟨את⟩ Hadoramot és ⟨את⟩ Uzalt és ⟨את⟩ Diklát.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hadoramot"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoramot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Uzalt"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzalt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Diklát"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:48.671795624Z",
+  "model": "glm-5.3"
+}

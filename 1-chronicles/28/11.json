@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És adott Dávid (David) Selomohnak, a fiának, ⟨את⟩ a mintáját ⟨az⟩ előcsarnoknak, és ⟨את⟩ its termeit, kincstárait, felső termeit és belső szobáit, és a káposztér házát.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És adott"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Selomohnak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a fiának"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mintáját"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "mintáját"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "előcsarnoknak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "termeit"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "termeit"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "kincstárait"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "felső termeit"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "belső szobáit"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "belső"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "és házát"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "a káposztérnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:09:35.250402493Z",
+  "model": "glm-5.3"
+}

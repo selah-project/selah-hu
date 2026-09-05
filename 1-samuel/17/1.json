@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És összegyűjtötték a pelistiiek ⟨את⟩ táboraikat a hadakozásra, és összegyűltek Szokónál (Sokó), amely Júdájé, és tábort ütöttek Szokó és Azeká között, Efesz-Dammimnál.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "és összegyűjtötték"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelistiiek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "táboraikat"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "táboraikat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "a hadakozásra"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "és összegyűltek"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Szokónál"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Júdájé"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "és tábort ütöttek"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Szokó"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeká"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Efesz-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Dammimnál"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:19.612609969Z",
+  "model": "glm-5.3"
+}

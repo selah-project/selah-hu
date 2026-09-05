@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És Azarjá nemzette ⟨את⟩ Seráját, és Serájá nemzette ⟨את⟩ Jehocádakot;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "és Azarjá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seráját"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seráját"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "és Serájá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehocádakot"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehocádakot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:49.781987619Z",
+  "model": "glm-5.3"
+}

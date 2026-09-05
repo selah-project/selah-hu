@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Ami volt, az ⟨az⟩ lesz, és ami megtörtént, az ⟨az⟩ fog megtörténni, és nincs semmi új a nap alatt.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ami"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "és ami"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "megtörtént"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "fog megtörténni"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:52.861168795Z",
+  "model": "glm-5.3"
+}

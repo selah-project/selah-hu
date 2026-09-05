@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "„És bemegy a déli király királyságába, de visszatér a maga földjére.”",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "És bemegy"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "királyságába"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "déli"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "de visszatér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "földjére"
+    }
+  ],
+  "timestamp": "2026-09-04T22:47:26.756556516Z",
+  "model": "glm-5.3"
+}

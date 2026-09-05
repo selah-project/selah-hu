@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ímé, erőssé tettem ⟨את⟩ arcodat az ő arcukkal szemben, és ⟨את⟩ homlokodat erőssé az ő homlokukkal szemben.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ímé"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcodat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "arcodat"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "erőssé"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "arcukkal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "homlokodat"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "homlokodat"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "erőssé"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "homlokukkal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:41:29.500793962Z",
+  "model": "glm-5.3"
+}

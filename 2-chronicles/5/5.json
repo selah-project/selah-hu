@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És felvitték ⟨את⟩ a ládát, és ⟨את⟩ a találkozás sátorát, és ⟨את⟩ minden szent edényt, amely ⟨a⟩ sátorban ⟨volt⟩; felvitték ⟨את⟩ ⟨azokat⟩ a papok, a léviták.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "felvitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ládát"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "a ládát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a találkozás sátorát"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozásának"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden szent edényt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edényt"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "a sátorban"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "felvitték"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨azokat⟩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a léviták"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:42.371834806Z",
+  "model": "glm-5.3"
+}

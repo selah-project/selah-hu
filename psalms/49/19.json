@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Mert lelke élete során áldja ⟨magát⟩, és ⟨az emberek⟩ dicsérnek téged, mert jól teszel magadnak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "élete során"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "áldja"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "és dicsérnek téged"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "jól teszel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:59.610104532Z",
+  "model": "glm-5.3"
+}

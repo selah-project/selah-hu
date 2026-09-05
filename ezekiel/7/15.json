@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Kívül ⟨van⟩ a kard, és belül a döghalál és az éhség; aki a mezőn ⟨van⟩, kard által hal meg, és aki a városban ⟨van⟩, azt éhség és dög falja fel.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "és a döghalál"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "és az éhség"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "belül"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kard által"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és aki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "éhség"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "és dög"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "falja fel őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:00:10.689524365Z",
+  "model": "glm-5.3"
+}

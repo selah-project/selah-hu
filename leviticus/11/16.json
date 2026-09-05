@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és ⟨את⟩ a jááná lányát (a strucchet), és ⟨את⟩ a tákhmászt, és ⟨את⟩ a sákháfot (a sirályt), és ⟨את⟩ a karvalyt a maga fajtája szerint",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jááná lányát"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "a jááná"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a tákhmászt"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "a tákhmászt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a sákháfot"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "a sákháfot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a karvalyt"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "a karvalyt"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "a maga fajtája szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:00.013850953Z",
+  "model": "glm-5.3"
+}

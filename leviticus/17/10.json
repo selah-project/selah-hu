@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És ⟨bármely⟩ ember a Jiszráél házából és a jövevény közül, aki köztük lakik, aki bármilyen vért eszik, én arcomat az ⟨az⟩ élet-ellen fordítom, amely eszi ⟨את⟩ a vért, és kivágom ⟨azt⟩ ⟨az⟩ ő népe kebeléből.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "és ⟨bármely⟩ ember"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…háza közül"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és…közül"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "a jövevény"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "aki lakik"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "köztük"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bármilyen"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vért"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "és fordítom"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcomat"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "az…ellen"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "amely eszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "és kivágom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kebeléből"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "az ő népe"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:47.398387281Z",
+  "model": "glm-5.3"
+}

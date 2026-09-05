@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Fordítsd el gyalázatomat, amelytől félek, mert a te ítéleteid jók.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Fordítsd el"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "gyalázatomat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelytől"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "félek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "a te ítéleteid"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "jók"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:08.429231982Z",
+  "model": "glm-5.3"
+}

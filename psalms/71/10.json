@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Mert szóltak ellenfeleim ⟨ellenem⟩, és a lelkem őrzői — leselkedői — tanácskoznak együtt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "szóltak"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ellenfeleim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "és leselkedői"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "tanácskoznak"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:46.767394374Z",
+  "model": "glm-5.3"
+}

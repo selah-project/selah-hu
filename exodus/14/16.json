@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Te pedig emeld fel ⟨את⟩ pálcádat, és nyújtsd ki ⟨את⟩ kezedet a tenger fölé, és hasítsd ketté azt, és menjenek be Izrael fiai a tenger közepébe szárazon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Te pedig"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "emeld fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pálcádat"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "pálcádat"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "és nyújtsd ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezedet"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "és hasítsd ketté azt"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és menjenek be"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepébe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "szárazon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:42.053778493Z",
+  "model": "glm-5.3"
+}

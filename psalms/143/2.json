@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 143,
+  "translation": "És ne vonj addig a szolgádat, mert élő ember nem igazul meg a te orcád előtt!",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vonj addig"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "szolgádat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgádat"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "igazul meg"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "a te orcád előtt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:34.396006019Z",
+  "model": "glm-5.3"
+}

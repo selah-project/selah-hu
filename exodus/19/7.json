@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És eljött Moshe (Mózes), és összehívta a nép véneit, és eléjük tette ⟨את⟩ ezeket a szavakat mind, amelyeket Jahve parancsolt neki.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És eljött"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és összehívta"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "a vénei"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és tette"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "eléjük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket a szavakat mind"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "szavakat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "parancsolt neki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:11.730950828Z",
+  "model": "glm-5.3"
+}

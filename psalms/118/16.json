@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Jahve jobb keze fölmagasztaltatik, Jahve jobb keze hősi erővel cselekszik.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "jobb keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "fölmagasztaltatik"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobb keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hősi erővel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:30.986677425Z",
+  "model": "glm-5.3"
+}

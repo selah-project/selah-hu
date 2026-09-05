@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És az udvar szélessége kelet felől, napkeletre, ötven könyök ⟨lesz⟩.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "És … szélessége"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvar"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "felől"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kelet"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "napkeletre"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötven"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:34.814345972Z",
+  "model": "glm-5.3"
+}

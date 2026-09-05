@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És nem akarta Dávid magához vinni ⟨את⟩ Jahve ládáját Dávid városába, hanem Dávid eltérítette ⟨azt⟩ Oved Edom (Obed-Edom), a gittita házába.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "akarta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "vinni"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "magához"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ba(be)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "eltérítette"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "a gittita"
+    }
+  ],
+  "timestamp": "2026-09-04T19:23:15.344714180Z",
+  "model": "glm-5.3"
+}

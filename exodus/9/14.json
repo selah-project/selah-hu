@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "mert ezen az alkalommal én küldöm ⟨את⟩ minden csapásomat a te szívedre, és a te szolgáidra, és a te népedre, hogy megtudd, hogy nincs hozzám hasonló az egész földön.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "alkalommal"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "küldöm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden csapásomat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "csapásomat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "a te szívedre"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "és a te szolgáidra"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "és a te népedre"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "megtudd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "hozzám hasonló"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:51.828797896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Szívem hánykódik bennem, és a halál rettenetei hullottak rám.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Szívem"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "hánykódik"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "ויאמות",
+      "gloss": "és a rettenetei"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a halálnak"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "hullottak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:40.278131239Z",
+  "model": "glm-5.3"
+}

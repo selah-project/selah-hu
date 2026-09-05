@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 146,
+  "translation": "Jahve megnyitja a vakok ⟨szemét⟩, Jahve felegyenesíti a görnyedteket, Jahve szereti az igazakat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "megnyitja"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "a vakokat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "felegyenesíti"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "a görnyedteket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazakat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:44.309318631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 127,
+  "translation": "Hiába keltek korán, későig ülnek meg, a fáradság kenyerét eszik — mert így ad ⟨álmot⟩ szeretettjének az álom.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "hiába"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨nektek⟩"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "keltek korán"
+    },
+    {
+      "surface": "קום",
+      "gloss": "fel"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "későig"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ülnek meg"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerét"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "a fáradságnak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "szeretettjének"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "álmat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:01.962762599Z",
+  "model": "glm-5.3"
+}

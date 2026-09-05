@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Trónoló helyéről figyel a föld minden lakójára.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "lakóhelyéről"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "trónolásának"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "figyel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakójára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:30.281403011Z",
+  "model": "glm-5.3"
+}

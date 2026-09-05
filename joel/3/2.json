@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És a szolgákra és a szolgálóleányokra is kitöltöm azokban a napokban ⟨את⟩ lelkemet.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "és ... is"
+    },
+    {
+      "surface": "על",
+      "gloss": "arra"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "a szolgákra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és arra"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "a szolgálóleányokra"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a napokban"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "azokban"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "kitöltöm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelkemet"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lelkemet"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:09.263272381Z",
+  "model": "glm-5.3"
+}

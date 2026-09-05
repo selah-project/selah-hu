@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 38:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És a második oldalra, innen és onnan, a udvar kapujához: függönyök tizenöt könyök, oszlopaik három, és talpazataik három.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "És a … vállához"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a második"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "innen"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "és onnan"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "a kapujához"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "a udvarnak"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "függönyök"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tizen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "öt"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "oszlopaik"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "és talpazataik"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:44.126906955Z",
+  "model": "glm-5.3"
+}

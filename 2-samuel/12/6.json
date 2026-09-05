@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "és ⟨את⟩ a jerkét négyszerezetten fizeti meg, mivel megcselekedte ⟨את⟩ ezt a dolgot, és mert nem kímélte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jerkét"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "a jerkéje"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizeti meg"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "négyszerezetten"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "mivel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "megcselekedett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és mert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "kímélt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:29.271566254Z",
+  "model": "glm-5.3"
+}

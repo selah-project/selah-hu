@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "„Miért mondtad: A nővérem ⟨ez⟩? És elvevé őt magamnak feleségül. És íme most a te feleséged — vedd el, és menj!”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "mondtál"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "A nővérem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "és elvevé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "magamnak"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ím"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "a te felességed"
+    },
+    {
+      "surface": "קח",
+      "gloss": "vedd el"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "és menj"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:26.874661536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Dávidtól. Hozzád, Jahve, kiáltok; sziklám, ne hallgass el tőlem, hogy el ne némulj előlem, és a gödörbe leszállókhoz hasonló ne legyek.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "sziklám"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "hallgass el"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy... ne"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "némulj el"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "előlem"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "és hasonló ne legyek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "–val (mint)"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "a leszállók"
+    },
+    {
+      "surface": "בור",
+      "gloss": "gödör"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:01.228678347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És megszámlálta őket Bezékben, és Izrael fiai háromszázezeren voltak, és Jehúda (Júda) férfiai harmincezeren.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "és megszámlálta őket"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezékben"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és voltak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "három"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és férfiai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    }
+  ],
+  "timestamp": "2026-09-04T19:07:48.786095779Z",
+  "model": "glm-5.3"
+}

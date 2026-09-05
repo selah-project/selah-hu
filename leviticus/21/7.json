@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Parázna ⟨nőt⟩ és meggyalázottat ne vegyenek feleségül, és férjétől elűzött asszonyt ne vegyenek feleségül, mert szent ⟨az⟩ Elohimja számára.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "⟨nőt⟩"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "parázna"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "és meggyalázottat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "vegyenek feleségül"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "és asszonyt"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "elűzöttet"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "férjétől"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "vegyenek feleségül"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "Elohimja számára"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:40.344803399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És vezessed ⟨את⟩ Aharont (Áront) és ⟨את⟩ fiait a kijelentés sátrának bejáratához, és mosd meg ⟨את⟩ őket vízben.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "és vezessed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont (Áront)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratához"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a kijelentésnek"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "és mosd meg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:11.311258105Z",
+  "model": "glm-5.3"
+}

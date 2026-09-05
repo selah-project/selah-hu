@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És ha megevés megevésre ⟨a⟩ harmadik napon, utálatos ⟨az⟩, nem nyer elfogadást",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "megevés"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "megevésre"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a harmadik"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "utálatos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "nyer elfogadást"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:35.460118051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És küldött David (Dávid) követeket Ish-Bosethez, Saul fiához, mondván: Add ⟨את⟩ feleségemet, ⟨את⟩ Mihalt, akit eljegyeztem magamnak száz filiszteus előbőrrel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És küldött"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "követeket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boset"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Add"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségemet"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "feleségemet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mihalt"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mihalt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "eljegyeztem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "magamnak"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "előbőrrel"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiszteus"
+    }
+  ],
+  "timestamp": "2026-09-04T19:22:21.171293877Z",
+  "model": "glm-5.3"
+}

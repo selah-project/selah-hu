@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Csak ⟨את⟩ az aranyat és ⟨את⟩ az ezüstöt, ⟨את⟩ a rézt, ⟨את⟩ a vasat, ⟨את⟩ az ónt és ⟨את⟩ az ólmot",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az aranyat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az aranyat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ezüstöt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "az ezüstöt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a rézt"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "a rézt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vasat"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "a vasat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ónt"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "az ónt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ólmot"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "az ólmot"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:53.250014833Z",
+  "model": "glm-5.3"
+}

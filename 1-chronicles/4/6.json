@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És szült neki Naará ⟨את⟩ Achuzzámot és ⟨את⟩ Chéfert és ⟨את⟩ Temenit és ⟨את⟩ haAchshtarit; ezek Naará fiai.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naará"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achuzzámot"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achuzzám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Chéfert"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Temenit"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "haAchshtarit"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "haAchshtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarának"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:03.351311412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És történt, amikor Selomo (Salamon) befejezte ⟨את⟩ Jahve házának és ⟨את⟩ a király házának építését, és ⟨את⟩ minden vágyát, amelyet Selomo kívánt megtenni,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "amikor befejezte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "építeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden vágyát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "vágyát"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kívált"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "megtenni"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:37.476752312Z",
+  "model": "glm-5.3"
+}

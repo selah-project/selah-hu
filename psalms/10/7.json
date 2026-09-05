@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Átok ⟨van⟩ ⟨a⟩ szája tele, és csalás és alattomosság; nyelve alatt fáradságos bántás és gonoszság.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Átok"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "szája"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tele"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "és csalás"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "és alattomosság"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "nyelve"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fáradságos bántás"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "és gonoszság"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:28.256446045Z",
+  "model": "glm-5.3"
+}

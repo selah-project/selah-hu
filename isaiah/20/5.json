@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És megtörtek és megszégyenülnek Kush (Etiópia) miatt — a reménységük —, és Micrajim (Egyiptom) miatt — a dicsekedésük.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "és megtörtek"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "és megszégyenülnek"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kush miatt"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "reménységük"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és miatt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "dicsekedésük"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:11.926115944Z",
+  "model": "glm-5.3"
+}

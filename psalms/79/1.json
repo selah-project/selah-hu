@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 79,
+  "translation": "Mizmor Asafnak (Asaf zsoltára). Elohim! Népek jöttek örökségedbe, bemocskolták ⟨את⟩ szenthelyed palotáját, tették ⟨את⟩ Jerusalámet (Jeruzsálem) romhalmazzá.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor (zsoltár)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafnak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "jöttek"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "örökségedbe"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "bemocskolták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szenthelyed palotáját"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palotáját"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "szenthelyed"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalámet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalámet (Jeruzsálem)"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "romhalmazzá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:48.152937325Z",
+  "model": "glm-5.3"
+}

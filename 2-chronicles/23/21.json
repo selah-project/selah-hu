@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És örvendezett az ország egész népe, és a város megnyugodott, és ⟨את⟩ Atalját karddal ölték meg.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "és örvendezett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "és a város"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "megnyugodott"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalját"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalját"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ölték meg"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "karddal"
+    }
+  ],
+  "timestamp": "2026-09-05T00:00:49.335203124Z",
+  "model": "glm-5.3"
+}

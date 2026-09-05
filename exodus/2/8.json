@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És mondta neki Paroh lánya: Menj. És elment az ifjú leány, és elhívta ⟨את⟩ a gyermek anyját.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "menj"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "az ifjú leány"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "és elhívta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anyját"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anyját"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermeknek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:15.288742128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Hallotta Elohim, és haragra gerjedt, és nagyon megutálta Jiszráélt (Izráelt).",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hallotta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "és haragra gerjedt"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "és megutálta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jiszráélt (Izráelt)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:37.829356058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Föld, amelyen nem szűkölködve eszel benne kenyeret, nem lesz hiányod semmiben benne; föld, amelynek kövei vas, és hegyeiből rézet vágsz.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "szűkölködve"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eszel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "lesz hiányod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelynek"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "kövei"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vas"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "és hegyeiből"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "vágsz"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rézet"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:23.133251229Z",
+  "model": "glm-5.3"
+}

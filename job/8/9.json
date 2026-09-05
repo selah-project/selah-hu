@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Mert tegnap ⟨voltunk⟩ mi, és nem tudunk, mert árnyék ⟨az⟩ napjaink a földön.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "tegnap"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "tudunk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "צל",
+      "gloss": "árnyék"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "napjaink"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földön"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:14.100836845Z",
+  "model": "glm-5.3"
+}

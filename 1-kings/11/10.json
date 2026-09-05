@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És megparancsolta neki ebben az ügyben, hogy ne kövessen más isteneket — de nem tartotta meg ⟨את⟩ azt, amit Jahve megparancsolt.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az ügyet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "kövessen (járjon)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "-után"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "tartotta meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit Jahve megparancsolt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:38.429814378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És magod közül ne adj ⟨את⟩ átadják a Molokhnak, és ne gyalázd ⟨את⟩ Elohimod nevét; én ⟨a⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "és magodból"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "adj"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "átadják"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a Moloknak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "gyalázd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimod nevét"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimodnak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:22.110595282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 95,
+  "translation": "Kinek ⟨az⟩ ⟨a⟩ tenger — és ⟨ő⟩ alkotta azt — és a szárazföldet az ő kezei formálták.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kinek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "alkotta azt"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "és a szárazföld"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kezei"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "formálták"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:16.086147441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És történt, amikor meghallotta egész Izrael, hogy visszatért Jaravám, hogy elküldtek és elhívták őt a gyülekezethez, és királlyá tették őt egész Izrael fölött; nem követett a Dávid háza után ⟨senki⟩, kivéve Jehúda törzsét egyedül.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "amikor meghallotta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "שב",
+      "gloss": "visszatért"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravám"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "hogy elküldtek"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "és elhívták"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gyülekezet"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "és királlyá tették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kivéve"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "törzs"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egyedül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:23.978421478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Ember a becsületben, és nem érti: a barmokhoz hasonló lett, kipusztultak.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ember"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "a becsületben"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "érti"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "hasonló lett"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "a barmokhoz"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "kipusztultak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:59.660606656Z",
+  "model": "glm-5.3"
+}

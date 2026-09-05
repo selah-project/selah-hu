@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És meghagyták ⟨את⟩ Benjámin fiainak, mondván: Menjetek, és legyetek lesben a szőlőkben.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És meghagyták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benjámin fiainak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjámin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menjetek"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "és legyetek lesben"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "a szőlőkben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:28:46.298774384Z",
+  "model": "glm-5.3"
+}

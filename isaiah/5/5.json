@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És most megismertetem ⟨את⟩ veletek, kérem, ⟨את⟩ azt, amit én teszek szőlőmmel: elveszem kerítését, és ⟨az⟩ égetésre lesz; áttöröm kőfalát, és ⟨az⟩ taposásra lesz.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "megismertetem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit én teszek szőlőmmel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teszek"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "szőlőmmel"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "elveszem"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "kerítését"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és ⟨az⟩ lesz"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "égetésre"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "áttöröm"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "kőfalát"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és ⟨az⟩ lesz"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "taposásra"
+    }
+  ],
+  "timestamp": "2026-09-05T00:28:00.416299147Z",
+  "model": "glm-5.3"
+}

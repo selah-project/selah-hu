@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És szólt Jahve Smuélhez: Hallgasd meg a nép szavát mindarra, amit mondanak neked, mert nem ⟨את⟩ téged vetettek el, hanem ⟨את⟩ engem vetettek el, attól, hogy uralkodjam fölöttük.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hez"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hallgasd meg"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "a szavát"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindarra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mondanak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "téged (az elvetés tárgya)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "vetettek el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem (az elvetés tárgya)"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "vetettek el"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "attól, hogy uralkodjam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fölöttük"
+    }
+  ],
+  "timestamp": "2026-09-04T19:07:34.071751776Z",
+  "model": "glm-5.3"
+}

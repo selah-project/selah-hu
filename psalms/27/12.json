@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Ne adj át engem ellenségeim akaratának, mert hamis tanúim keltek fel ellenem, és erőszakot lehelnek ki.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "adj át engem"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "akaratába"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "felkeltek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tanúi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hamis"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "és kilehel(nek)"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszakot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:26.499103107Z",
+  "model": "glm-5.3"
+}

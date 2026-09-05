@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Aki fenyíti a nemzeteket, nem fedd-⟨e⟩? Aki megtanítja az embert ismeretre ⟨nem tudja⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Aki fenyíti"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a nemzeteket"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nem…-e?"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "fedd"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Aki megtanítja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ismeretre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:44.222212160Z",
+  "model": "glm-5.3"
+}

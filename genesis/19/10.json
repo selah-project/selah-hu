@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És a férfiak kinyújtották ⟨את⟩ kezüket, és bevitték ⟨את⟩ Lótot magukhoz a házba, és ⟨את⟩ az ajtót bezárták.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "És kinyújtották"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a férfiak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezüket"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kezüket"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "és bevitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lótot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lótot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "magukhoz"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "a házba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ajtót"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "az ajtót"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "bezárták"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:13.027895929Z",
+  "model": "glm-5.3"
+}

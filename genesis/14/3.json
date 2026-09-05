@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ezek mind összegyűltek a Sziddím völgyébe — az a Sós-tenger",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "összegyűltek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "völgy"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "a Sziddím"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "a sós"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:00.754104758Z",
+  "model": "glm-5.3"
+}

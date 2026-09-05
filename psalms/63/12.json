@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 63,
+  "translation": "És a király örvendez az Elohimban, dicsekszik mindenki, aki ⟨benne⟩ esküszik, mert bezáratik a hazugságot szólók szája.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "és a király"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvendez"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "az Elohimban"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "dicsekszik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "aki esküszik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨benne⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "bezáratik"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szája"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "a … szólók"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugságot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:27.604817596Z",
+  "model": "glm-5.3"
+}

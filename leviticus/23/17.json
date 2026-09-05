@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 23:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Lakóhelyeitekről hozzatok kenyeret meglengetésül, kettőt, két tized finomlisztből legyenek, kovászosan süssék azokat — elsőtermésekül Jahvénak.",
+  "tokens": [
+    {
+      "surface": "ממושבתיכם",
+      "gloss": "lakóhelyeitekről"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "hozzatok"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "meglengetésre"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kettőt"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tizednyit"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "finomlisztből"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kovászosan"
+    },
+    {
+      "surface": "תאפינה",
+      "gloss": "süssék"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "elsőtermésekül"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:21:26.399473427Z",
+  "model": "glm-5.3"
+}

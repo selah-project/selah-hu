@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És kend fel ⟨את⟩ a medencét és ⟨את⟩ annak talpát, és szenteld ⟨את⟩ azt.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "és kend fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a medencét"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "a medencét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak talpát"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "annak talpát"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "és szenteld"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:11.311125186Z",
+  "model": "glm-5.3"
+}

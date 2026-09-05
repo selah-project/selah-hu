@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 13:12",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És íme, velünk ⟨van⟩ fejül az Elohim, és az ő papjai és a riadó harsonái, hogy riadót fújjanak ellenetek. Izráel fiai, ne harcoljatok Jahvéval, atyáitok Elohimjával, mert nem fogtok sikerülni!",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "És íme"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "fej [mint fej]"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "és az ő papjai"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "és harsonái"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "a riadó"
+    },
+    {
+      "surface": "להריע",
+      "gloss": "hogy riadót fújjanak"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ellenetek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "harcoljatok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéval"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atyáitok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "fogtok sikerülni"
+    }
+  ],
+  "timestamp": "2026-09-04T23:16:05.082698332Z",
+  "model": "fable-5-hand"
+}

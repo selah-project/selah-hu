@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És Micrajim dolgoztatta ⟨את⟩ Izráel fiait kegyetlenséggel.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "És dolgoztatta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráel fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "kegyetlenséggel"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:41.158361791Z",
+  "model": "glm-5.3"
+}

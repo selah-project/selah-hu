@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És sőt én meghallottam ⟨את⟩ a Jiszráel fiai nyögését, akiket Micrajim rabszolgákat dolgoztat, és megemlékeztem ⟨את⟩ szövetségemről.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "és sőt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "meghallottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jiszráel fiai nyögését"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "nyögését"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "rabszolgákat dolgoztat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "és megemlékeztem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemről"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemről"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:39.142337081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 98,
+  "translation": "Folyók tapsoljanak tenyeret, együtt ujjongjanak a hegyek.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Folyók"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "tapsoljanak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tenyeret"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ujjongjanak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:12.800279651Z",
+  "model": "glm-5.3"
+}

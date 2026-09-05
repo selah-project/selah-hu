@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Jobb a mélyen járó lélek ⟨את⟩ a szegényekkel, mint zsákmányt osztani ⟨את⟩ a gőgösökkel.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "mélyen járó"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szegényekkel"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "a szegényekkel"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "osztani"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "zsákmányt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gőgösökkel"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "a gőgösökkel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:56.611384634Z",
+  "model": "glm-5.3"
+}

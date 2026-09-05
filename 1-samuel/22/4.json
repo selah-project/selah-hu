@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És odavezette ⟨את⟩ a Moáb királyának színét elé őket, és ott laktak nála Dávid erősségben való tartózkodásának minden napjaiban.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "odavezette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Moáb királyának színét"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színét"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "és ott laktak"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nála"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjaiban"
+    },
+    {
+      "surface": "היות",
+      "gloss": "tartózkodásának"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "erősségben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:16:43.979427339Z",
+  "model": "glm-5.3"
+}

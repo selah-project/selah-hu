@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És adott Jahve ⟨את⟩ a nép kegyét ⟨az⟩ egyiptomiak szemébe; maga a férfi, Moshe is nagyon nagy volt Micrajim földjén, Paró szolgáinak szemében és ⟨a⟩ nép szemében.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És adott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép kegyét"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kegyét"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyiptomiak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maga… is"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgáinak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "és szemében"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:25.539447538Z",
+  "model": "glm-5.3"
+}

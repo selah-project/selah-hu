@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Miért rejted el orcádat, miért felejted el nyomorúságunkat és szorongattatásunkat?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "rejted el"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "felejted el"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "nyomorúságunkat"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "és szorongattatásunkat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:27.662476766Z",
+  "model": "glm-5.3"
+}

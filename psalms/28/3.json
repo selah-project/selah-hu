@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Ne vonj el engem a hitványokkal, és a gonoszság cselekvőivel; akik békét szólnak felebarátaikhoz, de gonoszság ⟨van⟩ szívükben.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "vonej el engem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "–tal"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a hitványok"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és –val"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "a cselekvői"
+    },
+    {
+      "surface": "און",
+      "gloss": "gonoszság"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "akik szólnak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békét"
+    },
+    {
+      "surface": "עם",
+      "gloss": "–hoz"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "felebarátaik"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "de gonoszság"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "szívükben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:01.229216100Z",
+  "model": "glm-5.3"
+}

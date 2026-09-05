@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Beszédeid megnyitása megvilágosít, értelmet ád az egyszerűeknek.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "megnyitása"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "Beszédeid"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "megvilágosít"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "értelmet ád"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "az egyszerűeknek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:39.678042363Z",
+  "model": "glm-5.3"
+}

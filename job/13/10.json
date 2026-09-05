@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Fedden fog feddni ⟨את⟩ titeket, ha rejtekben arcokat emeltek ⟨fel⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "fedden"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "fog feddni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "rejtekben"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "arcokat"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "emeltek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:20:16.134226969Z",
+  "model": "glm-5.3"
+}

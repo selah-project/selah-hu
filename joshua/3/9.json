@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És szólt Jehosua (Józsué) Izrael fiaihoz: Lépjetek ide, és halljátok ⟨את⟩ Jahve, a ti Elohimotok szavait.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaihoz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Lépjetek közel"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ide"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "és halljátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, a ti Elohimotok szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:34:50.385260641Z",
+  "model": "glm-5.3"
+}

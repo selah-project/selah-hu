@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Meddig még, Elohim, gyalázza a szorongató? Szidja-e ellenséged nevedet mindörökké?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "még"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "gyalázza"
+    },
+    {
+      "surface": "צר",
+      "gloss": "a szorongató"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "szidja"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ellenséged"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nevedet"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mindörökké"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:17.883430060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És tovább szült ⟨az⟩ ő testvérét, ⟨את⟩ Hevelt (Ábelt); és lett Hevel pásztor ⟨a⟩ juhoknak, és Kajin volt a talaj művelője.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "és tovább"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "szülni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő testvérét"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "az ő testvérét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevelt"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevelt (Ábel)"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pásztor"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juhoknak"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "és Kajin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "művelője"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "a talajnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:40.738964831Z",
+  "model": "glm-5.3"
+}

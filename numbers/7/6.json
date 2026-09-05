@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És vett Moshe (Mózes) ⟨את⟩ a szekereket és ⟨את⟩ a marhákat, és adta ⟨את⟩ őket a levitákhoz.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vett"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szekereket"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "a szekereket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a marhákat"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a marhákat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "a levitákhoz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(a)hoz"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a leviták"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:53.173090566Z",
+  "model": "glm-5.3"
+}

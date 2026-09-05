@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Mert nem örökké ⟨marad⟩ ⟨a⟩ kincsesrás, és ha korona van is, nem nemzedékről nemzedékre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "kincsesrás"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:35.041209696Z",
+  "model": "glm-5.3"
+}

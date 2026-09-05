@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "⟨את⟩ rendelkezéseidet megőrzöm; ne hagyj el ⟨engem⟩ egészen!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rendelkezéseidet"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "rendelkezéseidet"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "megőrzöm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "hagyj el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨egészen⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:38.653119751Z",
+  "model": "glm-5.3"
+}

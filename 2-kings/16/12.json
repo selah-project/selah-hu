@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És amikor megjött a király Damasekből, és látta a király ⟨את⟩ az oltárt, akkor odalépett a király az oltárhoz, és áldozott rajta.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "és megjött"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damasekből"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "és odalépett"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárhoz"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "és áldozott"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:07.254002528Z",
+  "model": "glm-5.3"
+}

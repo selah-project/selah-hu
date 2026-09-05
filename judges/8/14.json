@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És elfogott egy ifjút Szukkot (Szukkót) férfiai közül, és megkérdezte őt; és az leírta neki ⟨את⟩ Szukkot fejedelmeit és ⟨את⟩ annak véneit, hetven és hét férfit.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "És elfogott"
+    },
+    {
+      "surface": "נער",
+      "gloss": "egy ifjút"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "a férfiai közül"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Szukkot"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "és megkérdezte őt"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "és leírta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szukkot fejedelmeit"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmeit"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Szukkot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak véneit"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "véneit"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "és hét"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    }
+  ],
+  "timestamp": "2026-09-04T18:53:13.767944729Z",
+  "model": "glm-5.3"
+}

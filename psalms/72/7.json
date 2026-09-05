@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Virágozzék az ő napjaiban az igaz, és ⟨legyen⟩ bőséges béke, míg a hold ⟨el nem⟩ múlik.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "Virágozzék"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "az ő napjaiban"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "és bőséges"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "béke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "el nem múlik"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "a hold"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.543830170Z",
+  "model": "glm-5.3"
+}

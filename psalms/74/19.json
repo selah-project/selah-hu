@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Ne add a vadállatnak a gerlé(d) lelkét; szegényeidnek életét ne felejtsd el mindörökre.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "add"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "a vadállatnak"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lelkét"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "gerlé(d)"
+    },
+    {
+      "surface": "חית",
+      "gloss": "élet(e)"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "szegényeidnek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "felejtsd el"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mindörökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:00.949542547Z",
+  "model": "glm-5.3"
+}

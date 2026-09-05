@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "„Megbántam, hogy királlyá tettem ⟨את⟩ Saúlt királlyá, mert elfordult tőlem, és ⟨את⟩ szavaimat nem tartotta meg.” És felháborodott ez Sémuelben, és kiáltott Jahvéhoz egész éjjel.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Megbántam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "királlyá tettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saúlt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúlt"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "királlyá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שב",
+      "gloss": "elfordult"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szavaimat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavaimat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "tartotta meg"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "És felháborodott"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Sémuelben"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "és kiáltott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "éjjel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:09:36.257160771Z",
+  "model": "glm-5.3"
+}

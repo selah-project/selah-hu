@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És kiment a sátán Jahve színe elől ⟨את⟩-ből, és megütötte ⟨את⟩ Ijóvot (Jób) rossz keléssel, lába talpától a feje búbjáig.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "És kiment"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "a sátán"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és megütötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijóvot"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijóvot"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "keléssel"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "talpától"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "lába"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "a feje búbjáig"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:17.613619059Z",
+  "model": "glm-5.3"
+}

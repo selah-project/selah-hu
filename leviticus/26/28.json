@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "akkor én is ellenséges haraggal járok veletek, és megfenyítlek ⟨את⟩ titeket, én is, hétszer bűneitekért.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "akkor járok"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "haraggal"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ellenséges"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "és megfenyítlek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "אף",
+      "gloss": "is"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hétszer"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "bűneitek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:10.358440989Z",
+  "model": "glm-5.3"
+}

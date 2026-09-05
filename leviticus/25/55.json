@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Mert nekem Izráel fiai szolgák — az én szolgáim ⟨ők⟩, akiket kihoztam ⟨את⟩ ⟨őket⟩ Egyiptom földjéről; én ⟨vagyok⟩ Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgák"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "az én szolgáim"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ők⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "kihoztam"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "⟨őket⟩ Egyiptom földjéről"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyiptom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:22.703025152Z",
+  "model": "glm-5.3"
+}

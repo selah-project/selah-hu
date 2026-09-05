@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Ember jót eszik ⟨a⟩ szájának gyümölcséből, de a hűtlenek ⟨lelke⟩ erőszakot ⟨kíván⟩.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "gyümölcséből"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szájának"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "de a lélek"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "a hűtleneknek"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:12.040879065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Emeld fel lépteidet az örök romlásokra — mindazt, amit elrontott az ellenség a szenthelyen.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Emeld fel"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "lépteidet"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "romlásokra"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "örök"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "elrontott"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a szenthelyen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:22.337650126Z",
+  "model": "glm-5.3"
+}

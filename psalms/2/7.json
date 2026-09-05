@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Elbeszélem a rendelkezést: Jahve mondta nekem: „Fiam te, én ma szültelek téged.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Elbeszélem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a...-ról"
+    },
+    {
+      "surface": "חק",
+      "gloss": "rendelkezést"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Fiam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "szültelek téged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:38.529866828Z",
+  "model": "glm-5.3"
+}

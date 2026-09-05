@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Hordozzanak a hegyek ⟨…⟩ salomet a népnek, és a halmok igazságban.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "hordozzanak"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salomet"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "és a halmok"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "igazságban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.402187186Z",
+  "model": "glm-5.3"
+}

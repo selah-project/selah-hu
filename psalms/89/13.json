@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Északot és délt te teremtetted ⟨את⟩ őket, Távor és Hermon a te nevedben ujjongnak.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Északot"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "és délt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "teremtetted őket"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Távor"
+    },
+    {
+      "surface": "ו חרמון",
+      "gloss": "és Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "a te nevedben"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ujjongnak"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.201142177Z",
+  "model": "glm-5.3"
+}

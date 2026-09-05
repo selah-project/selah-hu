@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És odaviszi abból ⟨az⟩ ⟨את⟩ az ő áldozatát, tűzáldozatul Jahvénak: ⟨את⟩ a zsírt, amely beborítja ⟨את⟩ a belső részeket, és ⟨את⟩ minden zsírt, amely a belső részeken van.",
+  "tokens": [
+    {
+      "surface": "וְהִקְרִ֤יב",
+      "gloss": "és odaviszi"
+    },
+    {
+      "surface": "מִמֶּ֨נּוּ֙",
+      "gloss": "abból"
+    },
+    {
+      "surface": "קָרְבָּנ֔וֹ",
+      "gloss": "az ő áldozatát"
+    },
+    {
+      "surface": "אִשֶּׁ֖ה",
+      "gloss": "tűzáldozatul"
+    },
+    {
+      "surface": "לַיהוָ֑ה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "הַחֵ֨לֶב֙",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "הַמְכַסֶּ֣ה",
+      "gloss": "amely beborítja"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "a belső részeket"
+    },
+    {
+      "surface": "הַקֶּ֔רֶב",
+      "gloss": "a belső részeket"
+    },
+    {
+      "surface": "וְאֵת֙",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden zsírt"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הַחֵ֔לֶב",
+      "gloss": "zsírt"
+    },
+    {
+      "surface": "אֲשֶׁ֖ר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…en"
+    },
+    {
+      "surface": "הַקֶּֽרֶב",
+      "gloss": "a belső részeken"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:24.380233951Z",
+  "model": "glm-5.3"
+}

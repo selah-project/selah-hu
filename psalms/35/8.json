@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Érje őt hirtelen pusztulás — nem tud róla; és az ⟨a⟩ hálója, amelyet elrejtett, fogja meg őt; a pusztulásba essen bele ⟨ő maga⟩.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "Érje őt"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "pusztulás"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tud (róla)"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "és hálója"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely(et)"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "elrejtett"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "fogja meg őt"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "a pusztulásba"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "essen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bele"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:48.058896944Z",
+  "model": "glm-5.3"
+}

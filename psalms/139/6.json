@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Csodálatos az a tudás — előttem túl magas, nem bírok vele.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "csodálatos"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "a tudás"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "túl magas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "bírok"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:57.147997765Z",
+  "model": "glm-5.3"
+}

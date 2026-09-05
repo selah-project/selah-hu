@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És monda a nép Jehosuának (Józsua): Nem, mert ⟨את⟩ Jahvét szolgáljuk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jehosuának"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "⟨Jehosua⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "szolgáljuk"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:08.224726611Z",
+  "model": "glm-5.3"
+}

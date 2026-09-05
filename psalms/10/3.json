@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Mert a hitvány kérkedik a lelke vágyával, és a nyerészkedő áldást mond — megvetve Jahvét.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "kérkedik"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a hitvány"
+    },
+    {
+      "surface": "על",
+      "gloss": "—val"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "a vágya"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "és a nyerészkedő"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "áldást mond"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "megvetve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:21.553747106Z",
+  "model": "glm-5.3"
+}

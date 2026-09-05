@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És történt, miközben ⟨azok⟩ úton voltak, eljutott a hír Dávidhoz (Dávid), mondván: „Avsalóm megölte ⟨את⟩ a király minden fiát, és nem maradt meg egy sem közülük.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨azok⟩"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "és a hír"
+    },
+    {
+      "surface": "באה",
+      "gloss": "eljutott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid (Dávid)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "megölte"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalóm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a király minden fiát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "maradt meg"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "közülük"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    }
+  ],
+  "timestamp": "2026-09-04T19:28:14.864056444Z",
+  "model": "glm-5.3"
+}

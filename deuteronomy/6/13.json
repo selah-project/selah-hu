@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "⟨את⟩ Jahvét, a te Elohimodat féljed, és ⟨את⟩ őt szolgáld, és az ő nevében esküdj.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodat"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "féljed"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "és ⟨את⟩ őt",
+      "marks": "őt (a szolgálandó tárgy)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "szolgáld"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "és az ő nevében"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "esküdj"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:34.041262821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "Mondta a balga a szívében: „Nincs Elohim.” Megromolva romlottak el, és utálatosságot cselekedtek gonoszsággal; nincs, aki jót cselekszik.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mondta"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "a balga"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "a szívében"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Nincs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "megromolva romlottak el"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "és utálatosságot cselekedtek"
+    },
+    {
+      "surface": "עול",
+      "gloss": "gonoszsággal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aki cselekszik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:06.677356962Z",
+  "model": "glm-5.3"
+}

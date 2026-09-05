@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Most tehát bölcsességet és ismeretet adj ⟨nekem⟩, hogy kimenjek és bejöjjek e nép elé, mert ki ítél ⟨את⟩ a te népedet, ezt a nagyot?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Most tehát"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcsességet"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "és ismeretet"
+    },
+    {
+      "surface": "תן",
+      "gloss": "adj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "hogy kimenjek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "- elé"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "és bejöjjek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ítél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te népedet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a te népedet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "a nagyot"
+    }
+  ],
+  "timestamp": "2026-09-05T00:00:05.747858244Z",
+  "model": "glm-5.3"
+}

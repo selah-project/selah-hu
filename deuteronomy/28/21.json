@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Rátapasztja Jahve rád ⟨את⟩ a csapást, amíg ki nem pusztít ⟨את⟩ téged arról a földről, amelyre bemégy, hogy birtokba vedd.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "Rátapasztja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "rád"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a csapást"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a csapást"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ki nem pusztít"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ téged"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "arról"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bemégy"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "hogy birtokba vedd"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:08.330179083Z",
+  "model": "glm-5.3"
+}

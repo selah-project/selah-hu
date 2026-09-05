@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És vigyázzatok megcselekedni, ahogyan megparancsolta Jahve, a ti Elohimotok ⟨את⟩ titeket; ne térjetek el jobbra és balra.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "És vigyázzatok"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "megcselekedni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "térjetek el"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobbra"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "és balra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:48.761426914Z",
+  "model": "glm-5.3"
+}

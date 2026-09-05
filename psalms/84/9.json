@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Jahve, Elohim Cevaót (a seregek Istene), hallgasd meg imádságomat, vedd füledbe, Jaakov (Jákob) Elohimja! Szelá.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hallgasd meg"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "imádságomat"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "vedd füledbe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:28.859112934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 39:8",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "A hegyek megmaradta a legelője, és minden zöld után kutat.",
+  "tokens": [
+    {
+      "surface": "יתור",
+      "gloss": "megmaradta"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "legelője"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és ... után"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ירוק",
+      "gloss": "zöld"
+    },
+    {
+      "surface": "ידרוש",
+      "gloss": "kutat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:27:46.300135679Z",
+  "model": "glm-5.3"
+}

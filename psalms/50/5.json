@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Gyűjtsétek össze nekem heszed-embereimet, akik szövetségemre léptek áldozat fölött.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Gyűjtsétek össze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "heszed-embereimet"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "költék"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemre"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:26.881211189Z",
+  "model": "glm-5.3"
+}

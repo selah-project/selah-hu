@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És egybegyűjtötték a filiszteusok ⟨את⟩ egész táborukat Afekba, Izráel pedig a forrásnál táborozott, amely Jizreelben van.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "és egybegyűjtötték"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filiszteusok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész táborukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "táborukat"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afekba"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Izráel pedig"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "táborozott"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "a forrásnál"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jizreelben van"
+    }
+  ],
+  "timestamp": "2026-09-04T19:18:05.472762060Z",
+  "model": "glm-5.3"
+}

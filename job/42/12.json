@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Jahve pedig megáldotta ⟨את⟩ Ijób (Jób) végét kezdeteinél fogva, és lett neki tizennégy ezer juh, és hatezer teve, és ezer iga ökörpár, és ezer nőstény szamár.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve pedig"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "megáldotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijób végét"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "végét"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijób"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "kezdeteinél fogva"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tizennégy (négy)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tíz)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juh"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "és hatezer"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "(ezer)"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "teve"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "és ezer"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "iga ökörpár"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ökör"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "és ezer"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "nőstény szamár"
+    }
+  ],
+  "timestamp": "2026-09-05T00:48:08.480217956Z",
+  "model": "glm-5.3"
+}

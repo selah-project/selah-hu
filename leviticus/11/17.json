@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és ⟨את⟩ a kuvikot, és ⟨את⟩ a kárókatónát, és ⟨את⟩ a nagy baglyot",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kuvikot"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "a kuvikot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kárókatónát"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "a kárókatónát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nagy baglyot"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "a nagy baglyot"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:50.803099492Z",
+  "model": "glm-5.3"
+}

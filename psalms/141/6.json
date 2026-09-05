@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Ledobattak a szikla kezéhez bíráik, és meghallják az én beszédeimet, hogy kedvesek ⟨azok⟩.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ledobattak"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "kezéhez"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "a szikla"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "bíráik"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "és meghallják"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "beszédeimet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "kedvesek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:34.982138934Z",
+  "model": "glm-5.3"
+}

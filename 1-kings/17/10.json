@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 17:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És felkelt, és elment Carfátba, és a város kapujához ért, és íme, ott ⟨volt⟩ egy özvegyasszony, fát gyűjtve; és odahívta őt, és mondta: Kérlek, hozz nekem egy kevés vizet edényben, hadd igyam.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "Carfátba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és elért"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a kapujához"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "egy asszony"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "özvegy(-asszony)"
+    },
+    {
+      "surface": "מקששת",
+      "gloss": "gyűjtve"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "fát"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és odahívta"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "őt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "קחי",
+      "gloss": "hozz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "egy kevés"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "edényben"
+    },
+    {
+      "surface": "ואשתה",
+      "gloss": "hadd igyam"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:14.567760181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Hallja a bölcs, és gyarapodik ⟨a⟩ tanítás(t), és az értelmes tanácsokat szerez.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "hallja"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a bölcs"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "és gyarapodik"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tanítás(t)"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "és az értelmes"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "tanácsokat"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "szerez"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:46.443375784Z",
+  "model": "glm-5.3"
+}

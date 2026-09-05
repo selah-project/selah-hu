@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Aki a földjét műveli, kenyérrel lakik jól, aki üres semmiségeket hajszol, szegénységgel lakik jól.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "műveli"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "lakik jól"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyérrel"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "hajszol"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "üres semmiségeket"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "lakik jól"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "szegénységgel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:55.666203721Z",
+  "model": "glm-5.3"
+}

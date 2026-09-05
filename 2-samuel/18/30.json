@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És monda a király: Fordulj félre, állj meg itt. És ⟨az⟩ fordula félre, és megálla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "סב",
+      "gloss": "Fordulj félre"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "állj meg"
+    },
+    {
+      "surface": "כה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "és fordula"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "és megálla"
+    }
+  ],
+  "timestamp": "2026-09-04T19:32:35.501976707Z",
+  "model": "glm-5.3"
+}

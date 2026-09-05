@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És monda neki Jószéf: Ez ⟨az⟩ értelmezése: a három vessző három nap ⟨ezek⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "⟨az⟩ értelmezése"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a három"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "vessző"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nap"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ezek⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:03.649513539Z",
+  "model": "glm-5.3"
+}

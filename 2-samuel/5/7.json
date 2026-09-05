@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És elfoglalta Dávid ⟨את⟩ a Sion várát; ⟨ez⟩ ⟨az⟩ Dávid városa.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "És elfoglalta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Sion várát"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "várát"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    }
+  ],
+  "timestamp": "2026-09-04T19:23:52.417606366Z",
+  "model": "glm-5.3"
+}

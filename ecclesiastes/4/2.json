@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És boldognak mondtam én ⟨את⟩ a halottakat, akik már meghaltak, inkább mint az élőket, akik ők még most is élnek.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "És boldognak mondtam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a halottakat"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "a halottakat"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "akik már"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "meghaltak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "inkább mint"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az élőket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élnek"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "még most"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:14.348075595Z",
+  "model": "glm-5.3"
+}

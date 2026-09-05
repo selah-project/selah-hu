@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Kimentek az emberek a városból, és megküzdtek Joábbal ⟨את⟩, és elestek a népből, Dávid szolgái közül, és meghalt Uríja, a hettita is.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "kimentek"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városból"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "és megküzdtek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joábbal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "és elestek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "a szolgái közül"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uríja"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a hettita"
+    }
+  ],
+  "timestamp": "2026-09-04T19:25:42.995264716Z",
+  "model": "glm-5.3"
+}

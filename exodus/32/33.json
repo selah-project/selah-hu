@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És szólt Jahve Moshéhoz (Mózeshez): aki vétkezett ellenem, azt törlöm ki a könyvemből.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz (Moshé)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely(ik)"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vétkezett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "kitérlöm őt"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "a könyvemből"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:34.985709010Z",
+  "model": "glm-5.3"
+}

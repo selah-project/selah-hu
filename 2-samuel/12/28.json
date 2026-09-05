@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És most gyűjtsd össze ⟨את⟩ a nép többi részét, és táborozz a város ellen, és foglald el, nehogy én foglaljam el ⟨את⟩ a várost, és az én nevemet róják rá.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "gyűjtsd össze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép többi részét"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "többi részét"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "és táborozz"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "és foglald el"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "én foglaljam el"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "és róják"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "az én nevemet"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rá"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:13.055590481Z",
+  "model": "glm-5.3"
+}

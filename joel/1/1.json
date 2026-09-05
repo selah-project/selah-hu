@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Jahve szava, amely eljött Joélhez, Ptúél fiához.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "szava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "היה",
+      "gloss": "eljött"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hez"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joélhez"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Ptúél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:23:04.421405538Z",
+  "model": "glm-5.3"
+}

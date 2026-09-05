@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És ha kér egy ember a felebarátjától ⟨tőle⟩, és az eltörik vagy meghal, a gazdája nem lévén vele, bizony visszafizeti ⟨azt⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "kér"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨tőle⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a felebarátjától"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "és eltörik"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghal"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "a gazdája"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem lévén"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "visszafizeti"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:37.788184262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "És letelepítette Jóséf ⟨את⟩ atyját és ⟨את⟩ testvéreit, és adott nekik birtokot Micrajim földjében, a föld java részében, Raamszesz földjében, ahogyan megparancsolta Paroh.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "És letelepítette"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jóséf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyját"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "testvéreit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreit"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "birtokot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjében"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "java részében"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjében"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamszesz"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:43.325068229Z",
+  "model": "glm-5.3"
+}

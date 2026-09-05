@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Aki Ahábtól meghal a városban, azt megeszik a kutyák; és aki meghal a mezőn, azt megeszi az ég madara.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "aki meghal"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahábtól"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "azt megeszik"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "a kutyák"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "és aki meghal"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "azt megeszi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:47.249152522Z",
+  "model": "glm-5.3"
+}

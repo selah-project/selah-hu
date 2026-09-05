@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És felhozatta onnan ⟨את⟩ Saul csontjait és ⟨את⟩ Jehonatán (Jónatán), a fiának csontjait, és összegyűjtötték ⟨את⟩ a felakasztottak csontjait.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "és felhozatta"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jehonatán csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "és összegyűjtötték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a felakasztottak csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "a felakasztottak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:31.179318924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És tett Jehúda ⟨את⟩ a rosszat Jahve szemei előtt, és féltékénységre ingerelték ⟨את⟩ őt mindenekkal, amelyeket atyáik tettek, bűneikkel, amelyeket elkövettek.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És tett"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemei előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "és féltékénységre ingerelték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mindenekkel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tenteK"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "bűneikkel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "elkövettek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:59.121328011Z",
+  "model": "glm-5.3"
+}

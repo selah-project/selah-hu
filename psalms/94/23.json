@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "És visszahozta ⟨את⟩ az ő gonoszságukat rájuk, és az ő romlottságukban irtotta ki őket — irtotta ki őket Jahve, a mi Elohimunk.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "És visszahozta"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő gonoszságukat"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "az ő gonoszságukat"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "és az ő romlottságukban"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "irtotta ki őket"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "irtotta ki őket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:24.765587182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Napjaim mint a kinyúlt árnyék, és én, mint a fű, elszáradtam.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Napjaim"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "mint (az) árnyék"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "kinyúlt"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "mint a fű"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "elszáradtam"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:35.490757122Z",
+  "model": "glm-5.3"
+}

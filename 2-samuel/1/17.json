@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És gyászdalt zengett Dávid, ⟨את⟩ e gyászdalt, Saulról és Jónatánról, a fiáról.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "és gyászdalt zengett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e gyászdalt"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "e gyászdalt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ról"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ról"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    }
+  ],
+  "timestamp": "2026-09-04T19:21:00.723897456Z",
+  "model": "glm-5.3"
+}

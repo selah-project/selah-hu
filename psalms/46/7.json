@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Zúgnak a nemzetek, inognak a királyságok; ⟨ki⟩adta szavát — megolvad a föld.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "Zúgnak"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a nemzetek"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "inognak"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "a királyságok"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨ki⟩adta"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "megolvad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:55.908198832Z",
+  "model": "glm-5.3"
+}

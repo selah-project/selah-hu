@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Verjen engem az igaz heszeddel, és feddjen engem; fej-olaj — ne utasítsa el az én fejem, mert még ⟨van⟩ és az én imádságom az ő romlásaikban.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "verjen engem"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszeddel"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "és feddjen engem"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olaj"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fej-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יני",
+      "gloss": "utasítsa el"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "és imádságom"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "romlásaikban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:34.981542092Z",
+  "model": "glm-5.3"
+}

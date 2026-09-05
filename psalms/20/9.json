@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ők letérdeltek és elestek, de mi felkeltünk és felegyenesedtünk.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ők"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "letérdeltek"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "és elestek"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "de mi"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "felkeltünk"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "és felegyenesedtünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:43.775846436Z",
+  "model": "glm-5.3"
+}

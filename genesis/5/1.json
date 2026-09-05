@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ez ⟨a⟩ könyve Ádám (Adam) nemzetségének. Abban a napon, amikor Elohim teremtette ⟨az⟩ embert, Elohim hasonlatossága szerint alkotta őt ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "könyve"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nemzetségének"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ádám (Adam)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Abban a napon"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "teremtette"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨az⟩ embert"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "hasonlatossága szerint"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alkotta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:58.927955614Z",
+  "model": "glm-5.3"
+}

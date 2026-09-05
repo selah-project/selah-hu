@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És Jahve segíti őket, és megszabadítja őket, megszabadítja őket a gonoszoktól, és megoltalmazza őket, mert őbenne kerestek oltalmat.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "és segíti őket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "és megszabadítja őket"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "megszabadítja őket"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "a gonoszoktól"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "és megoltalmazza őket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "kerestek oltalmat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "őbenne"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:11.806400252Z",
+  "model": "glm-5.3"
+}

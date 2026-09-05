@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Még ha a halál árnyékának völgyében is járok, nem félek rossztól, mert te velem vagy; vessződ és pálcád, azok vigasztalnak ⟨engem⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Még"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "járok"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "völgyében"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "a halál árnyékának"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "félek"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossztól"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "velem vagy"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "vessződ"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "és pálcád"
+    },
+    {
+      "surface": "המה",
+      "gloss": "azok"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "vigasztalnak ⟨engem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:27.410308054Z",
+  "model": "glm-5.3"
+}

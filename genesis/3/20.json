@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És nevezte az ember a feleségét Havának (Éva), mert ő lett minden élőnek anyja.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevezte"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "שם",
+      "gloss": "–"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "a feleségét"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava (Éva)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anyja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élőnek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:58.223538773Z",
+  "model": "glm-5.3"
+}

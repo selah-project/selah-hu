@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És mondta: Kiáltottam szorongattatásomban Jahvéhoz, és ő felelt nekem; a Seol méhéből kiáltottam, te hallottad hangomat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kiáltottam"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "szorongattatásomból"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "és felelt engem"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "méhéből"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "segélyért kiáltottam"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hallottad"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hangomat"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:17.080141962Z",
+  "model": "glm-5.3"
+}

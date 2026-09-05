@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Ragadj ki engem a sárból, és el ne sülyedjek; szabaduljak meg gyűlölőimtől és a vizek mélységeiből.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ragadj ki engem"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "a sárból"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "sülyedjek el"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "szabaduljak meg"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "gyűlölőimtől"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "és a mélységeiből"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a vizek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:48.275211260Z",
+  "model": "glm-5.3"
+}

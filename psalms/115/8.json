@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Olyanok legyenek, mint ők, ⟨a⟩ készítőik, mindazok, akik bennük bíznak.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "mint ők"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "készítőik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bíznak"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bennük"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:24.949951135Z",
+  "model": "glm-5.3"
+}

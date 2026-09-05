@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Halljátok, hegyek, ⟨את⟩ Jahve perét, és ti erősek, a föld alapjai, mert per ⟨van⟩ Jahvénak népével, és Izráéllal ⟨ő⟩ vitatkozik.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hegyek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve perét"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "perét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "és ti erősek"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "alapjai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "per"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨van⟩ … -vel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népével"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és … -vel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráéllal"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "vitatkozik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:29:12.445091244Z",
+  "model": "glm-5.3"
+}

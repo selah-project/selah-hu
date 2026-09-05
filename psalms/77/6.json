@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Átgondoltam a régmúlt napokat, az ősidők éveit.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Átgondoltam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napjait"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "régmúlt"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "éveit"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ősidők"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:15.572850333Z",
+  "model": "glm-5.3"
+}

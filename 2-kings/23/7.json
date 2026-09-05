@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És lerombolta ⟨את⟩ a kedesa-házakat, amelyek Jahve házában voltak, ahol az asszonyok ott házakat szőttek az Áserának.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "lerombolta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kedesa-házakat"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "házait"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szent szolgák"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "az asszonyok"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "szőttek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "házakat"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "az Áserának"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:22.257054819Z",
+  "model": "glm-5.3"
+}

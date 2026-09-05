@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És felelgettek az asszonyok, a vígadozók, és mondák: „Vágott Saul az ő ezreit, és Dávid az ő tízezreit.”",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "és felelgettek"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "az asszonyok"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "a vígadozók"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "és mondák"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "vágott"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "az ő ezreit"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "és Dávid"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "az ő tízezreit"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:49.753525216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És tedd ⟨את⟩ őket egyetlen kosárba, és közelítsd ⟨את⟩ őket a kosárban, meg ⟨את⟩ a bikát és ⟨את⟩ a két kost.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "És tedd"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "על",
+      "gloss": "bele"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kosárba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyetlen"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "és közelítsd"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "a kosárban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bikát"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bikát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a két kost"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "kost"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:09.066384161Z",
+  "model": "glm-5.3"
+}

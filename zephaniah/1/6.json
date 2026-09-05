@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és ⟨את⟩ a Jahve mögül elpártolókat, és akik nem keresték ⟨את⟩ Jahvét, és nem kutatták őt",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Jahve mögül elpártolókat"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "az elpártolókat"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "mögül"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és akik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "keresték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "kutatták őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:31:09.913999567Z",
+  "model": "glm-5.3"
+}

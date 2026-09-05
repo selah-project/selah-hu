@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Van egy rossz, amelyet láttam a nap alatt, és az súlyos az emberen:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Van"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "egy rossz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "és súlyos"
+    },
+    {
+      "surface": "היא",
+      "gloss": "az"
+    },
+    {
+      "surface": "על",
+      "gloss": "azon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az emberen"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:19.988997565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És most, Jahve, vedd el kérlek ⟨את⟩ az én lelkemet tőlem, mert jobb az én halálom, mint az életem.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "vedd el"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az én lelkemet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "az én lelkemet"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "halálom"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "életemnél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:09.602856716Z",
+  "model": "glm-5.3"
+}

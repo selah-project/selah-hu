@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megesküdött a király, és mondta: él Jahve, aki kiváltotta ⟨את⟩ életemet minden szorongattatásból!",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "és megesküdött"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "חי",
+      "gloss": "él"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kiváltotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "életemet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "életemet"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "szorongattatásból"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:42.164621106Z",
+  "model": "glm-5.3"
+}

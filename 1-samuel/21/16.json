@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Hiányoznak-e nekem az őrültek, hogy hoztátok ⟨את⟩ ezt, hogy őrültezzék előttem? Ez jöjjön be az én házamba?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Hiányoznak-e"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "az őrültek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "hoztátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "hogy őrültezzék"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jöjjön be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "az én házamba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:28.823409363Z",
+  "model": "glm-5.3"
+}

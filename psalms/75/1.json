@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "A karvezetőnek: »Ne pusztítsd el« — Aszáf zsoltára, ének.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karvezetőnek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "pusztítsd el"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltára"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Aszáf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.928270363Z",
+  "model": "glm-5.3"
+}

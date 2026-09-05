@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És a pap füstáldozatul felgyújtja ⟨azokat⟩ az oltáron: tűzáldozat eledele kedves illatul; minden zsír Jahvéé.",
+  "tokens": [
+    {
+      "surface": "וְהִקְטִירָ֥ם",
+      "gloss": "és füstáldozatul felgyújtja ⟨azokat⟩"
+    },
+    {
+      "surface": "הַכֹּהֵ֖ן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֗חָה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "לֶ֤חֶם",
+      "gloss": "eledele"
+    },
+    {
+      "surface": "אִשֶּׁה֙",
+      "gloss": "tűzáldozat"
+    },
+    {
+      "surface": "לְרֵ֣יחַ",
+      "gloss": "illatul"
+    },
+    {
+      "surface": "נִיחֹ֔חַ",
+      "gloss": "kedves"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חֵ֖לֶב",
+      "gloss": "zsír"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "Jahvéé"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:24.380547634Z",
+  "model": "glm-5.3"
+}

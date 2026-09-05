@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És utolérte őket, és beszélt ⟨את⟩ ezekkel a szavakkal hozzájuk.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "És utolérte őket"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és beszélt"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket a szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a szavakat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:51.645440566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Nem volt ⟨⟨semmi⟩⟩ ⟨a⟩ ládában, csak a két kőtábla, amelyeket oda helyezett Moshe (Mózes) Chorevben, amelyeket kötött Jahve Izráel fiaival, amikor kimentek Micrajim (Egyiptom) földjéből.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nem volt ⟨⟨semmi⟩⟩"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "⟨a⟩ ládában"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "kőtábla"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kő-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "oda helyezett"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Chorevben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kötött"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vele: Izráel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaival"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "amikor kimentek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéből"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:49.863852200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Idegenné váltam testvéreimhez, és ismeretlen anyám fiai előtt.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "idegenné"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "váltam"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "testvéreimhez"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "és ismeretlen"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiai előtt"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anyám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:23.371002838Z",
+  "model": "glm-5.3"
+}

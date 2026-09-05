@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És édes a világosság, és jó a szemnek ⟨את⟩ a napot látni.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "És édes"
+    },
+    {
+      "surface": "האור",
+      "gloss": "a világosság"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "és jó"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "a szemnek"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "látni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a napot"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a napot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:35.916195079Z",
+  "model": "glm-5.3"
+}

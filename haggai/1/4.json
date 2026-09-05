@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "⟨Vajon⟩ eljött ⟨ez⟩ az idő nektek, ti, hogy fedett házaitokban laktok, miközben ⟨ez⟩ a ház romban hever?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "⟨Vajon⟩ eljött az idő"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hogy laktok"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "házaitokban"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "fedett"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "miközben ⟨ez⟩ a ház"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "romban hever"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:29.357977470Z",
+  "model": "glm-5.3"
+}

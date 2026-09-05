@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "mert hallják ⟨את⟩ a te nevedet, ⟨a⟩ nagyot, és ⟨את⟩ a te kezedet, ⟨az⟩ erőset, és a te kinyújtott karodat; és eljön, és imádkozik e ház felé,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "hallják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te nevedet"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a te nevedet"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nagyot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a te kezedet"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a te kezedet"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "erőset"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "és a te karodat"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "kinyújtottat"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "és eljön"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "és imádkozik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–felé"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T19:43:31.158810781Z",
+  "model": "glm-5.3"
+}

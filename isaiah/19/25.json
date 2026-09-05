@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Akit megáldott Jahve Cevaót, mondván: Áldott ⟨legyen⟩ Micrajim (Egyiptom), az én népem, és Assur, kezeim műve, és Jiszráél (Izrael), az én örökségem.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Akit"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "megáldott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "az én népem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "és ... műve"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezeim"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "és az én örökségem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél (Izrael)"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:58.157851326Z",
+  "model": "glm-5.3"
+}

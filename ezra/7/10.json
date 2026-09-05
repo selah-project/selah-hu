@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Mert Ezrá elkészítette a szívét, hogy kutassa ⟨את⟩ Jahve Toráját (Tórát), és hogy megtegye, és hogy tanítsa Jiszráélben (Izraelben) ⟨a⟩ rendtartást és jogot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezrá"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "elkészítette"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "a szívét"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hogy kutassa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Toráját"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toráját (Tórát)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "és hogy megtegye"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "és hogy tanítsa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jiszráélben (Izraelben)"
+    },
+    {
+      "surface": "חק",
+      "gloss": "rendtartást"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és jogot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:55:12.396351055Z",
+  "model": "glm-5.3"
+}

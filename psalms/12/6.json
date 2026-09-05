@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "A szegények kifosztása miatt, a nélkülözők sóhajtozása miatt — most felkelek — mondja Jahve —, biztonságba helyezem őt, aki ⟨érte⟩ liheg.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "kifosztása miatt"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "a szegények"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "sóhajtozása miatt"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "a nélkülözők"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "felkelek"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "elhelyezem"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "biztonságba"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "liheg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨érte⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:52.884745059Z",
+  "model": "glm-5.3"
+}

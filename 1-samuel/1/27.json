@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Ezért a fiúért imádkoztam, és Jahve megadta nekem ⟨את⟩ a kérésemet, amelyet tőle kértem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ért"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a fiú"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "imádkoztam"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és megadta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kérésemet"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "a kérésemet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "kértem"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "tőle"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:02.994503710Z",
+  "model": "glm-5.3"
+}

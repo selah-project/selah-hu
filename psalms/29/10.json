@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Jahve az özönvíz fölött ült, és Jahve királyként ül örökre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "az özönvíz fölött"
+    },
+    {
+      "surface": "יישב",
+      "gloss": "ült"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és ül"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyként"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:46.296079252Z",
+  "model": "glm-5.3"
+}

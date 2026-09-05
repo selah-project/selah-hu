@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 33:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És Lévíról szólt: A te Tumimid és a te Urimid hűséges emberednél ⟨vannak⟩, akit Masszában próbáltál, a Meríba vizeinél perlekedtél vele.",
+  "tokens": [
+    {
+      "surface": "וללוי",
+      "gloss": "És Lévíról"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "תמיך",
+      "gloss": "Tumimid"
+    },
+    {
+      "surface": "ואוריך",
+      "gloss": "és Urimid"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "emberednél"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "hűséges"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "נסיתו",
+      "gloss": "próbáltál"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Masszában"
+    },
+    {
+      "surface": "תריבהו",
+      "gloss": "perlekedtél vele"
+    },
+    {
+      "surface": "על",
+      "gloss": "...nél"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizei"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meríba"
+    }
+  ],
+  "timestamp": "2026-09-04T18:33:09.338615636Z",
+  "model": "glm-5.3"
+}

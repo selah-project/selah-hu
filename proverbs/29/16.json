@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Amikor sokasodnak a hitványek, sokasodik a vétek, de az igazak bukásukat fogják látni.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Amikor sokasodnak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a hitványek"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "sokasodik"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "a vétek"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "de az igazak"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "bukásukat"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "fogják látni"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:15.683355799Z",
+  "model": "glm-5.3"
+}

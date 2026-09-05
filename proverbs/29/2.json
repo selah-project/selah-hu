@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Ha sok lett az igaz, örvend a nép; de ha a gonosz uralkodik, sóhajtozik a nép.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "ha sok lett"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvend"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "de ha uralkodik"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonasz"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "sóhajtozik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:31.253301083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És felöltözteted ⟨את⟩ Aharont ⟨את⟩ szent ruháiba, és felkened ⟨את⟩ őt, és megszenteled ⟨את⟩ őt, és papként szolgál Nekem.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "és felöltözteted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szent ruháiba"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruháiba"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "és felkened"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "és megszenteled"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "és papként szolgál"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:21.575706337Z",
+  "model": "glm-5.3"
+}

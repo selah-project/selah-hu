@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Mert ⟨ő⟩ a tengerekre alapozta azt, és a folyókra állította azt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a tengerekre"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "alapozta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és -ra"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "a folyókra"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "állította"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:31.776365875Z",
+  "model": "glm-5.3"
+}

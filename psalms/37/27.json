@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Térj meg a rossztól, és cselekedj jót, hogy lakj mindörökké!",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "térj meg"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "a rossztól"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és cselekedj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "és lakj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mindörökké"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:58.440555683Z",
+  "model": "glm-5.3"
+}

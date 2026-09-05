@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Leselkedő medve ⟨ő⟩ nekem, oroszlán a rejtekhelyeken.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "medve"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "leselkedő"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "oroszlán"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "a rejtekhelyeken"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:25.199374944Z",
+  "model": "glm-5.3"
+}

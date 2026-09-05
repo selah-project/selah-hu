@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Micrajimnak (Egyiptom) nyújtottunk kezet, Assurnak (Asszíria), hogy jóllakhassunk kenyérrel.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak (Egyiptom)"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nyújtottunk"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kezet"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assurnak (Asszíria)"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hogy jóllakhassunk"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyérrel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:36.961613878Z",
+  "model": "glm-5.3"
+}

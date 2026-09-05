@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És elment onnan a Kármel hegyére, és onnan visszatért Somronba (Szamariába).",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hez"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegy"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "a Kármel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "és onnan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "visszatért"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Somronba (Szamariába)"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:24.998274995Z",
+  "model": "glm-5.3"
+}

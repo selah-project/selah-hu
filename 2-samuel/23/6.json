@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És a beliálbeliek olyan, mint a kiütött tövis, mind ⟨azok⟩; mert kézzel nem foghatók meg.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "és a beliálbeliek"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "mint a tövis"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "kiütött"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "mind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kézzel"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "foghatók meg"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:17.175540642Z",
+  "model": "glm-5.3"
+}

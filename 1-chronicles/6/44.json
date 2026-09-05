@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ⟨את⟩ Asánt a legelőivel, és ⟨את⟩ Bét-Semest és ⟨את⟩ a legelőit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "Asánt"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Asánt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a legelőivel"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "a legelőivel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Bét-Semest"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bét-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a legelőit"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "a legelőit"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:06.690651288Z",
+  "model": "glm-5.3"
+}

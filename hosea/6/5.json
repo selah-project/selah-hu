@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ezért vágtam ki ⟨őket⟩ a prófétákkal, megöltem ⟨őket⟩ szájam beszédeivel, és ítéleteid mint fény kel ki.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ezért⟩"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "vágtam ki"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "a prófétákkal"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "megöltem ⟨őket⟩"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "beszédeivel"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szájam"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "és ítéleteid"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mint fény"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kel ki"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:18.037233724Z",
+  "model": "glm-5.3"
+}

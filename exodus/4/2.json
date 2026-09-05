@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondott neki Jahve: mi van a kezedben? És ő mondta: egy bottal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mi van"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "a kezedben"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "egy bottal"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:07.862252810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "A karnagy számára, a gítit-síron; a Kórach-fiak zsoltára.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "a karnagy számára"
+    },
+    {
+      "surface": "על",
+      "gloss": "síron"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gítit-"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a fiainak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kórach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltára"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:42.774645982Z",
+  "model": "glm-5.3"
+}

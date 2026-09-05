@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 54,
+  "translation": "Íme, gyülekezik a támadó — de nem ⟨את⟩ tőlem; ⟨את⟩ ki az, aki veled gyülekezett? Rád zuhan az, aki ellened ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "גור",
+      "gloss": "támadó"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "gyülekezik"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ tőlem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גר",
+      "gloss": "aki gyülekezett"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "zuhan"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:45.756141571Z",
+  "model": "glm-5.3"
+}

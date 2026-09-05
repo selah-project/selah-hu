@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És a király kinyújtotta Ester felé ⟨את⟩ az arany jogart, és felkelt Ester, és megállt a király színe előtt.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "és kinyújtotta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester felé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az arany jogart"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "jogart"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az arany"
+    },
+    {
+      "surface": "vtקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "és megállt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:32.924660287Z",
+  "model": "glm-5.3"
+}

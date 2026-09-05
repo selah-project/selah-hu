@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És megépítette ⟨את⟩ az oldalszárnyat az egész ház mentén, öt könyök annak magassága, és megerősítette ⟨את⟩ a házat cédrusfákkal.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "és megépítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oldalszárnyat"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "az oldalszárnyat"
+    },
+    {
+      "surface": "על",
+      "gloss": "mentén"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "annak magassága"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "és megerősítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "fáival"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cédrus"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:14.770982698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "úgy, ahogy a békeáldozat bikájából elveszik; és a kohén füstölő áldozatul felmutatja azokat az égőáldozat oltárán.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "úgy, ahogyan"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "elveszik"
+    },
+    {
+      "surface": "משור",
+      "gloss": "a bika"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozata"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "békeáldozat"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "és füstölő áldozatul felmutatja azokat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohén"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:47.426831090Z",
+  "model": "glm-5.3"
+}

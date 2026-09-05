@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És felelt a pap ⟨את⟩ Davídot (Dávid), és mondta: nincs közönséges kenyér a kezem alatt, mert csak szent kenyér van — ha a legények megőrizték magukat, ⟨éppen⟩ asszonytól.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davídot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davídot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyér"
+    },
+    {
+      "surface": "חל",
+      "gloss": "közönséges"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨alatt⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אם",
+      "gloss": "csak"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyér"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "megőrizték magukat"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "a legények"
+    },
+    {
+      "surface": "אך",
+      "gloss": "⟨éppen⟩ csak"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "asszonytól"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:01.128166018Z",
+  "model": "glm-5.3"
+}

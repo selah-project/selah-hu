@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne egyetek a vér miatt, ne varázsoljatok, és ne jósoljatok.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyetek"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a-vér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "varázsoljatok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és-ne"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "jósoljatok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:11.712410323Z",
+  "model": "glm-5.3"
+}

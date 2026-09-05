@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 98,
+  "translation": "Jahve színe előtt, mert eljött ⟨a⟩ föld ítélni; jogosan ítéli ⟨a⟩ világot, és a népeket egyenességben.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eljött"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ítélni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ítéli"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨a⟩ világot"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "jogossággal"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "és a népeket"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "egyenességben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:16.767180546Z",
+  "model": "glm-5.3"
+}

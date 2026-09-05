@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 101,
+  "translation": "Szív, hamis, forduljon el tőlem; a rosszat nem ismerem.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "szív"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "hamis"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "forduljon el"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ismerem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:53.578434071Z",
+  "model": "glm-5.3"
+}

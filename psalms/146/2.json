@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 146,
+  "translation": "Dicsérem Jahvét életemben, zengek az Elohimomnak, amíg vagyok.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Dicsérem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "életemben"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zengek"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "az Elohimomnak"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "amíg vagyok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:09.469004945Z",
+  "model": "glm-5.3"
+}

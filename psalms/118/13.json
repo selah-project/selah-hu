@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Lökve löktél engem, hogy elesek, de Jahve segített engem.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "löködve"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "löktél engem"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "hogy elesek"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "de Jahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "segített engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:30.985769414Z",
+  "model": "glm-5.3"
+}

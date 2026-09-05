@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 23:37",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Mert házasságtörtek, és vér ⟨van⟩ a kezeiken, és ⟨את⟩ bálványaikkal házasságtörtek, és még ⟨את⟩ fiaikat is, akiket nekem szültek, átvitték nekik eledelül.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "נאפו",
+      "gloss": "házasságtörtek"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "és vér"
+    },
+    {
+      "surface": "בידיהן",
+      "gloss": "a kezeiken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "bálványaikkal"
+    },
+    {
+      "surface": "גלוליהן",
+      "gloss": "bálványaik"
+    },
+    {
+      "surface": "נאפו",
+      "gloss": "házasságtörtek"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és még"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaikat"
+    },
+    {
+      "surface": "בניהן",
+      "gloss": "fiaikat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "szültek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "העבירו",
+      "gloss": "átvitték"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "eledelül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:07:14.187412458Z",
+  "model": "glm-5.3"
+}

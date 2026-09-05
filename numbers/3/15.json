@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Írd össze ⟨את⟩ Lévi fiait atyái háza szerint, nemzetségeik szerint: minden férfit egy hónapnál idősebbkor fogva, azokat írd össze.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Írd össze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lévi fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "háza szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyái"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemzetségeik szerint"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "férfit"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "-nál idősebb"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "egy hónap"
+    },
+    {
+      "surface": "ו מעלה",
+      "gloss": "és afelett"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "azokat írd össze"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:27.614573592Z",
+  "model": "glm-5.3"
+}

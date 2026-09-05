@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Lásd meg nyomorúságomat, és ments ki engem, mert a Tora_(Törvény)dat nem felejtettem el!",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lásd meg"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nyomorúságomat"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "és ments ki engem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "a Torádat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "felejtettem el"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:00.247166481Z",
+  "model": "glm-5.3"
+}

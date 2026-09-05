@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Szidásodtól futnak, mennydörgésed hangjától sietve menekülnek.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "szidásodtól"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "futnak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangjától"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "mennydörgésednek"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "sietve menekülnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:53.065308378Z",
+  "model": "glm-5.3"
+}

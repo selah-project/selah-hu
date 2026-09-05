@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A te igéd feje igazság, és örökké minden igazságod ítélete.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "feje"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "a te igéd"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "igazság"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "és örökké"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ítélete"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "igazságod"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:44.106821864Z",
+  "model": "glm-5.3"
+}

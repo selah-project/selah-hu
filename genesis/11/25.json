@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Náchor, miután nemzte ⟨את⟩ Terachot, százennégy évet, és nemzett fiakat és leányokat.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "miután"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nemzte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terachot"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terachot"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "kilenc"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(és tíz)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évet"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "és száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzett"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiakat"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "és leányokat"
+    }
+  ],
+  "timestamp": "2026-09-05T00:32:52.028056506Z",
+  "model": "glm-5.3"
+}

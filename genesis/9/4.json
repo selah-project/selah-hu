@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Csak húst, ⟨amelynek⟩ lelkével ⟨együtt⟩ a vérét, nem ehetitek.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húst"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "lelkével"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "a vérét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehetitek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:17.168563945Z",
+  "model": "glm-5.3"
+}

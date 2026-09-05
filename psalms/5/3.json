@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Figyelj fel kiáltásom hangjára, királyom és Elohim, mert hozzád fohászkodom!",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Figyelj fel"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "hangjára"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "kiáltásom"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyom"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "és Elohimom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "fohászkodom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:20.886349293Z",
+  "model": "glm-5.3"
+}

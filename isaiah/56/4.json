@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Mert így szólt Jahve a heréltekhez: akik megtartják ⟨את⟩ szombatjaimat, és azt választják, amit én akartam, és ragaszkodnak szövetségemhez —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "a heréltekhez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "megtartják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szombatjaimat"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "szombatjaimat"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "és választják"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "azt, amit"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "én akartam"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "és ragaszkodnak"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "szövetségemhez"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:23.636694728Z",
+  "model": "glm-5.3"
+}

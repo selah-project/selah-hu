@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha valaki ellegeltet egy mezőt vagy szőlőt, és kiereszti ⟨את⟩ barmát, és más mezőn legeltet — saját mezője legjavából és saját szőlője legjavából fizesse meg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ellegeltet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "valaki"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mezőt"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "szőlőt"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "és kiereszti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barmát"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "barmát"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "és legeltet"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mezőn"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "más"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "legjavából"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "mezőjének"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "és legjavából"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "szőlőjének"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizesse meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:22.590763390Z",
+  "model": "glm-5.3"
+}

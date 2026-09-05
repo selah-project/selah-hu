@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És csinálta Elohim ⟨את⟩ a boltozatot, és elválasztotta ⟨את⟩ a vizeket, amelyek a boltozat alatt vannak, és ⟨את⟩ a vizeket, amelyek a boltozat fölött vannak; és úgy lett.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És csinálta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a boltozatot"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "a boltozatot"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "és elválasztotta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "a boltozatnak"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "a boltozatnak"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:07.682688053Z",
+  "model": "glm-5.3"
+}

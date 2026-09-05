@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És cselekedték Izráél összes fiai úgy, ahogparancsolta Jahve ⟨את⟩ Moshét (Mózes) és ⟨את⟩ Aharónt; így cselekedtek.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "És cselekedték"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "úgy, ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aharónt"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "cselekedtek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:38.913557378Z",
+  "model": "glm-5.3"
+}

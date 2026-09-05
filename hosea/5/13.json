@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És látott Efrajim ⟨את⟩ betegségét, és Jehúda ⟨את⟩ sebét; elment Efrajim Assúrhoz, és küldött Jarév királyához — de ő nem tud titeket meggyógyítani, és nem tudja rólatok levenni a kötést.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látott"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "betegségét"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "betegségét"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "és Jehúda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebét"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "sebét"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assúr"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és küldött"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarév"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "de ő"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "tud"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "meggyógyítani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "titeket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "levesz"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "rólatok"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "a kötést"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:59.423252217Z",
+  "model": "glm-5.3"
+}

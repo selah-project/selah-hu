@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ő mondta: „Adassék ⟨את⟩ Avíság (Abiság), a Suném-beliek asszonya, Adónijáhnak, a te fiatalodnak, feleségül.” — És mondta: „Adassék ⟨את⟩ Avíság, a sunémi ⟨את⟩ Adónijáhnak, a te testvérednek, feleségül.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adassék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avíságot"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avíság"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "a sunémi"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adónijáhnak"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:35.322971947Z",
+  "model": "glm-5.3"
+}

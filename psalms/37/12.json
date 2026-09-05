@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Gonoszat tervez a gonosz az igaz ellen, és csikorgatja rá a fogait.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "tervez"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "az igaz ellen"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "és csikorgatja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "a fogait"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:35.283868705Z",
+  "model": "glm-5.3"
+}

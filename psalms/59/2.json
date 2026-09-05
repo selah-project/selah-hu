@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Ragadj ki engem ellenségeim közül, Elohimom; emelj magasba azok fölé, akik felkelnek ellenem!",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ragadj ki engem"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ellenségeim közül"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "azok fölé, akik felkelnek ellenem"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "emelj magasba"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:26.373408788Z",
+  "model": "glm-5.3"
+}

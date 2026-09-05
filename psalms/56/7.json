@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Megtelepednek, elrejtőznek — ők sarkam nyomát őrzik, ahogyan életemre lestek.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "megtelepednek"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "elrejtőznek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "sarkam"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "őrzik"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "leste(k)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "életemre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:16.874219879Z",
+  "model": "glm-5.3"
+}

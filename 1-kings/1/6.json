@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És nem bántotta őt atyja minden napján, mondván: Miért így cselekedtél? És szintén ő szép termetű ⟨volt⟩ igen, és ⟨את⟩ őt szülte Avsalóm után.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És nem"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "bántotta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyja"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "minden napján"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "így"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "cselekedtél"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és szintén"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "szép"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "termetű"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "igen"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "és ⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "szülte"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalóm"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:15.163820824Z",
+  "model": "glm-5.3"
+}

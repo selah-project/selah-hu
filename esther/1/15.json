@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "„A törvény szerint mit kell tenni Vasti királynővel, mivel nem tette ⟨את⟩ a királynak, Achasverosnak ⟨adott⟩ parancsát az udvari főemberek kezében?”",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "a törvény szerint"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kell tenni"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "a királynővel"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vasti"
+    },
+    {
+      "surface": "על",
+      "gloss": "mivel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "tette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parancsát"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "parancsát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achasveros"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "az udvari főemberek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:13.118320265Z",
+  "model": "glm-5.3"
+}

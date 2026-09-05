@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Benned, Jahve, kerestem oltalmat; soha ne szégyenüljek meg.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Benned"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "kerestem oltalmat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "szégyenüljek meg"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "soha"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:26.108770586Z",
+  "model": "glm-5.3"
+}

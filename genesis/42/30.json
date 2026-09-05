@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "„Keményen beszélt velünk ⟨את⟩ az ember, a föld ura, és tett ⟨את⟩ minket a föld ⟨את⟩ kémeivé.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ura"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "keményen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és tett"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "minket"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "kémeivé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:12.729489131Z",
+  "model": "glm-5.3"
+}

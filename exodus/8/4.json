@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És előhívatta Paroh (Fáraó) Moshét és Aharont, és mondta: Esedezzetek Jahvéhoz, és távolítsa el a békákat tőlem és népemtől, és elbocsátom ⟨את⟩ a népet, és áldozzanak Jahvénak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És előhívatta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshét"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "és Aharont"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Esedezzetek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "és távolítsa el"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "a békákat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "és népemtől"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "és elbocsátom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "és áldozzanak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:57.195713803Z",
+  "model": "glm-5.3"
+}

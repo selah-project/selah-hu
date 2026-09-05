@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Amikor jársz, ⟨az⟩ vezet ⟨את⟩ téged; amikor lefekszel, ⟨az⟩ őriz feletted; és ébredésedkor ⟨ő⟩ beszél veled.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "amikor jársz"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "vezet"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "téged"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "amikor lefekszel"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "őriz"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "feletted"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "és ébredésedkor"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "beszél veled"
+    }
+  ],
+  "timestamp": "2026-09-04T22:09:09.305506810Z",
+  "model": "glm-5.3"
+}

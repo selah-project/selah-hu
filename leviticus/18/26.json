@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Ti pedig megtartsátok ⟨את⟩ rendeléseimet és ⟨את⟩ ítéleteimet, és ne cselekedjetek egyet sem ebből az undorlatóból sem a született hazai, sem az jövevény, amely köztetek lakik.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "és megtartsátok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rendeléseimet"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rendeléseimet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "ítéleteimet"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ítéleteimet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "cselekedjetek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "egyet sem ebből"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "az undorlatóból"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "a született hazai"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "sem az jövevény"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "amely lakik"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "köztetek"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:24.690635536Z",
+  "model": "glm-5.3"
+}

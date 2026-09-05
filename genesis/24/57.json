@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És mondák: Hívjuk ⟨el⟩ a leányt, és kérdezzük ⟨את⟩ a száját.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondák"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "Hívjuk"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "⟨el⟩ a leányt"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "és kérdezzük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a száját"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "a száját"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:42.174178113Z",
+  "model": "glm-5.3"
+}

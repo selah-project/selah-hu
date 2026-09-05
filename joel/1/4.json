@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "A gázám maradékát megevete a szöcske, és a szöcske maradékát megevete a csörgő, és a csörgő maradékát megevete a habzó.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "maradékát"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "A gázám"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "megevete"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "a szöcske"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "és maradékát"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "a szöcske"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "megevete"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "a csörgő"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "és maradékát"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "a csörgő"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "megevete"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "a habzó"
+    }
+  ],
+  "timestamp": "2026-09-04T21:23:04.422115255Z",
+  "model": "glm-5.3"
+}

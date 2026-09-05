@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Nem tett így egyetlen nemzetnek sem, és ítéleteiről nem tudnak. Dicsérjétek Jah-t!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "egyetlen ... sem"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nemzetnek"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "és ítéleteiről"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "tudnak"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:06.390193689Z",
+  "model": "glm-5.3"
+}

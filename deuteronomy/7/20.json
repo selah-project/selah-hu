@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ⟨את⟩ a darazsat is elküldi majd Jahve, a te Elohimod ellenük, amíg el nem pusztulnak a megmaradtak és azok, akik elrejtőznek előled.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "és … is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a darazsat"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "a darazsat"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "elküldi majd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "el nem pusztulnak"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "a megmaradtak"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "és az elrejtőzöttek"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "előled"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:12.295378370Z",
+  "model": "glm-5.3"
+}

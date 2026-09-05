@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És írta a levélben, mondván: Tegyétek ⟨את⟩ Uriját a kemény harc színéhez, és térjetek vissza mögüle, hogy megverettessék és meghaljon.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "És írta"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "a levélben"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Tegyétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriját"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriját"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hoz"
+    },
+    {
+      "surface": "מול",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színéhez"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "a harc"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "kemény"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "és térjetek vissza"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "mögüle"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "hogy megverettessék"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "és meghaljon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:25:41.480283446Z",
+  "model": "glm-5.3"
+}

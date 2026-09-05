@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Hiszen ha talál az ember ⟨את⟩ ellenségét, elbocsátja-e őt jó úton? Jahve fizessen neked jót ezen a mai napon cserébe, hogy velem ezt tetted.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "hiszen"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "talál"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellenségét"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "ellenségét"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "és elbocsátja őt"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "jó"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "fizessen neked"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "jót"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "cserébe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "tettél"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:56.179348385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Fejedelmek üldöztek engem ok nélkül, de szavadtól félt ⟨a⟩ szívem.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "Fejedelmek"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "üldöztek engem"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ok nélkül"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "de szavadtól"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "félt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "⟨a⟩ szívem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:08.242098999Z",
+  "model": "glm-5.3"
+}

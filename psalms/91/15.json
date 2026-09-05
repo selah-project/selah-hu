@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Hozzám kiált, és felelek neki; én ⟨vagyok⟩ vele a nyomorúságban, kimentem ⟨őt⟩ és megdicsőítem ⟨őt⟩.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "hozzám kiált"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "és felelek neki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "a nyomorúságban"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "kimentem őt"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "és megdicsőítem őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:52.216357314Z",
+  "model": "glm-5.3"
+}

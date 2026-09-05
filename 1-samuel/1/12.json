@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És történt, hogy mivel sokáig imádkozott Jahve színe előtt, Éli ⟨az⟩ ő száját figyelte.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy mivel"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "sokáig"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "imádkozott"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "figyelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő száját"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "az ő száját"
+    }
+  ],
+  "timestamp": "2026-09-04T19:01:39.521467778Z",
+  "model": "glm-5.3"
+}

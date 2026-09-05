@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Íme, leszállt tűz az égből, és elemésztette ⟨את⟩ az első két főnököt az ötvenek közül ⟨את⟩ az ő ötvenükkel; és most legyen drága az életem a te szemedben.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "leszállt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az égből"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és elemésztette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az első két főnököt"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kettőt"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "főnököt"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "az ötveneknek"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "első"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő ötvenüket"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "az ő ötvenük"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "legyen drága"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "az életem"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a te szemedben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:49.439360798Z",
+  "model": "glm-5.3"
+}

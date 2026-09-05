@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "A karnagynak, Jedutunra, zsoltár, Dávidtól.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:59.262345113Z",
+  "model": "glm-5.3"
+}

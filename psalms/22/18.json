@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Számolom valamennyi csontomat; ők néznek, engem szemlélnek.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Számolom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "valamennyi"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "csontomat"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "néznek"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "szemlélnek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:37.751744573Z",
+  "model": "glm-5.3"
+}

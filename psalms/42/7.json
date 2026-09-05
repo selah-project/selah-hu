@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Elohimem, rajtam roskad össze a lelkem; azért emlékezem rád a Járdén földjéről és a Hermónokról, a Micár hegyéről.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rajtam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "roskad össze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezért-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "emlékezem rád"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "a Járdén"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "és a Hermónokról"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hegyéről"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "a Micár"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:53.361633320Z",
+  "model": "glm-5.3"
+}

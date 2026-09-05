@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ⟨a⟩ város terei megtelnek fiúkkal és leányokkal, akik játszanak az ő terein.",
+  "tokens": [
+    {
+      "surface": "ורחובות",
+      "gloss": "És ⟨a⟩ város terei"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨a⟩ város"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "megtelnek"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "fiúkkal"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "és leányokkal"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "akik játszanak"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "az ő terein"
+    }
+  ],
+  "timestamp": "2026-09-04T21:34:48.916334569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És gyalázta ⟨את⟩ Izráelt, és megölte őt Jehónátán, Sima (Simeá) fia, Dávid testvére.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "És gyalázta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "és megölte őt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehónátán"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Sima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvére"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:31.828014626Z",
+  "model": "glm-5.3"
+}

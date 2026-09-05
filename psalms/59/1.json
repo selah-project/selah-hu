@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "A karnagynak; Al-tasthet (Ne rongáld); Dávidéhoz (David); miktám; amikor Saul (Saúl) elküldte ⟨את⟩ az embereit, és őrizték ⟨את⟩ a házat, hogy megöljék őt.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "tasthet (Ne rongáld)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidéhoz (David)"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktám"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "amikor elküldte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul (Saúl)"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "és őrizték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "hogy megöljék őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:26.373140366Z",
+  "model": "glm-5.3"
+}

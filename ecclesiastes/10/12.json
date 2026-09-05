@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A bölcs szájának szavai kegyesség⟨t hordoznak⟩, a bolond ajkai pedig elnyelik őt.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "szavai"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szájának"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a bölcs"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kegyesség"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ajkai pedig"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "a bolond"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "elnyelik őt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:05.288459647Z",
+  "model": "glm-5.3"
+}

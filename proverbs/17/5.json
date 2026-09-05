@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Aki gúnyolja a szegényt, gyalázza annak Alkotóját; és aki örül a szerencsétlenségnek, nem marad büntetetlenül.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "Aki gúnyolja"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "a szegényt"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "gyalázza"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "annak Alkotóját"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "aki örül"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "a szerencsétlenségnek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "marad büntetetlenül"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:51.104506377Z",
+  "model": "glm-5.3"
+}

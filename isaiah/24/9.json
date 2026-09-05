@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Dal mellett nem isszák a bort, megkeseredik a részegítő ital az ivóinak.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "dal mellett"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "isszák"
+    },
+    {
+      "surface": "יין",
+      "gloss": "a bort"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "megkeseredik"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "a részegítő ital"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "az ivóinak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:33.775409571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És szólt Jahve: te sajnáltad a ricinust, amelyért nem fáradoztál, és amelyet nem te neveltél nagyra — amely egy éj alatt lett, és egy éj alatt elveszett.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "sajnáltad"
+    },
+    {
+      "surface": "על",
+      "gloss": "–t"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "a ricinus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "fáradoztál"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "nevelted nagyra"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "egy éj alatt"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjszaka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "és egy éj alatt"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjszaka"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "elveszett"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:33.038774145Z",
+  "model": "glm-5.3"
+}

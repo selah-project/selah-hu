@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Elhervad a fű, elhullik a virág, mert Jahve szele fútt bele; bizony, fű a nép.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "Elhervad"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "a fű"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "elhullik"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "a virág"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "fútt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bele"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "fű"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:27.474452034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És szólt Jahve hozzám: Ne szorongasd ⟨את⟩ Moábot, és ne ingereld őket háborúra, mert nem adok neked az ő földjéből örökségül, mert Lót fiainak adtam ⟨את⟩ Ár örökségül.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "szorongasd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moábot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábot"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "ingereld"
+    },
+    {
+      "surface": "בם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "háborúra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "az ő földjéből"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "örökségül"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lót"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ár"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ár"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "örökségül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:10.599529365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Meddig, Jahve, rejtőzködsz ⟨egészen⟩ örökké? Fellobban-e haragod, mint a tűz?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "(meddig)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "rejtőzködsz"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "fellobban-e"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "haragod"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:25.930218315Z",
+  "model": "glm-5.3"
+}

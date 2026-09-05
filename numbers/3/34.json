@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És megszámláltjaik minden férfi szerint, egyhónapos ⟨fiú⟩ kortól felfelé: hatezer-kétszázán.",
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "és megszámláltjaik"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "száma szerint"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "fiútól"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "egy hónapos"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "és felfelé"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "hat"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "és kétszáz"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:11.337547896Z",
+  "model": "glm-5.3"
+}

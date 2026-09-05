@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Jahve hangja ⟨van⟩ a vizek felett, a Dicsőség Elje mennydörög, Jahve ⟨van⟩ a nagy vizek felett.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "a Dicsőség"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mennydörög"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:20.574398834Z",
+  "model": "glm-5.3"
+}

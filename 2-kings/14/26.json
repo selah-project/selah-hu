@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Mert látta Jahve ⟨את⟩ Jiszráél nyomorúságát, hogy nagyon keserű ⟨az⟩, és nem volt bezárt, és nem volt elhagyott, és nem volt segítő Jiszráélnek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél nyomorúságát"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorúságát"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "keserű"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "és nem volt"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "bezárt"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "és nem volt"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "elhagyott"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "segítő"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jiszráélnek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:59:06.828422816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Jahve, szorongatásban kerestek téged; suttogva öntötték ki fohászukat, mikor fenyítésed rajtuk volt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "szorongatásban"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "kerestek téged"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "kiöntötték"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "suttogva fohászt"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "fenyítésed"
+    },
+    {
+      "surface": "למו",
+      "gloss": "rajtuk"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:54.638564030Z",
+  "model": "glm-5.3"
+}

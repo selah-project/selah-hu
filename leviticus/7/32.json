@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ⟨את⟩ a jobb lábszárat adjátok járandóságul (terumá) a kóhennek (papnak) selámim-áldozataitokból.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jobb lábszárat"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lábszárat"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "adjátok"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "járandóságul (terumá)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a kóhennek (papnak)"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "áldozataitokból"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "selámim-áldozataitoknak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:02.701570012Z",
+  "model": "glm-5.3"
+}

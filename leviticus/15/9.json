@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És minden nyereg, amelyre felül a folyásos, tisztátalan lesz.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "nyereg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "felül"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "arra"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "a folyásos"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tisztátalan lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:17.006800771Z",
+  "model": "glm-5.3"
+}

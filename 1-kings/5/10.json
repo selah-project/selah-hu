@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És meghaladta Selomo bölcsessége minden Kedem-fiának bölcsességét, és Micrajim (Egyiptom) minden bölcsességét.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "És meghaladta"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bölcsessége"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "bölcsességét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiának"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bölcsességét"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:38:58.659799102Z",
+  "model": "glm-5.3"
+}

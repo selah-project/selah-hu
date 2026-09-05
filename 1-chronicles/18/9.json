@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Hallotta Tóu (Tou), Hamát (Hamát) királya, hogy Davíd (Dávid) leverte ⟨את⟩ Hadadézernek, Cova (Szóba) királyának az egész seregét.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Hallotta"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tóu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamát"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "leverte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész sereget"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "seregét"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cova"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:22.494079312Z",
+  "model": "glm-5.3"
+}

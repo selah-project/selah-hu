@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Jahve heszedjét örökké éneklek, nemzedékről nemzedékre hirdetem számmal a te hűségedet.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "heszedjét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "éneklek"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "hirdetem"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "a te hűségedet"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "számmal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:21.742177566Z",
+  "model": "glm-5.3"
+}

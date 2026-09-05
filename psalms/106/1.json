@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Dicsérjétek Jah-t, adjatok hálát Jahvénak, mert jó, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "adjatok hálát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:31.829920671Z",
+  "model": "glm-5.3"
+}

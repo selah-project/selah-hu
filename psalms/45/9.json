@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Mirra és áloé és kasszia minden ruhádon — elefántcsont-palotákból tettek boldoggá a húros hangszerek.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Mirra"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "és áloé"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasszia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "ruhádon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "palotái"
+    },
+    {
+      "surface": "שן",
+      "gloss": "elefántcsont"
+    },
+    {
+      "surface": "מני",
+      "gloss": "húros hangszerek"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "tettek boldoggá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:40.795259729Z",
+  "model": "glm-5.3"
+}

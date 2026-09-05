@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És leölted ⟨את⟩ fiaimat, és odaadtad őket, átvitetve ⟨את⟩ őket nekik.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "és leölted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaimat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaimat"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "és odaadtad őket"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "átvivetve"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:02:40.484467377Z",
+  "model": "glm-5.3"
+}

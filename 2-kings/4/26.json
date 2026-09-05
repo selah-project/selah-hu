@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Most fuss, kérlek, elébe, és mondd neki: Van-é salomod? Van-é salom a férjednek? Van-é salom a gyermeknek? É ő ezt mondta: Salom.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Most"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "fuss"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "elébe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Van-é salom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-od"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Van-é salom"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "a férjednek"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Van-é salom"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "a gyermeknek"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "É ő ezt mondta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salom"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:17.417605395Z",
+  "model": "glm-5.3"
+}

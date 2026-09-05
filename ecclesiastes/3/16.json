@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És újra láttam a nap alatt: az ítélet helyén ott a gonosz, és az igazságosság helyén ott a gonosz.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "És újra"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helyén"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "az ítéletnek"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "és helyén"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "az igazságosságnak"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "a gonosz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:44.004596099Z",
+  "model": "glm-5.3"
+}

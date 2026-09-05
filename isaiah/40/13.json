@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Ki mérte ki ⟨את⟩ Jahve lelkét, és ember mint az ő tanácsosa tudtára adta ⟨neki⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "mérte ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve lelkét"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lelkét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és ember"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "mint az ő tanácsosa"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "tudtára adta ⟨neki⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:06.789227504Z",
+  "model": "glm-5.3"
+}

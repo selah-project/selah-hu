@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "A tág nefesű ⟨embere⟩ viszályt szít, de aki Jahvéra bízza magát, ⟨az⟩ meghízik.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "tág"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesű"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "szít"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "viszályt"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "de aki bízik"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéra"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "meghízik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:01.758697427Z",
+  "model": "glm-5.3"
+}

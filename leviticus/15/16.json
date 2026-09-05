@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És ha egy emberből kimegy magömlése, megmossa vízben ⟨את⟩ egész testét, és tisztátalan lesz estig.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És egy ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kimegy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "fekvése"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mag"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "megmossa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész testét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "testét"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "és tisztátalan lesz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "estig"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "az estig"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:04.011388700Z",
+  "model": "glm-5.3"
+}

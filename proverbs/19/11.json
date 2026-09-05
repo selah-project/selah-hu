@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Az ember értelme elnyújtja haragját, és ⟨az⟩ ékessége, hogy elhalad a vétség fölött.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "értelme"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "elnyújtja"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "haragját"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "és ékessége"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "elhalad"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "vétség"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:06.640348548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "És Jahve ⟨lett⟩ nékem menedékemül, és Elohimom sziklául, oltalmamul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nékem"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "menedékemül"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "és Elohimom"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "sziklául"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "oltalmamul"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:24.765357665Z",
+  "model": "glm-5.3"
+}

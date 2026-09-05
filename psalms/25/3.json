@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Sőt mind, akik reményüket hozzád fűzik, nem szégyenülnek meg; szégyenüljenek meg a hitszegők, ok nélkül.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "akik reményüket hozzád fűzik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "szégyenülnek meg"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "szégyenüljenek meg"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "a hitszegők"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ok nélkül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:09.778657604Z",
+  "model": "glm-5.3"
+}

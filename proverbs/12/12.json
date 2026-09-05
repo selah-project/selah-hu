@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Kívánja a gonosz a gonoszok hálóját, de az igazak gyökere gyümölcsöt ⟨ad⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "kívánja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "hálóját"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "a gonoszoknak"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "de a gyökere"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazaknak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:33.694687274Z",
+  "model": "glm-5.3"
+}

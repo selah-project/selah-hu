@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És bevonatta ⟨את⟩ azt tiszta arannyal, és csinált annak arany peremet köröskörül.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "És bevonatta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (az asztalt)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és csinált"
+    },
+    {
+      "surface": "לו",
+      "gloss": "annak"
+    },
+    {
+      "surface": "זר",
+      "gloss": "peremet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:45.272776437Z",
+  "model": "glm-5.3"
+}

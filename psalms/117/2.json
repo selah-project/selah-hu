@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 117,
+  "translation": "Mert elerősödött fölöttünk a heszedje, és Jahve hűsége ⟨van⟩ örökké. Hallelujah (dicsérjétek Jah-t)!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "elerősödött"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fölöttünk"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "és hűsége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:41.769875982Z",
+  "model": "glm-5.3"
+}

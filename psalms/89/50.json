@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Hol vannak első heszed-jeid, Adonáj, amelyeket Dávidnak esküdtél hűségedben?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hol"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "heszed-jeid"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "első"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "esküdtél"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "hűségedben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:28.465854571Z",
+  "model": "glm-5.3"
+}

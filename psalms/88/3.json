@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Jöjjön el könyörgésem színed elé, hajtsd füled kiáltásomhoz.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "jöjjön el"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "színed elé"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "könyörgésem"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "hajtsd"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "füled"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "kiáltásomhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:22.884323707Z",
+  "model": "glm-5.3"
+}

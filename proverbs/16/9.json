@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Az ember szíve tervezi az ő útját, de Jahve szilárdítja meg lépteit.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "tervezi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "az ő útját"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "de Jahve"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "szilárdítja meg"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "lépteit"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:38.494467614Z",
+  "model": "glm-5.3"
+}

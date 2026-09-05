@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Amikor eljöttök, hogy színem elé járuljatok — ki kérte ezt a ti kezetektől, hogy udvaraimat tapossátok?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Amikor"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "eljöttök"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy színem elé járuljatok"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az én arcom"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "kérte"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "a ti kezetektől"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "hogy tapossátok"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "udvaraimat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:36:30.993513339Z",
+  "model": "glm-5.3"
+}

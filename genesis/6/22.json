@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És megcselekedte Noach (Noé); mindazt, amit parancsolt neki ⟨את⟩ az Elohim, úgy cselekedte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcselekedte"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "mindazt, amit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "neki ⟨את⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekedte"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:10.340013931Z",
+  "model": "glm-5.3"
+}

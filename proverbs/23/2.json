@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És kést tegyél ⟨a⟩ torkodra, ha falánk ember vagy.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "tegyél"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "kést"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "torkodra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "falánk"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:23.858334252Z",
+  "model": "glm-5.3"
+}

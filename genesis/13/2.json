@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És Avram igen gazdag lett a jószágban, az ezüstben és az aranyban.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "És Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "gazdag lett"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "igen"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "a jószágban"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "az ezüstben"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "és az aranyban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:24.209176589Z",
+  "model": "glm-5.3"
+}

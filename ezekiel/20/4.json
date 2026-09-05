@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Akarod-e ítélni ⟨את⟩ őket, akarod-e ítélni, emberfia? ⟨את⟩ atyáik utálatosságait ismertesd meg velük.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Akarod-e ítélni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "akarod-e ítélni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utálatosságait"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "utálatosságait"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "ismertesd meg velük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:05:31.356095771Z",
+  "model": "glm-5.3"
+}

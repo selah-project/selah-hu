@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És meghallotta egész Javes-Gilad ⟨את⟩ mindazt, amit a Pelisetim tettek Saúllal.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "és meghallotta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javes"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tettek"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Pelisetim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saúllal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:32.857743951Z",
+  "model": "glm-5.3"
+}

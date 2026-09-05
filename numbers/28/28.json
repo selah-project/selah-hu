@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 28:28",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És a hozzájuk tartozó mincha: olajjal összegyúrtfinomliszt, három tized ⟨את⟩ az egy bikához, két tized ⟨את⟩ az egy koshoz.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "és a minchájuk"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "finomliszt"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "összegyúrt"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tized",
+      "marks": "az egy bikához"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "a bikához"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egy"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tized",
+      "marks": "az egy koshoz"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "a koshoz"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egy"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.234552053Z",
+  "model": "glm-5.3"
+}

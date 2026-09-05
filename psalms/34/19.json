@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Közel van Jahve a megtört szívűekhez, és ⟨את⟩ a zúzott lelkűeket megmenti.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Közel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "a megtört"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívűekhez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a zúzott lelkűeket"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "a zúzott"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lelkűeket"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "megmenti"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:37.697599947Z",
+  "model": "glm-5.3"
+}

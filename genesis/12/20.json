@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És Paróh embereket rendelt felőle, és útnak indíták őt ⟨את⟩, és ⟨את⟩ az ő feleségét, és ⟨את⟩ mindent, ami az övé volt.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "és rendelt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "felőle"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "embereket"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "és útnak indíták"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő feleségét"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "az ő feleségét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé volt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:26.874788658Z",
+  "model": "glm-5.3"
+}

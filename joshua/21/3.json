@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És adtak Jiszráel fiai a levitáknak örökségükből, Jahve szája szerint, ⟨את⟩ e városokat és ⟨את⟩ legelőiket.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "És adtak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitáknak"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "örökségükből"
+    },
+    {
+      "surface": "אל",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e városokat"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "városokat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőiket"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "legelőiket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:46:45.027021726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "Áldott ⟨az⟩, akit kiválasztasz és közelebb hozol, hogy lakjék udvaraidban: elteltünk házad javával, szent palotáddal.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "kiválasztasz"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "és közelebb hozol"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "lakjék"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "udvaraidban"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "elteltünk"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "javával"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "házad"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "palotáddal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:52.983155046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És Jaakov (Jákob) ment az ő útján, és találkoztak vele az Elohim követei.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "és Jaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ment"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "az ő útján"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "és találkoztak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "követei"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:21.005765706Z",
+  "model": "glm-5.3"
+}

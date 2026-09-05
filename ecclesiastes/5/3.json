@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ha fogadalmat fogadsz az Elohimnak, ne halogasd ⟨annak⟩ teljesítését, mert nincs kedve a bolondokhoz ⟨semmi⟩; ⟨את⟩, amit fogadtál, teljesítsd.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "fogadsz"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "fogadalmat"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "az Elohimnak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "halogasd"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "teljesítését"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kedve"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "a bolondokhoz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit fogadtál"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "fogadtál"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "teljesítsd"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:10.909645313Z",
+  "model": "glm-5.3"
+}

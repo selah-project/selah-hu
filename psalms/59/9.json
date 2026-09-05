@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "De Te, Jahve, nevets rajtuk, gúnyolod az összes nemzeteket.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "De Te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "nevets rajtuk"
+    },
+    {
+      "surface": "למו",
+      "gloss": "rajtuk"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "gúnyolod"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nemzeteket"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:03.431043684Z",
+  "model": "glm-5.3"
+}

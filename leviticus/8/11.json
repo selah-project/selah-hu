@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És hintett abból ⟨az oltárra⟩ hétszer, és megkente ⟨את⟩ az oltárt és ⟨את⟩ annak minden edényét, valamint ⟨את⟩ a medencét és ⟨את⟩ annak lábát, hogy megszentelje ⟨azokat⟩.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "És hintett"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨az oltárra⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltárra"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hét"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "szer"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "és megkente"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden edényét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "valamint ⟨את⟩",
+      "marks": "a medencét"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "a medencét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak lábát"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "annak lábát"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "hogy megszentelje ⟨azokat⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:55.976847864Z",
+  "model": "glm-5.3"
+}

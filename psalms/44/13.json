@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Semmiért adod el népedet, és nem gyarapodtál az árukon.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "eladod"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "הון",
+      "gloss": "vagyont"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "gyarapodtál"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "árukon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:57.690316603Z",
+  "model": "glm-5.3"
+}

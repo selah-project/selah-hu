@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "De uralkodott magán Hámán, és bement házába; és elküldött, és előhozatta ⟨את⟩ barátait és ⟨את⟩ Zerest, feleségét.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "uralkodott-magán"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámán"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "és-bement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-hoz"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "házához"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és-elküldött"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és-előhozatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barátait"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "barátait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Zerest"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zerest"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "feleségét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:49.652727133Z",
+  "model": "glm-5.3"
+}

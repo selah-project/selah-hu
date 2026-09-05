@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "minden városa a síkságnak, és egész Giládád, és egész Básán, Szalkáig és Edreig, Ogvárosai Básánban",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városa"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "a síkságnak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giládád"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Básán"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Szalká"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "és Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városai"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "királyságának"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Básánban"
+    }
+  ],
+  "timestamp": "2026-09-05T00:32:52.496173963Z",
+  "model": "glm-5.3"
+}

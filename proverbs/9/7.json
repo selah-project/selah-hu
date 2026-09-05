@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "A gúnyolót megfenyítő magának szégyent szerez, és a hitványt megrovó — magának a sérelmet.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "megfenyítő"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "gúnyolót"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "szerez"
+    },
+    {
+      "surface": "לו",
+      "gloss": "magának"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "szégyent"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "megrovó"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "hitványt"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "magának a sérelmet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:00.899689900Z",
+  "model": "glm-5.3"
+}

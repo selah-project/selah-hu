@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És ültek három esztendőt — nincsen háború Arám és Jiszráél között.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "És ültek"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "három"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincsen"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "háború"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-04T19:51:44.143552726Z",
+  "model": "glm-5.3"
+}

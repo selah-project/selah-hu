@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Békességben megváltotta a lelkemet a harctól, amely hozzám közel volt, mert sokan voltak velem.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "megváltotta"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "békességben"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkemet"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "a harctól"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hozzám közel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "sokan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "velem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:00.806696674Z",
+  "model": "glm-5.3"
+}

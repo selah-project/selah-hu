@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És visszatért Jehósáfát, Júda királya, házához békével, Jeruzsálembe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "És visszatért"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehósáfát"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júdának"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "házához"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "békével"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jeruzsálembe"
+    }
+  ],
+  "timestamp": "2026-09-04T23:16:27.003073285Z",
+  "model": "glm-5.3"
+}

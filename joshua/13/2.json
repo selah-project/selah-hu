@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Ez ⟨a⟩ hátramaradt föld: a Plistim (filiszteusok) minden körzete és az egész Gesur (Geszúri).",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "a hátramaradt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "körzete"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "a Plistim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "a Gesur"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:02.968848245Z",
+  "model": "glm-5.3"
+}

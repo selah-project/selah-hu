@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "A kórusvezetőnek. Dávid zsoltára. Jahve, átkutattál ⟨engem⟩, és megismertél.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A kórusvezetőnek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid zsoltára"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "átkutattál"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "és megismertél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:52.545638804Z",
+  "model": "glm-5.3"
+}

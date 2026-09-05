@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És megtartjátok ⟨את⟩ minden rendelkezésemet és ⟨את⟩ minden végzésmet, és megcseleksitek ⟨את⟩ azokat: én ⟨vagyok⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "és megtartjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden rendelkezésemet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rendelkezésemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden végzésmet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "végzésmet"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "és megcselekszitek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azokat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:17:44.650019748Z",
+  "model": "glm-5.3"
+}

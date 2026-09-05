@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "A bűnöst üldözi a rossz, ⟨את⟩ az igazakat pedig jóval fizeti meg ⟨az áldás⟩.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "a bűnöst"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "üldözi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "a rossz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az igazakat"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazakat"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizeti meg"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jóval"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:46.647049331Z",
+  "model": "glm-5.3"
+}

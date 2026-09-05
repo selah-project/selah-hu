@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És Hazael, Arám királya nyomorgatta ⟨את⟩ Jiszraelt Jehóachaz minden napján.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "És Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nyomorgatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszraelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszraelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehóachaz"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:07.688755946Z",
+  "model": "glm-5.3"
+}

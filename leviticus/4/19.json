@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ⟨את⟩ annak minden zsírját emelje le róla, és füstölögtesse fel az oltáron.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak minden zsírját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "zsírját"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "emelje le"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "róla"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "és füstölögtesse fel"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:17.558710775Z",
+  "model": "glm-5.3"
+}

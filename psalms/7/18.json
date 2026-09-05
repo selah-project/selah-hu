@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Hálát adok Jahvénak az ő igazsága szerint, és zengem ⟨a⟩ Jahve nevét, a Magasságosét.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "hálát adok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "az ő igazsága szerint"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "és zengem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "a Magasságosét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:10.164922786Z",
+  "model": "glm-5.3"
+}

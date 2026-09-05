@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És látja a kohan ⟨את⟩ az élő testet, és tisztátalanná nyilvánítja őt — az élő test tisztátalan, ez ⟨az⟩: cáraat az.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "És látja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az élő testet"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "a test"
+    },
+    {
+      "surface": "החי",
+      "gloss": "az élő"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "és tisztátalanná nyilvánítja őt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "a test"
+    },
+    {
+      "surface": "החי",
+      "gloss": "az élő"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "cáraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:25.992674943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És megfélt, és felkelt, és elment a nefeséért, és megérkezett Beér-Sébába (Beérseba), amely Júdáé, és ott hagyta ⟨את⟩ szolgáját.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És megfélt"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefese"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és megérkezett"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beér"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Séba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Júdáé"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "és ott hagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáját"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "szolgáját"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:19.812542992Z",
+  "model": "glm-5.3"
+}

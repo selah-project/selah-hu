@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Még Jehúda sem tartotta meg ⟨את⟩ Jahve, az ő Elohimjának parancsolatait, hanem Izrael szokásaiban jártak, amelyeket azok cselekedtek.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Még"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sem"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "tartotta meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parancsolatait"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsolatait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "az ő Elohimjának"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "jártak"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "szokásaiban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "cselekedtek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:23.713268991Z",
+  "model": "glm-5.3"
+}

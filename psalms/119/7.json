@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Hálát adok neked egyenes szívvel, amikor tanulom igazságod ítéleteit.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hálát adok neked"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "egyenes ⟨szívvel⟩"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívvel"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "amikor tanulom"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ítéleteit"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "igazságod"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:38.652948486Z",
+  "model": "glm-5.3"
+}

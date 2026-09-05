@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "A gonosz jöttével jön ⟨az⟩ megvetés is, és a szégyennel gyalázat.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "jöttével"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonász"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "⟨az⟩ megvetés"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és a…-val"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "szégyennel"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "gyalázat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:22.505572714Z",
+  "model": "glm-5.3"
+}

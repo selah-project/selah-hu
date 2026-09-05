@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 20:16",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És kiáltott egy bölcs asszony a városból: „Halljátok, halljátok! Mondjátok már Joávnak: Jöjj ide közel, hadd beszéljek veled!”",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "És kiáltott"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asszony"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városból"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "halljátok"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Mondjátok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "már"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joávnak"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "Jöjj közel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ide"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "hadd beszéljek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "veled"
+    }
+  ],
+  "timestamp": "2026-09-04T19:32:12.446011741Z",
+  "model": "glm-5.3"
+}

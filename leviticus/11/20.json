@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Minden csúszó-mászó szárnyas, amely négy lábon jár: utálatos az nektek",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "csúszó-mászó"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "szárnyas"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "amely jár"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy (lábon)"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "utálatos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:50.803638502Z",
+  "model": "glm-5.3"
+}

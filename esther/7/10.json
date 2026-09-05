@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És felakasztották ⟨את⟩ Hámánt arra a fára, amelyet Mordochainak készített, és a király haragja lecsillapodott.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "És felakasztották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hámánt"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámánt"
+    },
+    {
+      "surface": "על",
+      "gloss": "arra"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "készített"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordochainak"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "és haragja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "lecsillapodott"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:38.509546773Z",
+  "model": "glm-5.3"
+}

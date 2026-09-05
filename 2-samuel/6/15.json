@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És David és Izráel egész háza felvitte ⟨את⟩ a Jahve ládáját örömkiáltással és sófárszóval.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "És David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "felvitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jahve ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "örömkiáltással"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "és szavával"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sófárnak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:24:42.821951790Z",
+  "model": "glm-5.3"
+}

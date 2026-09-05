@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Dámasék terhe. Íme, Dámasék megszűnik városlenni, és romhalmaz lesz, omladozás.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "terhe"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dámasék"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dámasék"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "megszűnik"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "városlenni"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "romhalmaz"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "omladozás"
+    }
+  ],
+  "timestamp": "2026-09-04T20:13:25.826482155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És lerontjátok ⟨את⟩ oltáraikat, és összetöritek ⟨את⟩ szobraikat, és aseráikat tűzben égetitek, és isteneik faragott képmásait kivágjátok, és kiirtjátok ⟨את⟩ nevüket arról a helyről.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "És lerontjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltáraikat"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "oltáraikat"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "és összetöritek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szobraikat"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "szobraikat"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "és aseráikat"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "égetitek"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "és faragott képmásait"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "isteneik"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "kivágjátok"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "és kiirtjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevüket"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nevüket"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a helyről"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "arról"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:40.819612071Z",
+  "model": "glm-5.3"
+}

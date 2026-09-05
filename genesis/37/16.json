@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És monda: Testvéreimet ⟨את⟩ keresem én; kérlek, jelentsd meg nekem, hol legeltetnek ők.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreimet"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvéreimet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "keresem"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "jelentsd meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "hol"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ők"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "legeltetnek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:30.210297673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondta Kalev (Káleb): „Aki leveri ⟨את⟩ Kirjat-Széfert és elfoglalja, annak adom ⟨את⟩ Akszát, a lányomat, feleségül.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev (Káleb)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨aki⟩"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "leverei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Széfert"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Széfert"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "és elfoglalja"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "annak adom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akszát"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akszát"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "a lányom"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:27.842133671Z",
+  "model": "glm-5.3"
+}

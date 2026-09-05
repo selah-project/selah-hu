@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És lemértem nekik ⟨את⟩ az ezüstöt és ⟨את⟩ az aranyat és ⟨את⟩ az edényeket — a mi Elohimunk házának felajánlását, amelyet felajánlott a király és tanácsosai és fejedelmei és az egész Izráel, akik ott találattak.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "és lemértem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ezüstöt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "az ezüstöt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az aranyat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az aranyat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az edényeket"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "az edényeket"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "felajánlását"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunknak"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "felajánlott"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "és tanácsosai"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "és fejedelmei"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "akik ott találattak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:50:26.363704111Z",
+  "model": "glm-5.3"
+}

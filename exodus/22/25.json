@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha zálogul elveszed felebarátod köntösét, a nap lemenetéig visszaadd azt neki.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "zálogul"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "elveszed"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "köntösét"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "felebarátodnak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bemegy"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "visszaadod őt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:56.187809549Z",
+  "model": "glm-5.3"
+}

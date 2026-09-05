@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És a fölöslege, amely megmarad a sátor kárpitjaiból — a megmaradó kárpit fele — hátralóg ⟨a⟩ lakóhely hátuljára.",
+  "tokens": [
+    {
+      "surface": "וסרח",
+      "gloss": "És a fölöslege lóg"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "a megmaradó"
+    },
+    {
+      "surface": "ביריעת",
+      "gloss": "a kárpitokból"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "a sátor"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "fele"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "a kárpitnak"
+    },
+    {
+      "surface": "העדפת",
+      "gloss": "a megmaradó"
+    },
+    {
+      "surface": "תסרח",
+      "gloss": "hátralóg"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hátuljára"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakóhely"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:56.264042009Z",
+  "model": "glm-5.3"
+}

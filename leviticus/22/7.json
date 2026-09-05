@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És a nap lenyomulása után ⟨tiszta lesz⟩, és utána ehet a szent dolgokból, mert az ⟨az⟩ ő kenyere.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "és lenyomul"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "és ⟨tiszta lesz⟩"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és utána"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szent dolgokból"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "az ő kenyere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:03.934737997Z",
+  "model": "glm-5.3"
+}

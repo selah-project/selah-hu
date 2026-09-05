@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És elfordította ⟨את⟩ mind a Jehúda-beli ember szívét, mint egy ⟨ember⟩ szívét, és elküldtek a királyhoz: „Térj vissza te és minden szolgád.”",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "és elfordította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúda minden emberének szívét"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "mint egy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "(egyetlen) ember"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "és elküldtek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Térj vissza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgád"
+    }
+  ],
+  "timestamp": "2026-09-04T19:32:14.676150722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Megismerteted velem az élet útját; telített örömök ⟨vannak⟩ ⟨את⟩ a te orcádnál, gyönyörűségek a te jobbodon örökre.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Megismerteted velem"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "útját"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "az élet"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "telített"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "örömök"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te orcád"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "a te orcádnál"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "gyönyörűségek"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "a te jobbodon"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:54.081062463Z",
+  "model": "glm-5.3"
+}

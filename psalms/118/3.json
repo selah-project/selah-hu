@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Mondják csak Áron háza: mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Mondják"
+    },
+    {
+      "surface": "נא",
+      "gloss": "csak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tart a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:16.586996392Z",
+  "model": "glm-5.3"
+}

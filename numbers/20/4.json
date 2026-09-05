@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És miért hoztátok el ⟨את⟩ Jahve gyülekezetét erre a pusztára, hogy meghaljunk ott mi és állataink?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "és miért"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "hoztátok el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve gyülekezetét"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezetét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "erre a pusztára"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "למות",
+      "gloss": "hogy meghaljunk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "és állataink"
+    }
+  ],
+  "timestamp": "2026-09-04T17:39:43.858862103Z",
+  "model": "glm-5.3"
+}

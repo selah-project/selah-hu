@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Avagy nem kutatja-e át Elohim ezt ⟨ezt⟩? Mert ⟨ő⟩ ismeri a szív titkait.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Avagy nem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "kutatja-e át"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨ezt⟩ ezt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "titkait"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a szív"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:40.825523572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Dögöt vagy széttépettet nem ehet, hogy általa tisztátalanná ne legyen; én ⟨vagyok⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "dögöt"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "vagy széttépettet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehet"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "hogy tisztátalanná"
+    },
+    {
+      "surface": "בה",
+      "gloss": "általa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:03.934873989Z",
+  "model": "glm-5.3"
+}

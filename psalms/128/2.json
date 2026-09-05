@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 128,
+  "translation": "Kezeid munkáját eszed — boldog vagy, és jó ⟨van⟩ neked.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "munkáját"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "kezeid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eszed"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "boldog vagy"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "és jó"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:22.352834034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Kicsiny vagyok ⟨én⟩ és megvetett, a Te parancsolataidat ⟨את⟩ nem felejtettem el.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Kicsiny"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "és megvetett"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "a Te parancsolataidat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "felejtettem el"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:08.115597491Z",
+  "model": "glm-5.3"
+}

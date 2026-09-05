@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Mert lerombolta a rézkapukat, és a vasreteszeket elvágta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "lerombolta"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "a kapukat"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "réz"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "és a reteszeket"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vas"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "elvágta"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:12.707396746Z",
+  "model": "glm-5.3"
+}

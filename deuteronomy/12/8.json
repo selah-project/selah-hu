@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ne cselekedjetek úgy, mint mindaz, amit mi teszünk itt ma: mindenki ⟨amit⟩ jónak lát ⟨a⟩ saját szemében.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "cselekedjetek"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "úgy, mint mindaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "teszünk"
+    },
+    {
+      "surface": "פה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨amit⟩ mind"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "jónak lát"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "saját szemében"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:38.191022792Z",
+  "model": "glm-5.3"
+}

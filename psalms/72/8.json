@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "És uralkodjék a tengertől a tengerig, és a folyamtól a föld végső határáig.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "És uralkodjék"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a tengertől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tengerig"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "és a folyamtól"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "végső határáig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.544024624Z",
+  "model": "glm-5.3"
+}

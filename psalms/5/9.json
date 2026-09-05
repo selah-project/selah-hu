@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Jahve, vezess engem a te igazságodban, az engem leselkedők miatt, egyengesd el előttem a te utadat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "vezess engem"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "a te igazságodban"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "az engem leselkedők"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "egyengesd el"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "a te utadat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:26.463527331Z",
+  "model": "glm-5.3"
+}

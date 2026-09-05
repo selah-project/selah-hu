@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Mert visszaadta Jahve ⟨את⟩ Jaakov gőgjét, mint Jiszráel (Izráel) gőgjét, mert kiürítették őt a kiürítők, és szőlővesszaikat elpusztították.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שב",
+      "gloss": "visszaadta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov gőgjét"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gőgjét"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov (Jákob)"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "mint gőgjét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel (Izráel)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "kiürítették"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "a kiürítők"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "és szőlővesszaikat"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "elpusztították"
+    }
+  ],
+  "timestamp": "2026-09-04T23:45:49.392984646Z",
+  "model": "glm-5.3"
+}

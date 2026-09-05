@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Csak az elsőszülött, amely elsőszülöttként Jahvéé ⟨lesz⟩ a jószág közül, azt senki se szentelje fel; ha tulok, ha juh — Jahvéé az.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "elsőszülött"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "elsőszülöttként születik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "a jószág közül"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "szentelje fel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "senki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (az elsőszülöttet)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tulok"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שה",
+      "gloss": "juh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az (övé)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:55.508978490Z",
+  "model": "glm-5.3"
+}

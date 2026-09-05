@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És ⟨את⟩ a Patroszijakat, és ⟨את⟩ a Kaszluhijakat — akikből kijöttek onnan a filisztek —, és ⟨את⟩ a Kaftorijakat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a Patroszijakat"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "a Patroszijakat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Kaszluhijakat"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "a Kaszluhijakat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akikből"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kijöttek"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filisztek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Kaftorijakat"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "a Kaftorijakat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:38.788267630Z",
+  "model": "glm-5.3"
+}

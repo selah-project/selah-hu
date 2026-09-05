@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "És mondott nekem: a szolgám vagy, Jiszráel (Izráel), te, akiben megékesítem magam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondott"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "a szolgám"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te vagy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "megékesítem magam"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:24.860233207Z",
+  "model": "glm-5.3"
+}

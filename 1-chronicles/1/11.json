@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És Micrajim (Egyiptom) nemzette ⟨את⟩ a Ludijakat, és ⟨את⟩ az Anamijakat, és ⟨את⟩ a Lehabijakat, és ⟨את⟩ a Naftuhijakat.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "És Micrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Ludijakat"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "a Ludijakat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az Anamijakat"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "az Anamijakat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Lehabijakat"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "a Lehabijakat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Naftuhijakat"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "a Naftuhijakat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:38.788082117Z",
+  "model": "glm-5.3"
+}

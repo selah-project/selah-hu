@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Mert megtelik a föld a Jahve ⟨את⟩ dicsőségének ismeretével, miként a vizek befödik a tengert.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "megtelik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "az ismeretével"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dicsőségét"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőségét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "miként a vizek"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "befödik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ölön"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tengert"
+    }
+  ],
+  "timestamp": "2026-09-04T21:30:58.966832783Z",
+  "model": "glm-5.3"
+}

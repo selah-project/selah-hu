@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Hagyjátok el, és tudjátok, hogy én vagyok az Elohim; felmagasztaltatom a népek között, felmagasztaltatom a földön.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Hagyjátok el"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "és tudjátok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "felmagasztaltatom"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a népek között"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "felmagasztaltatom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:31.641865097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Megöli a gonoszt a rossz, és a righteouset gyűlölők bűnössé lesznek.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "megöli"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonoszt"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "a rossz"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "és gyűlölői"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "a righteous"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "büntetlenek lesznek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:54.888902659Z",
+  "model": "glm-5.3"
+}

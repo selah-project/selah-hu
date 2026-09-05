@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Mondják Jahve megváltottai, ⟨akiket⟩ kiváltott ⟨ő⟩ ⟨את⟩ a szorongató kezéből —",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Mondják"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "megváltottai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨akiket⟩"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "kiváltott"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "צר",
+      "gloss": "szorongató"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:29.777189042Z",
+  "model": "glm-5.3"
+}

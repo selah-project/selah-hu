@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "Dicsérjék Jahve ⟨את⟩ nevét, mert ⟨ő⟩ parancsolta, és megteremttettek.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Dicsérjék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevét"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "és megteremttettek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:00.214585844Z",
+  "model": "glm-5.3"
+}

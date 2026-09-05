@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És elfutott Adoní-Bezek, és üldözték ⟨את⟩ utána, és elfogták őt, és levágták ⟨את⟩ hüvelykujjait kezeinek és lábujjait.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "És elfutott"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoní-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "és üldözték"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "utána"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "és elfogták"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "és levágták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hüvelykujjait"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "hüvelykujjait"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kezeinek"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "és lábujjait"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:41.913184790Z",
+  "model": "glm-5.3"
+}

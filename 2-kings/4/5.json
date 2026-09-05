@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Elment tehát tőle ⟨את⟩-ől, és bezárta az ajtót magára és fiaira; ⟨ők⟩ odahordták ⟨neki⟩, és ⟨ő⟩ töltötte.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Elment tehát"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "tőle ⟨את⟩-ől",
+      "marks": "tőle (ELISÁTÓL)"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "és bezárta"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "az ajtót"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "magára"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "és … fiaira"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "fiaira"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ők⟩"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "odahordták"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "és ⟨ő⟩"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "töltötte"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:58.177729684Z",
+  "model": "glm-5.3"
+}

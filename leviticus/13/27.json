@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És megnézi ⟨את⟩ ⟨őt⟩ a kohén a hetedik napon: ha az elterjedt a bőrön, akkor a kohén tisztátalannak nyilvánítja ⟨את⟩ ⟨a fájdalmat⟩ — cáraát-ütés az.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "és megnézi ⟨őt⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohén"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "hetedik"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "elterjedt"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "terjed"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "a bőrön"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "akkor tisztátalannak nyilvánít"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohén"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt \/ a fájdalmat"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "cáraát-ütés"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "cáraát"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.229319762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És minden, aminek nincs uszonya és pikkelye, ne egyétek: tisztátalan az nektek.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "uszonya"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "és pikkelye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyétek"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:56:32.174938627Z",
+  "model": "glm-5.3"
+}

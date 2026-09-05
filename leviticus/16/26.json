@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És aki elbocsátja ⟨את⟩ a kecskebakot Azázélnek, mossa meg a ruháit, és mossa meg ⟨את⟩ testét vízben, és ezek után bemehet a táborba.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "és aki elbocsátja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kecskebakot"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "a kecskebakot"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Azázélnek"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mossa meg"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "a ruháit"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "és mossa meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testét"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "testét"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "és ezek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "után"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bemehet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "be"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a táborba"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:51.058563377Z",
+  "model": "glm-5.3"
+}

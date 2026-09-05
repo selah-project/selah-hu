@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Jahve, a ti Elohimotok megsokasította ⟨את⟩benneteket, és íme, ma olyanok vagytok, mint az ég csillagai sokaság szerint.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "megsokasította"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩benneteket",
+      "marks": "benneteket"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "és íme, vagytok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "mint a csillagai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sokaság szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:48:42.496270315Z",
+  "model": "glm-5.3"
+}

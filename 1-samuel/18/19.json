@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És történt, amikor ⟨את⟩ Merávot, Sául lányát Davidnak adni kellett volna, akkor Adrielnek, a mecholainak adták ⟨azt⟩ feleségül.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "תת",
+      "gloss": "adni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merávot"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Meráv"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidnak"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "adatott"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adrielnek"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "a mecholai"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:33.201425545Z",
+  "model": "glm-5.3"
+}

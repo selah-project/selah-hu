@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És adom szövetségem közém és közéd, és megsokasítlak ⟨את⟩ téged nagyon-nagyon.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "És adom"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségem"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "közém"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "és közéd"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "és megsokasítlak"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "téged"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "nagyon-"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:28:22.660281208Z",
+  "model": "glm-5.3"
+}

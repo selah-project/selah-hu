@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 18:17",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És elküldte Assur királya ⟨את⟩ Tártánt és ⟨את⟩ Ráb-Száriszt és ⟨את⟩ Rabszakét Lákistól Hizkijáhu királyhoz, Jeruzsálembe, nagy sereggel; és felmentek és eljöttek Jeruzsálembe, és felmentek és eljöttek, és megálltak a felső medence csatornájánál, amely a mosó mező útján ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "elküldte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tártánt"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tártánt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ráb-Száriszt"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Ráb-"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "Száriszt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Rabszakét"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "szaké"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lákis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijáhu"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "sereggel"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálem"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "és felmentek"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és eljöttek"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálembe"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "és felmentek"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és eljöttek"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "és megálltak"
+    },
+    {
+      "surface": "בתעלת",
+      "gloss": "a csatornájánál"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "a medence"
+    },
+    {
+      "surface": "העליונה",
+      "gloss": "felső"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "במסלת",
+      "gloss": "az útjánál"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mező"
+    },
+    {
+      "surface": "כובס",
+      "gloss": "mosó"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:18.864640854Z",
+  "model": "glm-5.3"
+}

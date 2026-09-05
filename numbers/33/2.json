@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És fölírta Moshe ⟨את⟩ kimeneteleiket vonulásaik szerint, Jahve szája szerint; és ezek ⟨azok⟩ vonulásai kimeneteleik szerint.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "és fölírta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimeneteleiket"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "kimeneteleiket"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "vonulásaik szerint"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "és ezek"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "vonulásai"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "kimeneteleik szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:47:54.131041294Z",
+  "model": "glm-5.3"
+}

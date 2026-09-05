@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 8:14",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És bevitt engem ⟨את⟩ Jahve háza északi kapujának a bejáratához, és íme, ott ülnek az asszonyok, akik Tammúzt siratják ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bevitt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratához"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapuja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הצפונה",
+      "gloss": "északi(irányba van)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "az asszonyok"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "ülnek"
+    },
+    {
+      "surface": "מבכות",
+      "gloss": "siratják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tammúzt"
+    },
+    {
+      "surface": "התמוז",
+      "gloss": "Tammúzt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:00:42.879800793Z",
+  "model": "glm-5.3"
+}

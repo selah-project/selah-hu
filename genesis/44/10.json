@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És ő mondta: most is a ti szavaitok szerint legyen ⟨az⟩; akivel ⟨את⟩ megtaláltatik, az lesz nékem szolgája, ti pedig ártatlanok legyetek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "a ti szavaitok szerint"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "megtaláltatik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolgája"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ti pedig"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "legyetek"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "ártatlanok"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:22.219514401Z",
+  "model": "glm-5.3"
+}

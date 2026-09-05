@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "mert eltéríti ⟨את⟩ a te fiadat a nyomomból, és szolgálnak más isteneknek: és felgerjed Jahve haragja ellenetek, és hamar megsemmisít téged.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "eltéríti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te fiadat"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "a te fiadat"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "a nyomomból"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "és szolgálnak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "és felgerjed"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ellenetek"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "és megsemmisít"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hamar"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:39.208163925Z",
+  "model": "glm-5.3"
+}

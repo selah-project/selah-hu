@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Mindent Jahve cselekedett az ő céljára, sőt a gonoszt is a baj napjára.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "cselekedett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "az ő céljára"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt…is"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonoszt"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "a…napjára"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baj"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:56.920590032Z",
+  "model": "glm-5.3"
+}

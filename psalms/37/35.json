@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Láttam egy erőszakos bűnöst, aki úgy zöldellt, mint az őshonos, lombos fa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Láttam"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bűnöst"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "erőszakos"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "aki úgy zöldellt"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "mint az őshonos"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "lombos"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:50.669824964Z",
+  "model": "glm-5.3"
+}

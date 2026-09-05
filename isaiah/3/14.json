@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Jahve törvényszék elé lép népének véneivel és fejedelmeivel: ti égettétek fel a szőlőt, a szegény rablása a házaitokban van.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "törvényszék elé"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "lép"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "véneivel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népének"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "és fejedelmeivel"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "égettétek fel"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "a szőlőt"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "a rablása"
+    },
+    {
+      "surface": "העני",
+      "gloss": "a szegény"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "a házaitokban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:35:41.422289848Z",
+  "model": "glm-5.3"
+}

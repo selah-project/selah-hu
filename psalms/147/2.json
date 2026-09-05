@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Építi Jerusálajimot Jahve, Izrael szétszórtjait egybegyűjti.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Építi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajimot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "szétszórtjait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "egybegyűjti"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:23.847218542Z",
+  "model": "glm-5.3"
+}

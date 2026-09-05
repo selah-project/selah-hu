@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Én — íme, szövetségem ⟨את⟩ veled, és leszel sok nép atyjává.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled",
+      "marks": "szövetségem"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "és leszel"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "atyjává"
+    },
+    {
+      "surface": "המון",
+      "gloss": "sok"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nép"
+    }
+  ],
+  "timestamp": "2026-09-04T16:28:22.660552354Z",
+  "model": "glm-5.3"
+}

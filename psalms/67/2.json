@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 67,
+  "translation": "Elohim legyen kegyelmes hozzánk és áldjon meg minket, ragyogtassa orcáját ⟨את⟩ velünk. Szela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "legyen kegyelmes hozzánk"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "és áldjon meg minket"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ragyogtassa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "orcáját"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk",
+      "marks": "velünk"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:44.997699239Z",
+  "model": "glm-5.3"
+}

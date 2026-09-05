@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Amint elűzi a füstöt, úgy űzd el ⟨őket⟩; amint megolvad a viasz a tűz elől, úgy vesszenek el a gonoszak Elohim ⟨színe⟩ elől.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Amint elűzi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "a füstöt"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "úgy űzd el ⟨őket⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "amint megolvad"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "a viasz"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "úgy vesszenek el"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨színe⟩ elől"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:18.883851166Z",
+  "model": "glm-5.3"
+}

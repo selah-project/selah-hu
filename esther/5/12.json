@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 5:12",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És mondta Hámán: „Sőt, Ester királyné nem hozott be senkit a királlyal a lakomára, amelyet készített, csak ⟨את⟩ engem; és holnap is én vagyok hívva hozzá a királlyal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és-mondta"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámán"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "hozott-be"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "a-királyné"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…-val"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a-királlyal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-ra"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "lakomára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "csak"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "engem (suffixed את)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és-is"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "holnap"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "קרוא",
+      "gloss": "hívva-vagyok"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…-val"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a-király"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:49.653128544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És ne hagyjatok abból megmaradni reggelig; ami megmarad abból reggelig, tűzben égessétek el.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És ne"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "hagyjatok… megmaradni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reggelig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ami megmarad"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reggelig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "égessétek el"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:35.160857211Z",
+  "model": "glm-5.3"
+}

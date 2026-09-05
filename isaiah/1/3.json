@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Ismeri ⟨a⟩ ökör ⟨a⟩ tulajdonosát, és ⟨a⟩ szamár ⟨az⟩ ura jászlát; Izráél nem ismer, népem nem veszi észre.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökör"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "tulajdonosát"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "és szamár"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "jászlát"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ura"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismer"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "veszi észre"
+    }
+  ],
+  "timestamp": "2026-09-04T23:36:15.280668765Z",
+  "model": "glm-5.3"
+}

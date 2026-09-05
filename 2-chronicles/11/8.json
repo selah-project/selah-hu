@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ⟨את⟩ Gátot és ⟨את⟩ Marását és ⟨את⟩ Zífet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "Gátot"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gátot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Marását"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Marását"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Zífet"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zífet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:13:22.113175278Z",
+  "model": "glm-5.3"
+}

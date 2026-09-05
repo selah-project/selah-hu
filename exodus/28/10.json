@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Hat ⟨a⟩ nevüket az egyik kőre, és ⟨את⟩ a megmaradt hat nevét a második kőre, születésük szerint",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "hat"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "nevüket"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "a kő"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a megmaradt hat nevét"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "neveit"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "a hat"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "megmaradt"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "a kő"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a második"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "születésük szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:17.331994236Z",
+  "model": "glm-5.3"
+}

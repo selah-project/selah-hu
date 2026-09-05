@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "És az éhség súlyos ⟨volt⟩ a földön.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "És az éhség"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "súlyos"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:25.224023814Z",
+  "model": "glm-5.3"
+}

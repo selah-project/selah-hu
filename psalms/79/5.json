@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 79,
+  "translation": "Meddig, Jahve? ⟨Meddig⟩ haragszol ⟨örökké⟩? Lángol-e, mint a tűz, a féltékenységed?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨meddig⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "haragszol"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "lángol"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "a féltékenységed"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:03.032677852Z",
+  "model": "glm-5.3"
+}

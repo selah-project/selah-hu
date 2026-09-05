@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És bement Noach és fiai és felesége és fiai feleségei ⟨את⟩ vele a bárkába, a vízözön vizei elől.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bement"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "és felesége"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "és feleségei"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "vele — a Noach kísérete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "a bárkába"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizei"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "a vízözön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:34.536512139Z",
+  "model": "glm-5.3"
+}

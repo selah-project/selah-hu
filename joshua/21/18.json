@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatotot annak külterületeivel és ⟨את⟩ Almont annak külterületeivel — négy város.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatotot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatotot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "külterületeivel"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "külterületeivel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Almont"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "külterületeivel"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "külterületeivel"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "város"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    }
+  ],
+  "timestamp": "2026-09-04T18:45:57.998434523Z",
+  "model": "glm-5.3"
+}

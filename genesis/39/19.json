@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 39:19",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És történt, amikor ura meghallotta ⟨את⟩ feleségének szavait, amelyeket ő hozzá szólt, mondván: „Így tett velem a szolgád”, hogy az ő haragja lángra lobbant.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "amikor meghallotta"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségének szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "feleségének"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "így"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "velem"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a szolgád"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "hogy lángra lobbant"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "az ő haragja (orra)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:39.172503599Z",
+  "model": "glm-5.3"
+}

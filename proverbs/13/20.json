@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Aki ⟨את⟩ bölcsekkel jár, bölccé lesz, de aki balgákkal barátkozik, megrontatik.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "jár"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bölcsekkel"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bölcsekkel"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "bölccé lesz"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "de barátkozik"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "balgákkal"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "megrontatik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:12.799666150Z",
+  "model": "glm-5.3"
+}

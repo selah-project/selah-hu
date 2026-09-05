@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És bement Hágárhoz, és ⟨az⟩ fogant ⟨méhében⟩; és látta, hogy fogant, és úrnője kisebbé lett annak szemében.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— 'hoz'"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hágárhoz"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "és fogant"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "fogant"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "és kisebbé lett"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "úrnője"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "annak szemében"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:47.689738018Z",
+  "model": "glm-5.3"
+}

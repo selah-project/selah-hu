@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 123,
+  "translation": "A máalót éneke. Hozzád emeltem fel ⟨את⟩ szemeimet, aki ⟨lakozol⟩ a mennyekben.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a máalót"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "emeltem fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szemeimet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemeimet"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "aki lakozol"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "a mennyekben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:19.124519534Z",
+  "model": "glm-5.3"
+}

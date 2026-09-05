@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És megszentelem ⟨את⟩ a találkozás sátorát és ⟨את⟩ az oltárt, és ⟨את⟩ Aháront és ⟨את⟩ fiait megszentelem, hogy papként szolgáljanak nekem.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "És megszentelem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a találkozás sátorát"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aháront"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aháront"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "megszentelem"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "papként"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:40.258705362Z",
+  "model": "glm-5.3"
+}

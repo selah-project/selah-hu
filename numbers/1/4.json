@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És ⟨את⟩ veletek legyen ember ember törzsenként, ember, fej atyái házának — ő.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "És ⟨את⟩ veletek"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "törzsenként"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fej"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyái"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:11.917281300Z",
+  "model": "glm-5.3"
+}

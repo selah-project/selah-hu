@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És mondják: „Csakugyan csak Moshe szólt által? Vajon nem szólt ⟨את⟩ általunk is?” És meghallotta Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondják"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "Csakugyan csak"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Vajon nem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "általunk"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "És meghallotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:05.600802960Z",
+  "model": "glm-5.3"
+}

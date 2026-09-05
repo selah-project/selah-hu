@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "De ő megtagadta, és mondta urának feleségének: Íme, az én uram nem tud ⟨את⟩ velem semmit a házban, és mindent, ami van neki, a kezembe adott.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "De megtagadta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "felesége"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "urának"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "az én uram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tud"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "velem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "semmit"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házban"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "a kezembe"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:44.558154078Z",
+  "model": "glm-5.3"
+}

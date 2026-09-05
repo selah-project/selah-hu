@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 129,
+  "translation": "És nem mondják az elmenők: „Jahve áldása rajtatok! Megáldottunk ⟨את⟩ titeket Jahve nevében!”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mondják"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "az elmenők"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "áldása"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "rajtatok"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "megáldottunk"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "névében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:19.974194400Z",
+  "model": "glm-5.3"
+}

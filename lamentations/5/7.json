@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Atyáink vétkeztek, és ⟨ők⟩ nincsenek ⟨többé⟩; mi ⟨viszont⟩ hordozzuk az ő bűneiket.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Atyáink"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vétkeztek"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nincsenek ⟨többé⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "az ő bűneiket"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "hordozzuk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:36.961875734Z",
+  "model": "glm-5.3"
+}

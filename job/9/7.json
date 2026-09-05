@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Aki szól a napnak, és az nem kel fel, és a csillagokat pecséttel lezárja.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Aki szól"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "a napnak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "kel fel"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "és"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "a csillagokat"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "pecséttel lezárja"
+    }
+  ],
+  "timestamp": "2026-09-04T23:52:02.656070226Z",
+  "model": "glm-5.3"
+}

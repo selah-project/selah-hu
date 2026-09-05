@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A szolgád vagyok én; adj nekem értem, hogy megismerjem a te bizonyságaidat.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "a szolgád"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "adj neki érte"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "hogy megismerjem"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "a te bizonyságaidat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:17.058973653Z",
+  "model": "glm-5.3"
+}

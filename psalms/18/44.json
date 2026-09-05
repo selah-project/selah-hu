@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Kiszabadítasz engem a nép pöröseiből; népek fejévé teszel engem; nép, amelyet nem ismertem, szolgál nekem.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "kiszabadítasz engem"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "a pöröseiből"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "teszel engem"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "fejévé"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a népeknek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismertem"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "szolgál nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:32.042126203Z",
+  "model": "glm-5.3"
+}

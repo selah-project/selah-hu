@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "és ⟨את⟩ a szőtt ruhákat, és ⟨את⟩ a szent ruhákat Áharon (Áron) papnak, és ⟨את⟩ fiai ruháit a papi szolgálathoz,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szőtt ruhákat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruhákat"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "szőtt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szent ruhákat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruhákat"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Áharonnak (Áron)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiai ruháit"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papi szolgálathoz"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:10.949754499Z",
+  "model": "glm-5.3"
+}

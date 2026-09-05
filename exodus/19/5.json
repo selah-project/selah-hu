@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És most, ha hallgattok szavamra, és megtartjátok ⟨את⟩ szövetségemet, akkor ti lesztek nekem külön kincs minden nép közül, mert nekem van az egész föld.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "hallgatva"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hallgattok"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "szavamra"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "és megtartjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemet"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "akkor ti lesztek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "külön kincs"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden ... közül"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "nép"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:11.730545017Z",
+  "model": "glm-5.3"
+}

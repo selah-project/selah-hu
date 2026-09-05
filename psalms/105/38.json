@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Örült Micrajim (Egyiptom) az ő kimenetelükön, mert rettegésük rájuk esett.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "örült"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "kimenetelükön"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "esett"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "rettegésük"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "rájuk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:43.144853899Z",
+  "model": "glm-5.3"
+}

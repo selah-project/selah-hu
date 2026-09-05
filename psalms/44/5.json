@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Te ⟨az⟩ vagy, királyom, ⟨a⟩ Elohim — parancsold a szabadításokat Jaakobnak.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsold"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "a szabadításokat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:37.095803840Z",
+  "model": "glm-5.3"
+}

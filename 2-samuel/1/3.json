@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És David ezt mondta neki: „Honnan jössz?” És az így felelt neki: „Izráel (Izrael) táborából menekültem el.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "honnan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "■"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "jössz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "a táborból"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "megmenekültem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:22:18.830239398Z",
+  "model": "glm-5.3"
+}

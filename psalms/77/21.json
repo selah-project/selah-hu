@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Vezetted, mint nyájat, népedet, Moshe (Mózes) és Aharón (Áron) kezével.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Vezetted"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "mint nyájat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezével"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Aharón (Áron)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:51.400950482Z",
+  "model": "glm-5.3"
+}

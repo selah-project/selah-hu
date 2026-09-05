@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 112,
+  "translation": "Bőség és gazdagság ⟨van⟩ az ő házában, és az ő igazsága megáll örökre.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Bőség"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "és gazdagság"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "házában"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "és igazsága"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "megáll"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:21.650609424Z",
+  "model": "glm-5.3"
+}

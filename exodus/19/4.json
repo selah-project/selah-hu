@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ti láttátok, amit Micrajimmal cselekedtem, és ⟨את⟩ titeket sasszárnyakra emeltelek, és ⟨את⟩ titeket hoztalak el magamhoz.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "láttátok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Micrajimmal"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "és emeltelek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "szárnyaira"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "sasok"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "és hoztalak el"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "magamhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:33.133329779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Juhokat és marhákat, valamennyit, sőt a mező állatait is ⟨eleddel⟩.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Juhokat"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "és marhákat"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "valamennyit"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "állatait"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "a mező"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:32.013212830Z",
+  "model": "glm-5.3"
+}

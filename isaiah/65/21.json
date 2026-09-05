@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "És házakat építenek, és ⟨azokban⟩ laknak majd; szőlőkerteket ültetnek, és ⟨azoknak⟩ gyümölcsét eszik meg.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "és építenek"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "házakat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "és laknak majd"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "és ültetnek"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "szőlőkerteket"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "és eszik meg"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "gyümölcsét"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:04.964632576Z",
+  "model": "glm-5.3"
+}

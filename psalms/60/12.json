@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "Nemde te, Elohim, elvetettél minket? És nem vonulsz ki, Elohim, seregeinkkel?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "elvetettél minket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vonulsz ki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "seregeinkkel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:10.118068159Z",
+  "model": "glm-5.3"
+}

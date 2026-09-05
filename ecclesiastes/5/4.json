@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Jobb, amit nem fogadsz, mint ⟨az⟩, hogy fogadsz és nem teljesíted.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "fogadsz"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "mint hogy fogadsz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "teljesíted"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:10.909784099Z",
+  "model": "glm-5.3"
+}

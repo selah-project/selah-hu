@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Nemzedék megy, és nemzedék jön; és a föld örökre áll.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Nemzedék"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "megy"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "és nemzedék"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "és a föld"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "áll"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:22.889299831Z",
+  "model": "glm-5.3"
+}

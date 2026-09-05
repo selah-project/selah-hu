@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Elohimot ne szidalmazd, és néped fejedelmét ne átkozd.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "szidalmazd"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "és fejedelme"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "népednek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "átkozd"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:56.188469883Z",
+  "model": "glm-5.3"
+}

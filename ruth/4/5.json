@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 4:5",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ezt mondta Boaz: Amely napon megveszed ⟨את⟩ a szántóföldet Naomi kezéből, akkor ⟨את⟩ Rutot, a moábitát, a halott feleségét is megvetted, hogy felépítsd a halott nevét az ő örökségére.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amely napon"
+    },
+    {
+      "surface": "קנותך",
+      "gloss": "megveszed"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a szántóföldet"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Rutot, a moábitát"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rutot"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "a moábitát"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "המת",
+      "gloss": "a halott"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "megvetted"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "hogy felépítsd"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "המת",
+      "gloss": "a halott"
+    },
+    {
+      "surface": "על",
+      "gloss": "erre"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "az ő örökségére"
+    }
+  ],
+  "timestamp": "2026-09-04T22:33:23.630969639Z",
+  "model": "glm-5.3"
+}

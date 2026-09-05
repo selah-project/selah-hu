@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És ⟨את⟩ az egy kost vedd fel, és Aharon (Áron) és fiai tegyék ⟨את⟩ kezeiket a kos fejére.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az egy kost"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a kost"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egy"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vedd fel"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "és tegyék"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Áron)"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezeiket"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kezeiket"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejére"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a kosnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:05.467659209Z",
+  "model": "glm-5.3"
+}

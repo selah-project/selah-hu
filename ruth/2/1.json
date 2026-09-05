@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És volt Noominak (Naómi) egy ismerőse a férje ⟨oldalán⟩, egy hős vitéz férfi Elimelech nemzetségéből, és a neve Boaz (Boáz).",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "És Noominak"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "ismerőse"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "a férje ⟨oldalán⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hős"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "a nemzetségéből"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelech"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "és a neve"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:28.367225851Z",
+  "model": "glm-5.3"
+}

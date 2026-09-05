@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 112,
+  "translation": "Széthintett, adott a szegényeknek — az ő igazsága áll mindörökké, az ő szarva felemeltetik dicsőségben.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Széthintett"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "a szegényeknek"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "az ő igazsága"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "áll"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mindörökké"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "az ő szarva"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "felemeltetik"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "dicsőségben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:32.256722584Z",
+  "model": "glm-5.3"
+}

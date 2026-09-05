@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És mondottak neki a testvérei: Avagy királykodni fogsz-é felettünk, vagy uralkodni fogsz-é rajtunk? És ⟨את⟩ őt még tovább gyűlölték az ő álmaiért és az ő szavaiért.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És-mondottak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "a-testvérei"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "királykodni-fogsz-é"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "fogsz-királykodni"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "felettünk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "משול",
+      "gloss": "uralkodni-fogsz-é"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "fogsz-uralkodni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "rajtunk"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "és-még-tovább"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "gyűlölték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "חלמתיו",
+      "gloss": "az-ő-álmaiért"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és-miatt"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "az-ő-szavaiért"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:43.991064224Z",
+  "model": "glm-5.3"
+}

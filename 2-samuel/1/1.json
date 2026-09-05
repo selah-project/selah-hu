@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És történt Saúl (Saul) halála után, hogy David (Dávid) visszatért ⟨את⟩ az Amálek megveréséből, és David Ciklágban lakott két napig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halála"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "hogy David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "visszatért"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "a megveréséből"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Amálek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "az Amálek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és lakott"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Ciklágban"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napot"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettőt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:22:18.829741668Z",
+  "model": "glm-5.3"
+}

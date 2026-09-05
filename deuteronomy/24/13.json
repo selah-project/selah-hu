@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Visszaadtatod ⟨את⟩ a zálogot neki a nap nyugovatakor, és ő alszik az ő köntösében, és megáld téged; és neked igazságosság lesz Jahve, a te Elohimod színe előtt.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "visszaadtatod"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "visszaadod"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a zálogot"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "a zálogot"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "nyugovatakor"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "és alszik"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "az ő köntösében"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "és megáld téged"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "és neked"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "igazságosság"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:38.461819090Z",
+  "model": "glm-5.3"
+}

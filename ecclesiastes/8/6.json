@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Mert minden kivánalomhoz van idő és ítélet, mert nagy az ember gonoszsága rajta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden...hoz"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kivánalomhoz"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "עת",
+      "gloss": "idő"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és ítélet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "gonoszsága"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:57.476267484Z",
+  "model": "glm-5.3"
+}

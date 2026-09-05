@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "És szólt Jaakob Josefhez: El Saddáj (a Mindenható) megjelent nekem Luzban, Kenaan (Kánaán) földjén, és megáldott ⟨את⟩ engem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Saddáj"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "megjelent"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "Luzban"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldott"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "engem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:44.693540286Z",
+  "model": "glm-5.3"
+}

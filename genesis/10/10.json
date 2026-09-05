@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ⟨volt⟩ királyságának kezdete Bábel, és Érek, és Akkád, és Kalné, Sineár földjén.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "És ⟨volt⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "kezdete"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "királyságának"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "és Érek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "és Akkád"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "és Kalné"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Sineár"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:54.433185842Z",
+  "model": "glm-5.3"
+}

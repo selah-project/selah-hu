@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Anyád leánya vagy te, ki útálta férjét és fiait; és nővéreid nővére vagy te, akik útálták férjeiket és fiaikat; anyátok hitti ⟨volt⟩, és atyátok emóri ⟨volt⟩.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "leánya"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anyádnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "te vagy"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "útálta"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "férjét"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "és fiait"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "és nővére"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "nővéreidnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "te vagy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "útálták"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "férjeiket"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "és fiaikat"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "anyátok"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hitti"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "és atyátok"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "emóri"
+    }
+  ],
+  "timestamp": "2026-09-04T21:03:17.111602452Z",
+  "model": "fable-5-hand"
+}

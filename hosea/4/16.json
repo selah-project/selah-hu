@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Mert mint egy makacs üsző, elpártolt Izráel; most majd legelteti őket Jahve, mint a bárányt a tágas mezőn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "mint egy üsző"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "makacs"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "elpártolt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "legelteti őket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "mint a bárányt"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "a tágas mezőn"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:07.235289688Z",
+  "model": "glm-5.3"
+}

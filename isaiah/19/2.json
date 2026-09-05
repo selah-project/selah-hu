@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És megszítom Micrajimet Micrajim ellen, és harcolni fognak ember az ő testvére ellen, és ember az ő felebarátja ellen, város város ellen, királyság királyság ellen.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "És megszítom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimet"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajim ellen"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "és harcolni fognak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "az ő testvére ellen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és ember"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "az ő felebarátja ellen"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "város ellen"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "királyság"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "királyság ellen"
+    }
+  ],
+  "timestamp": "2026-09-04T20:13:40.951582840Z",
+  "model": "glm-5.3"
+}

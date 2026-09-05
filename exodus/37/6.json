@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És készítette a fedőlapot tiszta aranyból: két könyök és fél annak hossza, és egy könyök és fél annak szélessége.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És készítette"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "a fedőlapot"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyból"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "két könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "annak hossza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és egy könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "annak szélessége"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:32.022773404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 100,
+  "translation": "Tudjátok, hogy Jahve ⟨ő⟩ Elohim; ⟨ő⟩ alkotott minket, és nem mi ⟨magunkat⟩; népe ⟨vagyunk⟩ ⟨neki⟩, és legelőjének nyája.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Tudjátok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "alkotott minket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népe ⟨neki⟩"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "és nyája"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "legelőjének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:01.456343412Z",
+  "model": "glm-5.3"
+}

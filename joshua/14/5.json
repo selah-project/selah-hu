@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ahogyan parancsolta Jahve ⟨את⟩ Moshénak (Mózesnek), úgy cselekedték Jiszráél (Izráel) fiai, és felosztották ⟨את⟩ a földet.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshénak (Mózesnek)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "cselekedték"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél (Izráel)"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "és felosztották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:19.839178219Z",
+  "model": "glm-5.3"
+}

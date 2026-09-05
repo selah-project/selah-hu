@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "A karnagynak, a Súsán-Edút szerint, miktám Davíd (Dávid)tól, tanításul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Súsán"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edút"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktám"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíd (Dávid)tól"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "tanításul"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:22.989601943Z",
+  "model": "glm-5.3"
+}

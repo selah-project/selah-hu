@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És történt, amikor meghallották ⟨את⟩ a Torát (a Tórát), hogy elkülönítettek minden vegyült népet Izráeltől.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "amikor meghallották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Torát"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a Torát"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "hogy elkülönítettek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vegyült népet"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Izráeltől"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:20.819355643Z",
+  "model": "glm-5.3"
+}

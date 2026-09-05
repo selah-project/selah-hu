@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Özvegy fogadalma és elhagyott asszonyé — mindaz, amivel lélekzetére kötött, fennáll rajta.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "fogadalma"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "özvegy"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "és elhagyott asszonyé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amivel"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "kötött"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "lélekzetére"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "fennáll"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T17:45:28.741655168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "judges 9:56",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És visszafizette Elohim ⟨את⟩ Avimelech gonoszságát, amelyet az apjával tett, amikor megölte ⟨את⟩ hetven fivérét.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "és visszafizette"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech gonoszságát"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "gonoszságát"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "az apjával"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "amikor megölte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hetven fivérét"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "fivérét"
+    }
+  ],
+  "timestamp": "2026-09-04T18:55:28.903879700Z",
+  "model": "glm-5.3"
+}

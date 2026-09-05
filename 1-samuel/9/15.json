@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És Jahve feltárta ⟨את⟩ Semuél fülét, egy nappal azelőtt, hogy Saúl (Saul) megjött volna, mondván:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "És Jahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "feltárta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Semuél fülét"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "fülét"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "azelőtt"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "megjövetele"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T19:07:54.947755650Z",
+  "model": "glm-5.3"
+}

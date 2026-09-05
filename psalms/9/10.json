@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És lesz Jahve menedékül az elnyomottnak, menedékül az időkben, szorongatásban.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "menedékül"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "az elnyomottnak"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "menedékül"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "az időkben"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "szorongatásban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:24.510990852Z",
+  "model": "glm-5.3"
+}

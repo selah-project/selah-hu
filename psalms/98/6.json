@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 98,
+  "translation": "Kürtökkel és a sófár hangjával kiáltsatok a király, Jahve színe előtt.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Kürtökkel"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "és hang"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "a sófárnak"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "kiáltsatok"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:12.799801548Z",
+  "model": "glm-5.3"
+}

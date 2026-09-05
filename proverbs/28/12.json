@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Az igazak örvendésében nagy a dísz, de a gonoszok felkelésekor az ember elrejtőzik.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "örvendésében"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazak"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "a dísz"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "de a felkelésekor"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "elrejtőzik"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:11.675539940Z",
+  "model": "glm-5.3"
+}

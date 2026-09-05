@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És Ehúd (Ehúd) kinyújtotta ⟨את⟩ bal kezét, és levette ⟨את⟩ a kardot jobb combjáról, és beledöfte annak ⟨a⟩ hasába.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kinyújtotta"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehúd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bal kezét"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "bal"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és levette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kardot"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "a kardot"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "comb"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "jobbja"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "és beledöfte"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "annak hasába"
+    }
+  ],
+  "timestamp": "2026-09-04T18:49:51.074254319Z",
+  "model": "glm-5.3"
+}

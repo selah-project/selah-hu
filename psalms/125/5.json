@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 125,
+  "translation": "Aki pedig saját kanyargó útjaira hajlik, azokat Jahve elvezeti ⟨את⟩ a gonoszság cselekvőivel ⟨együtt⟩; béke Izráelre!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "akik pedig hajlanak"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "kanyargó útjaikra"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "elvezeti őket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gonoszság cselekvői"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "a cselekvői"
+    },
+    {
+      "surface": "האון",
+      "gloss": "a gonoszságnak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "béke"
+    },
+    {
+      "surface": "על",
+      "gloss": "erre"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:04.918258205Z",
+  "model": "glm-5.3"
+}

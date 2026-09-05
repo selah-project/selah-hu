@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Kelj fel, emeld fel ⟨את⟩ a fiút, és erősítsd meg ⟨את⟩ kezedet rajta, mert nagy néppé teszem őt.”",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "emeld fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiút"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a fiút"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "és erősítsd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezedet"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "néppé"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "teszem őt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:35.593347158Z",
+  "model": "glm-5.3"
+}

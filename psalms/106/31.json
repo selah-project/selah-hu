@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És igazságul számláltatott ⟨neki⟩, nemzedékről nemzedékre, ⟨egészen⟩ örökké.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "és számláltatott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "igazságul"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨egészen⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:37.256589282Z",
+  "model": "glm-5.3"
+}

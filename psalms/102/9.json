@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Egész napon át gyaláznak engem ellenségeim; őrjöngőim rám esküdnek.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "gyaláznak engem"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "őrjöngőim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "esküdnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:35.490124798Z",
+  "model": "glm-5.3"
+}

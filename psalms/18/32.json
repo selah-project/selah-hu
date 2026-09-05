@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Mert ki ⟨az⟩ Eloah Jahvén kívül? És ki ⟨a⟩ szikla a mi Elohimunkon kívül?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvén"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "צור",
+      "gloss": "szikla"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunkon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:40.136726758Z",
+  "model": "glm-5.3"
+}

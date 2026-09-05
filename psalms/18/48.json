@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "⟨Az⟩ El, aki bosszúkat ad nékem, és népeket igáz le alám —",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "az El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "aki ad"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "bosszúkat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és leigáz"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "népeket"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "alám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:30.088789543Z",
+  "model": "glm-5.3"
+}

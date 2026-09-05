@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Boldogok a te házadban lakók, még dicsérnek téged. Szela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldogok"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "házadban"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "dicsérnek téged"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:56.292441649Z",
+  "model": "glm-5.3"
+}

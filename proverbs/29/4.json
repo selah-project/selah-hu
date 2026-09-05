@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "A király ítélkezésvel fenntartja ⟨את⟩ a földet, de az adókat szedő ember lerontja azt.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ítélkezésvel"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "fenntartja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földet"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "de ember"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "adókat szedő"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "lerontja azt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:31.253600936Z",
+  "model": "glm-5.3"
+}

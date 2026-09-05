@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És leszállt Moshe (Mózes) a hegyről a néphez, és megszentelte ⟨את⟩ a népet, és kimosták a ruháikat.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "leszállt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a hegyről"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨a hegyről⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a néphez"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨a néphez⟩"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "és megszentelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "és kimosták"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "a ruháikat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:00.386753004Z",
+  "model": "glm-5.3"
+}

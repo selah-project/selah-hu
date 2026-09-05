@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Mindnyájan elhajlottak, együtt váltak romlottá; nincs jótevő, nincs, még egy sem.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "סר",
+      "gloss": "elhajlottak"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "váltak romlottá"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tevő"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "גם",
+      "gloss": "még"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy sem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:05.161881892Z",
+  "model": "glm-5.3"
+}

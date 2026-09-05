@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Nemde mostantól kiáltottál nékem: Atyám, ifjúságom vezetője vagy te?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "nemde"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mostantól"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kiáltottál"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atyám"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "vezetője"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ifjúságom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T20:33:46.748623488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És megmondták Mordokainak ⟨את⟩ Ester szavait.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "és megmondták"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordokainak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-04T23:55:01.688150355Z",
+  "model": "glm-5.3"
+}

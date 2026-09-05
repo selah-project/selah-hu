@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És te, kelj fel, menj a házadba; midőn lábad a városba ér, meghal a gyermek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és te"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "kelj fel"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "menj"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "a házadba"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "midőn ér"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "lábad"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "a városba"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "meghal"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:33.535668994Z",
+  "model": "glm-5.3"
+}

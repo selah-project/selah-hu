@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És történt, amikor megszülte Ráhel ⟨את⟩ Józéfet, akkor szólt Jaakov (Jákob) Lávánnak: Bocsáss el engem, hadd menjek a helyemre és az országomba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "megszülte"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ráhel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Józéfet"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józéfet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Láván"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Bocsáss el engem"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "hadd menjek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "a helyemre"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "és az országomba"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:05.408545588Z",
+  "model": "glm-5.3"
+}

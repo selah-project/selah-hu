@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "És sírtam ⟨a⟩ lelkem bőjtjében, és gyalázkodássá lett nekem.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "és sírtam"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "bőjtjében"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "gyalázkodássá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:23.371343552Z",
+  "model": "glm-5.3"
+}

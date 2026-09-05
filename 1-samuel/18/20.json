@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És szerette Mikál, Sául lánya ⟨את⟩ Davidot, és elmondták Sáulnak, és a dolog tetszett a szemeiben.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "És szerette"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikál"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "és elmondták"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sáulnak"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "és tetszett"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a dolog"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a szemeiben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:33.201700324Z",
+  "model": "glm-5.3"
+}

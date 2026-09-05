@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Amikor lámpája fénylett ⟨a⟩ fejem felett, az ő világánál jártam a sötétben.",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "Amikor fénylett"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "lámpája"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "felett"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "⟨a⟩ fejem"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "az ő világánál"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jártam"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a sötétben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:25:12.085507374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És mondta Moshe az apósának: „Mert eljön hozzám a nép, hogy Elohimot keressen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "az apósának"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "eljön"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "hogy keressen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:14.179768171Z",
+  "model": "glm-5.3"
+}

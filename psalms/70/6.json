@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 70,
+  "translation": "Én pedig szegény vagyok és nyomorult; Elohim, siess hozzám! Segítségem és megmentőm ⟨te⟩ vagy, Jahve, ne késlekedj!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én pedig"
+    },
+    {
+      "surface": "עני",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és nyomorult"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "siess"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Segítségem"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "és megmentőm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "késlekedj"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:16.449194923Z",
+  "model": "glm-5.3"
+}

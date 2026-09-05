@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Ne végy el tőle ⟨את⟩ kamatot és nyereséget, hanem félj Elohimodtól, és éljen testvéred veled.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vegyél el"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "tőle ⟨את⟩",
+      "marks": "kamatot és nyereséget"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatot"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "és nyereséget"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "hanem félj"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimodtól"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "és éljen"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    }
+  ],
+  "timestamp": "2026-09-04T17:21:49.657323804Z",
+  "model": "glm-5.3"
+}

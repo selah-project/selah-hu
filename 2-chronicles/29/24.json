@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És a kohaniták leölték ⟨azokat⟩, és vétekül használták ⟨את⟩ vérüket az oltáron, hogy engesztelést szerezzenek egész Izráelért, mert egész Izráelért mondta a király ⟨az⟩ égőáldozatot és a vétekáldozatot.",
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "és leölték azokat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohaniták"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "és vétekül használták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vérüket"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "vérüket"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "hogy engesztelést szerezzenek"
+    },
+    {
+      "surface": "על",
+      "gloss": "ért"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "egészért"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "és a vétekáldozat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:21:15.712465501Z",
+  "model": "glm-5.3"
+}

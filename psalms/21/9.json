@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Megtalálja kezed minden ellenségedet, jobb kezed megtalálja a téged gyűlölőket.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "Megtalálja"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségedet"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jobb kezed"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "megtalálja"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "a téged gyűlölőket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:52.497080510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Kérd tőlem, és adok népeket örökségül neked, és birtokul a föld határait.”",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Kérd"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "és adok"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népeket"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "örökségül neked"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "és birtokul"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "határait"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:38.530012459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Bővölködő esőt ráztál ki, Elohim; a te örökségedet — és elfáradtakat te erősítetted meg ⟨őt⟩.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "esőt"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "bővölködő"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ráztál ki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "örökségedet"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "és elfáradtakat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "erősítetted meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:12.559289367Z",
+  "model": "glm-5.3"
+}

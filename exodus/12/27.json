@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Akkor ezt mondjátok: peszach-áldozat ez Jahvénak, aki átment Izrael fiainak házai fölött Micrajimben, amikor megverte ⟨את⟩ Micrajimet, és házainkat megszabadította. És meghajolt a nép, és leborult.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "mondjátok"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozat"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "peszach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "átment"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "házai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimben"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "amikor megverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajimet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "házainkat"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "házainkat"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "megszabadította"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "meghajolt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "leborult"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:25.158140007Z",
+  "model": "glm-5.3"
+}

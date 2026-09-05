@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És látta Elohim ⟨את⟩ mindent, amit tett, és íme, nagyon jó. És lett este, és lett reggel: hatodik nap.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "este"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "hatodik"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:09.500244933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "Örül az igaz Jahvéban, és ⟨ő⟩benne keres menedéket, és dicsekedjék minden egyenes szívű.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "örül"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "és keres menedéket"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ő⟩benne"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "és dicsekedjék"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "egyenes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívű"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:06.994808323Z",
+  "model": "glm-5.3"
+}

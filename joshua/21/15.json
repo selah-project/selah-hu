@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ⟨את⟩ Holont legelőjével, és ⟨את⟩ Devirt legelőjével.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Holont"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjével"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjével"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Devirt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devirt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjével"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjével"
+    }
+  ],
+  "timestamp": "2026-09-04T18:46:02.574785223Z",
+  "model": "glm-5.3"
+}

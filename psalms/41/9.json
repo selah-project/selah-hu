@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Belial dolga ömlik ki rá, és aki lefeküdt, nem fog többé felkelni.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "dolga"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ömlik ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és aki"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lefeküdt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "többé"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "felkelni"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:45.037828339Z",
+  "model": "glm-5.3"
+}

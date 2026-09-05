@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 131,
+  "translation": "Nemde szelídítettem és csitítottam lelkemet, mint az elválasztott gyermeket az anyjánál: mint az elválasztott gyermek, úgy van bennem az én lelkem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nemde"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "szelídítettem"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "és csitítottam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "mint az elválasztott gyermeket"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "az anyjánál"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az anyján"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "mint az elválasztott gyermek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "az én lelkem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.362472788Z",
+  "model": "glm-5.3"
+}

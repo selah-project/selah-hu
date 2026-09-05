@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Akkor felelt Jahve ⟨את⟩ Ijóbot a viharfelhőből, és mondta:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Akkor felelt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijóbot"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijóbot (Jób)"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "a viharfelhőből"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    }
+  ],
+  "timestamp": "2026-09-04T22:28:23.941294820Z",
+  "model": "glm-5.3"
+}

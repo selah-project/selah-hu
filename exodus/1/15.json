@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És szólt Micrajim királya a héber szülésznőknek, akiknek a neve az egyiknek Sifra, a másiknak pedig Pua —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "a szülésznőknek"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "a héber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiknek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a neve"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyiknek"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Sifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a másiknak pedig a neve"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a másik"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:41.158780803Z",
+  "model": "glm-5.3"
+}

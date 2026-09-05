@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És amikor nyomorúságba került, engesztelte ⟨את⟩ Jahvénak, az ő Elohimjának arcát, és nagyon megalázta magát atyái Elohimja színe előtt.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "És amikor nyomorúságba került"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "engesztelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve… arcát"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "az ő Elohimjának"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "és megalázta magát"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyái"
+    }
+  ],
+  "timestamp": "2026-09-04T23:23:38.375694754Z",
+  "model": "glm-5.3"
+}

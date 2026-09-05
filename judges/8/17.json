@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ⟨את⟩ Pnuel tornyát lerontotta, és megölte ⟨את⟩ a város férfiait.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Pnuel tornyát"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tornyát"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pnuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "lerontotta"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "és megölte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a város férfiait"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiait"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    }
+  ],
+  "timestamp": "2026-09-04T18:53:05.853414944Z",
+  "model": "glm-5.3"
+}

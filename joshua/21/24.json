@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ajalont és ⟨את⟩ legelőjét, ⟨את⟩ Gát-Rimmont és ⟨את⟩ legelőjét — négy várost.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalont"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjét"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gát-Rimmont"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gát-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőjét"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "legelőjét"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "várost"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    }
+  ],
+  "timestamp": "2026-09-04T18:45:36.979572147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "és ⟨את⟩ a másodikat égőáldozattá teszi a rendelet szerint; a pap engeszelést szerez neki vétkéért, amelyet elvétett, és megbocsáttatik neki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a másodikat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a másodikat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teszi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "égőáldozattá"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "a rendelet szerint"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engeszelést szerez"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "vétkéért"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "elvétett"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "és megbocsáttatik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:21.017072670Z",
+  "model": "glm-5.3"
+}

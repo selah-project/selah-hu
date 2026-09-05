@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha egy férfi megüti ⟨את⟩ szolgája szemét vagy ⟨את⟩ szolgálójának szemét, és tönkreteszi azt, szabadon bocsássa el őt az ő szeméért.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "megüti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgája szemét"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szemét"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgája"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgálójának szemét"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szemét"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "szolgálójának"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "és tönkreteszi azt"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "szabadon"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "bocsássa el őt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ért"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "az ő szeméért"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:53.450628470Z",
+  "model": "glm-5.3"
+}

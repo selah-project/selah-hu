@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És meghallgatta Shemuel (Sámuel) ⟨את⟩ az összes szót, amit a nép mondott, és elmondta azokat Jahve fülébe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "és meghallgatta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes szót, amit a nép mondott"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szót, amit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "és elmondta azokat"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "fülébe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:05:59.847918562Z",
+  "model": "glm-5.3"
+}

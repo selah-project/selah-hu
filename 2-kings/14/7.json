@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "⟨Ő⟩ lecsapott ⟨את⟩ Edomra a Sóstengerszorosában – tízezer ⟨embert⟩ –, és háborúban bevette ⟨את⟩ a Szelát, és nevét Jokteélnek nevezte, mind e mai napig.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ő⟩"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lecsapott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomra"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "a szorosban"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "a só(é)"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "és elfogta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Szelát"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "a Szela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "háborúban"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és nevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevét"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Jokteél"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mind"
+    },
+    {
+      "surface": "היום",
+      "gloss": "e napig"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:54.789500842Z",
+  "model": "glm-5.3"
+}

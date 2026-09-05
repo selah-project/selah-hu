@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És láttátok ⟨את⟩ útálataikat és ⟨את⟩ bálványaikat: fát és követ, ezüstöt és aranyat, amely velük volt.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "és láttátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "útálataikat"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "útálataikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "bálványaikat"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "bálványaikat"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fát"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "és követ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüstöt"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "és aranyat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "velük volt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:29:59.192721996Z",
+  "model": "glm-5.3"
+}

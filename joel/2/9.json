@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "A városban száguldanak, a falon futnak, a házakba felmennek, az ablakokon át bejönnek, mint a tolvaj.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "száguldanak"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "a falon"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "futnak"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "a házakba"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "felmennek"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "át"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "az ablakokon"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bejönnek"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "mint a tolvaj"
+    }
+  ],
+  "timestamp": "2026-09-04T23:44:08.035606552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Ifjú voltam, megöregedtem is, és nem láttam igazat elhagyatva, és ⟨az ő⟩ magját kenyeret kérelni.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "ifjú"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "voltam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "meg… is"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "megöregedtem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igazat"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "elhagyatva"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "és ⟨az ő⟩ magját"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "kérelni"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:58.440004031Z",
+  "model": "glm-5.3"
+}

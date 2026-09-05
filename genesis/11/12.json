@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És Arpaksad (Arpaksád) élt harmincöt évet, és nemzette ⟨את⟩ Selachot (Selah).",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "És Arpaksad (Arpaksád)"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élt"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selachot"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Selachot (Selah)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:50.428735639Z",
+  "model": "glm-5.3"
+}

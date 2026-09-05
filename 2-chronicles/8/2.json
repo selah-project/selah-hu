@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "a városokat pedig, amelyeket Hurám (Hírám) adott Selomónak, Selomo felépítette ⟨את⟩ azokat, és ott lakatta ⟨את⟩ Jiszráél (Izrael) fiait.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "a városokat pedig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Hurám"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Selomónak"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "felépítette"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "és lakatta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-05T00:00:12.369542386Z",
+  "model": "glm-5.3"
+}

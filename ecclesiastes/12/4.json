@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És bezárulnak az ajtók az utcára nézve, amikor elhalkul a malom hangja, és felkel valaki a madár szavára, és elhajolnak az ének valamennyi leányai.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "És bezárulnak"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "az ajtók"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "az utcára"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "amikor elhalkul"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "a malom"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "és felkel"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "a madár"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "és elhajolnak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "valamennyi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leányai"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "az ének"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:28.961086283Z",
+  "model": "glm-5.3"
+}

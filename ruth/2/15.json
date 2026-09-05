@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ⟨az⟩ felkelt, hogy szedegetjen, és Boáz megparancsolta ⟨את⟩ a legényeinek, mondván: a kévék közül is szedegetjen, és ne szégyenítsétek őt.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "felkelt"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "hogy szedegetjen"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "és megparancsolta"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boáz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a legényeinek"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "a legényeinek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "בין",
+      "gloss": "közül"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "a kévék"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "szedegetjen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "szégyenítsétek őt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:45.284400231Z",
+  "model": "glm-5.3"
+}

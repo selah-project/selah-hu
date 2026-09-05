@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 2:42",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És a lábak ujjai — részben vas, részben agyag —: a királyság egy része erős lesz, és egy része törékeny.",
+  "tokens": [
+    {
+      "surface": "ואצבעת",
+      "gloss": "És az ujjai"
+    },
+    {
+      "surface": "רגליא",
+      "gloss": "a lábaknak"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "részben"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "vas"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "részből"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "agyag"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "קצת",
+      "gloss": "egy része"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "a királyságnak"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "תקיפה",
+      "gloss": "erős"
+    },
+    {
+      "surface": "ומנה",
+      "gloss": "és egy részéből"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "תבירה",
+      "gloss": "törékeny"
+    }
+  ],
+  "timestamp": "2026-09-04T22:44:04.738476879Z",
+  "model": "glm-5.3"
+}

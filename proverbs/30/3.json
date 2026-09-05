@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "és nem tanultam bölcsességet, és a szentek ismeretét ⟨nem⟩ ismerem",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "tanultam"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcsességet"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "és ismeretét"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentek"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "⟨nem⟩ ismerem"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:12.252263304Z",
+  "model": "glm-5.3"
+}

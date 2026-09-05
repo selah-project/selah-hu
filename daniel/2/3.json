@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És mondta nekik a király: „Álmot álmodtam, és nyugtalanságba jött a lelkem, hogy megismerjem ⟨את⟩ az álmot.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Álmot"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "álmodtam"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "és nyugtalanságba jött"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hogy megismerjem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az álmot"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "az álmot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:42:03.509868573Z",
+  "model": "glm-5.3"
+}

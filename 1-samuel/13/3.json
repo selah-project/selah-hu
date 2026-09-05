@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És megverte Jónatán ⟨את⟩ a peliszti helyőrséget, amely Givában volt; és meghallották a pelisztiek. És Shaúl kürtöt fúvatott az egész országban, mondván: hallják meg a héberek!",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "És megverte"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a peliszti helyőrséget"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "helyőrséget"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peliszti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Givában"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "és meghallották"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelisztiek"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "És Shaúl"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "kürtöt fúvatott"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "kürttel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "országban"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hallják meg"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "a héberek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:08:31.334481146Z",
+  "model": "glm-5.3"
+}

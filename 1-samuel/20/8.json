@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 20:8",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És tégy heszedet szolgáddal, mert Jahve szövetségébe hoztad ⟨את⟩ szolgádat magaddal; ha pedig van bennem vétek, öljenek meg engem te — de miért vitesz apád elé?",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És tégy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszedet"
+    },
+    {
+      "surface": "על",
+      "gloss": "-vel"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgáddal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "szövetségébe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "hoztad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgádat"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "magaddal"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ha pedig"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vétek"
+    },
+    {
+      "surface": "המיתני",
+      "gloss": "öljenek meg engem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apád"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "תביאני",
+      "gloss": "vitesz"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:43.608334043Z",
+  "model": "glm-5.3"
+}

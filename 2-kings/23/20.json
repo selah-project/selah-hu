@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És levágta ⟨את⟩ a magaslatok összes papját, akik ott voltak az oltárokon, és elégette ⟨את⟩ embercsontokat rajtuk, és visszatért Jerusálaimba.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "és levágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "összes papot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "papját"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "a magaslatok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "על",
+      "gloss": "az oltárokon"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "oltárokon"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "és elégette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "csontokat"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontokat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember-"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "rajtuk"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálaimba"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:45.713224402Z",
+  "model": "glm-5.3"
+}

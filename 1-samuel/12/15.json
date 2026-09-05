@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ha pedig nem hallgattok Jahve szavára, és lázadtok ⟨את⟩ Jahve szája ellen, akkor lesz Jahve keze ellenetek és atyáitok ⟨ellen⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha pedig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hallgattok"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "és lázadtok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szája"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "akkor lesz"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ellenetek"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "és atyáitok ⟨ellen⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T19:07:02.828745664Z",
+  "model": "glm-5.3"
+}

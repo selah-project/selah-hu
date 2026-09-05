@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És Jaakob ellopta ⟨את⟩ Lávánnak, az aráminek a szívét, azzal, hogy nem tudatta vele, hogy ő menekül.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "és ellopta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a szívét"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lávánnak"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "az aráminak"
+    },
+    {
+      "surface": "על",
+      "gloss": "azzal"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "hogy nem"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "tudatta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "menekül"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:36.838628140Z",
+  "model": "glm-5.3"
+}

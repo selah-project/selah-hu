@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Azért íme, én elkerítem ⟨את⟩ utadat tövisekkel, és építek ⟨את⟩ kerítését, és ösvényeit nem leli meg.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "azért"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme, én"
+    },
+    {
+      "surface": "שך",
+      "gloss": "elkerítem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utadat"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "utadat"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "tövisekkel"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "és építek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerítését"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "kerítését"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "és ösvényeit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "leli meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:18:47.284141100Z",
+  "model": "glm-5.3"
+}

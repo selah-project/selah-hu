@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Csak szemeiddel nézed ⟨⟨ végig ⟩⟩, és a gonoszok jutalmát látod.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "szemeiddel"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "nézed"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "és a jutalmát"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gonoszoknak"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "látod"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:09.850663770Z",
+  "model": "glm-5.3"
+}

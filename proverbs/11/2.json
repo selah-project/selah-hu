@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Jön a gőg, és jön a szégyen, de ⟨את⟩ a szerényeké a bölcsesség.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Jön"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "a gőg"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és jön"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "a szégyen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a szerények"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "a szerények"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcsesség"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:44.330026182Z",
+  "model": "glm-5.3"
+}

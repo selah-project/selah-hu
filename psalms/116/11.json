@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Én így szóltam sietségemben: minden ember hazug.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "így szóltam"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "sietségemben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "hazug"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:54.326238991Z",
+  "model": "glm-5.3"
+}

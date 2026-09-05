@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Akkor szólt Selomó (Salamon): »Jahve ⟨azt⟩ mondta, hogy ⟨a⟩ sűrű homályban lakik.«",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Akkor"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "hogy lakik"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "⟨a⟩ sűrű homályban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:49.864452605Z",
+  "model": "glm-5.3"
+}

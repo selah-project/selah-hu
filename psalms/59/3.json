@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Ragadj ki engem az áván cselekvői kezéből, és véres emberektől szabadíts meg engem!",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ragadj ki engem"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "a cselekvői kezéből"
+    },
+    {
+      "surface": "און",
+      "gloss": "ávánnak"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "és emberektől"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "véres"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "szabadíts meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:26.373588644Z",
+  "model": "glm-5.3"
+}

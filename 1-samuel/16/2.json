@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 16:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És mondta Smuél: Hogyan menjek? Ha meghallja Saul, megöl engem. És mondta Jahve: Egy marhaborjút fogsz a kezedbe, és azt mondod: Áldozni jöttem Jahvének.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Hogyan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "menjek"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "Ha meghallja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "megöl engem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "borjút"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "marha-"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "fogsz"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "a kezedbe"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és azt mondod"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "Áldozni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jöttem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:19.293567579Z",
+  "model": "glm-5.3"
+}

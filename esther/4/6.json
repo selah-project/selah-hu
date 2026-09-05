@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És kiment Hatach Mordechájhoz, a város terére, amely a király kapuja előtt ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "És-kiment"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecháj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "terére"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a-város"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapuja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a-király"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:27.293517120Z",
+  "model": "glm-5.3"
+}

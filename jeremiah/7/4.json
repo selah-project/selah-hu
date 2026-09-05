@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ne bízzatok magatokban a hazug szavakban, mondván: Jahve temploma, Jahve temploma, Jahve temploma — ezek ⟨azok⟩!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "bízzatok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatokban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ban"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavakban"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "a hazug"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temploma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temploma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "temploma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ezek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:35:16.122969618Z",
+  "model": "glm-5.3"
+}

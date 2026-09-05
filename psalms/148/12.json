@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "Ifjak és szüzek is, vének az ifjúkkal együtt",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ifjak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és szüzek is"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "szüzek"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vének"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ifjúkkal"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:39.185593137Z",
+  "model": "glm-5.3"
+}

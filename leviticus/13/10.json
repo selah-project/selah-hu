@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És megnézi a kohen, és íme: fehér duzzanat ⟨van⟩ a bőrön, és ⟨az⟩ megfehérítette a szőrt, és élő nyers hús ⟨van⟩ a duzzanatban —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "És megnézi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "duzzanat"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "fehér"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "a bőrön"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "és ⟨az⟩"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "megfehérítette"
+    },
+    {
+      "surface": "שער",
+      "gloss": "a szőrt"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fehérre"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "és nyers hús"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hús"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "a duzzanatban"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:47.267363539Z",
+  "model": "glm-5.3"
+}

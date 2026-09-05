@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És visszafordította Jahve ⟨את⟩ Jób fogságát, amikor imádkozott ⟨az ő⟩ barátaiért; és hozzáadott Jahve ⟨את⟩ mindenhez, ami Jóbé volt, a kétszeresét.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "visszafordította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jób fogságát"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "fogságát"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jób"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "amikor imádkozott"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "érte\/értük"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "barátja"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "és hozzáadott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindenhez, ami Jóbé volt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Jóbé volt"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "a kétszeresét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:29:47.256326122Z",
+  "model": "glm-5.3"
+}

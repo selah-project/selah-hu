@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "A gonoszok színétől — ők azok, akik pusztítanak engem; ellenségeim életemre környékeznek ellenem.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "színétől"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ők azok, akik"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "pusztítanak engem"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "életemre"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "környékeznek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:09.041766194Z",
+  "model": "glm-5.3"
+}

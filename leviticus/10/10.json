@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "és hogy különbséget tegyetek ⟨között⟩ a szent és a közönséges, és a tisztátalan és a tiszta között.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "és hogy különbséget tegyetek"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "החל",
+      "gloss": "a közönséges"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "a tisztátalan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "a tiszta"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:45.071032053Z",
+  "model": "glm-5.3"
+}

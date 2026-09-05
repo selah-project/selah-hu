@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 67,
+  "translation": "Hálát adjanak néked a népek, Elohim; hálát adjanak néked a népek, mindnyájan.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Hálát adjanak néked"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "hálát adjanak néked"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:44.997992945Z",
+  "model": "glm-5.3"
+}

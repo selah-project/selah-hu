@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Joktán nemzette ⟨את⟩ Almodadot és ⟨את⟩ Selefet és ⟨את⟩ Hacarmavetet és ⟨את⟩ Jerahot.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "És Joktán"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadot"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Selefet"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Selefet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hacarmavetet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hacarmavetet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jerahot"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerahot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:48.671645523Z",
+  "model": "glm-5.3"
+}

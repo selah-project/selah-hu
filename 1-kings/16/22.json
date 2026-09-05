@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És erősebb lett az a nép, amely Omri mögött ⟨ volt ⟩, mint az a nép, amely Tivni, a ginati fia mögött; és meghalt Tivni, és király lett Omri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "És erősebb lett"
+    },
+    {
+      "surface": "העם",
+      "gloss": "az a nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mögött"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az a nép"
+    },
+    {
+      "surface": "העם",
+      "gloss": "az a népet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mögött"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "a ginati"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "és király lett"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:44.025379957Z",
+  "model": "glm-5.3"
+}

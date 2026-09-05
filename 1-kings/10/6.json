@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És mondta a királynak: „Igaz ⟨volt⟩ az ige, amelyet hallottam az én földemen, a te dolgaidról és a te bölcsességedről.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "királynak"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Igaz"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨volt⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az ige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hallottam"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "az én földemen"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "dolgaid"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és -ról"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "bölcsességed"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:52.439586319Z",
+  "model": "glm-5.3"
+}

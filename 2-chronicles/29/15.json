@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És összegyűjtötték ⟨את⟩ testvéreiket, és megszentelték magukat, és bementek a király parancsa szerint, Jahve igéi szerint, hogy megtisztítsák a Jahve házát.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "összegyűjtötték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreiket"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "testvéreiket"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "megszentelték magukat"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bementek"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "a parancsa szerint"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "az igéi szerint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "hogy megtisztítsák"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-05T00:01:53.593742158Z",
+  "model": "glm-5.3"
+}

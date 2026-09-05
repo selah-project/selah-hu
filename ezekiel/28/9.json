@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 28:9",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Talán azt mondd, s mondasz: Elohim vagyok én annak színe előtt, aki megöl téged? De te ember vagy, és nem El, annak kezében, aki megsebez téged.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "talán"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mondasz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én vagyok"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "הרגך",
+      "gloss": "aki megöl téged"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "de te"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "מחלליך",
+      "gloss": "aki megsebez téged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:08:43.026969779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Tövis és bogáncs hajt ⟨neked⟩, és eszel ⟨את⟩ a mező fűjét.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Tövis"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "és bogáncs"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "hajt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "és eszel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mező fűjét"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "fű"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:58.223041532Z",
+  "model": "glm-5.3"
+}

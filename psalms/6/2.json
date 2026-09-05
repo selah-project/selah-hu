@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Jahve, ne feddj haragodban, és ne fenyíts izzó indulatodban!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "haragodban"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "feddj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "izzó indulatodban"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "fenyíts"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:50.833433286Z",
+  "model": "glm-5.3"
+}

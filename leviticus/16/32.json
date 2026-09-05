@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És engesztelést szerezzen ⟨az⟩ a pap, akit felkentenek és akinek ⟨את⟩ a kezét megtöltik, hogy pappá legyen az ő atyja helyett; és öltsön magára ⟨את⟩ a lenruhát, a szent ruhákat.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "És engesztelést szerezzen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "felken"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "a pap"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és aki"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "megtölt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pappá"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő atyja"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "és öltsön magára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lenruhát"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruha"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "len"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruhái"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:38.043147177Z",
+  "model": "glm-5.3"
+}

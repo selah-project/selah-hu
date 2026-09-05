@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És ha azt mondják: „Él Jahve!” — bizony hazugságra esküsznek.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "חי",
+      "gloss": "él"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mondják"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "hazugságra"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "esküsznek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:33:32.314808360Z",
+  "model": "glm-5.3"
+}

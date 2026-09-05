@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És bement egészen a király kapuja elé, mert ⟨azoknak⟩ nem volt szabad bemenni a király kapujába zsákruhában.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "és bement"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapuja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem volt szabad"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bemenni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapujába"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "ruhában"
+    },
+    {
+      "surface": "שק",
+      "gloss": "zsák-"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:24.732975648Z",
+  "model": "glm-5.3"
+}

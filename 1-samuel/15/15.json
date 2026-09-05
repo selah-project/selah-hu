@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 15:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És Saul mondta: Az ámálekiektől hozták ⟨azokat⟩, mert megsajnálta a nép a juhok és a szarvasmarha java részét, hogy áldozatul ejtsünk Jahvénak, a te Elohimodnak; ⟨את⟩ a többit pedig herem alá vetettük.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מעמלקי",
+      "gloss": "Az ámálekiektől"
+    },
+    {
+      "surface": "הביאום",
+      "gloss": "hozták azokat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "megsajnálta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "java részét"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a juhnak"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "és a szarvasmarhának"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozatul ejtsünk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a többit"
+    },
+    {
+      "surface": "היותר",
+      "gloss": "a többit"
+    },
+    {
+      "surface": "החרמנו",
+      "gloss": "herem alá vetettük"
+    }
+  ],
+  "timestamp": "2026-09-04T19:10:55.274237276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Benned bíztak őseink; bíztak, és megmentetted ⟨őket⟩.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Benned"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bíztak"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "őseink"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bíztak"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "és megmentetted ⟨őket⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:04.203223127Z",
+  "model": "glm-5.3"
+}

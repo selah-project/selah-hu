@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És összehívta Samuél ⟨את⟩ a népet Jahvéhoz, a Micpába.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "összehívta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "a Micpába"
+    }
+  ],
+  "timestamp": "2026-09-04T19:06:44.850001308Z",
+  "model": "glm-5.3"
+}

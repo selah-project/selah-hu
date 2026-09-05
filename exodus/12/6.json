@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És legyen nektek őrizetben a hónapnak ezen a napján, egészen a tizennegyedik napig; és vágja le ⟨את⟩ őt Izráél gyülekezetének egész közössége az esték közt.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "őrizetben"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "négy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napjáig"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónapnak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "és vágják le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt (az állat)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezetének"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "közössége"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "בין",
+      "gloss": "közt"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "az esték"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:33.443513162Z",
+  "model": "glm-5.3"
+}

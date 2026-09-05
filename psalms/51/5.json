@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Mert vétkeimet én ismerem, és bűnöm szüntelenül ⟨van⟩ előttem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "vétkeimet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ismerem"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "és bűnöm"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:45.637973069Z",
+  "model": "glm-5.3"
+}

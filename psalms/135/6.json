@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Ami csak Jahve akarata, megcselekedte ⟨azt⟩ az egekben és a földön, a tengerekben és minden mélységekben.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ami csak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "akarata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "megcselekedte"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az egekben"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "és a földön"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a tengerekben"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "mélységekben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:02.631146524Z",
+  "model": "glm-5.3"
+}

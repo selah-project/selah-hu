@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Felettem áradtak át haragjaid, rémeid kiirtottak engem.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "felettem"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "áradtak át"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "haragjaid"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "rémeid"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "kiirtottak engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:58.777505983Z",
+  "model": "glm-5.3"
+}

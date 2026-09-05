@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 100,
+  "translation": "Szolgáljatok ⟨את⟩ Jahvét örömmel, menjetek színe elé ujjongó énekléssel!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Szolgáljatok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "örömmel"
+    },
+    {
+      "surface": "באו",
+      "gloss": "menjetek"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "színe elé"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ujjongó énekléssel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:01.456122695Z",
+  "model": "glm-5.3"
+}

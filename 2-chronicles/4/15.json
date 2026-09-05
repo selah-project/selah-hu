@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "⟨את⟩ Az egy tengert, és ⟨את⟩ a tizenkét ökröt alatta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egy tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tengert"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a tizenkét ökröt"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ökröt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "alatta"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:19.636832495Z",
+  "model": "glm-5.3"
+}

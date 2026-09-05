@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 11:25",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És mondta Dávid a követnek: Ezt mondd Joávnak: ne legyen rossz a szemedben ⟨את⟩ ez a dolog, mert így és így emészt a kard; erősítsed harcodat a város ellen, és rontsd le, és őt erősítsed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "követnek"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mondd"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joávnak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "legyen rossz"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a szemedben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ez a dolog"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a dolog"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "így"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "és így"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "emészt"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "erősítsed"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "harcodat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "והרסה",
+      "gloss": "és rontsd le"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "és őt erősítsed"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:13.435070063Z",
+  "model": "glm-5.3"
+}

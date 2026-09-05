@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És megették a sovány és rút tehenek ⟨את⟩ az első hét kövér tehenet.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "És megették"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "a tehenek"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "a sovány"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "és a rút"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az első hét kövér tehenet"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hét"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "a tehenet"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "az első"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "a kövér"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:01.172436940Z",
+  "model": "glm-5.3"
+}

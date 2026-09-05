@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És hallotta Éli ⟨את⟩ a kiáltás hangját, és mondta: Mi ⟨ez⟩ a zaj hangja? És a férfi sietve bement, és megmondta Élinek.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "És hallotta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kiáltás hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "a hangját"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "a kiáltásnak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "a hangja"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "a zajnak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "és a férfi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "sietve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bement"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és megmondta"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Élinek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:05:09.050672729Z",
+  "model": "glm-5.3"
+}

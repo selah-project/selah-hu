@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 6:17",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És könyörgött Elisa (Elizeus), és mondta: Jahve, nyisd meg kérlek ⟨את⟩ a szemeit, és lásson; és megnyitotta Jahve ⟨את⟩ a szolga szemét, és látott, és íme, a hegy tele volt lovakkal és tűz-székerekkel Elisa körül.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "könyörgött"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "nyisd meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szemeit"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "a szemeit"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "és lásson"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "és megnyitotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolga szemét"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "a szemét"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a szolga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látott"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegy"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tele volt"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "lovakkal"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "és székerekkel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "körül"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:41.057182526Z",
+  "model": "glm-5.3"
+}

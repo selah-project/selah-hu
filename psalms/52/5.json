@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Szeretted ⟨a⟩ rosszat a jó helyett, ⟨a⟩ hazugságot az igazság beszédéhez képest. Szelá.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "szeretted"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "a jó helyett"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugságot"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "beszédéhez képest"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "az igazság"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:14.696234377Z",
+  "model": "glm-5.3"
+}

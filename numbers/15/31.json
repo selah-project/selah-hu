@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 15:31",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Mert Jahve szavát megvetette, és ⟨את⟩ parancsát megtörte — kiirtatva kiírtatik az a nefes, a vétkes bűne van rajta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "megvetette"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "parancsát"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "parancsát"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "megtörte"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "kiirtatva"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kiírtatik"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "a nefes"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "vétkes"
+    },
+    {
+      "surface": "בה",
+      "gloss": "van rajta"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:02.247527090Z",
+  "model": "glm-5.3"
+}

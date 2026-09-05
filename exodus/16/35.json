@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Izrael fiai ették ⟨את⟩ a mannát negyven évig, míg beérkeztek a lakott földre; ⟨את⟩ a mannát ették, míg beérkeztek Kenáán földjének széléhez.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "és ... fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mannát"
+    },
+    {
+      "surface": "המן",
+      "gloss": "a mannát"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "באם",
+      "gloss": "beérkeztek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "helyre (jelzés: föld)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földre"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "lakott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mannát"
+    },
+    {
+      "surface": "המן",
+      "gloss": "a mannát"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ették"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "באם",
+      "gloss": "beérkeztek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "helyre (jelzés: széle)"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "széléhez"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjének"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenáán"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:30.443880796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És becsülje a pap ⟨את⟩ azt, jó és rossz között; a te becslésed szerint, pap, úgy legyen.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "És becsülje"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között (jó)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és (rossz) között"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "a te becslésed szerint"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:52.620219466Z",
+  "model": "glm-5.3"
+}

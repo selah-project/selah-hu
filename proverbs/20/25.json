@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Csapda ⟨az⟩ embernek, ha kapkodva szentet mond, és fogadások után vizsgálódni.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "Csapda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "embernek"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "ha kapkodva kimond"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "„szentet”"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és azután"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "fogadások"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "vizsgálódni"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:52.256783391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 57,
+  "translation": "Kész ⟨a⟩ szívem, Elohim, kész ⟨a⟩ szívem: éneklek és zengek!",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Kész"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kész"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "éneklek"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "és zengek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:13.436736851Z",
+  "model": "glm-5.3"
+}

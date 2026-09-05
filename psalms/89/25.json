@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "És az én hűségem és heszedem ⟨vele⟩ lesz, és a nevemben emeltetik fel az ő szarva.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "és az én hűségem"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "és heszedem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨vele⟩"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "és a nevemben"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "emeltetik fel"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "az ő szarva"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:16.036960890Z",
+  "model": "glm-5.3"
+}

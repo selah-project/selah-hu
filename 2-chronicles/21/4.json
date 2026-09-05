@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És felkelt Jehórám atyja királysága fölé, és megerősítette magát, és megölte ⟨את⟩ összes testvéreit karddal, és Izrael fejedelmei közül is ⟨némelyeket⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehórám"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "királysága"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyja"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "és megerősítette magát"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "és megölte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "összes testvéreit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreit"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "karddal"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "fejedelmei közül"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-05T00:01:10.466374458Z",
+  "model": "glm-5.3"
+}

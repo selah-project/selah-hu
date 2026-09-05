@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "Szégyenkezzenek a faragott kép szolgái mind, a bálványokban dicsekvők; boruljatok le előtte, minden istenek!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "szégyenkezzenek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "faragott kép"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "a dicsekvők"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "bálványokban"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "boruljatok le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "istenek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:13.876773432Z",
+  "model": "glm-5.3"
+}

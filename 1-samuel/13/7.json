@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És héberek átkeltek ⟨את⟩ a Jordánon, Gád és Gileád földjére; Sául pedig még Gilgálban volt, és az egész nép remegve követte őt.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "És héberek"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "átkeltek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jordánon"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jordánon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "és Gileád"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sául pedig"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "még … volt"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgálban"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "remegve"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "követte őt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:09:21.671348031Z",
+  "model": "glm-5.3"
+}

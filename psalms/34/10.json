@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Féljétek ⟨את⟩ Jahvét, az ő szentei, mert nincs híján semminek, aki őt féli.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Féljétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "az ő szentei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "híján semminek"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "aki őt féli"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:12.849171697Z",
+  "model": "glm-5.3"
+}

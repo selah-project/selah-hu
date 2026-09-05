@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Én magam megalkottam a földet, és az embert rajta teremtettem meg; én, az én kezeim feszítették ki az eget, és egész seregüknek én parancsoltam.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Én"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "megalkottam"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "és az embert"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "teremtettem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezeim"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "kifeszítették"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az eget"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "seregük"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "parancsoltam"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:10.661987916Z",
+  "model": "glm-5.3"
+}

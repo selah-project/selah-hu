@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 15:2",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Vajon felel-⟨e⟩ a bölcs szél-tudással, és tölti-⟨e⟩ a hasát keleti széllel?",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "a bölcs"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "felel"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tudással"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szél-"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "és tölti"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "keleti széllel"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "a hasát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:21:48.895335024Z",
+  "model": "glm-5.3"
+}

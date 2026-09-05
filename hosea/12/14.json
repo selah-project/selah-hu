@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És próféta által hozta fel Jahve ⟨את⟩ Jiszráélt Micrajimból (Egyiptomból), és próféta által megőriztetett.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "és próféta által"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hozta fel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélt"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "és próféta által"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "megőriztetett"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:55.639444794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Jáván fiai: Elisá, Tarsís, Kittim és Dodánim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "És fiai"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Jáván"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elisá"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "és Tarsís"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kittim"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "és Dodánim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:23.036067794Z",
+  "model": "glm-5.3"
+}

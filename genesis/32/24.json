@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És elvette őket, és átvitte őket ⟨את⟩ a patakon, és átvitte ⟨את⟩ mindazt, ami az övé volt.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "és elvette őket"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "és átvitte őket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a patakot"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "a patakot"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "és átvitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt, ami az övé volt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki volt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:41.184868096Z",
+  "model": "glm-5.3"
+}

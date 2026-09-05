@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És látták ⟨את⟩ őt Paró (a fáraó) főemberei, és dicsérték ⟨את⟩ őt Paró előtt, és az asszony elvitetett Paró házába.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "És látták"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "főemberei"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "és dicsérték"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "és elvitetett"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:16.862503616Z",
+  "model": "glm-5.3"
+}

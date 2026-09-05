@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Jahve hangja megrázza a pusztát, megrázza Jahve a Kádes pusztáját.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "megrázza"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a pusztát"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "megrázza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztáját"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kádes"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:08.734520389Z",
+  "model": "glm-5.3"
+}

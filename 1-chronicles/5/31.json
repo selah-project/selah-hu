@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És Avisúá nemzette ⟨את⟩ Bukkí-t, és Bukkí nemzette ⟨את⟩ Uzzí-t.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "és Avisúá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukkít"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukkí"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "és Bukkí"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzít"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzí"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:55.159770208Z",
+  "model": "glm-5.3"
+}

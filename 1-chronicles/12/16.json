@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ezek azok, akik átkeltek ⟨את⟩ a Jardenen az első hónapban, amikor az minden partját elöntötte, és elűzték ⟨את⟩ a völgyek egész népét keletre és nyugatra.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "הם",
+      "gloss": "azok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "átkeltek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jardent"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardenen"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "a hónapban"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "első"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és az"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "elöntötte"
+    },
+    {
+      "surface": "על",
+      "gloss": "fel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "partját"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "és elűzték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a völgyek egészét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "a völgyek"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "keletre"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "és nyugatra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:04:38.078086488Z",
+  "model": "glm-5.3"
+}

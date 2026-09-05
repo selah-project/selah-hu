@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Meggyógyítja a szív töröttjeit, és bekötözi fájdalmaikat.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Meggyógyítja"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "töröttjeit"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a szív"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "és bekötözi"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "fájdalmaikat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:23.847498838Z",
+  "model": "glm-5.3"
+}

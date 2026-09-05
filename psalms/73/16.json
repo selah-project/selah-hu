@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "És ha ezt megérteni gondolkodtam — fáradság ⟨az⟩ a szemeimben.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "és gondolkodtam"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "megérteni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fáradság"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "a szemeimben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:49.058531111Z",
+  "model": "glm-5.3"
+}

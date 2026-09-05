@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "A hegyek olvadoztak Jahve színe előtt, ez a Színai, Jahve színe előtt, Izrael Elohimja ⟨előtt⟩.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "A hegyek"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "olvadoztak"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "a Színai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael ⟨előtt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T18:50:02.923401782Z",
+  "model": "glm-5.3"
+}

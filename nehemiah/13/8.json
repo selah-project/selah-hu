@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És nagyon rosszul érintett engem, és kidobáltam ⟨את⟩ az összes edényt Tobija házából, kifelé a kamrából.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "És rosszul érintett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "engem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "és kidobáltam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes edényt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edényt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tobija"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "kifelé"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "a kamra"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:13.866237823Z",
+  "model": "glm-5.3"
+}

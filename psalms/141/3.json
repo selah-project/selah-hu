@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Adj, Jahve, őrséget szám szájára, vigyázz ajkaim kapujára.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Adj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "őrséget"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "szám szájára"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "vigyázz"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kapujára"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ajkaim"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:31.428553193Z",
+  "model": "glm-5.3"
+}

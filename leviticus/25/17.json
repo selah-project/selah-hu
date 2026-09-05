@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És el ne nyomjátok: ember ⟨את⟩ felebarátját, és féljetek Elohimjaitoktól, mert én vagyok Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "nyomjátok el"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "és féljetek"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimjaitoktól"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:46.716137705Z",
+  "model": "glm-5.3"
+}

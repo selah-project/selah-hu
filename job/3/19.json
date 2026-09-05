@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Kicsiny és nagy ⟨van⟩ ott ⟨egyenlően⟩, és a szolga szabad az urától.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "kicsiny"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "és nagy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨van⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "és a szolga"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "szabad"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "az urától"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:03.000980952Z",
+  "model": "glm-5.3"
+}

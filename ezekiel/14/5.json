@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "hogy megfogjam ⟨את⟩ Jiszráél házát az ő szívükben, akik eltávoztak tőlem gilulimjaik miatt mindnyájan.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "megfogjam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "szívükben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "eltávoztak"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "gilulimjaik miatt"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    }
+  ],
+  "timestamp": "2026-09-04T23:41:12.817912422Z",
+  "model": "glm-5.3"
+}

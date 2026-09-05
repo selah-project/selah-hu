@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Te ismered ülésemet és felkelésemet, messziről megérted ⟨a⟩ gondolatomat.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ismered"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ülesemet"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "és felkelésemet"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "megérted"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "gondolatomat"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "messziről"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:52.545908972Z",
+  "model": "glm-5.3"
+}

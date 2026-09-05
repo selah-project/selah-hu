@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És adott ⟨jelet⟩ aznap, mondván: Ez az a jel, amelyet Jahve megmondott: Íme, az oltár meghasad, és a hamu, amely rajta van, kitöltetik.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "És adott"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "aznap"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "⟨jelet⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "az a jel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "megmondott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "meghasad"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "és kitöltetik"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "a hamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta van"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:38.135829922Z",
+  "model": "glm-5.3"
+}

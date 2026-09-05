@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És vette Jahve Elohim ⟨את⟩ az embert, és elhelyezte őt az Éden kertjében, hogy művelje azt és őrizze azt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "és elhelyezte őt"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "a kertben"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Éden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "hogy művelje azt"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "és őrizze azt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:21.434764857Z",
+  "model": "glm-5.3"
+}

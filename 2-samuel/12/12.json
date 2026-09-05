@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Mert te titokban cselekedted, és én megcselekszem ⟨את⟩ ezt a dolgot egész Izráel ellenében és a nap ellenében.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "cselekedted"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "titokban"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "megcselekszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ellenében"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "és ellenében"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:30.208740925Z",
+  "model": "glm-5.3"
+}

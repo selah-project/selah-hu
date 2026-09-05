@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Elvehető-e a zsákmány a hőstől, és az igaz fogoly megszabadul-e?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "Elvehető-e"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "a hőstől"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "zsákmány"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "fogoly"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igaz"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "megszabadul-e"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:43.463360470Z",
+  "model": "glm-5.3"
+}

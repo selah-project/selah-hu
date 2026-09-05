@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 63,
+  "translation": "Mert segítségem voltál nekem, és szárnyaid árnyékában ujjongok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "היית",
+      "gloss": "voltál"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "segítségem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "és árnyékában"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "szárnyaid"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ujjongok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:11.577638497Z",
+  "model": "glm-5.3"
+}

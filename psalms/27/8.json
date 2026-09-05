@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "„Hozzád szólt szívem: »Keressétek orcámat!« ⟨את⟩ orcádat, Jahve, keresem.”",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Hozzád"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Keressétek"
+    },
+    {
+      "surface": "פני",
+      "gloss": "orcámat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orcádat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "keresem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:28.934827999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És szorongatták őket ellenségeik, és megalázkodtak az ő kezük alatt.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "és szorongatták őket"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ellenségeik"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "és megalázkodtak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kezük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:07.822984296Z",
+  "model": "glm-5.3"
+}

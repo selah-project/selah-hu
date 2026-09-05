@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És szólt Jahve a hasszátánnak: Honnét jössz? És felelt a hasszátán ⟨את⟩ Jahvét, és mondta: A földön való járkálásból, és abban való fel-alá járásból.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ellen (ez; szólt: -hez)"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "a hasszátánnak"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Honnét"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "innet\/onnan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "jössz"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "a hasszátán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "משט",
+      "gloss": "a földön való járkálásból"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "és abban való fel-alá járásból"
+    },
+    {
+      "surface": "בה",
+      "gloss": "abban"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:20.155691867Z",
+  "model": "glm-5.3"
+}

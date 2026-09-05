@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És szóltak Moshe (Mózes) felé, mondván: „Többet hoz be a nép, mint amennyi elegendő a szolgálat munkájához, amelyet Jahve meghagyott elvégezni ⟨את⟩ azt.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És szóltak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "többet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "hoz be"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "mint amennyi elegendő"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "a szolgálat"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "munkájához"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "meghagyott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "elvégezni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a munkát)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:52.552554004Z",
+  "model": "glm-5.3"
+}

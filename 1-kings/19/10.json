@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 19:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És ő ezt mondta: Buzgón buzgáltam Jahvéért, a Cevaót Elohimjáért, mert elhagyták szövetségedet Izrael fiai: ⟨את⟩ oltáraidat lerombolták, és ⟨את⟩ prófétáidat karddal megölték — és én egyedül maradtam, és keresik ⟨את⟩ életemet, hogy elvegyék.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "buzgón"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "buzgáltam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéért"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimjáért"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "a Cevaót"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "elhagyták"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "szövetségedet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltáraidat"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "oltáraidat"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "lerombolták"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "prófétáidat"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "prófétáidat"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "megölték"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "karddal"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "és maradtam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "és keresik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "életemet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "életemet"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "hogy elvegyék"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:50.646768738Z",
+  "model": "glm-5.3"
+}

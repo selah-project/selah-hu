@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 149,
+  "translation": "Örüljön Jiszráel alkotójának, Cion fiai ujjongjanak királyukban!",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Örüljön"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "alkotójának"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionnak"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ujjongjanak"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "királyukban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:55.341987008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 54,
+  "translation": "Viszatér a gonosz az ellenfeleimre; a te hűségedben irtsd ki őket.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Viszatér"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "az ellenfeleimre"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "a te hűségedben"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "irtsd ki őket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:07.388855500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Mert Jahve orrharagja miatt ⟨ez⟩ történt Jeruzsálemben és Júdában, míg ki nem vetette ⟨את⟩ őket orcájától; és fellázadt Cidkijáhu Babilónia királya ellen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "orrharagja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "történt"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jeruzsálemben"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "és Júdában"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "ki nem vetette"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "el"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "orcájától"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "és fellázadt"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáhu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilónia"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:43.548631377Z",
+  "model": "glm-5.3"
+}

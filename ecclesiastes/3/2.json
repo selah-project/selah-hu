@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Idő a születésre, és idő a meghalásra; idő az ültetésre, és idő a kiültetett kitépésére.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "a születésre"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a meghalásra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "az ültetésre"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "a … kitépésére"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "kiültetett"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:41.436116741Z",
+  "model": "glm-5.3"
+}

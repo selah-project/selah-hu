@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "és adja neked ⟨את⟩ Avraham (Ábrahám) áldását, neked és magvaddal ⟨את⟩ együtt, hogy örököld ⟨את⟩ a földet, ahol vendégként élsz, amelyet Elohim adott Avrahamnak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "és adja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham áldását"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "áldását"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "és magvaddal"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "hogy örököld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "ahol vendégként élsz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:15.886851899Z",
+  "model": "glm-5.3"
+}

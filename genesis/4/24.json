@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Mert hétszeres ⟨áll⟩ bosszú Káinért, Lámechnek pedig hetvenhétszeres.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "hétszeres"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "bosszú ⟨áll⟩"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Káinért"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "Lámechnek pedig"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "és hétszeres"
+    }
+  ],
+  "timestamp": "2026-09-05T00:24:32.195577215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "Íme, hallottuk ⟨את⟩ Efratában, megtaláltuk ⟨את⟩ Jaár mezein.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "hallottuk"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efratában"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "megtaláltuk"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "mezein"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Jaár"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.199212171Z",
+  "model": "glm-5.3"
+}

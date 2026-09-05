@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És ellepték ⟨את⟩ a szorongatóikat a vizek: egy sem maradt meg közülük.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "és ellepték"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "a szorongatóikat"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "közülük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "maradt meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:14.166422438Z",
+  "model": "glm-5.3"
+}

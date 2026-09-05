@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És a férfi, aki házasságot tör ⟨את⟩ egy férfi feleségével — aki házasságot tör ⟨את⟩ felebarátja feleségével — halállal haljon a házasságtörő és a házasságtörő asszony.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És a férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "házasságot tör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségét"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "házasságot tör"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségét"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátjának"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "a házasságtörő"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "és a házasságtörő asszony"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:22.242398009Z",
+  "model": "glm-5.3"
+}

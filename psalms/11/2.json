@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Mert íme, a gonoszok megfeszítik íjukat, nyilukat a húrra készítették, hogy sötétben lőjenek az egyenes szívűekre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "megfeszítik"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "íjukat"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "készítették"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "nyilukat"
+    },
+    {
+      "surface": "על",
+      "gloss": "re"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "a húrra"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "hogy lőjenek"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ban"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "sötét"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "az egyenes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívűekre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:26.110252337Z",
+  "model": "glm-5.3"
+}

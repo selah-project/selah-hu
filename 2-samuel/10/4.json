@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És elfogta Hanun ⟨את⟩ Dawid szolgáit, és leborotválta ⟨את⟩ szakálluk felét, és levágta ⟨את⟩ ruháikat középen, egészen a fenekükig, és elküldte őket.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És elfogta"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid szolgáit"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "és leborotválta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szakálluk felét"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "felét"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "szakálluk"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "és levágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháikat"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ruháikat"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "középen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "fenekükig"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "és elküldte őket"
+    }
+  ],
+  "timestamp": "2026-09-04T19:27:11.270036772Z",
+  "model": "glm-5.3"
+}

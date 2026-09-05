@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És a filiszteus ezt mondta Dávidnak: „Gyere ide hozzám, és odaadom ⟨את⟩ a testedet az ég madarainak és a mező állatainak.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "a filiszteus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "gyere"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "és odaadom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a testedet"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "a testedet"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "a madarainak"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "és az állatainak"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:54.831694268Z",
+  "model": "glm-5.3"
+}

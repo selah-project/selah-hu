@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És szétszórta ⟨את⟩ őket Jahve onnan az egész föld színére, és abbahagyták a város építését.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "És szétszórta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "על",
+      "gloss": "színére"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…színére"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "és abbahagyták"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "az építését"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:15.698101050Z",
+  "model": "glm-5.3"
+}

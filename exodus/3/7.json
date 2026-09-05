@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta Jahve: Látni láttam ⟨את⟩ népem nyomorúságát, amely Micrajimben ⟨van⟩, és ⟨את⟩ kiáltásukat hallottam a nyomorgatóiktól, mert ismerem fájdalmaikat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Látni"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népem nyomorúságát"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorúságát"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimben"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "kiáltásukat"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "kiáltásukat"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hallottam"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…tól"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "a nyomorgatói"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismerem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fájdalmaikat"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "fájdalmaikat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:38.713368404Z",
+  "model": "glm-5.3"
+}

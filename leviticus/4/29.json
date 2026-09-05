@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ⟨את⟩ kezét ráteszi a chatát (bűnáldozat) fejére, és ⟨את⟩ a chatátot leöli az olá (égőáldozat) helyén.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "és ráteszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejére"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a chatát"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "és leöli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a chatátot"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a chatátot"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyén"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az olá"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:48.834450655Z",
+  "model": "glm-5.3"
+}

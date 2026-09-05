@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És odaléptek, és felvitték őket köntöseikben a táboron kívülre, ahogyan beszélt Moshe (Mózes).",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "odaléptek"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "és felvitték őket"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "köntöseikben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívülre"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "a tábor"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T17:11:19.787701224Z",
+  "model": "glm-5.3"
+}

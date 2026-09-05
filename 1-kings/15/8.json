@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "és Avijám elaludt atyáival, és eltemették őt ⟨את⟩ David városában, és uralkodott Ászá (Ása), az ő fia, az ő helyén",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "és elaludt"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijám"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyáival"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "városában"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "és uralkodott"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Ászá"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyén"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:57.557674504Z",
+  "model": "glm-5.3"
+}

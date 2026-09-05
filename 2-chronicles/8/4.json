@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megépítette ⟨את⟩ Tadmort a pusztában, és ⟨את⟩ mind a raktárvárosokat, amelyeket megépített Hamatban.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "És megépítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmort"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmort"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mind a raktárvárosokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "a városokat"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "raktár"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "megépített"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "Hamatban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:59:47.577827453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Bejárták az egész országot, és kilenc hónap és húsz nap elteltével visszatértek Jerusálájimba.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "Bejárták"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "országot"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "visszatértek"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "elteltével"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "kilenc"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "hónap"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálájimba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:41.155381958Z",
+  "model": "glm-5.3"
+}

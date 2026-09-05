@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Én ⟨vagyok⟩ a férfi, aki látta ⟨a⟩ nyomorúságot a vessző alatt, haragjában.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorúságot"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "a vessző alatt"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "haragjában"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:46.707008571Z",
+  "model": "glm-5.3"
+}

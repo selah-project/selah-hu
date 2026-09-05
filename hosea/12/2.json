@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Efrajim szelet legeltet, és keleti szelet kerget; egész nap hazugságot és pusztítást szaporít; és szövetséget kötnek Asszírával (Assúrral), és olaj vitetik Micrajimba (Egyiptomba).",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "legeltet"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szelet"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "és kerget"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "keleti szelet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "hazugságot"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "és pusztítást"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "szaporít"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "és szövetséget"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asszírával"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kötnek"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "és olaj"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Micrajimba"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "vitetik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:12.828386069Z",
+  "model": "glm-5.3"
+}

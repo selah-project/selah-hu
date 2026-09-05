@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Akkor nem szégyellném ⟨magam⟩, ha tekintek minden parancsolatodra.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Akkor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "szégyellném"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ha tekintek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ra⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parancsolatodra"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:38.652746140Z",
+  "model": "glm-5.3"
+}

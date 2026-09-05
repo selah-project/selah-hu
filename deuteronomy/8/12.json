@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Hátha eszel, és jóllaksz, és jó házakat építesz, és laksz ⟨bennük⟩.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "hátha"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eszel"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "és jóllaksz"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "és házakat"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "jó"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "építesz"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "és laksz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:23.133798690Z",
+  "model": "glm-5.3"
+}

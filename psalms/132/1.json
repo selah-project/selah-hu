@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "Zsoltár a lépcsők felől. Emlékezz meg, Jahve, Davidért ⟨את⟩ minden gyötrődéséről.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Zsoltár"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a lépcsők felől"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Emlékezz meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidért"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden gyötrődéséről"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "gyötrődéséről"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:38.348051261Z",
+  "model": "glm-5.3"
+}

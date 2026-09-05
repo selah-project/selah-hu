@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És egybegyűltek a királyhoz Izrael minden férfia, az ünnepen — ⟨ez⟩ a hetedik hónap.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "És egybegyűltek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "az ünnepen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "hónap"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "hetedik"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:52.060004755Z",
+  "model": "glm-5.3"
+}

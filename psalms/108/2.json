@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Kész ⟨az⟩ én szívem, Elohim: éneklek, sőt zsoltározom, még dicsőségem is.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Kész"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "⟨az⟩ én szívem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "éneklek"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "sőt zsoltározom"
+    },
+    {
+      "surface": "אף",
+      "gloss": "még"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "dicsőségem is"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:13.402126552Z",
+  "model": "glm-5.3"
+}

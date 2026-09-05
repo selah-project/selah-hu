@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És megparancsolta Moshe (Mózes) ⟨את⟩ a népnek azon a napon, mondván:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "azon a napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:14.786902642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Sétál-e ketten együtt, ha nem beszélték meg?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Sétál-e"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ketten"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ha nem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "beszélték meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:24:17.096019654Z",
+  "model": "glm-5.3"
+}

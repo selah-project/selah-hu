@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És irigykedtek Moshéra (Mózesre) a táborban, Áhárónra, Jahve szentjére.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "És irigykedtek"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshéra"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a táborban"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Áhárónra"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szentjére"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:30.714913194Z",
+  "model": "glm-5.3"
+}

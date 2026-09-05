@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 18:15",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Mindaz, ami méhet nyit meg, minden hús közül, amelyet Jahvénak áldoznak, emberben és állatban, a tiéd lesz; csakhogy az embert elsőszülöttként ⟨את⟩ váltsd ki, és a tisztátalan állat elsőszülöttjét ⟨את⟩ váltsd ki.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Mindaz"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "amit kinyit"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "méhet"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hús"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "közül, amelyet"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "áldoznak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "emberben"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "és állatban"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a tiéd"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csakhogy"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "váltsd"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ember elsőszülöttjét"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "elsőszülöttként"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a tisztátalan állat elsőszülöttjét"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "elsőszülöttjét"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "állat"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "tisztátalan"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "váltsd ki"
+    }
+  ],
+  "timestamp": "2026-09-04T17:38:07.808094220Z",
+  "model": "glm-5.3"
+}

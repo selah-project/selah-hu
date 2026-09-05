@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "Annak, aki nagy világítótesteket teremtett, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "aki teremtette"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "világítótesteket"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:34.959639906Z",
+  "model": "glm-5.3"
+}

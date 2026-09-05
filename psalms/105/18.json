@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Bilinccsel gyötörték ⟨az⟩ ő lábait, vas érkezett ⟨az⟩ ő lélekzetébe.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "gyötörték"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "bilinccsel"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lábaits"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vas"
+    },
+    {
+      "surface": "באה",
+      "gloss": "érkezett"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lélekzetébe"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:01.908675814Z",
+  "model": "glm-5.3"
+}

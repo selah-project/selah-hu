@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "és felfuvalkodjék a szíved, és elfelejtsd ⟨את⟩ Jahvét, az Elohimodat, aki kivezetett Micrajim (Egyiptom) földjéről, a szolgák házából,",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "és felfuvalkodjék"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "a szíved"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "és elfelejtsd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "az Elohimodat"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "aki kivezetett"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "a házából"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgák"
+    }
+  ],
+  "timestamp": "2026-09-05T00:14:33.432499739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Azért, mert nem jöttek elétek kenyérrel és vízzel az úton, amikor kijöttetek Micrajimból (Egyiptomból), és mert felbérelt ellened Bilámot (Bálám), Beór fiát, Ptórból, Arám-Naharájimból, hogy megátkozzon téged.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amiatt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "jöttek elétek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "kenyérrel és vízzel"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "kenyérrel"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "és vízzel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "amikor kijöttetek"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból (Egyiptomból)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és mert"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "felbérelt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilámot"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilámot (Bálám)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beór"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "Ptórból"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharájimból"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "hogy megátkozzon téged"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:08.209688929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És történt paráználkodásának könnyelműségétől, hogy megfertőztette ⟨את⟩ a földet, és házasságtörést követett el ⟨את⟩ a kővel és ⟨את⟩ a fával.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "könnyelműségétől"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "paráználkodásának"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "megfertőztette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "házasságtörést követett el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kővel"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "a kővel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fával"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fával"
+    }
+  ],
+  "timestamp": "2026-09-04T20:32:59.778751603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta Jahve hozzám: Ne félj tőle ⟨את⟩, mert a kezedbe adtam ⟨את⟩ őt, és ⟨את⟩ egész népét, és ⟨את⟩ földjét, és cselekszel vele úgy, ahogy cselekedted Szichónnal, az emori királlyal, aki Hesbonban lakik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "félj"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tőle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "a kezedbe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész népét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "földjét"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és cselekszel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "cselekedted"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Szichónnal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "lakik"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Hesbonban"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:16.419365489Z",
+  "model": "glm-5.3"
+}

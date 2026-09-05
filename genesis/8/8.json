@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És elküldte ⟨את⟩ a galambot magától ⟨את⟩, hogy meglássa: enyhültek-e a vizek a föld színéről.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a galambot"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "a galambot"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ magától"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy meglássa"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "enyhültek-e"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színéről"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:10.009525001Z",
+  "model": "glm-5.3"
+}

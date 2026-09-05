@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "„Ne nyúljatok Mashiahjaimhoz, és prófétáimnak ne rontsatok!”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nyúljatok"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Mashiahjaimhoz"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "és prófétáimnak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "rontsatok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:03.272490711Z",
+  "model": "glm-5.3"
+}

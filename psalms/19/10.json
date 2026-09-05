@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Jahve félelme tiszta, megáll ⟨örökre⟩; Jahve ítéletei igazságok, igazak együttesen.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "félelme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "megáll"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "⟨örökre⟩"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ítéletei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "igazságok"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "igazak"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együttesen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:02.342955988Z",
+  "model": "glm-5.3"
+}

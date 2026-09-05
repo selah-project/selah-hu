@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Csalástól és erőszaktól váltja meg lelküket, és drága ⟨van⟩ a vérük az ő szemeiben.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "Csalástól"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "és erőszaktól"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "váltja meg"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lelküket",
+      "marks": "lelküket"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "és drága"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "a vérük"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "az ő szemeiben"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.204244072Z",
+  "model": "glm-5.3"
+}

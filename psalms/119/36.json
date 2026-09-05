@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Hajlítsd szívemet bizonyságaid felé, és ne a haszonvágy felé.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Hajlítsd"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bizonyságaid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "a haszonvágy"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:39.923616409Z",
+  "model": "glm-5.3"
+}

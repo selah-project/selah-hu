@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Mikor műveled ⟨את⟩ a földet, nem fogja többé erejét adni neked; nyugtalan bujgáló és csavargó leszel a földön.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mikor"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "műveled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "többé"
+    },
+    {
+      "surface": "תת",
+      "gloss": "adni"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "erejét"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "נע",
+      "gloss": "nyugtalan bujgáló"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "és csavargó"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "leszel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:30.902653244Z",
+  "model": "glm-5.3"
+}

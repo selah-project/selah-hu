@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Bizony képmásban jár az ember, bizony párául háborog; gyűjtöget, és nem tudja, ki gyűjti össze azokat.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "képmásban"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "jár"
+    },
+    {
+      "surface": "איש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "párául"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "háborog"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "gyűjtöget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "gyűjti össze azokat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:29.502671960Z",
+  "model": "glm-5.3"
+}

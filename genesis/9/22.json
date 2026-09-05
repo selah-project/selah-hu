@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És látta Cham (Kám), Kenaan (Kánaán) apja, ⟨את⟩ apja meztelenségét, és megmondta két testvérének kint.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham (Kám)"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apja"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan (Kánaán)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apja meztelenségét"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "meztelenségét"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apja"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és megmondta"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "két testvérének"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "két testvérének"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "kint"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:51.542703767Z",
+  "model": "glm-5.3"
+}

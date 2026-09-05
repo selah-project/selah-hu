@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És ⟨ha⟩ egy ember sérlést okoz felebarátjában: ahogyan tett, úgy tegyék vele ⟨vissza⟩.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ha⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "okoz"
+    },
+    {
+      "surface": "מום",
+      "gloss": "sérlést"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "felebarátjában"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tegyék"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:59.513790069Z",
+  "model": "glm-5.3"
+}

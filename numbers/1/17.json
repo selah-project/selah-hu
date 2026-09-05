@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És vette Moshe (Mózes) és Aharon ⟨את⟩ az e férfiakat, akik név szerint megjelöltettek.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az e férfiakat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az e férfiakat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "megjelöltettek"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "név szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:08.777610405Z",
+  "model": "glm-5.3"
+}

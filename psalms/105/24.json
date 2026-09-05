@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "És Elohim nagyon megsokasította ⟨את⟩ népét, és hatalmasabbá tette ⟨azt⟩ ellenségeinél.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "és megsokasította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népét"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "és hatalmasabbá tette"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "ellenségeinél"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:08.662627098Z",
+  "model": "glm-5.3"
+}

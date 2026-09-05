@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "„És most egy kérést kérek ⟨את⟩ tőled: ne fordítsd el ⟨את⟩ az arcomat.” És ⟨ő⟩ mondta neki: „Szólj.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "kérést"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kérek"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ tőled"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "fordítsd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az arcomat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az arcomat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és ⟨ő⟩ mondta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Szólj"
+    }
+  ],
+  "timestamp": "2026-09-04T19:36:43.923318715Z",
+  "model": "glm-5.3"
+}

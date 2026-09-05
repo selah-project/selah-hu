@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És elhagyta őt; akkor mondta: véres vő ⟨az⟩, a körülmetélések miatt.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "és elhagyta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "vő"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "véres"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "a körülmetélések miatt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:55.620736783Z",
+  "model": "glm-5.3"
+}

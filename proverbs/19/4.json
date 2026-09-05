@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "A vagyon sok barátot szerez, a szegény azonban az ő barátjától elválik.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "a vagyon"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "szerez"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "barátokat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "a szegény azonban"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "az ő barátjától"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "elválik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:55.607732462Z",
+  "model": "glm-5.3"
+}

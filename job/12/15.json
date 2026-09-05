@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Íme, visszatartja ⟨את⟩ a vizeket, és ⟨azok⟩ kiszáradnak; de ha kiengedi ⟨את⟩ azokat, és ⟨azok⟩ felforgatják ⟨את⟩ a földet.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "visszatartja"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a vizeket"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "és kiszáradnak"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "de ha kiengedi azokat"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "és felforgatják"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.212662215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Jóvoltod bőséges emlékezetét kiárasztják, és igazságodról énekelnek.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "emlékezetét"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bőséges"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "jóvoltodnak"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "kiárasztják"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "és igazságodról"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "énekelnek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:58.502173797Z",
+  "model": "glm-5.3"
+}

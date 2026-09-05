@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 3:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És odavíván a selámim-áldozatból tűzáldozatot Jahvénak: annak zsírját, a farkat egészen, a gerinccsel átellenben távolítja el, és ⟨את⟩ a zsírt, amely bevonja ⟨את⟩ a belső részeket, és ⟨את⟩ minden zsírt, amely a belső részeken van.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "és odavíván"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "áldozatából"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "a selámimnak"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozatot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "annak zsírját"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "a farkat"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "átellenben"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "a gerinccsel"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "távolítja el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "amely bevonja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a belső részeket"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a belső részeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minden zsírt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "zsírt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a belső részeken van"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:47.961303905Z",
+  "model": "glm-5.3"
+}

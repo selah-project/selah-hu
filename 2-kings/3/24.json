@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És bementek Jiszráel táborába, és felkelt Jiszráel, és megütötte ⟨את⟩ Moábot, és elfutottak előlük; és behatoltak ⟨abba⟩, és verték ⟨את⟩ Moábot.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "és bementek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "be"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "táborába"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és megütötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moábot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábot"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "és elfutottak"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "előlük"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "és behatoltak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨abba⟩"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "és verték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moábot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábot"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:18.336194698Z",
+  "model": "glm-5.3"
+}

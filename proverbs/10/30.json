@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Az igaz mindörökké nem inog meg, és a gonoszok nem laknak ⟨a⟩ földön.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Az igaz"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mindörökké"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "inog meg"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "és a gonoszok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "laknak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨a⟩ földön"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:13.873700320Z",
+  "model": "glm-5.3"
+}

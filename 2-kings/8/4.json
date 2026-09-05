@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "A király pedig beszélgetett Gejházival (Géhazi), az Elohim emberének szolgájával, ezt mondván: Számold el nekem, kérlek, ⟨את⟩ mindent, a nagy tetteket, amelyeket Elisá tett.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "a király pedig"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "beszélgetett"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Gejházival"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gejházi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "szolgájával"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ezt mondván"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "számold el"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "a nagy tetteket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisá"
+    }
+  ],
+  "timestamp": "2026-09-04T19:56:29.153299603Z",
+  "model": "glm-5.3"
+}

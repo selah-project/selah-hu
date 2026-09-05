@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Csak ne számoltassék el velük ⟨את⟩ az az ezüst, amely kezükre adatott, mert hűséggel cselekszenek ők.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "számoltassék el"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "velük"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "az ezüstöt"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "amely adatott"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kehrében⟩"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kezükre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "hűséggel"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ők"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "cselekszenek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:35:34.018367988Z",
+  "model": "glm-5.3"
+}

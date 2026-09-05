@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Jaakov (Jákob) pedig hallotta, hogy megfertőztette ⟨את⟩ Dínát, a leányát — &&fiai pedig a jószágával voltak a mezőn —, és Jaakov hallgatott, míg meg nem jöttek.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Jaakov pedig"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallotta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "megfertőztette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dínát"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dínát"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "a leányát"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "a jószágával"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "és hallgatott"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "באם",
+      "gloss": "meg nem jöttek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:55.528503633Z",
+  "model": "glm-5.3"
+}

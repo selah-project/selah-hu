@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És kiűzte ⟨את⟩ az embert, és lakatott keleten, az Éden kertje előtt ⟨את⟩ a kerúbokat és ⟨את⟩ a lángoló kardot, amely ide-oda fordul, hogy őrizze ⟨את⟩ az élet fájának az útját.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "És kiűzte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "és lakatott"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "keleten"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "a kertje előtt"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "az Éden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kerúbokat"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "a kerúbok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lángoló kardot"
+    },
+    {
+      "surface": "להט",
+      "gloss": "lángoló"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "amely ide-oda fordul"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hogy őrizze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az útját"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "az útját"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "a fájának"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az élet"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:40.532556304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Itatják a mező minden állatát, a vad szamarak törik szomjukat.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "Itatják"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "állatát"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "törik"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "a vad szamarak"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "szomjukat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:43.286801586Z",
+  "model": "glm-5.3"
+}

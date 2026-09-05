@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És történt, amint meghallotta Básá, abbahagyta Rámá építését, és Tirczában lakott.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "amint meghallotta"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Básá"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "abbahagyta"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "építését"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rámá"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rámá"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és lakott"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirczában"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:40.139296992Z",
+  "model": "glm-5.3"
+}

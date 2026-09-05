@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Ifjúságom vétkeit és bűneimet ne emlékezd meg; heszed-ed szerint emlékezz meg rólam, te, jóságodért, Jahve.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "vétkeit"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "ifjúságom"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "és bűneimet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "emlékezd meg"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "heszed-ed szerint"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "emlékezz meg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rólam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jóságodért"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "jóságod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:58.077813350Z",
+  "model": "glm-5.3"
+}

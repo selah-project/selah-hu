@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ezek ⟨a⟩ nemzetségei Noach (Noé) fiainak: Sem, Cham és Jáfet; és születtek nekik fiak a vízözön után.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "És ezek"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nemzetségei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach (Noé)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "és Jáfet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "és születtek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "után"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "a vízözön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:23.035552742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És szólt velük ⟨את⟩, mondván: ha van ⟨az⟩ ⟨את⟩ lelketekben, hogy eltemessem ⟨את⟩ halottamat színem elől, hallgassatok meg engem, és járjatok közben értem Efronnál, Cohar fiánál.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ velük"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelketekben"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "lelketekben"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "eltemetni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halottamat"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "halottamat"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színem elől"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "hallgassatok meg"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "és járjatok közben"
+    },
+    {
+      "surface": "לי",
+      "gloss": "értem"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "Efronnál"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Cohar"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:03.678574220Z",
+  "model": "glm-5.3"
+}

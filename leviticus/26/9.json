@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És hozzátok fordulok, és gyümölcsössé teszlek ⟨את⟩ titeket, és megsokasítalak ⟨את⟩ titeket, és felállok szövetségemet ⟨את⟩ veletek.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "és hozzátok fordulok"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "felétek"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "és gyümölcsössé teszlek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "és megsokasítalak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "és felállok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemet"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:02.530482946Z",
+  "model": "glm-5.3"
+}

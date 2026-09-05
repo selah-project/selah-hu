@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És irigyelték őt testvérei, de az apja megőrizte ⟨את⟩ a dolgot.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "és irigyelték"
+    },
+    {
+      "surface": "בו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérei"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "de az apja"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "megőrizte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a dolgot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:42.456611291Z",
+  "model": "glm-5.3"
+}

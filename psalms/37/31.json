@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Az ő Elohimjának Torája ⟨van⟩ a szívében; léptei nem tántorodnak.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torája"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimjának"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "a szívében"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "tántorodnak"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "léptei"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:58.318552707Z",
+  "model": "glm-5.3"
+}

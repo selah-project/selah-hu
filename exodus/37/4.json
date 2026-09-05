@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És megcsinálta a rúdakat sittimfából, és bevonatta ⟨את⟩ őket arannyal.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcsinálta"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "a rúdakat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "és bevonatta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:09.688065123Z",
+  "model": "glm-5.3"
+}

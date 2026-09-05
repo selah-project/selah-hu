@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És vesz a kohen (pap) a véréből ujjával, és ráteszi az olá oltárának szarvaira, és ⟨את⟩ annak minden vérét kitönti az oltár alapjára.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "és vesz"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "a véréből"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ujjával"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és ráteszi"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "szarvaira"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárának"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az olá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak minden vérét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "kitönti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "alapjára"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:48.834702733Z",
+  "model": "glm-5.3"
+}

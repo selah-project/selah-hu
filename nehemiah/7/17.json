@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Az Azgád fiai: kétezer-háromszáz-huszonkettő.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Azgád"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kétezer"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "háromszáz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(száz)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "huszon"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "kettő"
+    }
+  ],
+  "timestamp": "2026-09-04T22:54:58.593859770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "De te — halandó, velem egyrangú, bizalmasom és ismerősöm!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "De te"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "halandó"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "velem egyrangú"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "bizalmasom"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "és ismerősöm"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:03.884658010Z",
+  "model": "glm-5.3"
+}

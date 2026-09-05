@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 58:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "Nem-e ⟨az⟩, hogy megtörd ⟨a⟩ kenyeredet ⟨az⟩ éhezővel, és ⟨a⟩ nyomorult, kitaszított ⟨embereket⟩ házadba vezesd? Mert ha látsz ⟨egy⟩ meztelt, betakarod őt, és ⟨a⟩ te testedtől nem rejtőzöl el?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "nem-e"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "megtörd"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "éhezővel"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "kenyeredet"
+    },
+    {
+      "surface": "ועניים",
+      "gloss": "és nyomorult"
+    },
+    {
+      "surface": "מרודים",
+      "gloss": "kitaszított"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "vezesd"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házadba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "látsz"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "meztelt"
+    },
+    {
+      "surface": "וכסיתו",
+      "gloss": "betakarod őt"
+    },
+    {
+      "surface": "ומבשרך",
+      "gloss": "és testedtől"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "rejtőzöl el"
+    }
+  ],
+  "timestamp": "2026-09-04T20:29:14.128157586Z",
+  "model": "glm-5.3"
+}

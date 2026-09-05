@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "midőn kevés számban való férfiak voltak, sőt alig néhányan, és jövevények abban ⟨a földben⟩.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "midőn voltak"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "férfiak"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "számban valók"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "alig néhányan"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "és jövevények"
+    },
+    {
+      "surface": "בה",
+      "gloss": "abban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:38.642279737Z",
+  "model": "glm-5.3"
+}

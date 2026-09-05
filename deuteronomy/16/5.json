@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Nem leszel képes ⟨את⟩ a péskát levágni egyetlen kapudban sem, amelyet Jahve, a te Elohimod ad neked.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "leszel képes"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "levágni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a péskát"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "a péskát"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "egyetlen"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "kapudban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:31.614609080Z",
+  "model": "glm-5.3"
+}

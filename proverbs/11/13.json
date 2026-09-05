@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Rágalmazóként járuló felfedi a szódot, de a hű lélek elfedi az ügyet.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "járuló"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "rágalmazóként"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "felfedi"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "a szódot"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "de hű"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "elfedi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "az ügyet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:50.419931766Z",
+  "model": "glm-5.3"
+}

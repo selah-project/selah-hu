@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Szégyenüljenek meg és piruljanak el, akik életemet keresik; forduljanak hátra és vesszenek zavarba, akik rosszat terveznek ellenem.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "szégyenüljenek meg"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "és piruljanak el"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "akik keresik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "életemet"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "forduljanak vissza"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátra"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "és vesszenek zavarba"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "akik terveznek"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "rosszat ellenem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:54.689051402Z",
+  "model": "glm-5.3"
+}

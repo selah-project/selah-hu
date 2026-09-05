@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Hanem az ő gyönyörűsége Jahve Torájában (Törvényében), és az ő Torájáról gondolkodik nappal és éjjel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "… Torájában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "az ő gyönyörűsége"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "és az ő Torájáról"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "gondolkodik"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és éjjel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:37:07.728097560Z",
+  "model": "glm-5.3"
+}

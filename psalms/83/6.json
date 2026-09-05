@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Mert tanácskoztak szív szerint együtt, ellened szövetséget vágnak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "tanácskoztak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szív"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "vágnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:50.264005985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha férfiak veszekednek, és egy férfi megüti ⟨את⟩ felebarátját kővel vagy ököllel, és nem hal meg, de nyugágyra esik —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "veszekednek"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "férfiak"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "és megüti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kővel"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ököllel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "de esik"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "nyugágyra"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:29.665604543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És megáldotta Elohim ⟨את⟩ a hetedik napot, és megszentelte ⟨את⟩ ⟨őt⟩, mert ⟨abban⟩ pihent meg minden munkájától, amelyet teremtett Elohim ⟨azért, hogy elkészítse⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "És megáldotta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hetedik napot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napot"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a hetedik"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "és megszentelte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨őt⟩",
+      "marks": "⟨őt⟩ — a hetedik nap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨abban⟩"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "pihent meg"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden…-tól"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "munkájától"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "teremtett"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨azért, hogy elkészítse⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:58.769544551Z",
+  "model": "glm-5.3"
+}

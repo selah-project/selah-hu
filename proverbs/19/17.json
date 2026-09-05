@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Aki kölcsönöz Jahvénak, az kegyelmez ⟨a⟩ szegénynek, és annak jótettét megfizeti neki.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "Aki kölcsönöz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "kegyelmez"
+    },
+    {
+      "surface": "דל",
+      "gloss": "a szegénynek"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "és annak jótettét"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "megfizeti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:19.107065502Z",
+  "model": "glm-5.3"
+}

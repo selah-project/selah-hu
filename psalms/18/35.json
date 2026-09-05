@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Tanítja kezeimet a harcra, és lenyomtattatott réz-íj ⟨az én⟩ karjaim által.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Tanítja"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezeimet"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "a harcra"
+    },
+    {
+      "surface": "וונחתה",
+      "gloss": "és lenyomtattatott"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "íj"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "réz"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "karjaim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:32.065949843Z",
+  "model": "glm-5.3"
+}

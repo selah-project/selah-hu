@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 54,
+  "translation": "Elohim, a te nevedben ments meg engem, és a te hatalmaddal ítélj meg engem.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "a te nevedben"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ments meg engem"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "és a te hatalmaddal"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ítélj meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:44.113217752Z",
+  "model": "glm-5.3"
+}

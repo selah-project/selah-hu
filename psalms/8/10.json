@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Jahve, Adonájunk, mily hatalmas ⟨a⟩ Neved az egész földön!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonájunk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mily"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Neved"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:09.852543728Z",
+  "model": "glm-5.3"
+}

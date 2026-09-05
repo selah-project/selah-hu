@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És távolítsa el ⟨את⟩ a begyét annak tollastul, és eldobja ⟨את⟩ ⟨azt⟩ az oltár mellé, kelet felé, a hamu helyére.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "és távolítsa el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a begyét"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "a begyét"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "tollastul"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "és eldobja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "az oltár mellé"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "az oltár mellé"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kelet felé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a … helyére"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "hely"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "a hamué"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:37.489689312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Le vagyok sújtva, mint a fű, és elhervadt a szívem, mert elfelejtettem enni a kenyéremet.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "le vagyok sújtva"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "mint a fű"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "és elhervadt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "a szívem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "elfelejtettem"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "enni"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "a kenyéremet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:28.342724369Z",
+  "model": "glm-5.3"
+}

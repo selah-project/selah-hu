@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És adta neki Akis azon a napon ⟨את⟩ Ciklagot; azért lett Ciklag a Jehúda királyaié e napig.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És adta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "azon a napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciklagot"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklagot"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "azért"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklag"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "a királyaié"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napig"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-09-04T19:18:38.658332317Z",
+  "model": "glm-5.3"
+}

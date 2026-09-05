@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És lőn, az ő uralkodásában, mikor trónjára ült, levágta ⟨את⟩ Baasa egész házát: nem hagyott neki férfiembert sem, se rokonát, se barátját.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lőn"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "az ő uralkodásában"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "mikor ült"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trónjá"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "levágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baasa egész házát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hagyott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "férfiembert"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "se rokonát"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "se barátját"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:28.084166502Z",
+  "model": "glm-5.3"
+}

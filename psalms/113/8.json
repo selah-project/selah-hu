@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 113,
+  "translation": "hogy ⟨a⟩ nemessel együtt ültesse, népe nemesei közé.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "hogy ültesse"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "a nemessel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "közé"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "nemesei"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népe"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:19.936844593Z",
+  "model": "glm-5.3"
+}

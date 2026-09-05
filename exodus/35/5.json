@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Vegyetek magatok közül ⟨את⟩ felajánlást Jahvénak; minden nagylelkű szívű hozza ⟨את⟩ Jahve felajánlását: aranyat, ezüstöt és rézöt.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Vegyetek"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ magatok közül",
+      "marks": "magatok közül"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "felajánlást"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "nagylelkű"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szívű"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "hozza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve felajánlását"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "felajánlását"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyat"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "és ezüstöt"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "és rézöt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:32.275189066Z",
+  "model": "glm-5.3"
+}

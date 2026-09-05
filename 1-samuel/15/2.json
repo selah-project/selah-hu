@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Így szólt Jahve Cevaót: meglátogattam ⟨את⟩, amit Amálek tett Izráelnek, amikor útjába állt neki az úton, mikor az fölmenni készült Micrajimból.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "meglátogattam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit Amálek tett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izráelnek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "útjába állt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "mikor fölmegy"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:20.646747850Z",
+  "model": "glm-5.3"
+}

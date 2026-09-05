@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És történt, amikor megöregedett Semuël (Sámuel), hogy fölállította ⟨את⟩ fiait bírákká Izráel számára.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "megöregedett"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "hogy fölállította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "bírákká"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izráel számára"
+    }
+  ],
+  "timestamp": "2026-09-04T19:06:33.058279547Z",
+  "model": "glm-5.3"
+}

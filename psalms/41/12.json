@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Erről tudom, hogy kedvelsz engem, mert ellenségem nem diadalkodik fölöttem.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "erről"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "kedvelsz"
+    },
+    {
+      "surface": "בי",
+      "gloss": "engem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "diadalkodik"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fölöttem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:45.038474562Z",
+  "model": "glm-5.3"
+}

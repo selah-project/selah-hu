@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Örökségül kaptam a te bizonyságaidat örökre, mert szívem örvendezése ők ⟨azok⟩.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "Örökségül kaptam"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "a te bizonyságaidat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "örvendezése"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők ⟨azok⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:02.755391490Z",
+  "model": "glm-5.3"
+}

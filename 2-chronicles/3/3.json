@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ezek ⟨az⟩ alapok, amelyeket Shelomó fektetett le ⟨את⟩ az Elohim házának építéséhez: a hosszúság — könyökben, az első mérték szerint — hatvan könyök, és a szélesség húsz könyök.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "És ezek"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "alapokat fektetett"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomó"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "építéséhez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohim háza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "a hosszúság"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyökben"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "mérték szerint"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "az első"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "hatvan"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "és a szélesség"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:29.877780108Z",
+  "model": "glm-5.3"
+}

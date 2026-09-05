@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És küldök követőt előtted, és kiűzöm ⟨את⟩ a kenaánit, az emórit, a hittit és a perizzit, a hivvit és a jebuszit.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "És küldök"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "követőt"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "és kiűzöm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kenaánit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a kenaánit"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emórit"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "a hittit"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "a perizzit"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "a hivvit"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "a jebuszit"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:29.454928167Z",
+  "model": "glm-5.3"
+}

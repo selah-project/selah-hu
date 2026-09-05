@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Mert ⟨את⟩ azzal, aki itt van velünk, áll ma Jahve, a mi Elohimunk színe előtt, és ⟨את⟩ azzal is, aki nincs itt velünk ma —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azzal, aki itt van velünk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "van"
+    },
+    {
+      "surface": "פה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "áll"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "és ⟨את⟩",
+      "marks": "azzal is, aki nincs itt velünk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "פה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-05T00:27:25.097792068Z",
+  "model": "glm-5.3"
+}

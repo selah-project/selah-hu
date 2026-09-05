@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Számad elbeszéli igazságodat, ⟨egész⟩ napon át szabadításodat, mert nem ismerem megszámlálásukat.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Számad"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "elbeszéli"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "igazságodat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "szabadításodat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismerem"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "megszámlálásukat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:09.273410536Z",
+  "model": "glm-5.3"
+}

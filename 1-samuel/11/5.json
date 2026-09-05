@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És íme, Saul (Sául) jött a marha után a mezőről, és Saul azt mondta: „Mi ⟨van⟩ a néppel, hogy sír?” És elmesélték neki ⟨את⟩ a Javes (Jábés) férfiainak szavait.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a marha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és azt mondta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a néppel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "sírnak"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "és elmesélték"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Javes férfiainak szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiainak"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javes"
+    }
+  ],
+  "timestamp": "2026-09-04T19:07:48.785189373Z",
+  "model": "glm-5.3"
+}

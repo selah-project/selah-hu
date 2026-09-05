@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Elohim, szentségben ⟨van⟩ utad; ki ⟨az⟩ El, olyan nagy, mint ⟨az⟩ Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "szentségben"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "utad"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "mint Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:34.373727011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És mondtam a maláknak, aki beszélt bennem: Hová viszik ⟨azt⟩ ⟨את⟩ az éfát?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "és mondtam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "a malák"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "aki beszélt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hová"
+    },
+    {
+      "surface": "המה",
+      "gloss": "azok"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "viszik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az éfát"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "az éfát"
+    }
+  ],
+  "timestamp": "2026-09-04T21:31:54.346976685Z",
+  "model": "glm-5.3"
+}

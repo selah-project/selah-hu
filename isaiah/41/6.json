@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Ember ⟨את⟩ felebarátját segíti, és testvérének mondja: légy erős!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "segíti"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "és testvérének"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "légy erős"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:00.710120631Z",
+  "model": "glm-5.3"
+}

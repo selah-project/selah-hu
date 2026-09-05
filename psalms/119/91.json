@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A te rendeleteid szerint állnak e napon is, mert minden a te szolgáid.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "A te rendeleteid szerint"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "állnak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "e napon is"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "a te szolgáid"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:38.151976049Z",
+  "model": "glm-5.3"
+}

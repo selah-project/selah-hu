@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Te ⟨vagy⟩ ⟨az⟩ El, aki csodákat cselekszik; megismertetted a népekkel erődet.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨az⟩ El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "csodákat"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "megismertetted"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "a népekkel"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "erődet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:34.373936412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És füstölővé tegyék ⟨את⟩ azt Ahárón (Áron) fiai az oltáron, az égőáldozaton, amely a fákon van, amely a tűzön van — tűzáldozatul, megnyugtató illatul Jahvénak.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "És füstölővé tegyék"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (az áldozat zsírját)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárón (Áron)"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "על",
+      "gloss": "azon"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta van"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "a fákon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta van"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűzön"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozatul"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "illatul"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "megnyugtató"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:38.946389718Z",
+  "model": "glm-5.3"
+}

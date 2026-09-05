@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És visszahozom ⟨את⟩ Jehúda (Júda) fogságát és ⟨את⟩ Jiszráél (Izráel) fogságát, és felépítem őket, mint kezdetben.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "és visszahozom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fogságot"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fogságát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fogságot"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "fogságát"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "és felépítem őket"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "mint kezdetben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:46:20.199320979Z",
+  "model": "glm-5.3"
+}

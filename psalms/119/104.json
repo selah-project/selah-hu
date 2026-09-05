@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A te parancsolataidból értek, ezért gyűlölöm minden hazug útját.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "parancsolataidból"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "értek"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ezért⟩"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "gyűlölöm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "út(at)"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazug"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:35.586131072Z",
+  "model": "glm-5.3"
+}

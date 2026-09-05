@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 7:2",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És szólt Jahve Gideonhoz: Túl sok a nép, amely ⟨את⟩ veled van, ⟨semhogy⟩ odaadhassam ⟨את⟩ Midjánt a kezükbe, nehogy Izrael ellenem dicsekedjék, mondván: A saját kezem szabadított meg engem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "túl sok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "adásomra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjánt"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjánt"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "a kezükbe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "יתפאר",
+      "gloss": "dicsekedjék"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezem"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "szabadított"
+    },
+    {
+      "surface": "לי",
+      "gloss": "engem"
+    }
+  ],
+  "timestamp": "2026-09-04T18:54:54.570221626Z",
+  "model": "glm-5.3"
+}

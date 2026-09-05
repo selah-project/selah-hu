@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És monda Paroh Józsefnek: Miután az Elohim megértetett ⟨את⟩ veled ⟨את⟩ mindezt, nincs értelmű és bölcs hozzád hasonló.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nek"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józsefnek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Miután"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "megértetett"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ veled",
+      "marks": "אותך"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindezt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "értelmű"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "és bölcs"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hozzád hasonló"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:43.323468234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 70,
+  "translation": "Szégyüljenek meg és piruljanak el, akik életemet keresik; forduljanak hátra és valljanak szégyent, akik romlásomat kívánják.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Szégyüljenek meg"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "és piruljanak el"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "akik keresik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "életemet"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "forduljanak vissza"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátra"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "és valljanak szégyent"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "akik kívánják"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "romlásomat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:28.081498349Z",
+  "model": "glm-5.3"
+}

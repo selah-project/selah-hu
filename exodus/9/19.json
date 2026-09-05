@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Most azért küldj, és menekítsd biztonságba ⟨את⟩ marhádat és ⟨את⟩ mindenedet, ami a mezőn van; minden ember és állat, amely a mezőn találtatik, és nem gyűjtetik be a házba — rájuk száll le a jégeső, és meghalnak.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Most azért"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "küldj"
+    },
+    {
+      "surface": "העז",
+      "gloss": "és menekítsd biztonságba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marhádat"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "marhádat"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindent, ami a mezőn van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "van neked"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "és állat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "találtatik"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "gyűjtetik be"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "a házba"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "és leszáll"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "a jégeső"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "és meghalnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:02.172856429Z",
+  "model": "glm-5.3"
+}

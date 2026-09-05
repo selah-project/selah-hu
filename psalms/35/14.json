@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Mint egy barátnak, mint testvéremnek jártam-keltem; mint anyát gyászoló, gyászban görnyedtem le.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "mint egy barátnak"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "mint testvérnek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "jártam-keltem"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "mint gyászoló"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anya"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "gyászba borultan"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "görnyedtem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:45.388186840Z",
+  "model": "glm-5.3"
+}

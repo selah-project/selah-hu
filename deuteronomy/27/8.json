@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És írd rá a kövekre ⟨את⟩ e Tora minden szavát, nagyon világosan.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "és írd"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "a kövekre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e Tora minden szavát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "e Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "באר",
+      "gloss": "világosan"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:27.313504531Z",
+  "model": "glm-5.3"
+}

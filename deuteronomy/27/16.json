@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Átkozott, aki apját és anyját kisebbre tartja; és mondja az egész nép: Ámen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "átkozott"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "kisebbre tartja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apját"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "és anyját"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:51.484510210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "A vér megváltója maga öli meg ⟨את⟩ a gyilkost; találkozásakor vele ő maga öli meg őt.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "megváltója"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vér"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "maga"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "öli meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyilkost"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "a gyilkost"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "találkozásakor"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő maga"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "öli meg őt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:47:47.972035902Z",
+  "model": "glm-5.3"
+}

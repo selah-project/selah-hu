@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "A karmesternek, Dávidnak, zsoltár. Dicséretem Elohimja, ne hallgass!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "dicséretem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "hallgass"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:54.244763857Z",
+  "model": "glm-5.3"
+}

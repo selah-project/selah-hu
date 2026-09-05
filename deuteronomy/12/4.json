@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Nem így cselekedtek Jahvéval, a ti Elohimotokkal.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "cselekedjetek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéval"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimotokkal"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:40.819789064Z",
+  "model": "glm-5.3"
+}

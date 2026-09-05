@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És odamentek mind a bölcsek, akik végzik ⟨את⟩ minden munkáját a szentnek, férfi férfi a maga munkájából, amelyet ők végeznek.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "odamentek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "a bölcsek"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "akik végeznek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden munkáját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "munkáját"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "a maga munkájából"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "végeznek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:30.247851669Z",
+  "model": "glm-5.3"
+}

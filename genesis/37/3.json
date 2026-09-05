@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És Izráel szerette ⟨את⟩ Jószefet minden fiánál jobban, mert öregségének gyermeke volt ⟨neki⟩; és készített ⟨neki⟩ egy passzim-köntöst.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "És Izráel"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szerette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jószefet"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószefet"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiánál"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בן",
+      "gloss": "gyermeke"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "öregségének"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "volt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és készített"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "köntöst"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "passzim-"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:59.277124319Z",
+  "model": "glm-5.3"
+}

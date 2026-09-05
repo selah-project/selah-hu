@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És nyilatkozik meg Jahve dicsősége, és látja ⟨azt⟩ minden test együtt, mert Jahve szája szólt.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "és nyilatkozik meg"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsősége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "és látja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "test"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:27.473861480Z",
+  "model": "glm-5.3"
+}

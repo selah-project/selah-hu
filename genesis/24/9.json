@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És letette ⟨את⟩ a szolgát a kezét Avrahám (Ábrahám), az ő ura combja alá, és megesküdött neki e dolog felől.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "és letette"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "a szolga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alá"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "combja"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahám"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "az ő ura"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "és megesküdött"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "על",
+      "gloss": "felől"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "e dolog"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:59.611435463Z",
+  "model": "glm-5.3"
+}

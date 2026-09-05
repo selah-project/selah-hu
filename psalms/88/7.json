@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Letettél engem az alsó gödörbe, a sötétségekbe, a mélységekbe.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "letettél engem"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "gödörbe"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "alsó"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "sötétségekbe"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "mélységekbe"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:50.021554771Z",
+  "model": "glm-5.3"
+}

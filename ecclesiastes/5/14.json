@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 5:14",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Amint kijött anyja méhéből, mezítelenül tér vissz⟨a⟩ menni, miképp jött, és semmit nem visz fáradságából, ami kezével mehetne el.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "amint"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kijött"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "méhéből"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anyja"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "mezítelenül"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tér vissza"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "menni"
+    },
+    {
+      "surface": "כשבא",
+      "gloss": "amint jött"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "és semmit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "visz"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "fáradságából"
+    },
+    {
+      "surface": "שילך",
+      "gloss": "ami el mehet"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezével"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:29.781472541Z",
+  "model": "glm-5.3"
+}

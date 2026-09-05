@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És talált ott ⟨magát⟩ egy szegény, bölcs ember, és ő megszabadította ⟨את⟩ a várost a bölcsességével — de az ember nem emlékezett ⟨arra⟩ a szegény emberre.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "és talált"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ott ⟨benne⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "és megszabadította"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "a bölcsességével"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "de ⟨az⟩ ember"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "emlékezett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arra az emberre"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨arra⟩ az emberre"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "a szegény"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "arra"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:47.956817724Z",
+  "model": "glm-5.3"
+}

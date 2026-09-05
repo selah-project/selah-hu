@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Szerelmem hangja! Íme, ő jön, ugrál a hegyeken, szökell a halmokon!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "szerelmemnek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "ugrál"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "hegyeken"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "szökell"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "halmokon"
+    }
+  ],
+  "timestamp": "2026-09-04T22:29:50.805999169Z",
+  "model": "glm-5.3"
+}

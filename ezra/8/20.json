@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 8:20",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És a Netinimek közül, akiket Dávid és a fejedelmek adtak a leviták szolgálatára: Netinimek, kétszáz húszan; mindnyájan név szerint megnevezve.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "és a … közül"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "Netinimek"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "és a fejedelmek"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "szolgálatára"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a levitáknak"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "Netinimek"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kétszáz"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "megnevezve"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "név szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T22:52:45.840427776Z",
+  "model": "glm-5.3"
+}

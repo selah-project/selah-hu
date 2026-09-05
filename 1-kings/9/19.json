@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 9:19",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "és ⟨את⟩ minden raktárvárost, amely Salomóé volt, és ⟨את⟩ a szekérvárosokat, és ⟨את⟩ a lovasok városait, és ⟨את⟩ mindazt, amit Salomo kívánt megépíteni Jerusálaimban, a Livánonban és egész uralma földjén.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden raktárvárost"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "várost"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "raktár-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "היו",
+      "gloss": "volt"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Salomóé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szekérvárosokat"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városokat"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "szekér-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lovasok városait"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városait"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "a lovasok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindazt, amit Salomo kívánt"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "kívánt"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "kívánt"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "megépíteni"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusálaimban"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "a Livánonban"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "uralma"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:49.927767462Z",
+  "model": "glm-5.3"
+}

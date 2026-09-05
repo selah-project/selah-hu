@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És lement ⟨a⟩ csűrbe, és megcselekedett mindazt, amit parancsolt neki az ő anyósa.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "és lement"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "⟨a⟩ csűrbe"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "és megcselekedett"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "parancsolt neki"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "az ő anyósa"
+    }
+  ],
+  "timestamp": "2026-09-04T22:31:26.839046665Z",
+  "model": "glm-5.3"
+}

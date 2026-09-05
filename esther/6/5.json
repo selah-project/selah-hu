@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondták a király szolgái ⟨hozza⟩: „Íme, Hámán áll a udvaron.” És monda a király: jöjjön be.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "a király szolgái"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨hozza⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámán"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "áll"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "a udvaron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jöjjön be"
+    }
+  ],
+  "timestamp": "2026-09-04T23:55:12.377861347Z",
+  "model": "glm-5.3"
+}

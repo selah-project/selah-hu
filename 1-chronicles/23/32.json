@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "és őrködjenek ⟨את⟩ a gyülekezet sátrának őrsége felett, és ⟨את⟩ a szentség őrsége felett, és Áron fiainak, testvéreiknek őrsége felett, a Jahve házának szolgálatához.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "és őrködjenek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyülekezet sátrának őrsége"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "őrsége"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a szentség őrsége"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "őrsége"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentség"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "és őrsége"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronnak"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "testvéreiknek"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "a szolgálatához"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:07:47.570361651Z",
+  "model": "glm-5.3"
+}

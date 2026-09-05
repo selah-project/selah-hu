@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Mert ha sok esztendőt él az ember, mindegyikükben örvendjen, és emlékezzék ⟨את⟩ a sötétség napjaira, mert sokan lesznek; minden, ami jön, semmiség.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sok"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "él"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "mindegyikükben"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvendjen"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "és emlékezzék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sötétség napjaira"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "a napjaira"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "a sötétség"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sokan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesznek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ami jön"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "semmisség"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:35.916375354Z",
+  "model": "glm-5.3"
+}

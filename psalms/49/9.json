@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "És drága a lelkük váltságdíja, és örökre megszűnik ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "ושכר",
+      "gloss": "és drága"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "váltságdíj"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "a lelkük"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "és megszűnik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:54.650476792Z",
+  "model": "glm-5.3"
+}

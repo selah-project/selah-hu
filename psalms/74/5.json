@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Ismert ⟨volt⟩, mint a felvivő ⟨a⟩ magasba, a fák sűrűjében baltákkal.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Ismert"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "mint a felvivő"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "a magasba"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "a fák sűrűjében"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "baltákkal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:28.668230207Z",
+  "model": "glm-5.3"
+}

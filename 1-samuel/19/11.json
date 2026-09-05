@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 19:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És küldött Shaúl követséget Dávid házához, hogy őrizze őt és megölje reggel; és megmondta Dávidnak Mikál, a felesége, mondván: Ha nem menekíted ma éjjel ⟨את⟩ ⟨a⟩ életedet, holnap megöletsz.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "küldött"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "követséget"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Dávid házá)hoz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házá"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "לשמרו",
+      "gloss": "hogy őrizze őt"
+    },
+    {
+      "surface": "ולהמיתו",
+      "gloss": "és megölje"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "és megmondta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikál"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "a felesége"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ממלט",
+      "gloss": "menekíted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az életedet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "életedet"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ma éjjel"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "holnap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "מומת",
+      "gloss": "megöletsz"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:51.461108153Z",
+  "model": "glm-5.3"
+}

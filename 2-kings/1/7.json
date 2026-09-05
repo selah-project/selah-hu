@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És szólt hozzájuk: Miféle ⟨volt⟩ az a férfi, aki felment elétek, és szólt hozzátok ⟨את⟩ e szavakat?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Miféle"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "alak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az a férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "felment"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "elétek"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "hozzátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a szavak"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:53.593320186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Nincs szent, mint Jahve, mert nincs ⟨rajtad kívül⟩, és nincs szikla, mint a mi Elohimunk.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "mint Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "⟨rajtad kívül⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "צור",
+      "gloss": "szikla"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "mint a mi Elohimunk"
+    }
+  ],
+  "timestamp": "2026-09-04T19:02:56.807544746Z",
+  "model": "glm-5.3"
+}

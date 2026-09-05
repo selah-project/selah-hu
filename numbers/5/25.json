@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És vegye a pap az asszony kezéből ⟨את⟩ a féltékenység ételáldozatát, és lengetje ⟨את⟩ az ételáldozatot Jahve előtt, és közelítse ⟨את⟩ azt az oltárhoz.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "És vegye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ételáldozatát"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "az ételáldozatát"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "a féltékenységé"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "és lengetje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ételáldozatot"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "az ételáldozatot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "és közelítse"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ azt",
+      "marks": "az oltárhoz (őt)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:30:18.880435920Z",
+  "model": "glm-5.3"
+}

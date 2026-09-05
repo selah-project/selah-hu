@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Abban az évben, amelyben Acház (Akház) király meghalt, lett ez a teher.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "abban az évben"
+    },
+    {
+      "surface": "מות",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Acház (Akház)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "teher"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:23.474830604Z",
+  "model": "glm-5.3"
+}

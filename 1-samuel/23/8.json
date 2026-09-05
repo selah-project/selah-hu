@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És összehívta Saúl ⟨את⟩ az egész népet a harcra, hogy lemennenek Keilába, Dávidot és az embereit ostromolni.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "És összehívta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész népet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "a harcra"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "hogy lemennenek"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilába"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ostromolni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ellen"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "az embereit"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:06.483325350Z",
+  "model": "glm-5.3"
+}

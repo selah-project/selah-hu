@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Légy nekem sziklavár, lakhely, ahová mindig menekülhetek; megparcsoltad, hogy megtarts engem, mert sziklám és váram te vagy.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Légy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "sziklavár"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "lakhely"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ahová menekülhetek"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mindig"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "megparancsoltad"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "hogy megtarts engem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "sziklám"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "és váram"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:26.109313786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Elgyengültem és igen összetörtem; felzúgtam szívem háborgása miatt.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "elgyengültem"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "és összetörtem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "felzúgtam"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "háborgása miatt"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:37.946608520Z",
+  "model": "glm-5.3"
+}

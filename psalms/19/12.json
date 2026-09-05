@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Bizony a te szolgád ⟨ezektől⟩ figyelmeztetve van; ⟨azok⟩ megtartásában nagy a jutalom.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgád"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "figyelmeztetve van"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨ezektől⟩"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "megtartásában"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "jutalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:02.343293838Z",
+  "model": "glm-5.3"
+}

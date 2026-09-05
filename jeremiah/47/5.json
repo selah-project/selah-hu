@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 47:5",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "„Kopaszság érkezett Gázára, elnémult Askelon, maradéka völgyüknek — meddő fokáig metszed magadat?”",
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "érkezett"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kopaszság"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra (Gázára)"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gáza"
+    },
+    {
+      "surface": "נדמתה",
+      "gloss": "elnémult"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Askelon"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "maradéka"
+    },
+    {
+      "surface": "עמקם",
+      "gloss": "völgyüknek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mikorra (fokáig)"
+    },
+    {
+      "surface": "תתגודדי",
+      "gloss": "metszed magadat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:53:15.973713313Z",
+  "model": "glm-5.3"
+}

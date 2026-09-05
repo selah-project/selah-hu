@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "hogy tudja a későbbi nemzedék, a fiak, akik megszületnek, felkeljenek és elmeséljék azokat fiaiknak;",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tudja"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nemzedék"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "későbbi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiak"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "akik megszületnek"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "felkeljenek"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "és elmeséljék"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fiaiknak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:25.752545179Z",
+  "model": "glm-5.3"
+}

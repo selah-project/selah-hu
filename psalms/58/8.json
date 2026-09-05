@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "Tűnjenek el, mint a víz; folyjanak tova ⟨maguktól⟩; ha ⟨az⟩ nyilát kifeszíti, legyenek, mint ⟨az⟩ eltompult.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "tűnjenek el"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "folyjanak tova"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨maguktól⟩"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "kifeszíti"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "nyilát"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "eltompult"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:39.839379133Z",
+  "model": "glm-5.3"
+}

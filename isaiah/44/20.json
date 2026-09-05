@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Hamut legelész, a szív — megtévesztett — eltérítette őt, és nem tudja megmenteni ⟨את⟩ a lelkét, és nem mondja: Hát nem hazugság ⟨van⟩ a jobb kezemben?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "legelész"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "hamut"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szív"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "megtévesztett"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "elterítette őt"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ment meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lelkét"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lelkét"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "hát nem"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugság"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "a jobb kezemben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:24:56.129427702Z",
+  "model": "glm-5.3"
+}

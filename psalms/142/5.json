@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 142,
+  "translation": "Nézz ⟨a⟩ jobbra és lásd, mert nincs nekem ismerőm; elveszett a menedék tőlem, nincs, aki keresi ⟨az⟩ életemet.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Nézz"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobbra"
+    },
+    {
+      "surface": "וּרְאֵה",
+      "gloss": "és lásd"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mert nincs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ismerőm"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "elveszett"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "menedék"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "aki keres"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "életemet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:45.828657642Z",
+  "model": "glm-5.3"
+}

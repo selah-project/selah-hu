@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Mondd, kérlek: „a nővérem vagy”, hogy jól legyen dolgom általad, és éljen az életem miattad.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Mondd"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "a nővérem"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "te (a nővérem vagy)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "jól legyen dolgom"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "általad"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "és éljen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "az életem"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "miattad"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:16.862146418Z",
+  "model": "fable-5-hand"
+}

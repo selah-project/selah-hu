@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Éljen Reuvén, és ne haljon meg, és legyenek férfiai ⟨szám szerint⟩.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Éljen"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuvén"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "haljon meg"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és legyenek"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "férfiai"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨szám szerint⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T18:33:09.338150734Z",
+  "model": "glm-5.3"
+}

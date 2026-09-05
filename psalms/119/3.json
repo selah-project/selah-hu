@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Sőt gonoszságot nem cselekedtek, az ő útjain jártak.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sőt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "cselekedtek"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "gonoszságot"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "az ő útjain"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "jártak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:44.353526788Z",
+  "model": "glm-5.3"
+}

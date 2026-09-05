@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Nem tudnak, és nem értenek, mert bekenték a szemeik látását, ⟨hogy ne lássanak⟩, és a szívüket, ⟨hogy ne értsenek⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tudnak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "értenek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טח",
+      "gloss": "bekenték"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "a látását"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "szemeiknek"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "a megértéstől"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "szívüknek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:24:56.129035512Z",
+  "model": "glm-5.3"
+}

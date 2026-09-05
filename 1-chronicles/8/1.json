@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Binjámín nemzette ⟨את⟩ Belaát elsőszülöttjét, Asbel a második, és Achrach a harmadik.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binjámín"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Belaát"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belaát"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "elsőszülöttjét"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Asbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "és Achrach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "a harmadik"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:49.183416639Z",
+  "model": "glm-5.3"
+}

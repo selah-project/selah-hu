@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Törd el a bűnös karját és a gonosznak a karját; kutasd gonoszságát — többé ne találd.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "törd el"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "karját"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a bűnösnek"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "és a gonosznak"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "kutasd"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "gonoszságát"
+    },
+    {
+      "surface": "בל",
+      "gloss": "többé ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "találd"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:47.749457487Z",
+  "model": "glm-5.3"
+}

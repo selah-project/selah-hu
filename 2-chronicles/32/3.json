@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És tanácsot tartott a fejedelmeivel és a vitézeivel, hogy elzárják ⟨את⟩ a források vizeit, amelyek a városon kívül ⟨vannak⟩; és segítették őt.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "és tanácsot tartott"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "fejedelmei"
+    },
+    {
+      "surface": "וגיבריו",
+      "gloss": "és vitézei"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "elhárítani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a források vizeit"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "a vizei"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "a forrásoknak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "a várostól"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "és segítették őt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:22:50.711432607Z",
+  "model": "glm-5.3"
+}

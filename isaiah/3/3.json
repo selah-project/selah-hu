@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "ötven fejedelem és kegyelt, és tanácsos, és a mesterségek bölcse, és a suttogás értője",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "fejedelem"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötven"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "kegyelt"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "(arc-)kegyelt"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "és tanácsos"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "és bölcse"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "a mesterségek"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "és értője"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "a suttogásnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:00.398995798Z",
+  "model": "glm-5.3"
+}

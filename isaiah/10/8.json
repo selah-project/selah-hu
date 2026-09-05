@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Mert így szól: „Nem királyok-e mind együtt az én vezéreim?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "így szól"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Nem…-e"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "az én vezéreim"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mind együtt"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "királyok"
+    }
+  ],
+  "timestamp": "2026-09-04T23:35:32.639993444Z",
+  "model": "glm-5.3"
+}

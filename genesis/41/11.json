@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És álmodtunk ⟨את⟩ egy álmot egy éjjel, én és ő; ki-ki a maga álma értelmezése szerint álmodott.",
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "és álmodtunk"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "egy álmot"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "egy éjjel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ki-ki"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "az értelmezése szerint"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "a maga álma"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "álmodott"
+    }
+  ],
+  "timestamp": "2026-09-05T00:32:52.432025649Z",
+  "model": "glm-5.3"
+}

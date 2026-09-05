@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 98,
+  "translation": "Zengjetek ujjongva Jahvénak, egész föld! Törjetek ki, vígan énekeljetek, zengjetek éneket!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Zengjetek ujjongva"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "Törjetek ki"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "vígan énekeljetek"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "zengjetek éneket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:06.312398989Z",
+  "model": "glm-5.3"
+}

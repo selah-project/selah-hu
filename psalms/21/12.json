@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Mért rosszat szőttek ellened, cselt terveztek — de nem képesek rá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mért"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "szőttek"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "terveztek"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "cselt"
+    },
+    {
+      "surface": "בל",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "képesek rá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:52.497630067Z",
+  "model": "glm-5.3"
+}

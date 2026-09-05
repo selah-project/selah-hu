@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Mindnyájan felelnek majd és mondják neked: „Te is erőtlenné váltál, hozzánk hasonló lettél!”",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "felelnek"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondják"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "erőtlenné váltál"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "hozzánk hasonló"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "hozzánk"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "lettél"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:17.259289709Z",
+  "model": "glm-5.3"
+}

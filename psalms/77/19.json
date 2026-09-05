@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Mennydörgésed hangja az örvényben, villámlások világították meg a földkerekséget, megrendült és megrázkódott a föld.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "mennydörgésednek"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "az örvényben"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "világították meg"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "villámlások"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a földkerekséget"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "megrendült"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "és megrázkódott"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:44.392084397Z",
+  "model": "glm-5.3"
+}

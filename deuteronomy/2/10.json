@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Az Eímím hajdanán ott laktak, nép nagy és számos és magas, mint az Anákim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Az Eímím"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "hajdanán"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "laktak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "és számos"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "és magas"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "mint az Anákim"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:10.599763911Z",
+  "model": "glm-5.3"
+}

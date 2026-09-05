@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Én pedig a te heszedben bízom, örvend ⟨az⟩ én szívem a te szabadításodban, éneklek Jahvénak, mert jól bánt velem.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "heszedben"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "örvend"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "szabadításodban"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "éneklek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "jól bánt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "velem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:20.847023894Z",
+  "model": "glm-5.3"
+}

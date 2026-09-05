@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És visszatért ⟨את⟩ vele, és evett kenyeret annak a házában, és ivott vizet.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "és evett"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "annak a házában"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "és ivott"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:18.046695334Z",
+  "model": "glm-5.3"
+}

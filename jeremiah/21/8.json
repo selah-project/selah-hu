@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És e népnek ezt mondod: így szólt Jahve: íme, én eléd adom ⟨את⟩ az élet útját és ⟨את⟩ a halál útját.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "és -nak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mondod"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adom"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "elétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az élet útját"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útját"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az élet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a halál útját"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útját"
+    },
+    {
+      "surface": "המות",
+      "gloss": "a halál"
+    }
+  ],
+  "timestamp": "2026-09-04T20:40:35.897550745Z",
+  "model": "glm-5.3"
+}

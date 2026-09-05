@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És adja őket Jahve a ti színetek elé, és cselekesztek velük ⟨az⟩ egész parancsolat szerint, amelyet megparancsoltam ⟨את⟩ nektek.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "és adja őket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "a ti színetek elé"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "és cselekesztek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "egész...szerint"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parancsolat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "megparancsoltam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:25:59.476032584Z",
+  "model": "glm-5.3"
+}

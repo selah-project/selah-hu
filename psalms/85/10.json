@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Bizony közel az ő szabadulása azokhoz, akik őt félik, hogy dicsőség lakjék földünkön.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "közel"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "azokhoz, akik őt félik"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "az ő szabadulása"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "hogy lakjék"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőség"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "földünkön"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:13.872228819Z",
+  "model": "glm-5.3"
+}

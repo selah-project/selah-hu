@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És Aharon (Áron) fiaihoz ⟨ tartoztak ⟩ az osztályaik: Aharon fiai Nádáv és Avíhu, Elázár és Itámár.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "És … fiaihoz"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "az osztályaik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nádáv"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "és Avíhu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázár"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "és Itámár"
+    }
+  ],
+  "timestamp": "2026-09-04T23:07:31.304411459Z",
+  "model": "glm-5.3"
+}

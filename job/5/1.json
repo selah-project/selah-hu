@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "„Szólíts csak ⟨na⟩, van-e, aki felel neked, és a szentek közül kihez fordulsz?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Szólíts"
+    },
+    {
+      "surface": "נא",
+      "gloss": "csak"
+    },
+    {
+      "surface": "היש",
+      "gloss": "van-e"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "felel neked"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és kihez"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kit"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "a szentek"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "fordulsz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:04.094111298Z",
+  "model": "glm-5.3"
+}

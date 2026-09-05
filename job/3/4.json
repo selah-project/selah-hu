@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Az a nap legyen sötétség; ne kutassa föl őt Eloah ⟨a⟩ magasból, és ne ragyogjon föl rá világosság.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Az a nap"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sötétség"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "kutassa föl őt"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "⟨a⟩ magasból"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "ragyogjon föl"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "világosság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:59.630081633Z",
+  "model": "glm-5.3"
+}

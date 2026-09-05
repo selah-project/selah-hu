@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És készíts egy rézmedencét és réz talpzatot mosdásra, és tedd ⟨את⟩ a találkozás sátra és az oltár közé, és tegyél oda vizet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És készíts"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "medencét"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "réz"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "és talpzatát"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rézből"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "mosdásra"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "és tedd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a medencét"
+    },
+    {
+      "surface": "בין",
+      "gloss": "közé"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "a sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozásnak"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és (közé)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "és tegyél"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:00.954530858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Íme, Jahve szeme ⟨az⟩ ő félőire ⟨néz⟩, az ő heszedjében várakozókra.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szeme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…re"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "az ő félőire"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "várakozókra"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "az ő heszedjében"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:14.672442426Z",
+  "model": "glm-5.3"
+}

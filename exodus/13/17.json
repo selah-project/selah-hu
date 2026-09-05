@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És történt, amikor elbocsátotta Paroh ⟨את⟩ a népet, hogy nem vezette Elohim ⟨a⟩ Pelistim-föld útján, bár közel van az; mert azt mondta Elohim: nehogy megbánja a nép, amikor háborút lát, és visszatérjen Micrajimba;",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "amikor elbocsátotta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hogy nem"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "vezette"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földje"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bár"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "közel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "van az"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "azt mondta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "megbánja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "amikor lát"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "háborút"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "és visszatérjen"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micrajimba"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:56.627451349Z",
+  "model": "glm-5.3"
+}

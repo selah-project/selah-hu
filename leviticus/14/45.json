@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És bontsa le ⟨את⟩ a házat, ⟨את⟩ köveit és ⟨את⟩ fáit, és ⟨את⟩ a ház minden porát, és vigye ki ⟨ezt⟩ a városon kívülre, tisztátalan helyre.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "és bontsa le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köveit"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "köveit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fáit"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "fáit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a ház minden porát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "porát"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "és vigye ki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "a városon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helyre"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalan"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:20.913621824Z",
+  "model": "glm-5.3"
+}

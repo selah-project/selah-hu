@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ne menj ki a mezőre, és az úton ne járj, mert az ellenségnek fegyvere van, rémület minden oldalról.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "menj ki"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőre"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "és az úton"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "járj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "fegyver"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "az ellenségnek"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "rémület"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "minden oldalról"
+    }
+  ],
+  "timestamp": "2026-09-04T20:34:38.907751400Z",
+  "model": "glm-5.3"
+}

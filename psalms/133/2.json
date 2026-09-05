@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 133,
+  "translation": "Mint a jó olaj a fejre, alászáll a szakállra, Aharon szakállára, amely alászáll köntösei peremére.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Mint az olaj"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "a jó"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "a fej"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "alászáll"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "a szakáll"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "szakálla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "amely alászáll"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "פי",
+      "gloss": "peremére"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "köntöseinek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:51.345620169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És Jehócádák fogságba ment, amikor Jahve száműzte ⟨את⟩ Jehúdát és Jerusált Névukadnecár kezében.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "És Jehócádák"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ment"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "a fogságba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúdát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdát"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "és Jerusált"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Névukadnecár"
+    }
+  ],
+  "timestamp": "2026-09-04T23:58:09.743380347Z",
+  "model": "glm-5.3"
+}

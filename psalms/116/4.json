@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "És Jahve nevében segítségül hívom: kérlek, Jahve, szabadítsd meg lelkemet!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "És ... nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "segítségül hívom"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "szabadítsd meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:42.014202608Z",
+  "model": "glm-5.3"
+}

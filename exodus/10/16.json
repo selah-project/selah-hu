@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És sietett Paroh, hogy hívassa Moshet és Aharont, és mondta: vétkeztem Jahve, a ti Elohimotok ellen, és tiellátetek.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "és sietett"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "hívassa"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshet"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "és Aharont"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétkeztem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "és tiellátetek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:02.203873735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "de annak a fának a gyümölcséről, amely a kert közepén ⟨van⟩, azt mondta az Elohim: ne egyetek belőle, és ne érintsétek meg, hogy meg ne haljatok.”",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "gyümölcséről"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "annak a fának"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepén"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "a kert"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egetek"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "érintsétek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "meg(…t)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy…ne"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "haljatok"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:55.454994304Z",
+  "model": "glm-5.3"
+}

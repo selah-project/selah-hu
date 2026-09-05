@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Minden népek körülfogtak engem — Jahve nevében, igen, elpusztítom ⟨azokat⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "körülfogtak engem"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "igen"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "elpusztítom ⟨azokat⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:10.666921899Z",
+  "model": "glm-5.3"
+}

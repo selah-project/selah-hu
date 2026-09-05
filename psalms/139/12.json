@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Még a sötétség sem sötét előled, és az éjszaka úgy ragyog, mint a nappal; a sötétség olyan, mint a világosság.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "még"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a sötétség"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "sötét"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "előled"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és az éjszaka"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "mint a nappal"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ragyog"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "a sötétség mint"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "a világosság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:53.680474952Z",
+  "model": "glm-5.3"
+}

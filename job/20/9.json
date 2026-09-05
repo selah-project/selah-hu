@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "A szeme, amely ⟨את⟩ megpillantotta, többé nem teszi hozzá, és helye többé nem nézi őt.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "szeme"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "amely megpillantotta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "teszi hozzá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "nem nézi őt"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "helye"
+    }
+  ],
+  "timestamp": "2026-09-04T22:22:30.099558269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És Micrajim ⟨את⟩ azokat temette, akiket Jahve sújtott köztük, minden elsőszülöttet; és isteneiken hajtotta végre Jahve az ítéleteket.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "És Micrajim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "temette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azokat, akiket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sújtott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "köztük"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "elsőszülöttet"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "és isteneiken"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hajtotta végre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "az ítéleteket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:47:54.131360984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Saul nagybátyja ezt mondta neki és a szolgájának: „Hová mentetek?” Ő pedig ezt mondta: „A szamarakat ⟨את⟩ keresni, és láttuk, hogy nincsenek meg, és elmentünk Semuélhez.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "nagybátyja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul (Sául)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "a szolgájának"
+    },
+    {
+      "surface": "אן",
+      "gloss": "hová"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "mentetek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "keresni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szamarakat"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "a szamarakat"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "és láttuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincsenek meg"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "és elmentünk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuélhez (Sámuel)"
+    }
+  ],
+  "timestamp": "2026-09-04T23:28:32.325374355Z",
+  "model": "glm-5.3"
+}

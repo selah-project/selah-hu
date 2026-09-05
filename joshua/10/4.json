@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "„Jöjjetek fel hozzám, és segítsetek engem, és csapjunk le ⟨את⟩ Gibeonra, mert békét kötött ⟨את⟩ Jehosuával és ⟨את⟩ Izrael fiaival.”",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Jöjjetek fel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "és segítsetek engem"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "és csapjunk le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeonra"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeonra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "békét kötött"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosuával"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosuával"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaival"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T18:42:01.383628116Z",
+  "model": "glm-5.3"
+}

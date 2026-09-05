@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne legyen irigy a szíved ⟨a⟩ bűnösökre, hanem Jahve félelmében ⟨maradj⟩ egész nap.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "legyen irigy"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "a szíved"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "⟨a⟩ bűnösökre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨maradj⟩"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "félelmében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:00.718468618Z",
+  "model": "glm-5.3"
+}

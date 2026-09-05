@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Miért félnék a rossz ⟨napjai⟩ban, amikor sarjaimnál ⟨álló⟩ bűn körülfog engem?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "félnék"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "⟨napjai⟩ban"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a rossz"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bűn"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "sarjaimnál ⟨álló⟩"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "körülfog engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:37.527024092Z",
+  "model": "glm-5.3"
+}

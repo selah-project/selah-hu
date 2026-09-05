@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És felállt a nővére távolról, hogy megtudja, mi lesz vele.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "És felállt"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "a nővére"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "távolról"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "hogy megtudja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:21.949324264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És meghallotta Elohim ⟨את⟩ nyögésüket, és megemlékezett Elohim ⟨את⟩ szövetségéről: ⟨את⟩ Avraham (Ábrahám), ⟨את⟩ Jichak (Izsák) és ⟨את⟩ Jaakov (Jákob).",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "és meghallotta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyögésüket"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "nyögésüket"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "és megemlékezett"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségéről"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "szövetségéről"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jichak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:17.305349795Z",
+  "model": "glm-5.3"
+}

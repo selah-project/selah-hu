@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És szarvasmarhát vagy juhot — ⟨את⟩ azt és ⟨את⟩ fiát — egy napon ne vágjátok le.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "És szarvasmarhát"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "שה",
+      "gloss": "juhot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiát"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "vágjátok le"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "egy napon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyetlen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:29.246022214Z",
+  "model": "glm-5.3"
+}

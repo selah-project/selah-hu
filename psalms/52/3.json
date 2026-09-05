@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Miért dicsekedsz romlásban, hős? ⟨Az⟩ El heszedje egész napon át ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "dicsekedsz"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "romlásban"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "hős"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszedje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon át"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:28.725628347Z",
+  "model": "glm-5.3"
+}

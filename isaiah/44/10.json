@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Ki formált istent, és öntött bálványt, ami semmit nem használ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "formált"
+    },
+    {
+      "surface": "אל",
+      "gloss": "istent"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "és bálványt"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "öntött"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "amivel ne"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "használna semmit"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:41.669067106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Haszna van-e ⟨az⟩ Elnek ⟨a⟩ hős emberből? hiszen ⟨a⟩ bölcs csak önmagának hajt hasznot?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "az Elnek"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "haszna van"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "hős emberből"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hiszen"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "hasznot hajt"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "önmagának"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "a bölcs"
+    }
+  ],
+  "timestamp": "2026-09-04T22:23:30.819692261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Lásd, név szerint hívtam Betcalelt (Becaleelt), Ur fiát, Hur fiát, Jehúda (Júda) törzséből.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "hívtam"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "név szerint"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betcalelt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "törzséből"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    }
+  ],
+  "timestamp": "2026-09-04T16:56:16.080815422Z",
+  "model": "glm-5.3"
+}

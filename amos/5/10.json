@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Gyűlölik a kapuban a megvádolót, és az egyenesen szólót utálkoznak el tőle.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "Gyűlölik"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kapuban"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "a megvádolót"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "és az szólót"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "egyenesen"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "utálkoznak el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:24:09.814702767Z",
+  "model": "glm-5.3"
+}

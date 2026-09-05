@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "⟨את⟩ kit tanítson tudásra, és ⟨את⟩ kinek értessen meg ⟨az⟩ üzenetet? A tejtől elválasztottakat, az emlőkről elszakítottakat?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kit"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "tanítson"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tudásra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "kinek"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinek"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "értessen meg"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "üzenet"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "elválasztottakat"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "a tejtől"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "elszakítottakat"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "az emlőkről"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:26.499399099Z",
+  "model": "glm-5.3"
+}

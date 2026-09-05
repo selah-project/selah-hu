@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert lábuk a rosszra fut, és sietnek vér kiontani",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "lábuk"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "a rosszra"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "fut"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "és sietnek"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "kiontani"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vért"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:09.994972879Z",
+  "model": "glm-5.3"
+}

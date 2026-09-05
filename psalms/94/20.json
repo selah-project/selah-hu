@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Egyesül-e veled a romlás trónusa, amely törvény értelmében formál bajt?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Egyesül-e veled"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trónusa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "romlás"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "formál"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bajt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "értelmében"
+    },
+    {
+      "surface": "חק",
+      "gloss": "törvény"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:45.591064123Z",
+  "model": "glm-5.3"
+}

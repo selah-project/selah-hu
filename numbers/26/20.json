@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És Jehúda (Júda) fiai családjaik szerint ⟨ezek⟩ ⟨voltak⟩: Selának a Seláni-család, Pérecnek a Pérci-család, Zérachnak a Zérachi-család.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "És lettek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdának"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "családjaik szerint"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "Selának"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "családja"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "a seláni"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "Pérecnek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "családja"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "a perci"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "Zérachnak"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "családja"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "a zérachi"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:18.885564951Z",
+  "model": "glm-5.3"
+}

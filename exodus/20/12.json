@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Tiszteld ⟨את⟩ apádat és ⟨את⟩ anyádat, hogy hosszúra nyúljának napjaid azon a földön, amelyet Jahve, a te Elohimod ad néked.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Tiszteld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apádat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apádat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "anyádat"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anyádat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "hosszúra nyúljának"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "napjaid"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "azon a föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "néked"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:31.288343700Z",
+  "model": "glm-5.3"
+}

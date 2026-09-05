@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És odavigyétek égőáldozataitokat és véresáldozataitokat, és ⟨את⟩ tizedeiteket, és ⟨את⟩ kezetek felemelt adományát, és fogadalmaidat, és önkéntes adományaitokat, és marhátok és juhaitok elsőszülötteit.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "és odavigyétek"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "égőáldozataitokat"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "és véresáldozataitokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tizedeiteket"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "tizedeiteket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "felemelt adományát"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "felemelt adományát"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "kezetek"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "és fogadalmaidat"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "és önkéntes adományaitokat"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "és elsőszülötteit"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "marhátok"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "és juhaitok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:38.190592884Z",
+  "model": "glm-5.3"
+}

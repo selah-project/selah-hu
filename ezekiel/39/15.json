@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 39:15",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És átjárnak az átkelők az országban, és ha lát ⟨valaki⟩ embercsontot, emel mellé egy jelet, amíg el nem temetik ⟨את⟩ ⟨azt⟩ a temetők a Hamon-Góg völgyében.",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "és-átjárnak"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "az-átjárók"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az-országban"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és-lát"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "csontot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember-"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "és-emel"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "mellé"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "jelet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "eltemetik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt-a-csontot"
+    },
+    {
+      "surface": "המקברים",
+      "gloss": "a-temetők"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bele"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "völgyébe"
+    },
+    {
+      "surface": "המון",
+      "gloss": "Hamon"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "-Góg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:14:32.001624701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Mondom ⟨az⟩ Elnek, sziklámnak: miért felejtettél el engem? Miért járok gyászosan az ellenség szorításában?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Mondom"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨az⟩ Elnek"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "sziklámnak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "felejtettél el engem"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "gyászosan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "járok"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "szorításában"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ellenség"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:13.965199261Z",
+  "model": "glm-5.3"
+}

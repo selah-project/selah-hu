@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "és a udvar kárpitjai, és ⟨את⟩ az udvar bejáratának függönyét, amely a lakósátor mellett és az oltár mellett van körös-körül, és ⟨את⟩ annak köteleit minden szolgálatához.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "és a kárpitjai"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvarnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "az udvar bejáratának függönyét"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "függönyét"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratának"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakósátor"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és mellett"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körös-körül"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "annak köteleit"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "annak köteleit"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "szolgálatához"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:29.943504125Z",
+  "model": "glm-5.3"
+}

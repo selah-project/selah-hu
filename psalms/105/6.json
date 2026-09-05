@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Avraham (Ábrahám) magja, az ő szolgája, Jaakov (Jákob) fiai, az ő kiválasztottjai,",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "magja"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "az ő szolgája"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "az ő kiválasztottjai"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:36.949248346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És azt tette, ami rossz Jahve szemeiben, és járt Jeroboámnak, Nébát fiának bűnei után, aki vétkeztette ⟨את⟩ Izraelt; nem tért el tőle.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "tette"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemeiben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "járt"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "után"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bűnei"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboámnak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nébát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "vétkeztette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "סר",
+      "gloss": "tért el"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "tőle"
+    }
+  ],
+  "timestamp": "2026-09-04T19:59:33.775103487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 39:15",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "és elfelejti, hogy a láb eltapossa, és a mező vadja eldöngölje ⟨azokat⟩,",
+  "tokens": [
+    {
+      "surface": "ותשכח",
+      "gloss": "és elfelejti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "láb"
+    },
+    {
+      "surface": "תזורה",
+      "gloss": "eltapossa"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "és a vadja"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőnek"
+    },
+    {
+      "surface": "תדושה",
+      "gloss": "eldöngölje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:28:30.527866271Z",
+  "model": "glm-5.3"
+}

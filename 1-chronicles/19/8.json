@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Meghallotta Dávid, és elküldte ⟨את⟩ Joábot és ⟨את⟩ a vitézek egész seregét.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "meghallotta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joábot"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joábot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a vitézek egész seregét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "seregét"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "a vitézek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:38.102902540Z",
+  "model": "glm-5.3"
+}

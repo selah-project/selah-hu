@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És Jahve megkeményítette ⟨את⟩ Paró szívét, Micrajim (Egyiptom) királyának, és űzőbe ment Jiszráel (Izráel) fiai után, és Jiszráel fiai felemelt kézzel vonultak ki.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "És megkeményítette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paró szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak (Egyiptomnak)"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "és űzőbe ment"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráelnek (Izráelnek)"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráelnek (Izráelnek)"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "vonultak ki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kézzel"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "felemelt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:32.150479596Z",
+  "model": "glm-5.3"
+}

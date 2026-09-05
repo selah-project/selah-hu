@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És feleltek Het fiai ⟨את⟩ Avrahamnak (Ábrahám), mondván neki:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "és feleltek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamnak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamnak (Ábrahám)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:03.677849697Z",
+  "model": "glm-5.3"
+}

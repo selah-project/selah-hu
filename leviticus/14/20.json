@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És a pap felviszi ⟨את⟩ az égőáldozatot és ⟨את⟩ az ételáldozatot az oltárra, és a pap engesztelést szerez neki, és ⟨meg⟩tisztul.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "És felviszi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "égőáldozatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ételáldozatot"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ételáldozatot"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztelést szerez"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "és ⟨meg⟩tisztul"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:26.098440814Z",
+  "model": "glm-5.3"
+}

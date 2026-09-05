@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Utat tesz, hogy bejöjjön a kard: ⟨את⟩ Rabbát, az Ammon fiainak ⟨városát⟩, és ⟨את⟩ Júdát Jeruzsálemben, az erődítettben.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "utat"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "tesz"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bejöjjön"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbát, az Ammon fiainak városát"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbát"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Júdát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júdát"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jeruzsálemben"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "az erődítettben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:06:36.655703686Z",
+  "model": "glm-5.3"
+}

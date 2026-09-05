@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 65:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "akik ezt mondják: „Maradj magadnak, ne közeledj hozzám, mert szentebb vagyok nálad!” Ezek füst az orromban, tűz, amely egész nap ég.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "akik ezt mondják"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "közeledj"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "közeledj"
+    },
+    {
+      "surface": "בי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדשתיך",
+      "gloss": "szentebb vagyok nálad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "füst"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "az orromban"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "יוקדת",
+      "gloss": "égő"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:30.579540420Z",
+  "model": "glm-5.3"
+}

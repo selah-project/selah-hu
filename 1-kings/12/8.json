@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "De elhagyta ⟨את⟩ a vének tanácsát, amelyet adtak neki, és tanácskozott ⟨את⟩ a fiatalokkal, akik vele együtt nőttek fel, akik az ő színe előtt álltak.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "De elhagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vének tanácsát"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "tanácsát"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "a vének"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "adtak neki"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "és tanácskozott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiatalokkal"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "a fiatalokkal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nőttek fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "álltak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "színe előtt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:52.615809605Z",
+  "model": "glm-5.3"
+}

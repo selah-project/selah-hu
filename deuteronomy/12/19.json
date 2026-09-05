@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Őrizd meg magadat, hogy el ne hagyd ⟨את⟩ a lévitát minden napjaidon a földeden.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Őrizd meg"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadat"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy… ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "elhagyd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lévitát"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "a lévitát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "napjaidon"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "földeden"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:47.277806625Z",
+  "model": "glm-5.3"
+}

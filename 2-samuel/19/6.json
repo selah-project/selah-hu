@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És bement Joáv (Jóáb) a királyhoz, a házba, és ezt mondta: megszégyenítetted ma ⟨את⟩ minden szolgád arcát, akik megmentették ma ⟨את⟩ életedet, és ⟨את⟩ fiaid és leányaid életét, és feleségeid életét, és ágyasaid életét.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bement"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "megszégyenítetted"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden szolgád arcát"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgád"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "akik megmentették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "életedet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "életedet"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiaid és leányaid életét"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "élet"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaid"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "és leányaid"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "és élet"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "feleségeid"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "és élet"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "ágyasaid"
+    }
+  ],
+  "timestamp": "2026-09-04T19:33:54.873018371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És ⟨a⟩ szegényt perében el ne kedveled.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "És ⟨a⟩ szegényt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "kedveled el"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "perében"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:18.875484159Z",
+  "model": "glm-5.3"
+}

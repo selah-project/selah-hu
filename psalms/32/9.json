@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Ne legyetek mint a ló, mint az öszvér, amelynek nincs értelme: zablával és kötőfékkel, ékességével kell fékezni ⟨őt⟩, nehogy közelítson hozzád.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "legyetek"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "mint a ló"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "mint az öszvér"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "értelme"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "zablával"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "és kötőfékkel"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ékességével"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "kell fékezni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "közelítson"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:06.996621469Z",
+  "model": "glm-5.3"
+}

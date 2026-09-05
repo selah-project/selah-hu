@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És szóla Jahve Moshehez: Meddig tagadjátok meg parancsolataim és Tóráim (törvényeim) megtartását?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szóla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "-áig"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "tagadjátok meg"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "megtartani"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parancsolataim"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "és Tóráim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:59.481251645Z",
+  "model": "glm-5.3"
+}

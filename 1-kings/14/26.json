@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És elvitte ⟨את⟩ a kincstárait Jahve házának, és ⟨את⟩ a kincstárait a király házának; ⟨את⟩ az egészet elvitte, és elvitte ⟨את⟩ mindazokat az arany pajzsokat, amelyeket Selomó készített.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És elvitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kincstárait Jahve házának"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "kincstárait"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kincstárait a király házának"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "kincstárait"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az egészet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "az egészet"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "elvitte"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és elvitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazokat az arany pajzsokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazokat"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "pajzsokat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomó"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:24.125199974Z",
+  "model": "glm-5.3"
+}

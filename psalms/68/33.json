@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "A föld királyságai, énekeljetek Elohimnak, zengjetek Adonájnak — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "királyságai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "énekeljetek"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimnak"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zengjetek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:12.293408842Z",
+  "model": "glm-5.3"
+}

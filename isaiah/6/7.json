@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És érintette ⟨az én⟩ számat, és mondta: íme, ez érintette ajkaidat, és eltávolítatott a véted, és bűnöd meg van fedve.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "És érintette"
+    },
+    {
+      "surface": "על",
+      "gloss": "… -ra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨az én⟩ számat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "érintette"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "על",
+      "gloss": "… -ra"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ajkaidat"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "és eltávolítatott"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "a véted"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "és bűnöd"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "meg van fedve"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:19.143231159Z",
+  "model": "glm-5.3"
+}

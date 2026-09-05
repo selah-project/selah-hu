@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "A bűnáldozat ezüstje és a vétekáldozat ezüstje nem vittetett be Jahve házába — a kohénoké lesz.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ezüstje"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "bűnáldozat"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "és az ezüstje"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "vétekáldozat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "vittetett be"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "a kohénoknak"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:19.222125223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És gyönyörködjél Jahvában, és ő megadja neked szíved kéréseit!",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "És gyönyörködjél"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvában"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és megadja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "kéréseit"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "szíved"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:00.113473070Z",
+  "model": "glm-5.3"
+}

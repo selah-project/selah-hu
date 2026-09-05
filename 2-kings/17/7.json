@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És történt, mert vétkeztek Izrael fiai Jahve, a velük lévő Elohimjuk ellen — az, aki felhozta ⟨את⟩ őket Egyiptom földjéről, a fáraó, Egyiptom királyának keze alól —, és más isteneket féltek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vétkeztek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelnek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve ellen"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimjuk"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "az, aki felhozja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket (Izrael fiait)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyiptom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alól"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a fáraó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyiptom"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "és féltek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más(ikat)"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:19.086178296Z",
+  "model": "glm-5.3"
+}

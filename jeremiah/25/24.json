@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "és ⟨את⟩ Aráv (Arábia) minden királyát és ⟨את⟩ a sivatagban lakó kevert nép minden királyát",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aráv minden királyát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Aráv (Arábia)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kevert nép minden királyát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "a kevert nép"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "lakó"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a sivatagban"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:00.279188563Z",
+  "model": "glm-5.3"
+}

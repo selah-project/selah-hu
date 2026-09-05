@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 11:13",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És monda Saul: „Ne haljon meg ember ezen a napon, mert ma szerezett szabadítást Jahve Izráelben.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon meg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "szerezett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "szabadítást"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráelben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:06:05.583527774Z",
+  "model": "glm-5.3"
+}

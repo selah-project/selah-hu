@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A bölcs szíve ⟨az ő⟩ jobbján ⟨van⟩, a balga szíve pedig ⟨az ő⟩ balján.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a bölcs"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "jobbján"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "és a szíve"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "a balga"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "balján"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:46.970093025Z",
+  "model": "glm-5.3"
+}

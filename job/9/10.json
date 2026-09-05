@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "aki nagyokat cselekszik, mig nincs kifürkészés, és csodákat, mig nincs megszámlálás",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nagyokat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kifürkészés"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "és csodákat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "megszámlálás"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:40.319345890Z",
+  "model": "glm-5.3"
+}

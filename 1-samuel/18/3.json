@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És szövetséget kötött Jehonatán és Dávid, mert szerette ⟨את⟩ őt, mint a maga lelkét.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "És kötött"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatán"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "és Dávid"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "mert szerette"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt (mint a maga lelkét — כנפשו)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "mint a maga lelkét"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:18.440567091Z",
+  "model": "glm-5.3"
+}

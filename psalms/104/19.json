@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Megalkotta a holdat a rendelt időkre; a nap ismeri a lemenetelét.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Megalkotta"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "a holdat"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "a rendelt időkre"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "a lemenetelét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:32.121871910Z",
+  "model": "glm-5.3"
+}

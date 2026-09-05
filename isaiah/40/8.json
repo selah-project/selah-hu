@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Elhervad a fű, elhullik a virág, de a mi Elohimunk szava megáll örökre.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "Elhervad"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "a fű"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "elhullik"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "a virág"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "de … szava"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunk"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "megáll"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:27.474636569Z",
+  "model": "glm-5.3"
+}

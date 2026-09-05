@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Elárasztottad őket — álommá lesznek; reggel, mint a fű, tovatűnik.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "elárasztottad őket"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "álom"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesznek"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "mint a fű"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "tovatűnik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:03.955877922Z",
+  "model": "glm-5.3"
+}

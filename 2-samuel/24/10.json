@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 24:10",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És megütötte David (Dávid) szívét ⟨את⟩ ⟨azután, hogy⟩ számbavette ⟨את⟩ a népet; és mondta David Jahvénak: „Nagyon vétkeztem abban, amit cselekedtem; és most, Jahve, vond el kérlek ⟨את⟩ szolgádnak vétkét, mert nagyon balgatagul cselekedtem.”",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "És megütötte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt (Davidot)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "azután"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "számbavette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–nak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétkeztem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "vond el"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vétkét"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vétkét"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "balgatagul cselekedtem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:09.194465572Z",
+  "model": "glm-5.3"
+}

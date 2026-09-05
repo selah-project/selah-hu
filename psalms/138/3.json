@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 138,
+  "translation": "A napon, amikor hívtalak, megválaszoltál, erővel bátorítottál meg lelkemben.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "amikor hívtalak"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "megválaszoltál"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "bátorítottál meg"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "lelkemben"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erővel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:24.036767165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "égés helyett égés, seb helyett seb, véraláfutás helyett véraláfutás.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "égés"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "égés"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "seb"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "seb"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "veraláfutás"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "veraláfutás"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:53.450356136Z",
+  "model": "glm-5.3"
+}

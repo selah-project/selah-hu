@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És felkelt Joáv, és elment Gsúrba, és bevitte ⟨את⟩ Avsalomot Jerusálimba.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáv"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Gsúrba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és bevitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsalomot"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalomot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálimba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:28:52.018066880Z",
+  "model": "glm-5.3"
+}

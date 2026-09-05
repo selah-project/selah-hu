@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Cséplésem és szérűm fia — amit hallottam ⟨את⟩ Jahve Cevaóttól, Izrael Elohimjától, azt megjelentem nektek.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Cséplésem"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "és fia"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "szérűmnek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hallottam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Cevaóttól, Izrael Elohimjától"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "megjelentem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:22.159037769Z",
+  "model": "glm-5.3"
+}

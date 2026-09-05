@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És a férfi, aki hál ⟨את⟩ a nagynénjével: nagybátyja meztelenségét fedte fel — vétküket hordozzák, gyermektelenül halnak meg.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "és a férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "hál"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nagynénjével"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "a nagynénjével"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "meztelenségét"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "nagybátyjának"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "fedte fel"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "vétküket"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hordozzák"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "gyermektelenül"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "halnak meg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:35.591750429Z",
+  "model": "glm-5.3"
+}

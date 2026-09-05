@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És megmosta ⟨את⟩ a belső részeket és ⟨את⟩ a lábszárakat, és füstölővé tette ⟨azokat⟩ az égőáldozaton az oltáron.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "és megmosta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a belső részeket"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a belső részeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lábszárakat"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "a lábszárakat"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "és füstölővé tette"
+    },
+    {
+      "surface": "על",
+      "gloss": "azon"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozaton"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:48.118620884Z",
+  "model": "glm-5.3"
+}

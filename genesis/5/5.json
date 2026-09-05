@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És lőnek minden napjai Ádámnak (Ádám), amelyeket élt, kilencszáz év és harminc év, és meghalt.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "És lőnek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ádámnak (Ádám)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élt"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "kilenc"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:46.810764166Z",
+  "model": "glm-5.3"
+}

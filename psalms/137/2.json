@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Fűzfáin annak közepén felakasztottuk kinórainkat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-n"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "fűzfáin"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "annak közepén"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "felakasztottuk"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kinórainkat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:07.925938369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Sőt ⟨ez⟩ ilyet nyitsz szemedre, és ⟨את⟩ engem ítéletbe viszel magaddal?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sőt"
+    },
+    {
+      "surface": "על",
+      "gloss": "szemedre"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "nyitsz"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "⟨erre⟩"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "és ⟨את⟩ engem",
+      "marks": "engem — a תביא 'viszel' tárgya"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "viszel"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ítéletbe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "magaddal"
+    }
+  ],
+  "timestamp": "2026-09-04T22:21:51.654352653Z",
+  "model": "glm-5.3"
+}

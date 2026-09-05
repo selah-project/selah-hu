@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És a pap füstölje fel ⟨את⟩ annak emlékrészét: tört gabonájából és olajából, az egész tömjénével — tűzáldozat Jahvénak.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "és füstölje fel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emlékrészét"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "emlékrészét"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tört gabonájából"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "és olajából"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellette"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "tömjénével"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:01.266557808Z",
+  "model": "glm-5.3"
+}

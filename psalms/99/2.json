@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 99,
+  "translation": "Jahve nagy Cijonban, és magasztos ő minden népek fölött.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cijonban"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "és magasztos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "על",
+      "gloss": "-fölött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "népeknek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:21.031987452Z",
+  "model": "glm-5.3"
+}

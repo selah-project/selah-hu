@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 21:2",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "„Kérdezz meg kérlek Jahvét ⟨את⟩ értünk, mert Nevukadrecár, Bábel királya, hadat visel ellenünk; talán cselekszik Jahve velünk ⟨את⟩ minden csodája szerint, és felvonul rólunk.”",
+  "tokens": [
+    {
+      "surface": "דרש",
+      "gloss": "Kérdezz meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "értünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadrecár"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábel"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "hadat visel"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ellenünk"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "talán"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "velünk ⟨את⟩",
+      "marks": "velünk"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "minden…szerint"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "csodái"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "és felvonul"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "rólunk"
+    }
+  ],
+  "timestamp": "2026-09-05T00:12:13.829940730Z",
+  "model": "glm-5.3"
+}

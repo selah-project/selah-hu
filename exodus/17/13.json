@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És legyőzte Jehosua (Józsué) ⟨את⟩ Amálékot és ⟨את⟩ népét a kard éle (száj) által.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "legyőzte"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amálékot"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálékot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "népét"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "...sze szerint"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:06.556683607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha egy embernek az ökre megszúrja ⟨את⟩ a felebarátja ökrét, és az elpusztul, akkor eladják ⟨את⟩ az élő ökröt, és megfelezik ⟨את⟩ az árát, sőt ⟨את⟩ a döglöttet is kettéosszák.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "megszúrja"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökere"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy embernek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a felebarátja ökrét"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökrét"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátja"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "és elpusztul"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "akkor eladják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az élő ökröt"
+    },
+    {
+      "surface": "השור",
+      "gloss": "az ökröt"
+    },
+    {
+      "surface": "החי",
+      "gloss": "az élőt"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "és megfelezik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az árát"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "az árát"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt … is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a döglöttet"
+    },
+    {
+      "surface": "המת",
+      "gloss": "a döglöttet"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "kettéosszák"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:31.579255036Z",
+  "model": "glm-5.3"
+}

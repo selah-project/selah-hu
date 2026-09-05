@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És elhagyták ⟨את⟩ Jahve házát, atyáik Elohimját, és szolgálták ⟨את⟩ az Asérákat és ⟨את⟩ a bálványokat; és lett harag Jehúda és Jerusálájim (Jeruzsálem) felett e bűnük miatt.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "És elhagyták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimját"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "és szolgálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Asérákat"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "az Asérákat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bálványokat"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "a bálványokat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "harag"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "és Jerusálájim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "bűnük miatt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-09-04T23:19:20.897227129Z",
+  "model": "glm-5.3"
+}

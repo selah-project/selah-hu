@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És felállít Jahve ⟨neki⟩ magának királyt Jiszráél fölé, aki kiirtja ⟨את⟩ Járovám házát — ez ⟨történik⟩ ma, és mi ⟨lesz⟩ már most!",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "És felállít"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩ magának"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyt"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "kiirtja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Járovám házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Járovám"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "és mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "már"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:03.902531537Z",
+  "model": "glm-5.3"
+}

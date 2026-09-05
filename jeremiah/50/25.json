@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Kinyitotta Jahve ⟨את⟩ raktárát, és kivitte ⟨את⟩ haragjának eszközeit, mert munka ez Adonáj Jahve Cevaótnak a Kásdim földjén.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Kinyitotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raktárát"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "raktárát"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "és kivitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haragjának eszközeit"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "eszközeit"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "haragjának"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "munka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaótnak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "a Kásdim"
+    }
+  ],
+  "timestamp": "2026-09-04T20:55:04.455581518Z",
+  "model": "glm-5.3"
+}

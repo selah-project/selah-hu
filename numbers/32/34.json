@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És építették Gád fiai ⟨את⟩ Divont és ⟨את⟩ Atarótot és ⟨את⟩ Aroért.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "és építették"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Divont"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Divon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Atarótot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarótot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aroért"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroér"
+    }
+  ],
+  "timestamp": "2026-09-04T17:45:59.389190088Z",
+  "model": "glm-5.3"
+}

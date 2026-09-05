@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Így szólt Adonáj Jahve: és véget vetek ⟨את⟩ Micrajim tömegének Nevukadrecár kezével, Bábel királyával.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "véget vetek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim tömegének"
+    },
+    {
+      "surface": "המון",
+      "gloss": "tömege"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezével"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadrecár"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábelnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:09:57.124335805Z",
+  "model": "glm-5.3"
+}

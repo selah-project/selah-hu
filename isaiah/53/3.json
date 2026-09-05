@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "Megvetett és elhagyatott az emberek között, a fájdalmak férfia és a betegség ismerője; és mint akitől arcokat rejtettek el, megvetett volt, és nem tartottuk őt semminek.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Megvetett"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "és elhagyatott"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfia"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "a fájdalmak"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "és ismerője"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "a betegség"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "és mint akitől rejtettek el"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "arcokat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "(őt)"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "megvetett"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "tartottuk őt semminek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:36:52.472914969Z",
+  "model": "glm-5.3"
+}

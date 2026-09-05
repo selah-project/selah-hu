@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És magához hívta Éli ⟨את⟩ Smuélt, és mondta: „Smuél, fiam!” És ⟨ő⟩ mondta: „Íme, itt vagyok!”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És hívta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Smuélt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuélt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Íme, itt vagyok"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:53.949962589Z",
+  "model": "glm-5.3"
+}

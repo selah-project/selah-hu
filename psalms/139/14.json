@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Hálát adok neked, mert félelmesen ⟨és⟩ csodálatosan megkülönböztettettek; csodálatosak ⟨a⟩ te műveid, és lelkem nagyon jól tudja ⟨ezt⟩.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hálát adok neked"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨mert⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "félelmesen"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "csodálatosan megkülönböztettettek"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "csodálatosak"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "te műveid"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "és lelkem"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudja"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon jól"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:29.589500733Z",
+  "model": "glm-5.3"
+}

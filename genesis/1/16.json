@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megcsinálta Elohim ⟨את⟩ a két nagy világítótestet, ⟨את⟩ a nagy világítótestet ⟨a⟩ nappal uralására, és ⟨את⟩ a kicsiny világítótestet ⟨az⟩ éjszaka uralására, és ⟨את⟩ a csillagokat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcsinálta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a két nagy világítótestet"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "nagy világítótestet"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "nagy(oka)t"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nagy világítótestet"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "világítótest(et)"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nagy(at)"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "uralására"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨a⟩ nappal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kicsiny világítótestet"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "világítótest(et)"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kicsiny(et)"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "uralására"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨az⟩ éjszaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a csillagokat"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "csillagokat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:49.264868068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Az ostor hangja és a kerék zörgésének hangja, vágtató ló és szökdelő harci szekér.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "ostor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "és hangja"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "zörgésének"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "kerék"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "és ló"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "vágtató"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "és harci szekér"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "szökdelő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:28:55.085783874Z",
+  "model": "glm-5.3"
+}

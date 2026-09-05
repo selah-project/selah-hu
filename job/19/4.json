@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És ha valóban tévedtem, tévelygem ⟨את⟩ velem marad.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "valóban"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "tévedtem"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem",
+      "marks": "tévelygem"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "marad"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "tévelygem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:22:43.047205487Z",
+  "model": "glm-5.3"
+}

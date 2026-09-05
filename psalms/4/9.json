@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Békében együtt fekszem le és alszom, mert te, Jahve, egyedül, biztonságban szállásolsz meg.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Békében"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "fekszem le"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "és alszom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "biztonságban"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "szállásolsz meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:35:53.913644474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Csak ember ne perlekedjék, és ember ne feddjen, és néped olyanok, mint a papot perlők.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "perlekedjék"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "feddjen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "és néped"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "mint a papot perlők"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:29.894080914Z",
+  "model": "glm-5.3"
+}

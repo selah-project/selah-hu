@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Megérintette Jahve ⟨את⟩ a királyt, és bélpoklos lett halálának napjáig, és lakott a szabad házban; Jótám (Jótám) pedig, a király fia, a ház fölött ⟨állt⟩, ítélve ⟨את⟩ az ország népét.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Megérintette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "bélpoklos"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napjá"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "halálának"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és lakott"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házban"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "a szabad ház"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "és Jótám"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ítélve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ország népét"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népét"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:09.018440856Z",
+  "model": "glm-5.3"
+}

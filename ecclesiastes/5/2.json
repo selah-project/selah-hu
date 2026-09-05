@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Mert az álom sok gond ⟨között⟩ jön, és a bolond hangja sok szó ⟨között⟩ ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "az álom"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sok"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "gond"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "és a hang"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "a bolondé"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sok"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "szó"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:10.909447716Z",
+  "model": "glm-5.3"
+}

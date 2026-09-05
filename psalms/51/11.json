@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Rejtsd el orcádat bűneimtől, és töröld ki minden vétemet.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "rejtsd el"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "bűneimtől"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "vétemet"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "töröld ki"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:25.341866075Z",
+  "model": "glm-5.3"
+}

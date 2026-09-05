@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És haragra ingerelték őt a Meriva (vitatkozás) vizeinél, és rosszul járt Moshe (Mózes) értük.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "és haragra ingerelték"
+    },
+    {
+      "surface": "על",
+      "gloss": "őt"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizeinél"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "és rosszul járt"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "értük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:37.256734144Z",
+  "model": "glm-5.3"
+}

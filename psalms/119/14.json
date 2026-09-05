@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A tanúságaid útján ujjongtam, mint ⟨a⟩ minden gazdagság ⟨felett⟩.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "az útján"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "a tanúságaid"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "ujjongtam"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "mint ⟨a⟩ … ⟨felett⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הון",
+      "gloss": "gazdagság"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:42.492295255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És vette Hámán ⟨את⟩ a ruhát és ⟨את⟩ a lovat, és felöltöztette ⟨את⟩ Mordochájt, és felültette őt a város főtérére, és kiáltotta előtte: „Így tesznek az emberrel, akit a király kíván megtisztelni!”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ruhát"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "a ruhát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lovat"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "a lovat"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "és felöltöztette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordochájt"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordochájt"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "és felültette őt"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "a főtér"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és kiáltotta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tesznek"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "az emberrel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kíván"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "megtisztelni"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:44.218088566Z",
+  "model": "glm-5.3"
+}

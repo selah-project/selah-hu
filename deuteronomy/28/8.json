@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Megparancsolja Jahve ⟨את⟩ veled ⟨את⟩ az áldást a te magtáraidban és minden kezed kinyújtásán, és megáld téged a földön, amelyet Jahve, a te Elohimod, ad neked.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "Megparancsolja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az áldást"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "az áldást"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "a te magtáraidban"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "kinyújtásán"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "és megáld téged"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:48.747788414Z",
+  "model": "glm-5.3"
+}

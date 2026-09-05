@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És mondtuk: készítsünk magunknak oltárt építeni ⟨את⟩ az oltárt — nem égőáldozatra és nem véresáldozatra.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "és mondtuk"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "készítsünk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "magunknak"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "építeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "égőáldozatra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "véresáldozatra"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:44.158147974Z",
+  "model": "glm-5.3"
+}

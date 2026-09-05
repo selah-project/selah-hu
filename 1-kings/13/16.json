@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És monda: Nem tudok veled visszatérni, sem veled bemenni, és nem eszem kenyeret, és nem iszom veled vizet ezen a helyen;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tudok"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "visszatérni"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "sem bemenni"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eszem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "iszom"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:05.073370116Z",
+  "model": "glm-5.3"
+}

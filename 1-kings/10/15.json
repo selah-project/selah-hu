@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Azonfelül ⟨ami jött⟩ az utazóktól és a kalmárok kereskedelmétől, és a vegyes nép minden királyaitól és az ország helytartóitól.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Azonfelül"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "⟨ami jött⟩ az ... embereitől"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "utazóktól"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "és kereskedelmétől"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "a kalmároknak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyaitól"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "a vegyes nép"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "és helytartóitól"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:05.504157079Z",
+  "model": "glm-5.3"
+}

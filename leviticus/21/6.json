@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 21:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Szentek legyenek Elohimjuknak, és ne szentségtelenítsék Elohimjuk nevét, mert ⟨את⟩ Jahve tűzáldozatait — Elohimjuk kenyerét — ők mutatják be, és szentek legyenek.",
+  "tokens": [
+    {
+      "surface": "קדשים",
+      "gloss": "Szentek"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "Elohimjuknak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "szentségtelenítsék"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimjuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve tűzáldozatait"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "tűzáldozatait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerét"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimjuk"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ők"
+    },
+    {
+      "surface": "מקריבם",
+      "gloss": "mutatják be"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "és legyenek"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:40.344630248Z",
+  "model": "glm-5.3"
+}

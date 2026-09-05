@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És megtartod ⟨את⟩ a parancsolatot és ⟨את⟩ a rendeléseket és ⟨את⟩ az ítéleteket, amelyeket én parancsolok neked ma, hogy megcselekedd azokat.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "És megtartod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a parancsolatot"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "a parancsolatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a rendeléseket"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "a rendeléseket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ítéleteket"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "az ítéleteket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parancsolok neked"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "hogy megcselekedd azokat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:29.212279035Z",
+  "model": "glm-5.3"
+}

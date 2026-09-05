@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mert kereskedelme jobb az ezüst kereskedelménél, és haszna a válogatott aranynál.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "kereskedelme"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "kereskedelménél"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "és a válogatott aranynál"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "haszna"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:35.266732491Z",
+  "model": "glm-5.3"
+}

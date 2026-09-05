@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Ha egy embernek van lázadó és engedetlen fia, nem hallgat apjának szavára és anyjának szavára, és megfenyítik ⟨את⟩ őt, de nem hallgat rájuk:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "van"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "egy embernek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "lázadó"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "és engedetlen"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgat"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apjának"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "és szavára"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anyjának"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "és megfenyítik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hallgat"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "rájuk"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:47.473068549Z",
+  "model": "glm-5.3"
+}

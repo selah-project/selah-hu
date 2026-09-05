@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 17:4",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És vette Elazár, a pap, ⟨את⟩ a serpenyőket, a rézből valókat, amelyeket felajánlottak az elégek, és kiverék azokat bevonatul az oltárra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazár"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a serpenyőket, a rézből valókat"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "a serpenyőket"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "a rézből valókat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "felajánlottak"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "az elégek"
+    },
+    {
+      "surface": "וירקעום",
+      "gloss": "és kiverék azokat"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "bevonatul"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "az oltárra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:37:51.399539528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És vettéd ⟨את⟩ fiaidat és ⟨את⟩ leányaidat, akiket nekem szültél, és levágtad azokat nekik eledelül. Kevés ⟨ez⟩ a te paráználkodásodtól?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "És vettéd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaidat"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaidat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "leányaidat"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "leányaidat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "szültél"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "és levágtad azokat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "eledelül"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "Kevés ⟨ez⟩"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "a te paráználkodásodtól"
+    }
+  ],
+  "timestamp": "2026-09-05T00:29:59.689675966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "föld, amelyet Jahve, a te Elohimod szüntelen vizel, ⟨את⟩ ⟨őt⟩ — Jahvenak, a te Elohimodnak szemei rajta vannak az év kezdetétől az év végéig.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "szüntelen vizel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨őt⟩ — a föld"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvenak"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodnak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "kezdetétől"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "az év"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "végéig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "az évnek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:33.318679720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Jahve, reggel hallod hangomat, reggel rendezem ⟨eléd⟩ ⟨az⟩ imádat, és őrködöm!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hallod"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hangomat"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "rendezem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨eléd⟩"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "és őrködöm"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:20.886481024Z",
+  "model": "glm-5.3"
+}

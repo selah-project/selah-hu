@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Mert férfi, ember — ha atyját és anyját átkozza, halállal haljon: atyját és anyját átkozta, vére ⟨van⟩ rajta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "átkozza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyját"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "anyját"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anyját"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyját"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "és anyját"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "átkozta"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "vére"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:22.242124139Z",
+  "model": "glm-5.3"
+}

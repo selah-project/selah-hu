@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "És fogod ⟨את⟩ a bikát, a vétekáldozatét, és elégessék a ház kijelölt helyén, kívül a szentélyen.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "És fogod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bikát"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bikát"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a vétekáldozatét"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "és elégessék"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "a kijelölt helyén"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "a szentélyen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:16:18.820384593Z",
+  "model": "glm-5.3"
+}

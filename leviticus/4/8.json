@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ⟨את⟩ minden zsírt emeljen fel róla a bűnáldozat bikájából: ⟨את⟩ a zsírt, amely a belsőségekre borul, és ⟨את⟩ minden zsírt, amely a belsőségeken van.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minden zsírt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "zsírt"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bikájából"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a bűnáldozat"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "emeljen fel"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "róla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "amely borul"
+    },
+    {
+      "surface": "על",
+      "gloss": "erre"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a belsőségekre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minden zsírt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a belsőségeken"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:37.934512302Z",
+  "model": "glm-5.3"
+}

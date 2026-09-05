@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És levágta, és fogta Moshe ⟨את⟩ a vért, és ráadta az oltár szarvaira körös-körül az ujjával, és megtisztította ⟨את⟩ az oltárt, és ⟨את⟩ a vért kiöntötte az oltár alapjára, és megszentelte azt, hogy engesztelést szerezzen rajta.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "levágta"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "fogta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ráadta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "szarvaira"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körös-körül"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "az ujjával"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "megtisztította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "kiöntötte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "alapjára"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "megszentelte azt"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "engesztelést szerezzen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:32.199805594Z",
+  "model": "glm-5.3"
+}

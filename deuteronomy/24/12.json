@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És ha szegény ember ⟨az⟩, ne feküdj le a zálogával.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "עני",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "feküdj le"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "a zálogával"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:18.096590706Z",
+  "model": "glm-5.3"
+}

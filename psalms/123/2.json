@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 123,
+  "translation": "Ímé, mint a szolgák szemei ⟨néznek⟩ uruk kezére, mint a szolgálóleány szemei ⟨néznek⟩ úrnője kezére, úgy ⟨néznek⟩ a mi szemeink Jahvéra, a mi Elohimunkra, míg megkegyelmez ⟨nekünk⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ímé"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "mint ... szemei"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "a szolgák"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... kezére"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kezére"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "uruk"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "mint ... szemei"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "a szolgálóleány"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... kezére"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kezére"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "úrnője"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "a mi szemeink"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... felé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéra"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunkra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "megkegyelmez"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:19.124818619Z",
+  "model": "glm-5.3"
+}

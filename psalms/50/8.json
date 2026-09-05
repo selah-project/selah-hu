@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Nem áldozataidért vádollak téged, és égőáldozataid szüntelenül előttem vannak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "áldozataidért"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "vádollak téged"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "és égőáldozataid"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:26.881762980Z",
+  "model": "glm-5.3"
+}

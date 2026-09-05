@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És száműzte ⟨את⟩ Jehojákint Babilóniába, és ⟨את⟩ a király anyját, és ⟨את⟩ a király feleségeit, és ⟨את⟩ udvariembereit, és ⟨את⟩ a föld hatalmasait — fogságba vitte ⟨azokat⟩ Jerusálaimból Babilóniába.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "És száműzte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehojákint"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojákint"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilóniába"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király anyját"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anyját"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király feleségeit"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "feleségeit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "udvariembereit"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "udvariembereit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a föld hatalmasait"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "hatalmasait"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "vitte"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "fogságba"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusálaimból"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilóniába"
+    }
+  ],
+  "timestamp": "2026-09-05T00:27:52.565324008Z",
+  "model": "glm-5.3"
+}

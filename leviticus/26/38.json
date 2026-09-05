@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És elpusztultok a nemzetek között, és megemészt titeket ⟨את⟩ ellenségeitek földje.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "És elpusztultok"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a nemzetek között"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "és megemészt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "ellenségeitek földje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földje"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ellenségeitek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:02.569007703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Mert nincs szilárdság a szájukban, belsejük romlás ⟨az⟩, nyitott sír ⟨a⟩ gégéjük, nyelvükön simítanak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "a szájukban"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "szilárdság"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "belsejük"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "romlás"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sír"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "nyitott"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "gégéjük"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "nyelvükön"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "simítanak"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:55.120277938Z",
+  "model": "glm-5.3"
+}

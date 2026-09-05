@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Amikor vezérei ⟨kibontották hajukat⟩ Izráelben, amikor a nép önként felajánlotta magát: áldjátok Jahvét!",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "amikor kibontott"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "hajukat (a vezérei)"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráelben"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "amikor önként felajánlotta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a nép (magát)"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "áldjátok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T18:50:24.006233306Z",
+  "model": "glm-5.3"
+}

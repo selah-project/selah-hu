@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És öntött a kenet olajából Aharon (Áron) fejére, és felkente őt, hogy megszentelje.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "És öntött"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "…olajából"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a kenet"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨erre⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejére"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Áron)"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "és felkente"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "hogy megszentelje"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:55.977012004Z",
+  "model": "glm-5.3"
+}

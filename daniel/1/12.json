@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "„Próbáld meg, kérlek, ⟨את⟩ a te szolgáidat tíz napon át, és adnak nekünk a magvakból, hogy együnk, és vizet, hogy igyunk.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "próbáld meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáidat"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "a te szolgáidat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "és adnak"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "a magvakból"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "hogy együnk"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "és vizet"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "hogy igyunk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:13.486513405Z",
+  "model": "glm-5.3"
+}

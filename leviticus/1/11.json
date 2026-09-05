@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és vágja le ⟨את⟩ annak az oltár oldalán, északra, Jahve előtt; és szórják Ahárón (Áron) fiai, a papok, ⟨את⟩ annak vérét az oltárra köröskörül.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "és vágja le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "annak (az állatot)"
+    },
+    {
+      "surface": "על",
+      "gloss": "…nál"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "oldalán"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "északra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "és szórják"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárón (Áron)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak vérét"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "annak vérét"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:25.750257434Z",
+  "model": "glm-5.3"
+}

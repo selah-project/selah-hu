@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Mert megkeserítették ⟨את⟩ az ő lelkét, és szót ejtett ajkaival meggondolatlanul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "megkeserítették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő lelkét"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "az ő lelkét"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "és szót ejtett meggondolatlanul"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ajkaival"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:27.972931844Z",
+  "model": "glm-5.3"
+}

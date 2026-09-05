@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mindnyájan kardot fogók, harcra tanultak; minden ember ⟨a⟩ kardja combján, az éjszakák rettegésétől.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Mindnyájan"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "fogói"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardnak"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "tanultak"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "harcra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "minden ember"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kardja"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ján"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "comb"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "rettegéstől"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "az éjszakák"
+    }
+  ],
+  "timestamp": "2026-09-04T22:30:23.841726121Z",
+  "model": "glm-5.3"
+}

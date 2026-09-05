@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "A nadálynak két leánya ⟨van⟩: »Add, add!« Három van, ami nem lakik jól, négy, ami nem mondja: »Elég!«",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "a nadálynak"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leánya"
+    },
+    {
+      "surface": "הב",
+      "gloss": "»Add"
+    },
+    {
+      "surface": "הב",
+      "gloss": "add!«"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "Három"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "van"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "lakik jól"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "הון",
+      "gloss": "»Elég!«"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:41.707288358Z",
+  "model": "glm-5.3"
+}

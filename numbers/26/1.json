@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És szólt Jahve Moshe (Mózes) és Elazar, Aharon (Áron) fiának, a kohennek, szólva:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és -hez"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonnak (Áron)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "szólva"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:45.336717867Z",
+  "model": "glm-5.3"
+}

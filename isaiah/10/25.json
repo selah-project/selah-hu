@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Mert még kevés, igen kevés, és véget ér a harag, és az én haragom az ő pusztulásukon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "igen kevés"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "és véget ér"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "a harag"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "és az én haragom"
+    },
+    {
+      "surface": "על",
+      "gloss": "az ő"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "pusztulásukon"
+    }
+  ],
+  "timestamp": "2026-09-04T20:10:15.475823085Z",
+  "model": "glm-5.3"
+}

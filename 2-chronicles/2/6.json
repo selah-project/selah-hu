@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 2:6",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "„Most azért küldj nekem egy embert, aki bölcs ⟨a⟩ munkálkodásban aranyban, ezüstben, rézben és vason, bíborban és karmazsinban és kékben, és aki ért véseteket vésett munkára faragni, ⟨azokkal⟩ a bölcsekkel együtt, akik velem vannak Jehúdában és Jerusálamban, akiket Davíd, az én atyám elkészített.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "most azért"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "küldj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy embert"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "aki bölcs"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨a⟩ munkálkodásban"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "aranyban"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ezüstben"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "rézben"
+    },
+    {
+      "surface": "ובברזל",
+      "gloss": "és vason"
+    },
+    {
+      "surface": "ובארגון",
+      "gloss": "bíborban"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "és karmazsinban"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "és kékben"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "és aki ért"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "véseteket faragni"
+    },
+    {
+      "surface": "פתוחים",
+      "gloss": "vésett munkára"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨azokkal⟩ együtt"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "a bölcsekkel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "velem"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehúdában"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "és Jerusálamban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "elkészített"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "az én atyám"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:58.076213983Z",
+  "model": "glm-5.3"
+}

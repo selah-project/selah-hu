@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Ha Adonáj kimossa ⟨את⟩ a Cijon leányainak fertőjét, és ⟨את⟩ Jerusálajim vérét kitörli annak kebeléből — ítélet lelkével és perzselő lélekkel.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "kimossa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Cijon leányainak fertőjét"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "fertőjét"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leányainak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jerusálajim vérét"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "kitörli"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "kebeléből"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "lélekkel"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ítélet"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "és lélekkel"
+    },
+    {
+      "surface": "בער",
+      "gloss": "perzselő"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:15.781321975Z",
+  "model": "glm-5.3"
+}

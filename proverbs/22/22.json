@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ne rabolj ⟨el⟩ szegényt, mert szegény ⟨az⟩, és ne nyomj el nyomorultat a kapuban.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "rabolj el"
+    },
+    {
+      "surface": "דל",
+      "gloss": "szegényt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "דל",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "nyomj el"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorultat"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kapuban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:13.415542197Z",
+  "model": "glm-5.3"
+}

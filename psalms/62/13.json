@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "És teneked, Adonáj, ⟨van⟩ heszed, mert te megfizetsz minden embernek, cselekedete szerint.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "És teneked"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "megfizetsz"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "embernek"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "cselekedete szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:53.012464047Z",
+  "model": "glm-5.3"
+}

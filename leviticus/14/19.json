@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És a pap elvégzi ⟨את⟩ a bűnáldozatot, és engesztelést szerez a megtisztultnak az ő tisztátalanságából, és azután leölvi ⟨את⟩ az égőáldozatot.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "És elvégzi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bűnáldozatot"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "bűnáldozatot"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztelést szerez"
+    },
+    {
+      "surface": "על",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "a megtisztult"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "tisztátalanságából"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és azután"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "leölvi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "égőáldozatot"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:26.098286242Z",
+  "model": "glm-5.3"
+}

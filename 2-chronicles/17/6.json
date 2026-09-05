@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És felmagasodott az ő szíve Jahve útjaiban, és még eltávolította ⟨את⟩ a bámákat és ⟨את⟩ az Asérákat Jehúdából.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "És felmagasodott"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "az ő szíve"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "útjaiban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "és még"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "eltávolította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bámákat"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "a bámákat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az Asérákat"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "az Asérákat"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Jehúdából"
+    }
+  ],
+  "timestamp": "2026-09-04T23:15:30.511368785Z",
+  "model": "glm-5.3"
+}

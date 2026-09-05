@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Éjszakává teszik ⟨a⟩ napot — ⟨mondván:⟩ a világosság közel van a sötétség ⟨színe⟩ előtt.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "Éjszakává"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨a⟩ napot"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "teszik"
+    },
+    {
+      "surface": "אור",
+      "gloss": "a világosság"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "közel van"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨színe⟩ előtt"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a sötétség"
+    }
+  ],
+  "timestamp": "2026-09-04T23:52:42.632412134Z",
+  "model": "glm-5.3"
+}

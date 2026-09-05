@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta a kígyó a nőnek: „Bizony nem haltok meg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "a kígyó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–nak"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "a nő"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "haltok meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:55.455128481Z",
+  "model": "glm-5.3"
+}

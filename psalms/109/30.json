@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Hálát adok ⟨a⟩ Jahvénak nagyon a számmal, és sokak közepette dicsérem őt.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Hálát adok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "a számmal"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "és közepette"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sokak"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "dicsérem őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:30.947933104Z",
+  "model": "glm-5.3"
+}

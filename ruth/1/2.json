@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 1:2",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "A férfi neve Elimelech, feleségének neve Naomi (Noémi), és két fiának neve Machlon és Kiljon, efratiták, Bejt-Lechemből, Jehúdából; és bejöttek Moáb mezeire, és ott lettek.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "és ⟨a⟩ neve"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelech"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "és ⟨a⟩ neve"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "feleségének"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi (Noémi)"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "és ⟨a⟩ neve"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiának"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "és Kiljon"
+    },
+    {
+      "surface": "אפרתים",
+      "gloss": "efratiták"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…ból"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bejt-Lechemből"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdából"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és bejöttek"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mezeire"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T23:54:10.636790326Z",
+  "model": "glm-5.3"
+}

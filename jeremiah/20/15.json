@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Átkozott ⟨legyen⟩ az ember, aki hírt vitt ⟨את⟩ apámnak, mondván: fiú született neked, férfigyermek — és vele nagy örömöt szerzett.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Átkozott"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hírt vitt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apámnak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apámnak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "született"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiú"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "férfigyermek"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "örömöt szerzett"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "nagyon örvendeztette őt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:39:11.755689829Z",
+  "model": "glm-5.3"
+}

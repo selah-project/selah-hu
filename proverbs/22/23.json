@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Mert Jahve elveszi ⟨את⟩ perjüket, és kifosztja ⟨את⟩ életüket a kifosztóiknak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "elveszi perjüket"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "perjüket"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "és kifosztja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kifosztókat"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "kifosztóiknak"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "életüket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:13.415673788Z",
+  "model": "glm-5.3"
+}

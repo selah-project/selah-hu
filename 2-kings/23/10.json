@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És beszennyezte ⟨את⟩ a Tofetet, amely a Hinnom fiai völgyében van, hogy senki ne vigye át ⟨את⟩ a fiát és ⟨את⟩ a lányát tűzön a Moleknek.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "És beszennyezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Tofetet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "a Tofetet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "völgyében"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "vigye át"
+    },
+    {
+      "surface": "איש",
+      "gloss": "senki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiát"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lányát"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "lányát"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzön"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a Moleknak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:06.298033950Z",
+  "model": "glm-5.3"
+}

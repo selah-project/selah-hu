@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És fogant Sara (Sára), és szült Avrahámnak (Ábrahámnak) fiat az öregségében, a megszabott időben, amelyről beszélt ⟨את⟩ ő vele Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "És fogant"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahámnak (Ábrahámnak)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiat"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "az öregségében"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "a megszabott időben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyről"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": " Elohim beszédének tárgya — ő vele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:34.621809051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Sóvárgott, sőt erejét vesztette a lelkem Jahve udvarai után; szívem és testem ujjong az élő El felé.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "sóvárgott"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "erejét vesztette"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "udvarai után"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "és testem"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ujjong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:42.775193652Z",
+  "model": "glm-5.3"
+}

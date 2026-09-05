@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És a szőlőtőn három vessző ⟨van⟩, és ⟨az⟩, mint ha virágzana, felment a virága, megértek a fürtjei szőlőszemeket.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "És a szőlőtőn"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "vessző"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "és ⟨az⟩"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "mint ha virágzana"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "felment"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "a virága"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "megértek"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "a fürtjei"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "szőlőszemeket"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:03.648951620Z",
+  "model": "glm-5.3"
+}

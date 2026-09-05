@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Ben-Cheszed az Aruvótban; neki ⟨volt⟩ Szokó és Chéfer egész földje.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Cheszed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "az Aruvótban"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Szokó"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chéfer"
+    }
+  ],
+  "timestamp": "2026-09-05T00:11:41.945206883Z",
+  "model": "glm-5.3"
+}

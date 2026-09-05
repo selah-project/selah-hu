@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Szabadíts meg a vérektől, Elohim, szabadításom Elohim-ja, és ujjongani fog nyelvem a te igazságod.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Szabadíts meg"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "a vérektől"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ja"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "szabadításom"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "ujjongani fog"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "nyelvem"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "a te igazságod"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:19.403441077Z",
+  "model": "glm-5.3"
+}

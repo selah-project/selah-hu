@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "hogy ne tépjen szét, mint az oroszlán, ⟨az⟩ életemet, darabokra szaggatva, és nincs, aki megszabadítson.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "tépjen szét"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "mint az oroszlán"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨az⟩ életemet"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "darabokra szaggatva"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "aki megszabadítson"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:08.603950345Z",
+  "model": "glm-5.3"
+}

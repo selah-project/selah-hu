@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Bizony megverted ⟨את⟩ Edómot, és felvitt a szíved: légy súlyos ⟨dicsőséggel⟩, és ülj a te házadban — és miért ingerelsz rosszra, hogy elesél te, és Jehúda veled?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "bizony megverted"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "megverted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edómot"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edómot"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "és felvitt téged"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "a szíved"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "légy súlyos"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "és ülj"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a te házadban"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "és miért"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ingerelsz"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "rosszra"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "hogy elesél"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "és Jehúda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:55.012147027Z",
+  "model": "glm-5.3"
+}

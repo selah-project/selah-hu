@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Mert nem ⟨vagy⟩ El, aki a rosszaságot kívánja; gonosz nem időzik nálad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kívánja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a rosszaságot"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "időzik nálad"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gonosz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:34.300581164Z",
+  "model": "glm-5.3"
+}

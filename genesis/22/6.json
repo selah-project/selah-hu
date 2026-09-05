@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És vette Avraham ⟨את⟩ az égőáldozat fáit, és rátette Jichakra (Izsákra), az ő fiára; ő pedig kezébe vette ⟨את⟩ a tüzet és ⟨את⟩ a kést; és mentek mindketten együtt.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozat fáit"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fáit"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és rátette"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichakra (Izsákra)"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiára"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ő pedig vette"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tüzet"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tüzet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kést"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "a kést"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és mentek"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindketten"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:20.301573493Z",
+  "model": "glm-5.3"
+}

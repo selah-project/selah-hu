@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "A sötétben járó pestistől, a délt dúló pusztítástól.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "pestistől"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "sötétben"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "járó"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "pusztítástól"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "dúló"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "délben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:09.850358189Z",
+  "model": "glm-5.3"
+}

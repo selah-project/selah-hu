@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Jahve megkeményítette ⟨את⟩ Paró szívét, és nem volt hajlandó elbocsátani őket.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "És megkeményítette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paró szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "volt hajlandó"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "elbocsátani őket"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:39.429254720Z",
+  "model": "glm-5.3"
+}

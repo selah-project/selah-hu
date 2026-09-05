@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Vajon ⟨az⟩ El torzítja-e a jogot, és vajon a Saddáj torzítja-e a jogosságot?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "⟨az⟩ El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "torzítja-e"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "a jogot"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és vajon"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "a Saddáj"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "torzítja-e"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "a jogosságot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:48.157446004Z",
+  "model": "glm-5.3"
+}

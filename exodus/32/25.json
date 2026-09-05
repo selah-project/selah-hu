@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És látta Moshe ⟨את⟩ a népet, hogy kioldatlan ⟨az⟩, mert Aharon lazította meg őt gúnnyá ellenfeleik között.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "kioldatlan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "lazította meg"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "gúnnyá"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "ellenfeleik között"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:09.142281748Z",
+  "model": "glm-5.3"
+}

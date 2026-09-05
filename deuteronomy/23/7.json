@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne keresd javukat és jólétüket minden napodon, örökké.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "keresd"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "jólétüket"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "és javukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "napodon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:08.210226402Z",
+  "model": "glm-5.3"
+}

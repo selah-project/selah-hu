@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Aki ontja az ember vérét, ember által ontatik az ő vére; mert Elohim képében teremtette ⟨את⟩ az embert.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ontja"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ember által"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "az ő vére"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ontatik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "képében"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teremtette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:35.071168010Z",
+  "model": "glm-5.3"
+}

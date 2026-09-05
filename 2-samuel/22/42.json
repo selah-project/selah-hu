@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Segélyt kerestek, de nem volt megmentő; Jahvéhoz ⟨kiáltottak⟩, de nem felelt nekik.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "segélyt kerestek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "de nem volt"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "mentő"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvához"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "felelt nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T19:34:46.465841800Z",
+  "model": "glm-5.3"
+}

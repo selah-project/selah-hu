@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 138,
+  "translation": "És énekelnek ⟨a⟩ Jahve útjain, mert nagy Jahve dicsősége.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "és énekelnek"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "útjain"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsősége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:23.406417175Z",
+  "model": "glm-5.3"
+}

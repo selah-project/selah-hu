@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És ember az ⟨את⟩ szentségeit — neki lesznek; amit az ember a kohénnek ad, az neki lesz.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szentségeit"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "szentségeit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesznek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a kohénnek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:28:40.881144673Z",
+  "model": "glm-5.3"
+}

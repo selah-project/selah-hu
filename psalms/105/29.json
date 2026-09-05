@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Átváltoztatta ⟨את⟩ vizeiket vérré, és megölette ⟨את⟩ halukat.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Átváltoztatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vizeiket"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "vizeiket"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "vérré"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és megölette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halukat"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "halukat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:06.282759686Z",
+  "model": "glm-5.3"
+}

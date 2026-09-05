@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Kelj fel, Jahve, ne legyen erős a halandó; ítéltessenek meg a nemzetek a te orcád előtt!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "legyen erős"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "a halandó"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "itéltessenek meg"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a nemzetek"
+    },
+    {
+      "surface": "על",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "a te orcád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:48.369314980Z",
+  "model": "glm-5.3"
+}

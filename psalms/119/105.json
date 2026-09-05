@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Lámpa lábamnak a te szavad, és világosság ösvényemnek.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "Lámpa"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "lábamnak"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "a te szavad"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "és világosság"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ösvényemnek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:02.617491360Z",
+  "model": "glm-5.3"
+}

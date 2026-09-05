@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Szabadíts meg az oroszlán szájától, és a vad bikák szarvai alól — ⟨⟨már⟩⟩ meghallgattál engem!",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Szabadíts meg"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "a szájától"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "oroszlán"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "és a szarvai alól"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "vad bikák"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "meghallgattál engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:48.285727580Z",
+  "model": "glm-5.3"
+}

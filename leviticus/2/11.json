@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 2:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Minden lisztáldozat, amelyet Jahvének közelítetek, kovásszal ne készíttessék; mert semmi kovász és semmi méz ne füstölögtettessék belőle tűzáldozatul Jahvénak.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "lisztáldozat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "közelítetek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "készíttessék"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kovászolt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kovász"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és semmi"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "méz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "füstölögtessetek"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozatul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:13.031567025Z",
+  "model": "glm-5.3"
+}

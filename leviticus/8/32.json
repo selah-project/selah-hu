@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "A húsból és a kenyérből pedig, ami megmarad, tűzön égessétek el.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "és ami megmarad"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "a húsból"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "és a kenyérből"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzön"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "égessétek el"
+    }
+  ],
+  "timestamp": "2026-09-04T17:11:02.598727851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És megcselekedte Smuél ⟨את⟩ azt, amit beszélt Jahve, és Bet-Lechembe (Bethlehem) érkezett, és remegtek a város vénei az elébe, és ő mondta: Békesség ⟨van⟩ a jöttödre.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcselekedte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit beszélt Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "érkezett"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Lechembe"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "remegtek"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vénei"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "az elébe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Békesség"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "a jöttödre"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:19.294611305Z",
+  "model": "glm-5.3"
+}

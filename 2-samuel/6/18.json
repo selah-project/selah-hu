@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mikor David befejezte az égőáldozat és a shelamimok felvitelét, megáldotta ⟨את⟩ a népet Jahve Cevaót nevében.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "És befejezte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "a felvitelét"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "és a shelamimok"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "megáldotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    }
+  ],
+  "timestamp": "2026-09-04T19:24:13.252435139Z",
+  "model": "glm-5.3"
+}

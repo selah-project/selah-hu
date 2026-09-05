@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ⟨את⟩ a disznót ⟨azért⟩, mert hasogatja a patát ⟨ő⟩, és kettéhasadt ⟨a⟩ pata hasadéka ⟨van⟩ rajta, de a kérőd-zést nem hozza fel — tamé ⟨ő⟩ nektek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a disznót"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "a disznó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨azért⟩, mert"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "hasogatja"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "a patát"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "és kettéhasadt"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "hasadék"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "pata"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ⟨ő⟩"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "a kérőd-zést"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "hozza fel"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tamé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:20.096235935Z",
+  "model": "glm-5.3"
+}

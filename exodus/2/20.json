@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ő azt mondta a leányainak: ⟨és⟩ hol van ⟨ő⟩? Miért hagytátok ott ⟨את⟩ a férfit? Hívjátok őt, hogy egyen kenyeret!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és ő azt mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nak"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "a leányainak"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "és hol van"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "hagytátok ott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a férfit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfit"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "hívjátok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "hogy egyen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:43.500445829Z",
+  "model": "glm-5.3"
+}

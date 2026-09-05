@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Uram megkérdezte ⟨את⟩ szolgáit, mondván: van-e nektek apa vagy testvér?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Uram"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "megkérdezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "היש",
+      "gloss": "van-e"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "אב",
+      "gloss": "apa"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "אח",
+      "gloss": "testvér"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:02.250390614Z",
+  "model": "glm-5.3"
+}

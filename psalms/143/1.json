@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 143,
+  "translation": "Dávid mízmora. Jahve, hallgasd meg az én imádságomat, figyelj az én könyörgésemre; a te hűségedben válaszolj nekem, a te igazságodban!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mízmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgasd meg"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "imádságomat"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "figyelj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ra⟩"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "könyörgésemre"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "hűségedben"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "válaszolj nekem"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "igazságodban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:34.395652942Z",
+  "model": "glm-5.3"
+}

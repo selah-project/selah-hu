@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És hallgatsz Jahve, a te Elohimod szavára, és megcselekszed ⟨את⟩ parancsolatait és ⟨את⟩ rendeleteit, amelyeket én parancsolok neked ezen a napon.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "És hallgatsz"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és megcselekszed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parancsolatait"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "parancsolatait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "rendeleteit"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "rendeleteit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parancsolok neked"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ezen a napon"
+    }
+  ],
+  "timestamp": "2026-09-04T23:25:38.090352551Z",
+  "model": "glm-5.3"
+}

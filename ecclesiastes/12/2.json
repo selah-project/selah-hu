@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "amíg meg nem sötétül a nap és a világosság, és a hold és a csillagok, és visszatérnek a felhők az eső után.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "meg nem sötétül"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "és a világosság"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "és a hold"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "és a csillagok"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "és visszatérnek"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "a felhők"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "után"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "az eső"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:28.960548601Z",
+  "model": "glm-5.3"
+}

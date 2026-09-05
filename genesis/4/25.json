@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ismerte Ádám ⟨את⟩ feleségét, és ő fiút szült, és nevezte ⟨את⟩ nevét Sétének (Sét), mert embriót adott nekem Elohim mását Hével helyére, mert Káin megölte őt.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "És ismerte"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ádám"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ismét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségét"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiút"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "és nevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sét"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שת",
+      "gloss": "adott"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magot"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "más"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyébe"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hável"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "megölte őt"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Káin"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:47.393096705Z",
+  "model": "glm-5.3"
+}

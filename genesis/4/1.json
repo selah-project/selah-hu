@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És az ember ismerte ⟨את⟩ Chavvát (Éva), az ő feleségét; és ⟨az⟩ fogant, és megszülte ⟨את⟩ Kajint (Káin), és mondta: „Szereztem férfit Jahvéval.”",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "És az ember"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismerte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavvát"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvát (Éva)"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "az ő feleségét"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "és fogant"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és megszülte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajint"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajint (Káin)"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "szereztem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ -val",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéval"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:40.738629636Z",
+  "model": "glm-5.3"
+}

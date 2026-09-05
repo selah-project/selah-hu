@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Igaz ⟨az⟩ Jahve minden útján, és heszed ⟨teli⟩ minden tettében.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Igaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "útján"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "és heszed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "tettében"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:13.716954305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És kivitte Moshe (Mózes) ⟨את⟩ a népet az Elohimnal való találkozásra, a táborból; és letáboroztak-t önállóan a hegy aljában.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "És kivitte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "a …való találkozásra"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a tábor"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "és felálltak"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "az aljában"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:17.134065395Z",
+  "model": "glm-5.3"
+}

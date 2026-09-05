@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "Dicsérjétek őt, az egek egei, és a vizek, amelyek az egek fölött ⟨vannak⟩!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dicsérjétek őt"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "egei"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "és a vizek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:12.173721828Z",
+  "model": "glm-5.3"
+}

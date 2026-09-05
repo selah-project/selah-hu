@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Ne legyen benned idegen isten, és idegen istennek ne hajolj meg;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "אל",
+      "gloss": "isten"
+    },
+    {
+      "surface": "זר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "hajolj meg"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "istennek"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "idegen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:53.644508017Z",
+  "model": "glm-5.3"
+}

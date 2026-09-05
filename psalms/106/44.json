@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És látta nyomorúságukat, amikor meghallotta ⟨את⟩ kiáltásukat.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nyomorúságukat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨az ő⟩"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "amikor meghallotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiáltásukat"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "kiáltásukat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:07.823339677Z",
+  "model": "glm-5.3"
+}

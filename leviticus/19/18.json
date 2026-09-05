@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne állj bossút, és ne tarts haragot ⟨את⟩ néped fiai ellen; és szeresd felebarátodat, mint magadat: én vagyok Jahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "állj bossút"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "tarts haragot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "néped fiai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "és szeresd"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "felebarátod"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "mint magadat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:24.794489079Z",
+  "model": "glm-5.3"
+}

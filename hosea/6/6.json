@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Mert heszedet akartam, és nem áldozatot, és az Elohim ismeretét az égőáldozatoknál.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszedet"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "akartam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozatot"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "és az ismeretét"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "az égőáldozatoknál"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:18.037442637Z",
+  "model": "glm-5.3"
+}

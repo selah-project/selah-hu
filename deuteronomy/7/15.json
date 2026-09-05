@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 7:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És elviszi Jahve rólad minden betegséget, és Minden rossz nyavalyát, amelyeket Micrajim (Egyiptom) ismertél, nem rakja rád, hanem rájuk teszi mindazokra, akik gyűlölnek téged.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "És elviszi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "rólad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "betegséget"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מדוי",
+      "gloss": "nyavalyát"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ismertél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישימם",
+      "gloss": "rakja"
+    },
+    {
+      "surface": "בך",
+      "gloss": "rád"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "hanem rájuk teszi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mindazokra"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "akik gyűlölnek téged"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:14.614486463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ a húst és ⟨את⟩ a bőrt tűzben égette el a táboron kívül.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a húst"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "a húst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a bőrt"
+    },
+    {
+      "surface": "העור",
+      "gloss": "a bőrt"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "égette el"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "a táboron"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:51.705897461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Te pedig, Jahve, ne távolodj el; erőm, segedelmemre siess!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Te pedig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "távolodj el"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "erőm"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "segedelmemre"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "siess"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:37.752068384Z",
+  "model": "glm-5.3"
+}

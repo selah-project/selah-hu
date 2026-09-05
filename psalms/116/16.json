@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Kérlek, Jahve, mert én ⟨a⟩ te szolgád ⟨vagyok⟩, én ⟨a⟩ te szolgád, szolgálóleányod fia: te eloldottad ⟨az⟩ én köteleimet.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Kérlek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "te szolgád"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "te szolgád"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "szolgálóleányod"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "eloldottad"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "köteleimet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:37.453993911Z",
+  "model": "glm-5.3"
+}

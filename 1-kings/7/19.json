@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És a koronák, amelyek az oszlopok fején ⟨vannak⟩ a csarnokban, liliommunka művei, négy könyök.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "És a koronák"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "על",
+      "gloss": "-én"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fején"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "az oszlopoknak"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "műve"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "liliomnak"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "a csarnokban"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    }
+  ],
+  "timestamp": "2026-09-04T19:40:27.788853098Z",
+  "model": "glm-5.3"
+}

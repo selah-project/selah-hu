@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ezt mondta: Keményet kértél kérni; ha meglátsz ⟨את⟩ engem, amikor elvétetem ⟨את⟩ tőled, legyen neked úgy; ha pedig nincs, nem lesz.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "הִקְשִׁ֣יתָ",
+      "gloss": "keményet kértél"
+    },
+    {
+      "surface": "לִשְׁא֑וֹל",
+      "gloss": "kérni"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תִּרְאֶ֨ה",
+      "gloss": "meglátsz"
+    },
+    {
+      "surface": "אֹתִ֜י",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "לֻקָּ֤ח",
+      "gloss": "elvétetem"
+    },
+    {
+      "surface": "מֵֽאִתָּךְ֙",
+      "gloss": "⟨את⟩ tőled"
+    },
+    {
+      "surface": "יְהִֽי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "לְךָ֣",
+      "gloss": "neked"
+    },
+    {
+      "surface": "כֵ֔ן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "אַ֖יִן",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יִהְיֶֽה",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:41.490004691Z",
+  "model": "glm-5.3"
+}

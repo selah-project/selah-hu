@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ő mondta: Ne félj, mert többen vannak, akik ⟨את⟩ velünk vannak, mint azok, akik ⟨את⟩ velük vannak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És ő mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "félj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "többen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "mint azok, akik"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ velük"
+    }
+  ],
+  "timestamp": "2026-09-04T19:54:05.363764636Z",
+  "model": "glm-5.3"
+}

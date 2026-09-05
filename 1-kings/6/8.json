@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "A középső oldalszoba bejárata a ház jobb oldalán ⟨volt⟩, és fordulókkal felmentek a középsőre, és a középsőből a harmadikra.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "bejárata"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "az oldalszobának"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "középső"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "oldalán"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "és fordulókkal"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "felmentek"
+    },
+    {
+      "surface": "על",
+      "gloss": "fel"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "a középsőre"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és a"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "középsőből"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "harmadikra"
+    }
+  ],
+  "timestamp": "2026-09-04T19:40:05.752118742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "Megráztad a földet, meghasogattad; gyógyítsd meg repedéseit, mert meginog!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Megráztad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "meghasogattad"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "gyógyítsd meg"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "repedéseit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "meginog"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:22.990513026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És adok jeleket az égben és a földön: vért, tüzet és füstoszlopokat.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "És adok"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "jeleket"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az égben"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "és a földön"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vért"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "tüzet"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "és füstoszlopokat"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "⟨füst⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:22:45.745146046Z",
+  "model": "glm-5.3"
+}

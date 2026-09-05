@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Ha ezt mondtam: „megcsúszott a lábam”, a te heszeded, Jahve, megtámaszt engem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "megcsúszott"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "a lábam"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszeded"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "megtámaszt engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:45.590620385Z",
+  "model": "glm-5.3"
+}

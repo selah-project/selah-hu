@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "és kiterítette ⟨את⟩ őtet elém, és az írva ⟨van⟩ elöl és hátul, és írva ⟨van⟩ rá gyászdalok, jajgatás és jaj.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "és kiterítette"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "őtet (a tekercset)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elém"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "és az"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "írva"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "elöl"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "és hátul"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "és írva"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "rá"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "gyászdalok"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "és jajgatás"
+    },
+    {
+      "surface": "והי",
+      "gloss": "és jaj"
+    }
+  ],
+  "timestamp": "2026-09-04T20:57:25.559749992Z",
+  "model": "glm-5.3"
+}

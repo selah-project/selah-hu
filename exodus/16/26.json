@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Hat napon át szedjétek ⟨את⟩ azt, de a hetedik napon szombat van, nem lesz ⟨az⟩ abban.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Hat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "szedjétek azt"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "de a napon"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a hetediken"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szombat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abban"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.209216045Z",
+  "model": "glm-5.3"
+}

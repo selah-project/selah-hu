@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És történt, amikor Ahav (Acháb) meglátta ⟨את⟩ Elijáhut, Ahav így szólt hozzá: Te vagy az, aki felforgatja Izraelt?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "amikor meglátta"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav (Acháb)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elijáhut"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáhut"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "így szólt"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vagy az"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "aki felforgatja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:42.591971714Z",
+  "model": "glm-5.3"
+}

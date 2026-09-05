@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 7:13",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És az ő áldozati adománya: egy ezüsttál, súla harminc és száz ⟨a⟩ sékel, egy ezüstkelye, hetven sékel, a szentély sékelje szerint, mindkettő megfulladva zsírfinomliszttel, olajjal elegyítve, az ételáldozathoz.",
+  "tokens": [
+    {
+      "surface": "וקרבנו",
+      "gloss": "És az ő áldozati adománya"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "egy ezüsttál"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "és száz"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "súla"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "egy ezüstkelye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sékel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "a … sékelje szerint"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentély"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindkettő"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "megfulladva"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "zsírfinomliszttel"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "elegyítve"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "az ételáldozathoz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:56.567310069Z",
+  "model": "glm-5.3"
+}

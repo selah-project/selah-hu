@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Nekem is van szívem, mint nektek, nem vagyok gyávább nálatok — és ⟨את⟩ kinek nincsenek ⟨olyan dolgai⟩, mint ezek?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "mint nektek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "gyávább vagyok"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nálatok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "kinek… ezek"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincsenek"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:20:09.550701337Z",
+  "model": "glm-5.3"
+}

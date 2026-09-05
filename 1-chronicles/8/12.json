@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És Elpál fiai: Éver, és Misám, és Sámed — ő építette ⟨את⟩ Onót és ⟨את⟩ Lódot és leányvárosait.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "És ... fiai"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpál"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Éver"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "és Misám"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "és Sámed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "építette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onót"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Onót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Lódot"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lódot"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "és leányvárosait"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:04.405115611Z",
+  "model": "glm-5.3"
+}

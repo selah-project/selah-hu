@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És kiment az egyik ⟨את⟩ tőlem, és mondtam: bizonyéppen széttépetté széttépett, és nem láttam őt eddig ideig.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "és kiment"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ tőlem",
+      "marks": "előre-helyzetű את (m\/854), nem tárgyjelölő — „tőlem”"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondtam"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizonyéppen"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "széttépetté"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "széttépett"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "láttam őt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eddig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ideig"
+    }
+  ],
+  "timestamp": "2026-09-05T00:24:21.912466119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Minden, amiben hiba van, ne közelvissétek, mert nem lesz elfogadatra a számotokra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "מום",
+      "gloss": "hiba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "közelvissétek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "elfogadatra"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "a számotokra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:23.981616409Z",
+  "model": "glm-5.3"
+}

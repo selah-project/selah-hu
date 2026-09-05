@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És szólt Moshe (Mózes) a gyülekezetnek: Ez az a dolog, amelyet Jahve megparancsolt cselekedni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahhoz"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gyülekezet"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az a dolog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "cselekedni"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:27.004777428Z",
+  "model": "glm-5.3"
+}

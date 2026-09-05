@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Az Uzziel fiai közül: Aminadáv, a fő, és testvérei, száztizenketten.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "közül"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzziel"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadáv"
+    },
+    {
+      "surface": "השר",
+      "gloss": "a fő"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "és testvérei"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "és tizen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kettő"
+    }
+  ],
+  "timestamp": "2026-09-04T23:03:52.394768332Z",
+  "model": "glm-5.3"
+}

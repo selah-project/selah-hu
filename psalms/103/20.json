@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Áldjátok ⟨את⟩ Jahvét, ⟨ti⟩ az ő malachjai, hatalmas vitézek, akik cselekszik az ő szavát, hallva szavának hangjára!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Áldjátok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "⟨ti⟩ az ő malachjai"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "hatalmas vitézek"
+    },
+    {
+      "surface": "כח",
+      "gloss": "erős"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "akik cselekszik"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "az ő szavát"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hallva"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "… hangjára"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "szavának"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:52.506268579Z",
+  "model": "glm-5.3"
+}

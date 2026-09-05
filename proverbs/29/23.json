@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Az ember gőgje megalázza ⟨őt⟩, de a lélekben alázatos ⟨dicsőséget nyer⟩ — ⟨ez⟩ megtartja a dicsőséget.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "gőgje"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "megalázza őt"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "de az alázatos"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélekben"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "megtartja"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "a dicsőséget"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:38.451975441Z",
+  "model": "glm-5.3"
+}

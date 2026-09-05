@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Patakokként hullanak szemeim vízcseppei, mert nem őrizték Tórádat.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "patakokként"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "hullanak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemeim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "őrizték"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tórádat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:31.306789909Z",
+  "model": "glm-5.3"
+}

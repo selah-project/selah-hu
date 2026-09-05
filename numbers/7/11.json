@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És szólt Jahve Moshe(hez) (Mózeshez): Egy-egy fejedelem a napon, egy-egy fejedelem a napon vigye elő ⟨את⟩ az ő áldozatát az oltár fölavatására.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "fejedelem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy(-egy)"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "fejedelem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy(-egy)"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "vigyék elő"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő áldozatukat"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "az ő áldozatukat"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "fölavatására"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:29:49.295966779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Valóban a te edváid a gyönyörűségem, ⟨ők⟩ ⟨a⟩ tanácsadóim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Valóban"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "a te edváid"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "a gyönyörűségem"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "⟨a⟩ ... -emberei"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "a tanácsom(éi)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:49.837284136Z",
+  "model": "glm-5.3"
+}

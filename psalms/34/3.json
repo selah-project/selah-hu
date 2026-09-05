@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Jahvéban dicsekszik ⟨a⟩ lelkem, hallják a szelídek, és örüljenek.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "dicsekszik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hallják"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "a szelídek"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "és örüljenek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:26.873730667Z",
+  "model": "glm-5.3"
+}

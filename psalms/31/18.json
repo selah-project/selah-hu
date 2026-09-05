@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Jahve, ne kelljen szégyelnem magam, mert hívtalak téged; szégyüljenek meg a gonoszak, némuljanak el a Seolban!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "keljen szégyelnem magam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "hívtalak téged"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "szégyüljenek meg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszak"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "némuljanak el"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Seolban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:45.443652235Z",
+  "model": "glm-5.3"
+}

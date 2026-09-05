@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Parós fiai: kétezer-egyszázhetvenkettő.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parós"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kétezer"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "egyszáz"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "kettő"
+    }
+  ],
+  "timestamp": "2026-09-04T22:48:36.582158416Z",
+  "model": "glm-5.3"
+}

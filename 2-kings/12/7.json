@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És történt a huszonharmadik évben Jehoás királyának: nem erősítették meg a papok ⟨את⟩ a ház repedéseit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "évében"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "huszad"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "és harmad"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évben"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoás"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "erősítették meg"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ház repedéseit"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "repedéseit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    }
+  ],
+  "timestamp": "2026-09-05T00:48:01.490919259Z",
+  "model": "glm-5.3"
+}

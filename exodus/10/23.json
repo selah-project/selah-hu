@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Nem látta ember ⟨את⟩ felebarátját, és nem kelt fel ember a helyéről három napig; de Izrael minden fiainak volt világosság lakhelyeiken.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "látta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kelt fel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "a helyéről"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "de minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "אור",
+      "gloss": "világosság"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "lakhelyeiken"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:13.070715714Z",
+  "model": "glm-5.3"
+}

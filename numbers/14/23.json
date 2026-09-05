@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "ha meglátják ⟨את⟩ azt a földet, amelyre megesküdtem atyáiknak — és minden engem meggyalázó ne lássa meg ⟨azt⟩!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "meglátják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "azt a földet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "megesküdtem"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "atyáiknak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "engem meggyalázó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "lássa meg ⟨azt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:34:56.227041307Z",
+  "model": "glm-5.3"
+}

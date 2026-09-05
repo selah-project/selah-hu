@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 140,
+  "translation": "Őrizz meg, Jahve, a gonosz kezeitől, az erőszakos embertől őrizz meg, akik tervezték lépéseim eltaszítását.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "őrizz meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "a kezeitől"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gonosznak"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "erőszakos(ok)"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "őrizz meg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "tervezték"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "eltaszítását"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "lépéseim"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:30.541567196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "⟨את⟩ Úcot, az ő elsőszülöttjét, és ⟨את⟩ Búzot, az ő fivérét, és ⟨את⟩ Kemuélt, Aram atyját.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Úcot"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Úcot"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "az ő elsőszülöttjét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Búzot"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Búzot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "az ő fivérét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Kemuélt"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuélt"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyját"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:24.050709491Z",
+  "model": "glm-5.3"
+}

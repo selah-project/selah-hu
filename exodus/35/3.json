@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Ne gyújtsatok tüzet lakóhelyeitek egyikében sem a sábbát napján.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "gyújtsatok"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüzet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bármelyikében"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "lakóhelyeitek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "a sábbát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:37.649937273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Mert a sok álom és hiábavalóság és a szónak sokasága — de az Elohimot ⟨את⟩ féljed!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "a sokaságában"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "álmoknak"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "és hiábavalóságoknak"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "és szavaknak"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "de"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohimot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohimot"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "féljed"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:56.483542552Z",
+  "model": "glm-5.3"
+}

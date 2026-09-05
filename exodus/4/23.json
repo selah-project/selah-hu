@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondtam neked: Bocsásd el ⟨את⟩ fiamat, hogy szolgáljon nekem — de te megtagadtad elbocsátani őt; íme, én megölöm ⟨את⟩ a fiadat, az elsőszülöttedet.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És mondtam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Bocsásd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiamat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "hogy szolgáljon nekem"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "de megtagadtad"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "elbocsátani őt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "megölöm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiadat"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiadat"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "elsőszülöttedet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:43.459939971Z",
+  "model": "glm-5.3"
+}

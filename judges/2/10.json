@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És az egész ez a nemzedék is atyáihoz gyűlt, és felkelt utánuk más nemzedék, amely nem ismerte ⟨את⟩ Jahvét, sőt ⟨את⟩ a tettet sem, amelyet Izráellel vitt végbe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És…is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "nemzedék"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "gyűlt össze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "atyái"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nemzedék"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "más"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "utánuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ismerte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt…is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tettet"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "a tett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "végbevitt"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izráellel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:50:01.472619666Z",
+  "model": "glm-5.3"
+}

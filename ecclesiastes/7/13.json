@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Lásd ⟨את⟩ az Elohim művét, mert ki képes kiegyenesíteni ⟨את⟩ azt, amit ⟨ő⟩ elgörbített?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohim művét"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "művét"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "képes"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "kiegyenesíteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit elgörbített"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "elgörbített"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:17.395592321Z",
+  "model": "glm-5.3"
+}

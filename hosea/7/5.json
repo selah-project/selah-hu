@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "A mi királyunk napján a fejedelmek megbetegedtek ⟨a⟩ bor hevétől, ő kinyújtotta a kezét ⟨את⟩ a gúnyolódókkal.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "a mi királyunk"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "megbetegedtek"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "a fejedelmek"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hevétől"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "⟨a⟩ bornak"
+    },
+    {
+      "surface": "משך",
+      "gloss": "kinyújtotta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gúnyolódókkal"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "a gúnyolódók"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:51.061169905Z",
+  "model": "glm-5.3"
+}

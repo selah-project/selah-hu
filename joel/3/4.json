@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "A nap sötétséggé változik, és a hold vérré, ⟨mielőőtt⟩ eljön Jahve nagy és félelmes napja.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "A nap"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "sötétséggé változik"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "⟨sötétség⟩"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "és a hold"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "vérré"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨mielőőtt⟩"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "eljön"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "és félelmes"
+    }
+  ],
+  "timestamp": "2026-09-04T21:22:45.745300548Z",
+  "model": "glm-5.3"
+}

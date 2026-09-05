@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "minden patát hasító és a pata hasadékát kettéhasító, kérőt felhozó ⟨az⟩ állatok közül — ⟨את⟩ azt ehetitek:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "patát hasító"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "pata"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "és kettéhasító"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "hasadékot"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "a pata"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "felhozó"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "kérőt"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "az állatok között"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehetitek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:27.897731402Z",
+  "model": "glm-5.3"
+}

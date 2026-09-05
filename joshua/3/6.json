@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És szólt Jehosua a kohénoknak (papoknak), mondván: Emeljétek fel ⟨את⟩ a szövetség ládáját, és vonuljatok át a nép előtt; és felemelték ⟨את⟩ a szövetség ládáját, és elvonultak a nép előtt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohénoknak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Emeljétek fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szövetség ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "a szövetség"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "és vonuljatok át"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "és felemelték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szövetség ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "a szövetség"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elvonultak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T18:35:59.494102760Z",
+  "model": "glm-5.3"
+}

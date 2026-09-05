@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Minden ember az anyját és az apját félje, és ⟨את⟩ szombatjaimat őrizzétek; én ⟨vagyok⟩ Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Minden ember"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az anyját"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "és az apját"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "félje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "szombatjaimat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "szombatjaimat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "őrizzétek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:17:02.144697525Z",
+  "model": "glm-5.3"
+}

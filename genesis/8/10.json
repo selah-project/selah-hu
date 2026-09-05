@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És várt még más hét napot, és újra elküldte ⟨את⟩ a galambot a bárkából.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "és várt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napot"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "és újra"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "elküldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a galambot"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "a galambot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "a bárkából"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:39.379683111Z",
+  "model": "glm-5.3"
+}

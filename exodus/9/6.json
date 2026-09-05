@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És megcselekedte Jahve ⟨את⟩ ezt a dolgot másnapra, és meghalt minden Micrajim állata, de Izráél fiainak állatából nem halt meg egy sem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "és megcselekedte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "másnapra"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "állata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "állatából"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מת",
+      "gloss": "halt meg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:12.294675104Z",
+  "model": "glm-5.3"
+}

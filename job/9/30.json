@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Ha megmosakodom hóval, és lúggal tisztítom meg a tenyerem,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "megmosakodom"
+    },
+    {
+      "surface": "במו",
+      "gloss": "⟨-val⟩"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "hóval"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "és tisztítom meg"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "lúggal"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "a tenyerem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:20:15.107625761Z",
+  "model": "glm-5.3"
+}

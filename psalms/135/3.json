@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Dicsérjétek Jah-t, mert jó ⟨az⟩ Jahve; zengjetek nevének, mert ⟨az⟩ gyönyörűséges!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zengjetek"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "nevének"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "gyönyörűséges"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:16.349621191Z",
+  "model": "glm-5.3"
+}

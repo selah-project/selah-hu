@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És kiűzte a szentelt kéjnőket az országból, és eltávolította ⟨את⟩ az összes bálványokat, amelyeket az ő atyái készítettek.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "és kiűzte"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szentelt kéjnőket"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "és eltávolította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes bálványokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "bálványokat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "készítettek"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "az ő atyái"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:24.406193929Z",
+  "model": "glm-5.3"
+}

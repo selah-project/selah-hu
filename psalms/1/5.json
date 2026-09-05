@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Azért nem állnak fel a rosáim ⟨a⟩ törvényszéken, és a vétkezők ⟨sem⟩ az igazak gyülekezetében.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨azért⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "állnak fel"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a rosáim"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨a⟩ törvényszéken"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "és a vétkezők"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "a gyülekezetében"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:02.258467671Z",
+  "model": "glm-5.3"
+}

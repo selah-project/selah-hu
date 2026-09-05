@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És kinyitotta, és meglátta őt — ⟨את⟩ a gyermeket, és íme, fiú sírt; és megkönyörült rajta, és mondta: a héber gyermekek közül való ez.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "és kinyitotta"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "és meglátta őt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyermeket"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermeket"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "נער",
+      "gloss": "fiú"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "sírt"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "és megkönyörült"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "a gyermekei közül"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "a hébereknek"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:15.287375362Z",
+  "model": "glm-5.3"
+}

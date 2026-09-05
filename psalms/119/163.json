@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A hazugságot gyűlölöm és ⟨azt⟩ utálom, a Tora-d ⟨ pedig szeretem.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "A hazugságot"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "gyűlölöm"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "és ⟨azt⟩ utálom"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "a Torád"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "szeretem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:08.242616006Z",
+  "model": "glm-5.3"
+}

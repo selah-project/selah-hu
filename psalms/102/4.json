@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Mert mint a füst, úgy elfogytak napjaim, és csontjaim, mint a parázs, megégtek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "elfogytak"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "mint a füst"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjaim"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "és csontjaim"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "קד",
+      "gloss": "a parázs"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "megégtek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:01.359288280Z",
+  "model": "glm-5.3"
+}

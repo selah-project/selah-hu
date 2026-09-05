@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És kiment Noach (Noé), és a fiai, és a felesége, és a fiainak feleségei ⟨את⟩ vele.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "És kiment"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach (Noé)"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és a fiai"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "és a felesége"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "és a feleségei"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "Noach"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:29.198054729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "A becsületesek áldásával emelkedik a város, és a gonoszok szájával dől romba.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "áldásával"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "a becsületesek"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "emelkedik"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "és szájával"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "dől romba"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:04.347002229Z",
+  "model": "glm-5.3"
+}

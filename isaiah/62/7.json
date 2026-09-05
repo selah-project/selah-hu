@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "és ne adjatok ⟨neki⟩ nyugalmat, amíg meg nem alapítja, és amíg nem teszi ⟨את⟩ Jerusalaimet dicséretté a földön.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "adjatok"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "nyugalmat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "meg nem alapítja"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és amíg"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "nem teszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaimet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaimet"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "dicséretté"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T20:29:12.632366957Z",
+  "model": "glm-5.3"
+}

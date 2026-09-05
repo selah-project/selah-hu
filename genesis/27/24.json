@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És mondta: Te vagy-e ez, az én fiam, Esav? És ő mondta: Én ⟨vagyok az⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:03.193065359Z",
+  "model": "glm-5.3"
+}

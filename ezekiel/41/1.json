@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És bevitt engem ⟨a⟩ hajlékba, és megmérte ⟨את⟩ ⟨a⟩ pilléreket: hat könyök szélesség innen, és hat könyök szélesség onnan — ⟨ez volt⟩ ⟨a⟩ sátor szélessége.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "És bevitt engem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩ hajlékba"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "a hajlék"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "és megmérte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a pilléreket"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "a pilléreket"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélesség"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "innen"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és hat"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélesség"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélessége"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "a sátor"
+    }
+  ],
+  "timestamp": "2026-09-05T00:11:29.299033419Z",
+  "model": "glm-5.3"
+}

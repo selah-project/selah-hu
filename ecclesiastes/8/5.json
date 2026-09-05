@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "A parancs őrzője nem ismer rossz dolgot, és időt és ítéletet ismer a bölcs szíve.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "őrzője"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parancs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismer"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dolgot"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és időt"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és ítéletet"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismer"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "a bölcs"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:57.475967421Z",
+  "model": "glm-5.3"
+}

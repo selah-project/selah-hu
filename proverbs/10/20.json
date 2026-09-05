@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Válogatott ezüst ⟨az⟩ igaz nyelve, a bűnösök szíve pedig alig ér valamit.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "válogatott"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nyelve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igaz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a bűnösöknek"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "alig ér valamit"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:23.375750459Z",
+  "model": "glm-5.3"
+}

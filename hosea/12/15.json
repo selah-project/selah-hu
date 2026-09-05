@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Keserűségekkel ingerelte Efrájim ⟨őt⟩, és a vérei rajta lesznek hagyva, és gyalázatát visszafizeti neki az ő ura.",
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "ingerelte"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "keserűségekkel"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "és a vérei"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "lesznek hagyva"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "és gyalázatát"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "visszafizeti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "az ő ura"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:55.639571916Z",
+  "model": "glm-5.3"
+}

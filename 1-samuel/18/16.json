@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És egész Jiszráél (Izrael) és Jehúda (Júda) szerette ⟨את⟩ Dávidot, mert ő kiment és bejárt előttük.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "és Jehúda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szerette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "kiment"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "és bejárt"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "előttük"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:37.033731307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Emlékezz ⟨את⟩ a szombat napjára, hogy megszenteld.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Emlékezz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szombat napjára"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napjára"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "a szombat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "hogy megszenteld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:03.811249959Z",
+  "model": "glm-5.3"
+}

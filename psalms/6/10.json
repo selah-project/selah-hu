@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Meghallotta Jahve könyörgésemet, Jahve ⟨elfogadja⟩ imádságomat.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Meghallotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "könyörgésemet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "imádságomat"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "⟨elfogadja⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:15.789929161Z",
+  "model": "glm-5.3"
+}

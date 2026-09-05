@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ha pedig gonoszul cselekesztek, úgy ⟨ti⟩ is, úgy királyotok is elpuszíttattok.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha pedig"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "gonoszul"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "cselekesztek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "királyotok"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "elpuszíttattok"
+    }
+  ],
+  "timestamp": "2026-09-04T19:05:52.785932845Z",
+  "model": "glm-5.3"
+}

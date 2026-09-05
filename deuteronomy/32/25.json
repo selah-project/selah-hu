@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Kívül gyermektelenné tesz ⟨את⟩ a kard, és a belső szobákban ⟨van⟩ rémület; mind az ifjú, mind a szűz, a szopós gyermekkel együtt az ősz ⟨emberrel⟩.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "gyermektelenné tesz"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "és a belső szobákban"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "rémület"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mind"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "az ifjú"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mind"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "a szűz"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "a szopós gyermekkel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember(rel)"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ősz"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:06.142211780Z",
+  "model": "glm-5.3"
+}

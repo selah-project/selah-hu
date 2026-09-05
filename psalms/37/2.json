@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Mert mint a fű, hamar lekaszáltatnak, és mint a zöldelő göröngyfű, elhervadnak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "mint a fű"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "hamar"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "lekaszáltatnak"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "és mint a"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "zöldelő göröngyfű"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "elhervadnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:00.113187955Z",
+  "model": "glm-5.3"
+}

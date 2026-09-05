@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Megmondatik-e neki, hogy ⟨én⟩ beszélek? Ha szól az ember, bizony elnyeletik.",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Megmondatik-e"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "⟨én⟩ beszélek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "איש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "elnyeletik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:28:31.205075053Z",
+  "model": "glm-5.3"
+}

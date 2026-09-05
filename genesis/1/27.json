@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megteremtette Elohim ⟨את⟩ az adamot az ő képére; az Elohim képére teremtette ⟨את⟩ őt; hím és nőstény — teremtette ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "és megteremtette"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az adamot"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az adamot"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "az ő képére"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "képére"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "teremtette"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hím"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "és nőstény"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "teremtette"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:57.455968877Z",
+  "model": "glm-5.3"
+}

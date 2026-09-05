@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Szorongsatom napján téged hívlak, mert te megválaszolsz engem.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "Szorongsatom"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "téged hívlak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "megválaszolsz engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:29.619330696Z",
+  "model": "glm-5.3"
+}

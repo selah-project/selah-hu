@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Még a sakálok is kinyújtották emlőjüket, szoptatták kölykeiket; népem lánya kegyetlenné lett, mint a struccok a pusztában.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Még"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "a sakálok"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "kinyújtották"
+    },
+    {
+      "surface": "שד",
+      "gloss": "emlőjüket"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "szoptatták"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "kölykeiket"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemnek"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "kegyetlenné"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mint"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "a struccok"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:18.739083110Z",
+  "model": "glm-5.3"
+}

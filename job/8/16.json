@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "„Zöldellő ⟨ő⟩ a nap előtt, és kertje fölé kihajt a sarja.”",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "Zöldellő"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ... fölé"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "kertje"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "a sarja"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kihajt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:40.382358558Z",
+  "model": "glm-5.3"
+}

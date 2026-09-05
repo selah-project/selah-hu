@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Találkozzék medve kicsinyétől megfosztva egy emberrel — de ne egy bolonddal az ő esztelenségében.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "találkozzék"
+    },
+    {
+      "surface": "דב",
+      "gloss": "medve"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "kicsinyétől megfosztva"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "egy emberrel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "de ne"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "egy bolonddal"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "az ő esztelenségében"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:11.348994878Z",
+  "model": "glm-5.3"
+}

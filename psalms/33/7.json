@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Egy rakásra gyűjti a tenger vizét, raktáraiba teszi a mélységeket.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "gyűjti"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "egy rakásra"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizét"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "teszi"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "raktáraiba"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "a mélységeket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:58.656944044Z",
+  "model": "glm-5.3"
+}

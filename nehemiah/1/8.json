@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Emlékezz kérlek ⟨את⟩ az igére, amelyet megparancsoltál ⟨את⟩ Moshe szolgádnak, mondván: „Ha hűtlenkedtek, én szétszórlak ⟨titeket⟩ a népek közé.”",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az igére"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az igére"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "megparancsoltál"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe szolgádnak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádnak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "ha hűtlenkedtek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "szétszórlak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "a népek közé"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "a népek közé"
+    }
+  ],
+  "timestamp": "2026-09-04T22:54:24.829969990Z",
+  "model": "glm-5.3"
+}

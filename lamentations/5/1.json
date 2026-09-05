@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Emlékezz meg, Jahve, mi történt velünk; nézz oda és lásd ⟨את⟩ gyalázatunkat!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezz meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "történt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nézz oda"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és lásd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyalázatunkat"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "gyalázatunkat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:53.790949378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Elfogytak szemeim ígéretedért, ⟨mondva⟩: mikor vígasztalsz meg engem?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Elfogytak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemeim"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "ígéretedért"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨mondva⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mikor"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "vígasztalsz meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:22.516252473Z",
+  "model": "glm-5.3"
+}

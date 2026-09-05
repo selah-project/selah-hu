@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "Jó ⟨az⟩ Jahvét megköszönni és zsoltort zengeni a nevedre, Eljon ⟨a⟩ Magasságos.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Jó"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "megköszönni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "és zsoltort zengeni"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "a nevedre"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon ⟨a⟩ Magasságos"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:29.884737268Z",
+  "model": "glm-5.3"
+}

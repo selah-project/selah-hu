@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Küldött ⟨a⟩ magasságból, elfogadott engem, kirántott engem a sok vizen.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Küldött"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "⟨a⟩ magasságból"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "elfogadott engem"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "kirántott engem"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "a vizen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:31.704154304Z",
+  "model": "glm-5.3"
+}

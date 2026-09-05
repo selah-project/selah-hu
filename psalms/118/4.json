@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Mondják csak Jahve féltői: mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Mondják"
+    },
+    {
+      "surface": "נא",
+      "gloss": "csak"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "féltői"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tart a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:16.587140137Z",
+  "model": "glm-5.3"
+}

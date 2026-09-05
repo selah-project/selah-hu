@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És Saul félt Dávid színe elől, mert Jahve ⟨volt⟩ vele, és Saultól elfordult.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és félt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "a színe elől"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "és … tól"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "סר",
+      "gloss": "elfordult"
+    }
+  ],
+  "timestamp": "2026-09-04T23:30:11.725678197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Szegény férfi, aki nyomorgatja a szűkölködőket, ⟨olyan, mint⟩ az eső, amely elver és nem hoz kenyeret.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "רש",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "és nyomorgatja"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "a szűkölködőket"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "eső"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "amely elver"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyér"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:06.207512336Z",
+  "model": "glm-5.3"
+}

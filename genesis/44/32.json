@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Mert szolgád vállalta ⟨את⟩ a fiút kezességül atyám előtt, mondván: ha nem viszem őt hozzád, akkor vétkezem atyám ellen minden napomon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgád"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vállalta kezességül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiút"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a fiút"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondva"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "viszem őt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "akkor vétkezem"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "atyám ellen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "napomon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:41.637154887Z",
+  "model": "glm-5.3"
+}

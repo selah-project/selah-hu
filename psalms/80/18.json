@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Legyen kezed ⟨az⟩ emberen, a te jobbjodon, az ember fián, akit magadnak erősítettél.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨az⟩ emberen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "emberen"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "a te jobbjodon"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨az⟩ … fián"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fián"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "erősítettél"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:41.820408100Z",
+  "model": "glm-5.3"
+}

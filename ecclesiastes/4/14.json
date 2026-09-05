@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Mert a foglyok házából kiment királyul lenni, mert szegényen született az ő királyságában is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "a házából"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "a foglyok"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kiment"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "királyul lenni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "királyságában"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "született"
+    },
+    {
+      "surface": "רש",
+      "gloss": "szegényen"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:30.697676815Z",
+  "model": "glm-5.3"
+}

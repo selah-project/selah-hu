@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 12:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Teljesen kiirtsátok ⟨את⟩ mindazokat a helyeket, ahol a népek — amelyeket ti hajtotok ki — szolgáltak ⟨את⟩ isteneiket a magas hegyeken és a halmokon, és minden zöldellő fa alatt.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "Teljesen kiirtsátok"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "kiirtsátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazokat a helyeket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazokat"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "a helyeket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgáltak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ירשים",
+      "gloss": "kivezettek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteneiket"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "isteneiket"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "a hegyeken"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "magas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és -on"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "a halmokon"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "és alatt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "zöldellő"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:40.819369702Z",
+  "model": "glm-5.3"
+}

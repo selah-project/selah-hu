@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 79,
+  "translation": "Ne emlékezz ránk ⟨a⟩ korábbi vétségeinkkel ⟨nézve⟩; siessenek hamar elénk irgalmid, mert nagyon leromlottunk.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "emlékezz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ránk"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "vétségeinkkel"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "korábbi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hamar"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "siessenek elénk"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "irgalmid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "leromlottunk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:03.033279934Z",
+  "model": "glm-5.3"
+}

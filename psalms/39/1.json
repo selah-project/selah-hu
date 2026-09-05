@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "A karmesternek, Jeditunnak (Jedutun), Dávid zsoltára.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Jeditunnak (Jedutun)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:04.433405236Z",
+  "model": "glm-5.3"
+}

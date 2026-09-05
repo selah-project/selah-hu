@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És házasodjatok össze ⟨את⟩ velünk: lányaitokat adjátok nékünk, és ⟨את⟩ lányainkat vegyétek magatoknak.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "házasodjatok össze"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "lánnyaitokat"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "adjátok"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nékünk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lányainkat"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "lányainkat"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "vegyétek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatoknak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:43.858497031Z",
+  "model": "glm-5.3"
+}

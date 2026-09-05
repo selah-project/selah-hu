@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És egybegyűjtötte Moshe (Mózes) ⟨את⟩ egész gyülekezetét Jiszráél (Izrael) fiainak, és mondta nekik: Ezek azok a szavak, amelyeket megparancsolt Jahve, hogy cselekedjétek ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "és egybegyűjtötte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész gyülekezetét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezetét"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a szavak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "hogy cselekedjétek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:37.649465946Z",
+  "model": "glm-5.3"
+}

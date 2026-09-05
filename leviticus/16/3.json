@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Ezzel jöjjön be Aharon a szenthelybe: egy bikával, a marha fiával, vétekáldozatra, és egy kossal égőáldozatra.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Ezzel"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jöjjön be"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szenthely"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "egy bikával"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "a marha"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "vétekáldozatra"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "és egy kossal"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "égőáldozatra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:17:29.689572155Z",
+  "model": "glm-5.3"
+}

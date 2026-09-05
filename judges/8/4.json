@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megérkezett Gidón (Gedeon) a Jordánhoz, átkelt ő, és a háromszáz ember, aki ⟨את⟩-vel volt vele, kimerülten, és még üldözve.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "megérkezett"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidón"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "a Jordánhoz"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átkelt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "és három"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "százas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "kimerülten"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "és üldözve"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:07.187481338Z",
+  "model": "glm-5.3"
+}

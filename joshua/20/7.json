@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És megszentelték ⟨את⟩ Kedeset (Kádes) Galileában, a Naftali hegyén, és ⟨את⟩ Sekemet (Sikém) az Efrajim hegyén, és ⟨את⟩ Kirjat-Arbát — az Hevront — a Jehuda hegyén.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "És megszentelték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeset"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeset (Kádes)"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "Galileában"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyén"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalinak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Sekemet"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekemet (Sikém)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyén"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Kirjat-Arbát"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arbát"
+    },
+    {
+      "surface": "היא",
+      "gloss": "az"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyén"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudának"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:13.688059430Z",
+  "model": "glm-5.3"
+}

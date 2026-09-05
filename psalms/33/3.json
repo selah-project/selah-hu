@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Énekeljetek neki új éneket; szépen pengetésetek kürtzengéssel.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Énekeljetek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "éneket"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "szépen"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "pengetésetek"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "kürtzengéssel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:19.803316965Z",
+  "model": "glm-5.3"
+}

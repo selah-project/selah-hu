@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Megtaláltak engem az őrök, akik körüljárnak a városban: „⟨את⟩ azt, akit szeret a lelkem, láttátok?”",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "Megtaláltak engem"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "az őrök"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "akik körüljárnak"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, akit szeret a lelkem"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "akit szeret"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "láttátok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:30:02.600209524Z",
+  "model": "glm-5.3"
+}

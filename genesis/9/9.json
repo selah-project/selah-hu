@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És én, íme, felállítom ⟨את⟩ szövetségemet veletek ⟨את⟩, és ⟨את⟩ utódaitokkal utánatok.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "És én"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "felállítom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemet"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "utódaitokkal"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "utánatok"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:25.942129870Z",
+  "model": "glm-5.3"
+}

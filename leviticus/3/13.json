@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ráteszi a kezét annak a fejére, és levágja ⟨את⟩ ⟨azt⟩ a Találkozás sátra előtt; és Ahárón (Áron) fiai meghintik ⟨את⟩ annak vérét az oltárra köröskörül.",
+  "tokens": [
+    {
+      "surface": "וְסָמַ֤ךְ",
+      "gloss": "és ráteszi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "kezét"
+    },
+    {
+      "surface": "יָדוֹ֙",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "רֹאשׁ֔וֹ",
+      "gloss": "fejére"
+    },
+    {
+      "surface": "וְשָׁחַ֣ט",
+      "gloss": "és levágja"
+    },
+    {
+      "surface": "אֹת֔וֹ",
+      "gloss": "⟨את⟩ ⟨azt⟩",
+      "marks": "azt (a kecskét)"
+    },
+    {
+      "surface": "לִפְנֵ֖י",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אֹ֣הֶל",
+      "gloss": "…sátra"
+    },
+    {
+      "surface": "מוֹעֵ֑ד",
+      "gloss": "Találkozás"
+    },
+    {
+      "surface": "וְ֠זָרְקוּ",
+      "gloss": "és meghintik"
+    },
+    {
+      "surface": "בְּנֵ֨י",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אַהֲרֹ֧ן",
+      "gloss": "Ahárón"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "vérét"
+    },
+    {
+      "surface": "דָּמ֛וֹ",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֖חַ",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "סָבִֽיב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:24.379983899Z",
+  "model": "glm-5.3"
+}

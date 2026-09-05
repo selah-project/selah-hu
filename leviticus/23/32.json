@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Sábat, sábbatón az ⟨az⟩ nektek, és sanyargassátok ⟨את⟩ lelkeiteket; a hónap kilencedik napján, este, estétől estéig tartsátok a Sábatotokat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sábat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sábbatón"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "és sanyargassátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelkeiteket"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "lelkeiteket"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "a kilencedik"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónap"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "napján, este"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "estétől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "estéig"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "este"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "tartsátok"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Sábatotokat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:21:51.899796271Z",
+  "model": "glm-5.3"
+}

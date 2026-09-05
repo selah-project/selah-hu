@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És elküldött téged Jahve az úton, és monda: Menj, és tedd átok alá ⟨את⟩ a bűnösöket, ⟨את⟩ Amáleket, és harcolj ellene, míg megsemmisíted ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "És elküldött téged"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és monda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Menj"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "és tedd átok alá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bűnösöket"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "a bűnösöket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amáleket"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amáleket"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "és harcolj"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ellene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "megsemmisíted"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    }
+  ],
+  "timestamp": "2026-09-04T19:10:38.210062731Z",
+  "model": "glm-5.3"
+}

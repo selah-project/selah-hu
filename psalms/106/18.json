@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És lángra lobbant a tűz az ő gyülekezetükben, lángnyelv perzselte fel a hitványokat.",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "és lángra lobbant"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "gyülekezetükben"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "lángnyelv"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "perzselte fel"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a hitványokat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:19.176955574Z",
+  "model": "glm-5.3"
+}

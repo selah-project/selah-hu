@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Mert a hitvány szája és a csalás szája kinyílt ellenem, hazug nyelvvel szóltak ⟨את⟩ velem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szája"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a hitvány"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "és szája"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "a csalás"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "kinyílt"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "szóltak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nyelvvel"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazug"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:54.245114070Z",
+  "model": "glm-5.3"
+}

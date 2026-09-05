@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "Mielőtt fazekaitok megérzik a tüvisbokor ⟨lángját⟩, mint a nyerset, mint a lángolót — vihar söpri el ⟨azt⟩.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "megérzik"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "fazekaitok"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "tüvisbokor"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a nyerset"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "a lángolót"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "vihar söpri el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:33.413429765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Átok, és hazugság, és gyilkolás, és lopás, és házasságtörés — kitörtek, és vérek véreket érnek.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Átok"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "és hazugság"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "és gyilkolás"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "és lopás"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "és házasságtörés"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "kitörtek"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "és vérek"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "véreket"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "érnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:29.893728116Z",
+  "model": "glm-5.3"
+}

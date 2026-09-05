@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És összegyűjtötte ⟨את⟩ Izráél (Izrael) minden fejedelmét, és a kohanit (papokat), és a levitákat.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "összegyűjtötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráél minden fejedelmét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmeit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "és a kohanit"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "és a levitákat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:07:30.734344754Z",
+  "model": "glm-5.3"
+}

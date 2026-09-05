@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Megszünteti a háborúkat a föld végéig; íjat tör össze, lándzsát hasít ketté, szekereket éget el tűzben.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Megszünteti"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "a háborúkat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "íg"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "végé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "íjat"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "tör össze"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "hasít ketté"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lándzsát"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "szekereket"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "éget el"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:31.641688245Z",
+  "model": "glm-5.3"
+}

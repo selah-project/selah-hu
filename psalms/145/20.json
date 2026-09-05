@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Őrzi Jahve ⟨את⟩ minden őt szeretőjét, és ⟨את⟩ minden gonoszt elveszti.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Őrzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden őt szeretőjét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "őt szeretőjét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minden gonoszt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "gonoszt"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "elveszti"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:13.717700341Z",
+  "model": "glm-5.3"
+}

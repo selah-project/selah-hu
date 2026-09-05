@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "mert enyém az erdő minden vadja, az állatok az ezer hegyen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לי",
+      "gloss": "enyém"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "vadja"
+    },
+    {
+      "surface": "יער",
+      "gloss": "az erdő"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "az állatok"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "hegyein"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:32.691793215Z",
+  "model": "glm-5.3"
+}

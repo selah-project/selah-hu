@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És egy tized ⟨az⟩ egy bárányonként, a tizennégy bárányhoz.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "és egy tized"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "tized"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "a bárányonként"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egy"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "a négynek"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tizen"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "bárányhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:44:10.399582522Z",
+  "model": "glm-5.3"
+}

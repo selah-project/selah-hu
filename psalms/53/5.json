@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "Nem tudták-e a gonoszság cselekvői, népemet evők, hogy kenyeret ettek — Elohimot nem hívták?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "vajon nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tudták"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "cselekvői"
+    },
+    {
+      "surface": "און",
+      "gloss": "gonoszságnak"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "evők"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ettek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hívták"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:33.318714357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "⟨את⟩ a frigyládát és ⟨את⟩ annak rúdjait, ⟨את⟩ a Kapporétot (a fedelet) és ⟨את⟩ a Parochetot (a függönyt), a maszáchot (a takaró-fátylat),",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a frigyládát"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "a frigyládát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak rúdjait"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "annak rúdjait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Kapporétot"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "a Kapporétot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Parochetot"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "a Parochetot"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "a maszáchot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:54.730408247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És lakomaházba se menj, hogy velük ülj ⟨את⟩, enni és inni.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "És ház"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "lakoma(ivó)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "menj be"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hogy ülj"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "velük"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "enni"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "és inni"
+    }
+  ],
+  "timestamp": "2026-09-04T20:38:46.221437047Z",
+  "model": "glm-5.3"
+}

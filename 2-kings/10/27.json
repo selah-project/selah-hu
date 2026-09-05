@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És lerombolták ⟨את⟩ a Baal szentoszlopát, és lerombolták ⟨את⟩ a Baal házát, és árnyékszékké tették azt, mind e napig.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "És lerombolták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szentoszlopát"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "a szentoszlop"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "és lerombolták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "és tették azt"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "árnyékszékké"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mind"
+    },
+    {
+      "surface": "היום",
+      "gloss": "e napig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:50.660645232Z",
+  "model": "glm-5.3"
+}

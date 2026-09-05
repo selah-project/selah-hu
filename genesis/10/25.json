@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Évernek két fia született: az egyiknek a neve Peleg, mert az ő napjaiban osztatott meg a föld, és testvérének a neve Joktán.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "És Évernek"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "született"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fia"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a neve"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyiknek"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "az ő napjaiban"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "osztatott meg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "és a neve"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérének"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktán"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:48.671389813Z",
+  "model": "glm-5.3"
+}

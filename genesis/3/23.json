@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És elküldte őt Jahve Elohim az Éden kertjéből, hogy művelje ⟨את⟩ a földet, amelyből vétetett.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "És elküldte őt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "a kertjéből"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Éden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hogy művelje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vétetett"
+    },
+    {
+      "surface": "משם",
+      "gloss": "abból"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:40.530766124Z",
+  "model": "glm-5.3"
+}

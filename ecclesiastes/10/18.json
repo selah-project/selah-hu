@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A restesség miatt beszakad a tetőzet, és a kezek lankadtsága által átszivárog a ház.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "a restesség miatt"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "beszakad"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "a tetőzet"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "és a lankadtsága által"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "a kezek"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "átszivárog"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:53.658917035Z",
+  "model": "glm-5.3"
+}

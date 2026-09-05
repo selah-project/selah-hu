@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 34:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Ne köss szövetséget ⟨az⟩ ország lakójával, nehogy paráznáskodjanak isteneik után, és áldozzanak isteneiknek, és hívjon téged ⟨valaki⟩, és egyél az ő áldozatából.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "köss"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "lakójával"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ország"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "és paráznáskodjanak"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "isteneik"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "és áldozzanak"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "isteneiknek"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "és hívjon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "téged"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "és egyél"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "az ő áldozatából"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:17.261942919Z",
+  "model": "glm-5.3"
+}

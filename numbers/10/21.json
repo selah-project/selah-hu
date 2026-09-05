@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És elindultak a Kehátiták, a szenthely hordozói, és felállították ⟨את⟩ a lakossátort, amíg ⟨azok⟩ megérkeztek.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "és elindultak"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "a Kehátiták"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "hordozói"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "a szenthelynek"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "és felállították"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lakossátort"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakossátort"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "באם",
+      "gloss": "megérkeztek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:31:18.775708614Z",
+  "model": "glm-5.3"
+}

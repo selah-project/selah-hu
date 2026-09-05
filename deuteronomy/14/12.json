@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És ezek azok, amelyeket ne egyetek közülük: a sas, a szakállas sas és a halászsas,",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "és ez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egetek"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "közülük"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "a sas"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "a szakállas sas"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "és a halászsas"
+    }
+  ],
+  "timestamp": "2026-09-04T17:56:32.175176386Z",
+  "model": "glm-5.3"
+}

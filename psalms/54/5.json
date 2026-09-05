@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 54,
+  "translation": "Mert idegenek támadtak fel ellenem, és erőszakosok keresik az életemet; nem állították az Elohimot maguk elé. Szela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "idegenek"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "támadtak fel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "és erőszakosok"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "keresik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "az életemet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "állították"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohimot"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "maguk elé"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:07.388460375Z",
+  "model": "glm-5.3"
+}

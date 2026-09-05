@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Vakok szemeinek megnyitására, hogy kihozza a foglyot a tömlöcből, a fogház házából a sötétségben ülőket.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "megnyitására"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "szemeinek"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "vakok"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "hogy kihozza"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "a tömlöcből"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "foglyot"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "a … házából"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "fogház"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ülőket"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a sötétségben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:09.964302593Z",
+  "model": "glm-5.3"
+}

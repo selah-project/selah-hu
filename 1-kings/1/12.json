@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És most menj, kérlek, hadd adjak neked tanácsot, hogy megmenthesd ⟨את⟩ életedet és ⟨את⟩ fiadnak, Selomónak az életét.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "menj"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "hadd adjak neked tanácsot"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tanácsot"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "és mentsd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "életedet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "életedet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "életét"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "életét"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiadnak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomó"
+    }
+  ],
+  "timestamp": "2026-09-04T19:36:38.606780887Z",
+  "model": "glm-5.3"
+}

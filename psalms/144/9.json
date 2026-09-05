@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Elohim, új éneket éneklek neked, tízhúrú nevelen pengetek neked.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "éneket"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "éneklek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevelen"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tízhúrú"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "pengetek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:10.192545101Z",
+  "model": "glm-5.3"
+}

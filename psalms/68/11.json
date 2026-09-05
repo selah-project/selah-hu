@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Élőlényed benne laknak; jóságodból készítesz a szegénynek, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Élőlényed"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "laknak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "készítesz"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "jóságodból"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "a szegénynek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:53.603015780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "amely nem hallgat a suttogók szavára, sem a legügyesebb igéző igézésére.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hallgat"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "a szavára"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "a suttogóknak"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "igézőnek"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "igézést"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ügyesen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:39.839027523Z",
+  "model": "glm-5.3"
+}

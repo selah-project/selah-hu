@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Azon a napon elveszi Adonáj ⟨את⟩ a csörgető lábdíszek ékességét, és ⟨את⟩ a hímzett fejpántokat, és ⟨את⟩ a holdkoszorúkat,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "elveszi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a csörgető lábdíszek ékességét"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ékességét"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "a csörgető lábdíszek"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "és a hímzett fejpántokat"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "és a holdkoszorúkat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:07:25.709265778Z",
+  "model": "glm-5.3"
+}

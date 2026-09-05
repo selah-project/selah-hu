@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Nincs ⟨a⟩ ládában semmi, csak a két kőtábla, amelyeket adott Moshe (Mózes) Chorevben, amelyeket vágott Jahve Izrael fiaival, kijövetelekkor Micrajimból (Egyiptomból).",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "⟨a⟩ ládában"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "kőtábla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amiket"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Chorevben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amiket"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "vágott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "kijövetelekkor"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:27.804919474Z",
+  "model": "glm-5.3"
+}

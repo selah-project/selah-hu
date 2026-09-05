@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És kicsi ez Jahve szemében, és adja ⟨את⟩ Moávot a kezetekbe.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "És kicsi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és adja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moávot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moávot"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "a kezetekbe"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:51.208201020Z",
+  "model": "glm-5.3"
+}

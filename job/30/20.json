@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Hozzád kiáltok, és nem felelsz meg; ⟨én⟩ állok, és ⟨te⟩ engem szemlélsz.",
+  "tokens": [
+    {
+      "surface": "אֲשַׁוַּע",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תַּעֲנֵנִי",
+      "gloss": "felelsz meg"
+    },
+    {
+      "surface": "עָמַדְתִּי",
+      "gloss": "állok"
+    },
+    {
+      "surface": "וַתִּתְבֹּונֵן",
+      "gloss": "és szemlélsz"
+    },
+    {
+      "surface": "בִּי",
+      "gloss": "engem"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:27.990417562Z",
+  "model": "glm-5.3"
+}

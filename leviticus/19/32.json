@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Az ősz fej előtt kelj fel, és az öreg orcáját díszítsd, és féljed a te Elohimodat; én Jahve vagyok.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ősz fej"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kelj fel"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "és díszítsd"
+    },
+    {
+      "surface": "פני",
+      "gloss": "orcáját"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "az öreg"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "és féljed"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "a te Elohimodat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:04.373116090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "és a szívük nem volt ⟨állhatatos⟩ vele, és nem maradtak hűek a szövetségében",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "és a szívük"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "állhatatos"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "maradtak hűek"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "a szövetségében"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:06.336321712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És bevitték a kohénim ⟨את⟩ a Jahve szövetségének ládáját a helyére, a ház debirjébe, a szentek szentjébe, a kerúbok szárnyai alá.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "És bevitték"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohénim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jahve szövetségének ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetségének"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a helyére"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "a helyére"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a ... debirjébe"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debirjébe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a szentek szentjébe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentjébe"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szentek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alá"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alá"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "szárnyai"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "a kerúbok"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:16.100014855Z",
+  "model": "glm-5.3"
+}

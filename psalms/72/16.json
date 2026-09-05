@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Legyen a búva bősége a földön, a hegyek csúcsán; hulljon gyümölcse, mint a Libanoné, és virágozzanak a városokból, mint a föld fűve.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "a búva bősége"
+    },
+    {
+      "surface": "בר",
+      "gloss": "búva"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "a csúcsán"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "hulljon"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "mint a Libanoné"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "gyümölcse"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "és virágozzanak"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "a városokból"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "mint a fűve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:54.158472918Z",
+  "model": "glm-5.3"
+}

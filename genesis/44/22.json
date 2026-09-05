@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És mondtuk az én uramnak: nem tudja az ifjú elhagyni ⟨את⟩ az ő atyját, mert ha elhagyja ⟨את⟩ az ő atyját, ⟨az⟩ meghal.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "És mondtuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "az én uram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "tudja"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "az ifjú"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "elhagyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő atyját"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő atyját"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "és ha elhagyja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő atyját"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő atyját"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "meghal"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:18.044482456Z",
+  "model": "glm-5.3"
+}

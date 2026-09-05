@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És megparancsolta Jahve Elohim az embernek, mondván: a kert minden fájáról enned ehetsz.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nek⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden…-ról"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fájáról"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "a kert"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "enned"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ehetsz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:21.434951767Z",
+  "model": "glm-5.3"
+}

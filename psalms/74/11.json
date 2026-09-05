@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Miért vonod vissza kezedet, még jobbjátat is? ⟨A kebeledből⟩ kivonva — ⟨ejtsd végét⟩!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "vonod vissza"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "még jobbjátat"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "⟨a kebeledből⟩"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "⟨a kebeledet⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨ejtsd végét⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:17.883782159Z",
+  "model": "glm-5.3"
+}

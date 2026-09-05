@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 29:16",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "mert így szól Jahve a királyhoz, aki Dávid trónján ül, és az egész néphez, amely ebben a városban lakik — testvéreitekhez, akik nem mentek ki veletek ⟨את⟩ a fogságba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a királyhoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "aki ül"
+    },
+    {
+      "surface": "אל",
+      "gloss": "trónján"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trónján"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "néphez"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "amely lakik"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "városban"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ebben"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "testvéreitekhez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "mentek ki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "veletek"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "a fogságba"
+    }
+  ],
+  "timestamp": "2026-09-04T20:44:31.498425722Z",
+  "model": "glm-5.3"
+}

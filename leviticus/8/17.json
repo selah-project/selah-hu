@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ⟨את⟩ a bikát, ⟨את⟩ a bőrét, ⟨את⟩ a húsát és ⟨את⟩ a trágyáját tűzben égette meg a táboron kívül, ahogpar elrendelte Jahve ⟨את⟩ Moshe (Mózes) elé.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bikát"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bikát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a bőrét"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "a bőrét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a húsát"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "a húsát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a trágyáját"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "a trágyáját"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "égette meg"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "a táboron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "elrendelte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe elé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:06.834995854Z",
+  "model": "glm-5.3"
+}

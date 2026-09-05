@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondta a király: „Ki ⟨van⟩ az udvaron?” — és Hámán (Hámán) már bejött a király házának külső udvarába, hogy mondja a királynak: akasszák fel ⟨את⟩ Mordekhájt arra a fára, amelyet készített ⟨neki⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "az udvaron"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "és Hámán"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bejött"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "udvarába"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "külső"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hogy mondja"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "akasszák fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhájt"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekháj"
+    },
+    {
+      "surface": "על",
+      "gloss": "arra"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fára"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "készített"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T22:41:08.287777426Z",
+  "model": "glm-5.3"
+}

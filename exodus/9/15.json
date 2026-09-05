@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "mert már most kinyújthatnám ⟨את⟩ kezemet, és megülnélek ⟨את⟩ téged és ⟨את⟩ népedet döggel, és kipusztultál volna a földről.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "kinyújthatnám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezemet"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezemet"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "és megülnélek"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ téged",
+      "marks": "téged"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "népedet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "döggel"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "és kipusztultál volna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földről"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:51.828973002Z",
+  "model": "glm-5.3"
+}

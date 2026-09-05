@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 10:13",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Az értelmes ajkain bölcsesség található, de ostor ⟨van⟩ a szívtelennek háta számára.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "az ajkain"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "az értelmesnek"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "található"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcsesség"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "de ostor"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "hát"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "hiányos"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szív"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:24.683299542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Őrizd meg lelkemet és szabadíts meg engem; ne kelljen megszégyennem, mert benned keresek oltalmat.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Őrizd meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "és szabadíts meg engem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "keljen megszégyennem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "keresek oltalmat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:34.607840046Z",
+  "model": "glm-5.3"
+}

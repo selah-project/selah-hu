@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Akkor elküldik városának vénei, és elveszik ⟨את⟩ ⟨őt⟩ onnan, és a vér megváltójának kezébe adják ⟨את⟩ ⟨őt⟩, és meghal.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "Akkor elküldik"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vénei"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "városának"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "és elveszik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨őt⟩",
+      "marks": "onnan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "és adják"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨őt⟩",
+      "marks": "a vér megváltójának kezébe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "megváltójának"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vér"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "és meghal"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:47.392315717Z",
+  "model": "glm-5.3"
+}

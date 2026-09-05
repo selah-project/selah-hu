@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Gyere, szerelmem, menjünk ki a mezőre, háljunk a falvakban!",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Gyere"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "szerelmem"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "menjünk ki"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőre"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "háljunk"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "a falvakban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:30:44.065855304Z",
+  "model": "glm-5.3"
+}

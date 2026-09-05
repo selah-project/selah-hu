@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Láttam, és íme, nincs ⟨a⟩ ember, és az ég minden madara elrepült.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Láttam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨a⟩ ember"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "elrepült"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:40.280133543Z",
+  "model": "glm-5.3"
+}

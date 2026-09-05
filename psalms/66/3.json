@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "Mondjátok az Elohimnak: milyen félelmetesek a tetteid! Hatalmad nagysága miatt hazudnak neked ellenségeid ⟨maguk alá vetve magukat⟩.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Mondjátok"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "az Elohimnak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "milyen"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "félelmetes(ek)"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "a tetteid"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nagysága miatt"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "hatalmad"
+    },
+    {
+      "surface": "יכחששו",
+      "gloss": "hazudnak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeid"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:03.256355809Z",
+  "model": "glm-5.3"
+}

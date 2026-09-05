@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Legyen Dán kígyó az úton, vipera az ösvényen, amely megmarja a ló sarkát, és lovasa hátraesik.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dán"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "kígyó"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "vipera"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "az ösvényen"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ösvényen"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "amely megmarja"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "a sarkát"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "a ló"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "és hátraesik"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "lovasa"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátra"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:22.202400447Z",
+  "model": "glm-5.3"
+}

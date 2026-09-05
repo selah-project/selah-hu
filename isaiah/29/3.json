@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És körben tábort verek köréd, és ostrommal szorongatlak, őrhelyet állítok ellened, és sáncokat vonok ellened.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "És tábort verem"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "körben"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "és ostrommal szorongatlak"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "őrhelyet"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "és felállítok"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "sáncokat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:41.360553863Z",
+  "model": "glm-5.3"
+}

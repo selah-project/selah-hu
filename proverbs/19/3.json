@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Az ember balgasága felfordítja az ő útját, és Jahve ellen zúgolódik az ő szíve.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "balgasága"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "felfordítja"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "az ő útját"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ellen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "zúgolódik"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "az ő szíve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:55.607556587Z",
+  "model": "glm-5.3"
+}

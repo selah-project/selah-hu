@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És szeszélykedett a nép Moshe-sal, és mondák, mondván: vajha kihúznánk lelkünket, amikor testvéreink kihúzták lelküket Jahve színe előtt!",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "és szeszélykedett"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondák"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "vajha"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "kihúznánk lelkünket"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "amikor kihúzták"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "testvéreink"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:39:43.858725622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 25:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "A jubileum utáni évek száma szerint vegyél ⟨את⟩ felebarátodtól; a termény éveinek száma szerint adja el neked.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "száma szerint"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "évek"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "után"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "a jubileum"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "vegyél"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ -tól",
+      "marks": "felebarátodtól"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "felebarátod"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "száma szerint"
+    },
+    {
+      "surface": "שני",
+      "gloss": "éveinek"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "termény"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "adja el"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:44.923100802Z",
+  "model": "glm-5.3"
+}

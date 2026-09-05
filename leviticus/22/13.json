@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 22:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És a pap lánya, ha özvegy lesz vagy elűzött, és nincs utóda, és visszatér atyja házába, ifjúsága szerint, atyja kenyeréből ehet; de minden idegen nem ehet abból.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "és a lánya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "özvegy"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "vagy elűzött"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "és utód"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "és visszatér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házához"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "atyjának"
+    },
+    {
+      "surface": "כנעוריה",
+      "gloss": "ifjúsága szerint"
+    },
+    {
+      "surface": "מלחם",
+      "gloss": "kenyeréből"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "atyjának"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ehet"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "de minden"
+    },
+    {
+      "surface": "זר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abból"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:36.407223952Z",
+  "model": "glm-5.3"
+}

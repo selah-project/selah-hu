@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Jahve ⟨van⟩ szent templomában, Jahve trónja ⟨van⟩ az egekben; szemei nézik, pillái megvizsgálják az emberek fiait.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "templomában"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az egekben"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trónja"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "szemei"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "nézik"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "pillái"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "megvizsgálják"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az emberek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:26.110596264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Én azonban telve vagyok erővel, Jahve ⟨את⟩ Lelkével, ítélettel és hatalommal, hogy kimondjam Jaakov (Jákob) vétkét és Izráel bűnét.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Én azonban"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "telve vagyok"
+    },
+    {
+      "surface": "כח",
+      "gloss": "erővel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Lelkével"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Lelkével"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és ítélettel"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "és hatalommal"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "hogy kimondjam"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovnak"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "vétkét"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "és Izráelnek"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "bűnét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:44.147056563Z",
+  "model": "glm-5.3"
+}

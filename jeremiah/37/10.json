@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 37:10",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Mert ha sújtottátok volna ⟨את⟩ a kasdi had egészét, amely veletek ⟨את⟩ harcol, és csak átdöfött férfiak maradnának meg közöttük, férfi a sátrában — felkelnek, és felégetik ⟨את⟩ ezt a várost tűzzel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "הכיתם",
+      "gloss": "sújtottátok volna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egészét"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "had"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdi"
+    },
+    {
+      "surface": "הנלחמים",
+      "gloss": "amely harcol"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek",
+      "marks": "veletek"
+    },
+    {
+      "surface": "וונשארו",
+      "gloss": "és maradnának meg"
+    },
+    {
+      "surface": "בם",
+      "gloss": "közöttük"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "férfiak"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "átdöfött"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "a sátrában"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "felkelnek"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "és felégetik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzzel"
+    }
+  ],
+  "timestamp": "2026-09-04T20:47:59.079143739Z",
+  "model": "glm-5.3"
+}

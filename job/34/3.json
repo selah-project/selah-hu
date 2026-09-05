@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Mert a fül megvizsgálja ⟨az⟩ igéket, és a szájpad ízlel az evéshez.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "a fül"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "az igéket"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "megvizsgálja"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "és a szájpad"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "ízlel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "az evéshez"
+    }
+  ],
+  "timestamp": "2026-09-04T22:27:01.469717759Z",
+  "model": "glm-5.3"
+}

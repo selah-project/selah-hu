@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És Avrám nyolcvanhat esztendős volt, amikor Hágár megszülte ⟨את⟩ Jismaélt Avrámnak.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "És Avrám"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…éves"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "nyolcvan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendős"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és hat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "amikor megszülte"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hágár"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jismaélt"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jismaélt"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avrámnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:26.041719481Z",
+  "model": "glm-5.3"
+}

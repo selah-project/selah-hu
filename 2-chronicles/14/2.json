@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És eltávolította ⟨את⟩ az idegen oltárokat és a magas helyeket, és összetörte ⟨את⟩ az oszlopokat, és kivágta ⟨את⟩ az Áserákat.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "És eltávolította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az idegen oltárokat"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "oltárokat"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "az idegen"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "és a magas helyeket"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "és összetörte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oszlopokat"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "az oszlopokat"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "és kivágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Áserákat"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "az Áserákat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:15:30.395810748Z",
+  "model": "glm-5.3"
+}

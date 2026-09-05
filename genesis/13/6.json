@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És nem bírta ⟨את⟩ őket a föld el, hogy együtt lakjanak, mert vagyonuk nagy volt, és nem tudtak együtt lakni.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És nem"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bírta el"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hogy lakjanak"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "vagyonuk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tudtak"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "lakni"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:00.028498684Z",
+  "model": "glm-5.3"
+}

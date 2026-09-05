@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És egybegyűjtötte Dávid ⟨את⟩ egész Izráelt Jeruzsálembe, hogy felvigye ⟨את⟩ Jahve ládáját a helyére, amelyet elkészített neki.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "És egybegyűjtötte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Izráelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálem"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "hogy felvigye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "a ládát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "a helyére"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "elkészített"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T23:04:56.123159292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És mondta: „Szeretlek téged, Jahve, én erősségem!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "szeretlek téged"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "erősségem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:49.804046568Z",
+  "model": "glm-5.3"
+}

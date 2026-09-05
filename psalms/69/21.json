@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Gyalázás törte össze a szívemet, és elestem; vártam részvétre, de nem volt, és vigasztalókra, de nem találtam.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "Gyalázás"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "törte össze"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "a szívemet",
+      "marks": "a szívemet"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "és elestem"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "vártam"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "részvétre"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "de nem volt"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "és vigasztalókra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "találtam"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.202681600Z",
+  "model": "glm-5.3"
+}

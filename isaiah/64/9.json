@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "Szentséged városai pusztasággá lettek, Cijon (Cion) pusztasággá lett, Jerusaláim (Jeruzsálem) romhalmazzá.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "városaid"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "szentséged"
+    },
+    {
+      "surface": "היו",
+      "gloss": "lettek"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztasággá"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztasággá"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusaláim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "romhalmazzá"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:03.998240233Z",
+  "model": "glm-5.3"
+}

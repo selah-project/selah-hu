@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Legyenek az ő napjai kevesek, és hivatalát vegye át egy más.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "az ő napjai"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "kevesek"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "hivatalát"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vegye át"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "egy más"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:13.909330632Z",
+  "model": "glm-5.3"
+}

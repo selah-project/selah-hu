@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Vallják meg Jahve heszedjét, és csodáit az ember fiai előtt!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Vallják meg"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "heszedjét"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "és csodáit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:12.707275283Z",
+  "model": "glm-5.3"
+}

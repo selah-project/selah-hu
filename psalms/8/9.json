@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "az ég madarai és a tenger halai, mind, ami átvonul a tengerek ösvényein.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "madarai"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "és a halai"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átvonul"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "az ösvényein"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a tengerek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:09.852242129Z",
+  "model": "glm-5.3"
+}

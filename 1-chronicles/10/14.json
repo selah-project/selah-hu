@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És nem kérdezett Jahvétől, és ⟨az⟩ megölette őt, és átadta ⟨את⟩ a királyságot Dávidnak (Dávid), Jisáj (Jesze) fiának.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És nem"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kérdezett"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvétől"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "és megölette őt"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "és átadta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyságot"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "a királyságot"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisáj"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:00.854494377Z",
+  "model": "glm-5.3"
+}

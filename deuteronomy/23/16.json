@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne szolgáltass ki szolgát az urához, aki megszabadulva hozzád menekül az urától",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "szolgáltass ki"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolgát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahhoz"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "az urához"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "megszabadulva"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "attól"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "az urától"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:37.125879554Z",
+  "model": "glm-5.3"
+}

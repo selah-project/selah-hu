@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És mosakodtak abból Moshe (Mózes) és Aharon és az ő fiai: ⟨את⟩ kezeiket és ⟨את⟩ lábaikat.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "és mosakodtak"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és az ő fiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezeiket"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kezeiket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "lábaikat"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "lábaikat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:30.426673541Z",
+  "model": "glm-5.3"
+}

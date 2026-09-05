@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Sőt elvetettél, és megszégyenítesz ⟨bennünket⟩, és nem vonulsz ki seregeinkkel.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sőt"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "elvetettél"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "és megszégyenítesz bennünket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vonulsz ki"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "seregeinkkel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:41.753719353Z",
+  "model": "glm-5.3"
+}

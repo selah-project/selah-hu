@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Az első hónapban, a hónap tizennegyedikén, az esték között ⟨van⟩ a peszách Jahvénak,",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "az első hónapban"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "első"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "tizennegyedikén"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tizen"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónap"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "az esték"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "a peszách"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:48.161116511Z",
+  "model": "glm-5.3"
+}

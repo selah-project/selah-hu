@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És ⟨את⟩ minden városukat lakhelyeiken, és ⟨את⟩ minden erősségüket tűzben égették el.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden városukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "városukat"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "lakhelyeiken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden erősségüket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "erősségüket"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "égették el"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:46:02.816101939Z",
+  "model": "glm-5.3"
+}

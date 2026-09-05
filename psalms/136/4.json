@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "Annak, aki egyedül ⟨teszi⟩ a nagy csodákat, mert örökre ⟨van⟩ a heszedje.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Annak, aki ⟨teszi⟩"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "a csodákat"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:45.418176117Z",
+  "model": "glm-5.3"
+}

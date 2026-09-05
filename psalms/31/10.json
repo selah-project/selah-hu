@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Kegyelmezz nekem, Jahve, mert szorongattatásban vagyok; elfáradt a keserűségben szemem, lelkem és gyomrom.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kegyelmezz nekem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "צר",
+      "gloss": "szorongattatásban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vagyok"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "elfáradt"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "a keserűségben"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "és gyomrom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:39.486786563Z",
+  "model": "glm-5.3"
+}

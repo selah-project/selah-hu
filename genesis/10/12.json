@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "és ⟨את⟩ Reszént, Ninive és Kala között — ez ⟨az⟩ a nagy város.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Reszént"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Reszént"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨az⟩ a város"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:54.433492959Z",
+  "model": "glm-5.3"
+}

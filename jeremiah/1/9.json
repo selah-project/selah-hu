@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És kinyújtotta Jahve ⟨את⟩ a kezét, és érintette a számat, és mondta Jahve hozzám: Lásd, adtam beszédeimet a szádba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És kinyújtotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "és érintette"
+    },
+    {
+      "surface": "על",
+      "gloss": "(-ra)"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a számat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "beszédeimet"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "a szádba"
+    }
+  ],
+  "timestamp": "2026-09-05T00:29:37.035826687Z",
+  "model": "glm-5.3"
+}

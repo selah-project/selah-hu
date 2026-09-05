@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És megtisztultak a kohaniták és a leviták, és megtisztították ⟨את⟩ a népet és ⟨את⟩ a kapukat és ⟨את⟩ a falat.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "És megtisztultak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohaniták"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "és a leviták"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "és megtisztították"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kapukat"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "a kapukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a falat"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "a falat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:57:44.570372237Z",
+  "model": "glm-5.3"
+}

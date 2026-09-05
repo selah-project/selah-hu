@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Örömöt adtál szívembe — attól az időtől, hogy az ő gabonájuk és mustjuk gyarapodott.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "adtad"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "Örömöt"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "szívembe"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "attól az időtől"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "gabonájuk"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "és mustjuk"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "gyarapodott"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:24.688174025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És felment az ember, Elkana (Elkáná), és egész háza népe, hogy áldozzon Jahvénak ⟨את⟩ az évi áldozatot és ⟨את⟩ az ő fogadását.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "És felment"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "háza népe"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "hogy áldozzon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az évi áldozatot"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozatát"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "az évi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő fogadását"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "az ő fogadása"
+    }
+  ],
+  "timestamp": "2026-09-04T19:02:57.338456841Z",
+  "model": "glm-5.3"
+}

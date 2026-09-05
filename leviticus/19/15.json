@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne kövessetek el igazságtalanságot az ítéletben; ne emeld fel a szegény arcát, és ne tiszteld a nagy arcát; igazságban ítélj felebarátod fölött.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kövessetek el"
+    },
+    {
+      "surface": "עול",
+      "gloss": "igazságtalanságot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "az ítéletben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "emeld fel"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az arcát"
+    },
+    {
+      "surface": "דל",
+      "gloss": "a szegény"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "tiszteld"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az arcát"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "a nagy"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "igazságban"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ítélj"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "felebarátod"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:06.112195963Z",
+  "model": "glm-5.3"
+}

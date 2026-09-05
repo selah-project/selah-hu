@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És egybegyűjtötte Dávid ⟨את⟩ az egész népet, és elment Rabbába, és harcolt ⟨ellene⟩, és bevette azt.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "és egybegyűjtötte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész népet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabbába"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "és harcolt"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨ellene⟩"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "és bevette azt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:31:12.833703575Z",
+  "model": "glm-5.3"
+}

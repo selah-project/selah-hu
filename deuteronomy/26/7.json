@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És kiáltottunk Jahvéhoz, atyáink Elohimjához, és meghallotta Jahve ⟨את⟩ hangunkat, és látta ⟨את⟩ nyomorúságunkat és ⟨את⟩ fáradságunkat és ⟨את⟩ szorongattatásunkat.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "és kiáltottunk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimjához"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atyáink"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "és meghallotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hangunkat"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "hangunkat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyomorúságunkat"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "nyomorúságunkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fáradságunkat"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "fáradságunkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szorongattatásunkat"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "szorongattatásunkat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:13.000848983Z",
+  "model": "glm-5.3"
+}

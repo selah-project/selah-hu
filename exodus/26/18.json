@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És megcsinálod ⟨את⟩ a deszkákat a lakósátorhoz: húsz deszkát a déli oldalra, dél felé.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És megcsinálod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a deszkákat"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "a deszkákat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "a lakósátorhoz"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "deszkát"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "az oldalra"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "déli"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "dél felé"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:37.386527147Z",
+  "model": "glm-5.3"
+}

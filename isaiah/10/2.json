@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "hogy elfordítsák az ítéletből a szegényeket, és elragadják igazságát népem nyomorultjainak, hogy az özvegyek zsákmányukká legyenek, és ⟨את⟩ az árvákat kirabolják!",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "elfordítani"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ítéletből"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "a szegényeket"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "és elrabolni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "igazságát"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nyomorultjainak"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hogy legyenek"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "özvegyek"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "zsákmányukká"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az árvákat"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "az árvákat"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "kirabolják"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:12.897580591Z",
+  "model": "glm-5.3"
+}

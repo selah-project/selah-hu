@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "És leölette Bável királya ⟨את⟩ Cidkijáhu fiait a szeme láttára, és ⟨את⟩ Jehúda minden fejedelmét is leölette Riblában.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "és leölette"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bável"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidkijáhu fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáhu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "a szeme láttára"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és ... is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden fejedelmet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmét"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "leölette"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "Riblában"
+    }
+  ],
+  "timestamp": "2026-09-04T20:56:42.480487632Z",
+  "model": "glm-5.3"
+}

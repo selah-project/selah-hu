@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Lelkemet felüdíti, az igazság ösvényein vezet ⟨engem⟩ az ő nevéért.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Lelkomet"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "felüdíti"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "vezet ⟨engem⟩"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "ösvényein"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "az igazság"
+    },
+    {
+      "surface": "למען",
+      "gloss": "azért"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevéért"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:27.410112203Z",
+  "model": "glm-5.3"
+}

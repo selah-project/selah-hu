@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És külön állított Avraham ⟨את⟩ hét juh-anyajuhat a nyájból.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "és külön állított"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hét anyajuhat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hét"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "anyajuhat"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a nyájból"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "külön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:28:57.581492644Z",
+  "model": "glm-5.3"
+}

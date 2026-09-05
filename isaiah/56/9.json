@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Minden mezei vad, jöjj ⟨ele⟩ enni, minden vad ⟨az⟩ erdőben!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "vad"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mezei"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "jöjj"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "enni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "vad"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "⟨az⟩ erdőben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:27:49.584566575Z",
+  "model": "glm-5.3"
+}

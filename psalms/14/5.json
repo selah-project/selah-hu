@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ott félelemmel félnek, mert Elohim ⟨van⟩ az igazak nemzedékében.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Ott"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "félnek"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "félelemmel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nemzedékében"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igazak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:30.485522779Z",
+  "model": "glm-5.3"
+}

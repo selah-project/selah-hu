@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 1:52",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondta Selomo: Ha ⟨egy⟩ vitéz embernek bizonyul, nem hull le egyetlen haja a földre; de ha rosszaság található benne, meghal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bizonyul"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "⟨mint⟩ ember"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "hull le"
+    },
+    {
+      "surface": "משערתו",
+      "gloss": "egyetlen haja"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "de ha"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rosszaság"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "található"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "meghal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:40.489286884Z",
+  "model": "glm-5.3"
+}

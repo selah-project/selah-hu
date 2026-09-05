@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Az értelmes szív tudást szerez, és a bölcsek füle tudást keres.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "szív"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "értelmes"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "tudást szerez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tudást"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "füle"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "a bölcsek"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "keres"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tudást"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:18.841848565Z",
+  "model": "glm-5.3"
+}

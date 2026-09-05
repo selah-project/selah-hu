@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És helyezte Elohim ⟨את⟩ azokat a légkörben, az ég boltívében, hogy világítsanak a földre",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "és helyezte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat (a két nagy világítótestet)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "a légkörben"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "hogy világítsanak"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:06.412839656Z",
+  "model": "glm-5.3"
+}

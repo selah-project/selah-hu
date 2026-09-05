@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "„Ez a kenyerünk meleg ⟨volt⟩, mikor házainkból készítettük útnak ⟨את⟩, a napon, amikor kimentünk, hogy hozzátok jöjjünk; és most íme kiszáradt, és morzsás darabokká ⟨lett⟩.”",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "a kenyerünk"
+    },
+    {
+      "surface": "חם",
+      "gloss": "meleg"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "készítettük"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kenyerünket"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "házainkból"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "kimenetelünkkel"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hogy menjünk"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "hozátok"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kiszáradt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "morzsás darabokká"
+    }
+  ],
+  "timestamp": "2026-09-04T18:37:56.506058676Z",
+  "model": "glm-5.3"
+}

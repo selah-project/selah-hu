@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Ő építette ⟨את⟩ Eilótot, és visszahozta azt Jehúdának, miután elszenderült a király atyáival.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ő"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "építette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilótot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilótot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "és visszahozta"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "azt Jehúdának"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "miután"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "elszenderült"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyáival"
+    }
+  ],
+  "timestamp": "2026-09-04T23:18:39.624181075Z",
+  "model": "glm-5.3"
+}

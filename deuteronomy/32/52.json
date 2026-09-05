@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "mert távolról látod ⟨את⟩ a földet, de oda nem jutsz be, arra a földre, amelyet én adok Jiszráel fiainak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "távolról"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "látod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "de oda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "jutsz be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adok"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiaibanak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:31:34.112626942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Nem halok meg, mert élni fogok, és elmesélem Jah tetteit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "halok meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "élni fogok"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "és elmesélem"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "tetteit"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:22.223379319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És Kús nemzette ⟨את⟩ Nimródot (Nimród); ⟨ő⟩ kezdett hőssé lenni a földön.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "És Kús"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimródot"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimród"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kezdett"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "lenni"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hős"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:38.787851622Z",
+  "model": "glm-5.3"
+}

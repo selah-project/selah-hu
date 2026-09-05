@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Nem ezt cselekedted-e magadnak, hogy elhagytad ⟨את⟩ Jahvét, a te Elohimodat, amikor vezetett téged az úton?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "nem-e"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "cselekedted"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "elhagytad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodat"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "vezetett"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    }
+  ],
+  "timestamp": "2026-09-04T20:32:03.556284244Z",
+  "model": "glm-5.3"
+}

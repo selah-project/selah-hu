@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ez a Tora (törvénye) a minhának (étáldozatnak): Aharán (Áron) fiai vigyék ⟨את⟩ azt Jahve színe előtt, az oltár arca elé.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "és ez"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "a Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "a minhának"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vigyék"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a minhát)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárannak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elé"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcába"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:21.511655138Z",
+  "model": "glm-5.3"
+}

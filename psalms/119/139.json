@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Elfogyasztott a buzgóságom, mert elfelejtették beszédeidet ellenségeim.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "Elfogyasztott"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "a buzgóságom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "elfelejtették"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "beszédeidet"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ellenségeim"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:32.453728313Z",
+  "model": "glm-5.3"
+}

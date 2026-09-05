@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Hogyan énekeljük ⟨את⟩ Jahve énekét idegen földjén?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Hogyan"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "énekeljük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve énekét"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "énekét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ján"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "föld"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "idegen"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:07.926214265Z",
+  "model": "glm-5.3"
+}

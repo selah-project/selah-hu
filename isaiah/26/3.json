@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "A reá támaszkodó szándékot békével őrzi ⟨meg⟩, békével, mert benned bízik.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "szándékot"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "reá támaszkodó"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békével"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békével"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "bízik"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:05.945788238Z",
+  "model": "glm-5.3"
+}

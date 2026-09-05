@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "Rettegő dolgokkal válaszolsz igazsággal ránk, szabadításunk Elohimja; bizodalom minden föld végeinek és a távoli tengernek.",
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "Rettegő dolgokkal"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "igazsággal"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "válaszolsz ránk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "szabadításunk"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "bizodalom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "végeinek"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "וים",
+      "gloss": "és a tengernek"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "távoli"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:52.983401606Z",
+  "model": "fable-5-hand"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És vett kb. ötezer férfiút, és tette ⟨את⟩-őket lesbe Bet-El és Ai között, a várostól nyugatra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "vett"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "kb.-ötezer"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "(ezer)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfiút"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "tette"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-őket",
+      "marks": "lesbe"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "lesbe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nyugat(ra)"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "várostól"
+    }
+  ],
+  "timestamp": "2026-09-04T18:38:23.655290251Z",
+  "model": "glm-5.3"
+}

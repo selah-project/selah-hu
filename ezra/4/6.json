@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És Ahasverós királyságának idejében, uralkodása kezdetén írtak vádat Jehúda (Júda) lakói és Jerusálém ellen.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "És … királyságának idejében"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasverós"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "kezdetén"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "uralkodása"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "írtak"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "vád"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "és Jerusálém"
+    }
+  ],
+  "timestamp": "2026-09-04T22:49:48.399481944Z",
+  "model": "glm-5.3"
+}

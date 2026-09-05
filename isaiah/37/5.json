@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És elmentek a királynak, Hizkijjának (Ezékiás) szolgái Jesajához (Ézsaiás)",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkijjának (Ezékiás)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajához (Ézsaiás)"
+    }
+  ],
+  "timestamp": "2026-09-04T23:36:31.815114717Z",
+  "model": "glm-5.3"
+}

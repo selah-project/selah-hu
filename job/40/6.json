@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És felelt Jahve ⟨את⟩ Ijóbnak a viharból, és ezt mondta:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijóbnak"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijóbnak"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "vihar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    }
+  ],
+  "timestamp": "2026-09-04T22:28:47.135557020Z",
+  "model": "glm-5.3"
+}

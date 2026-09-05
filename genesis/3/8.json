@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És hallották ⟨את⟩ Jahve Elohim hangját, amint a kertben járkált a nap szele idején; és elrejtőzött az ember és az ő felesége Jahve Elohim színe elől a kert fái közé.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "És hallották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Elohim hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "járkálva"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "a kertben"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "a szele idején"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "és elrejtőzött"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "és az ő felesége"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közé"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fái"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "a kertnek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:45.614269924Z",
+  "model": "glm-5.3"
+}

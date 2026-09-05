@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Elmegyek az Adonáj Jahve hatalmaiban, emlegetem igazságodat — egyedül a tiédet.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Elmegyek"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "hatalmaiban"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "emlegetem"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "igazságodat"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "egyedül a tiédet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:09.273555189Z",
+  "model": "glm-5.3"
+}

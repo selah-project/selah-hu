@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És elrendezett rajta kenyérrendet Jahve színe előtt — ahogyan megparancsolta Jahve ⟨את⟩ Moshénak.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "és elrendezett"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "kenyérrendet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:05.671932286Z",
+  "model": "glm-5.3"
+}

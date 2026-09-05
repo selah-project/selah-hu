@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Mert így szólt Jahve Cevaót: még egyszer, ⟨ez⟩ kevés, és én megrengetem ⟨את⟩ az eget és ⟨את⟩ a földet és ⟨את⟩ a tengert és ⟨את⟩ a szárazföldet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyszer"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "megrengetem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az eget"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az eget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szárazföldet"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "a szárazföldet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:31:34.335022172Z",
+  "model": "glm-5.3"
+}

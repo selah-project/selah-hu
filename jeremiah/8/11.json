@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És hitványul kezelték ⟨את⟩ népem leányának törését, mondván: Salom, salom! — de nincen salom.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "És kezelték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "törését"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "törését"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leányának"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "על",
+      "gloss": "hitványul"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "hitványan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "de nincen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    }
+  ],
+  "timestamp": "2026-09-04T20:34:50.518637739Z",
+  "model": "glm-5.3"
+}

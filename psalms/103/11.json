@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Mert amilyen magas az ég a föld fölé, annyira erős az ő heszedje az őt féltői fölött.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "amilyen magas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "erős"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "az ő heszedje"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "az őt féltői"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:36.301015495Z",
+  "model": "glm-5.3"
+}

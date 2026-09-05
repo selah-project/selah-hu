@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "Meddig törtek még egy emberre? Mindannyian megölésére törtek — mint a hajladozó fal, mint a kidöntött kerítés.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mig"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "törtek"
+    },
+    {
+      "surface": "על",
+      "gloss": "egy emberre"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "megölésére törtek"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "Mindannyian"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "a hajladozó falra"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "hajladozó"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "kerítés"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "kidöntött"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:59.263108750Z",
+  "model": "glm-5.3"
+}

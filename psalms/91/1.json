@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Aki az Eljon rejtekében ül, a Saddáj árnyékában éjszakázik meg.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": " ül"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "rejtekében"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "az Eljon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "árnyékában"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "a Saddáj"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "éjszakázik meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:18.322512565Z",
+  "model": "glm-5.3"
+}

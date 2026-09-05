@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És szólt Dávid (Dávid) Jahvéhoz ⟨את⟩ e dal szavait, ama napon, amelyen megmentette Jahve ⟨את⟩ őt minden ellensége kezéből és Sául (Saul) kezéből.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e dal szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "e dal"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ama napon"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "amentette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ellensége"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "és kezéből"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    }
+  ],
+  "timestamp": "2026-09-04T19:34:53.082098709Z",
+  "model": "glm-5.3"
+}

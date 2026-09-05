@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És eltávolította Júda minden városából ⟨את⟩ a magas helyeket és ⟨את⟩ a napképeket, és megnyugodott a királyság az ő színe előtt.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "És eltávolította"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városából"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a magas helyeket"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "a magas helyeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a napképeket"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "a napképeket"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "és megnyugodott"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "a királyság"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "az ő színe előtt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:15:30.396131555Z",
+  "model": "glm-5.3"
+}

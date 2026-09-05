@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És tedd ⟨את⟩ azt a paróchet elé, amely ⟨a⟩ bizonyság ládája fölött van, a kaporét elé, amely a bizonyság fölött van, ahol találkozom veled ott.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "És tedd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (az oltárt)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "a paróchet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ládája"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a bizonyság"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "a kaporét"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "a bizonyság"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "találkozom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:16.513003121Z",
+  "model": "glm-5.3"
+}

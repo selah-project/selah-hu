@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "⟨A⟩ szenteknek, akik a földön ⟨vannak⟩ — ők, és a kiválók: minden gyönyöröm bennük.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "a szenteknek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "és a kiválók"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "gyönyöröm"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bennük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:34.026422095Z",
+  "model": "glm-5.3"
+}

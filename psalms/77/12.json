@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Emlékeztetem Jah tetteit, mert megemlékezem ősidőkből csodáidról.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Emlékeztetem"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "tetteit"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "megemlékezem"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ősidőkből"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "csodáidról"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:23.301987502Z",
+  "model": "glm-5.3"
+}

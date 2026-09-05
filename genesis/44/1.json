@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És megparancsolta ⟨את⟩ annak, aki az ő háza fölött ⟨állt⟩, mondván: Töltsd meg ⟨את⟩ a férfiak zsákját étellel, amennyit elbírnak vinni, és tedd az ezüstjét mindegyiknek a saját zsákja szájába.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak, aki háza fölött állt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "az ő háza"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Töltsd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a férfiak zsákját"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "a zsákját"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a férfiak"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "étellel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "amennyit"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "elbírnak"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "vinni"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "és tedd"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "az ezüstjét"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindegyiknek"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "a szájába"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "a saját zsákja"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:07.999636866Z",
+  "model": "glm-5.3"
+}

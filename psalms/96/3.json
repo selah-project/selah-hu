@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 96,
+  "translation": "Meséljétek a nemzetek közt dicsőségét, minden ⟨a⟩ népek közt csodáit!",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Meséljétek"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a nemzetek közt"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "dicsőségét"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨a⟩ népek közt"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "csodáit"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:40.155486131Z",
+  "model": "glm-5.3"
+}

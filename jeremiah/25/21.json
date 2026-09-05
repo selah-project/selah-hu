@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edomot és ⟨את⟩ Moábot és ⟨את⟩ Ammon fiait",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomot"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Moábot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ammon fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:00.278331681Z",
+  "model": "glm-5.3"
+}

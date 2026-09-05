@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Menj, és gyűjtsd össze ⟨את⟩ Izráel véneit, és mondd nekik: Jahve, atyáitok Elohimja megjelent nekem — Avraham, Jichak és Jaakov Elohimja —, mondván: meglátogattalak titeket valóban ⟨את⟩-eteket, és ⟨את⟩ azt, amit veletek tettek Micrajimban (Egyiptomban).",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Menj"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "és gyűjtsd össze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráel véneit"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "véneit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atyáitok"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "megjelent"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "és Jaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "meglátogatta"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "látogattalak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-eteket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "azt, amit veletek tettek"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "amit tettek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:28.227178Z",
+  "model": "glm-5.3"
+}

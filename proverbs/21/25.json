@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "A lusta vágya megöli őt, mert kezei megtagadták a munkát.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "vágya"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "a lusta"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "megöli őt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "megtagadták"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kezei"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "a munkát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:37.370455150Z",
+  "model": "glm-5.3"
+}

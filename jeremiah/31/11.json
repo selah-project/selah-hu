@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Mert kiváltotta Jahve ⟨את⟩ Jaakobot (Jákobot), és megváltotta őt egy nála erősebb kezéből.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kiváltotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobot"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobot (Jákobot)"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "és megváltotta őt"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "erősebb"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "mint ő"
+    }
+  ],
+  "timestamp": "2026-09-04T23:40:26.692388130Z",
+  "model": "glm-5.3"
+}

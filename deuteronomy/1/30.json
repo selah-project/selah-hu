@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Jahve, a ti Elohimotok, aki előttetek jár, ⟨ő⟩ harcol értetek, minden szerint, amit veletek tett Micrajimban (Egyiptomban), a szemetek láttára.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "aki jár"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "előttetek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "harcol"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "értetek"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "minden szerint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek",
+      "marks": "veletek"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimban (Egyiptomban)"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "a szemetek láttára"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:39.533453936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Gonosz követ rosszba esik, de hűséges követség gyógyítás.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "követ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "esik"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "rosszba"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "de követség"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "hűséges"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "gyógyítás"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:12.798967261Z",
+  "model": "glm-5.3"
+}

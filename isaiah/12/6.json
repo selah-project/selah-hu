@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ujjongj és zengj éneket, Cijon lakója, mert nagy ⟨van⟩ közötted Jiszráél Szentje!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Ujjongj"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "és zengj éneket"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "lakója"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijonnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "közötted"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Szentje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:09:35.863478901Z",
+  "model": "glm-5.3"
+}

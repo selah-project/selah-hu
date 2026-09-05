@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És végy szemelt lisztet, és süss abból ⟨את⟩ tizenkét lepényt; két tized legyen az egy lepényben.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "És végy"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "szemelt lisztet"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "és süss"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tizenkét lepényt"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "két"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tizenkettő"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "lepényt"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tized"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "a lepény"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:21:36.493232304Z",
+  "model": "glm-5.3"
+}

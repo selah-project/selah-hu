@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És negyvenegy évig uralkodott Jerusálimban (Jeruzsálem); és az ő anyjának neve Maakhá, Avisálom (Absalom) leánya.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "és negyven"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "és egy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uralkodott"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusálimban"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "és neve"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az ő anyjának"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhá"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leánya"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avisálom"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:24.405868861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Tiszta szívet teremts nekem, Elohim, és ⟨az⟩ igaz lelket újítsd meg bensőmben.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "szívet"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "teremts"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "és lelket"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "igaz"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "újítsd meg"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "bensőmben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:25.342071146Z",
+  "model": "glm-5.3"
+}

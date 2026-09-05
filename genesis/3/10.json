@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És monda: „A te hangodat ⟨את⟩ hallottam a kertben, és féltem, mert mezítelen vagyok, és elrejtőztem.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te hangodat"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "a te hangod"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "hallottam"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "a kertben"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "és féltem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "mezítelen"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "vagyok"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "és elrejtőztem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:48.226726276Z",
+  "model": "glm-5.3"
+}

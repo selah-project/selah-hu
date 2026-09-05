@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És lesz, amikor kézre kerítitek ⟨את⟩ a várost, felgyújtjátok ⟨את⟩ a várost tűzzel; Jahve szava szerint cselekedjetek. Lássátok: én parancsoltam meg ⟨את⟩ titeket.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "És lesz"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "amikor kézre kerítitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "felgyújtjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzzel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "szava szerint"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "cselekedjetek"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Lássátok"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "én parancsoltam meg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:38:35.839520150Z",
+  "model": "glm-5.3"
+}

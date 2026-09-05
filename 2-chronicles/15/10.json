@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És egybegyűltek Jerusaláimben (Jeruzsálemben) a harmadik hónapban, Ásá uralkodásának tizenötödik évében.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "és egybegyűltek"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusaláimben (Jeruzsálemben)"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "a … hónapban"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "harmadik"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "… évében"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tizen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ötödik"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "uralkodásának"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Ásá"
+    }
+  ],
+  "timestamp": "2026-09-04T23:14:44.291351386Z",
+  "model": "glm-5.3"
+}

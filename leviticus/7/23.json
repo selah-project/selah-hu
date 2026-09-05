@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "„Szólalj Izráel fiainak, mondván: Minden ökör-, juh- és kecskefélét ki ne egyetek.”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Szólalj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "félét"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökör-"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "juh-"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "kecske-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyetek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:57.706025629Z",
+  "model": "glm-5.3"
+}

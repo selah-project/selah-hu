@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ők azok, akik Fáraóhoz, Egyiptom királyához szóltak, hogy kihozzák ⟨את⟩ Izráél fiait Egyiptomból; ez ⟨a⟩ Moshe (Mózes) és Ahárón.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Ők"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "azok, akik szóltak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fáraó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyához"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyiptom"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "hogy kihozzák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráél fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráélnek"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Egyiptomból"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Ahárón"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:53.009684337Z",
+  "model": "glm-5.3"
+}

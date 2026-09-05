@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 114,
+  "translation": "Mi ⟨van⟩ veled, tenger, hogy futolsz, Jardeen, hogy hátrafordulsz?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "futolsz"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardeen (Jordán)"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "hogy hátrafordulsz"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "hátra"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:12.915043538Z",
+  "model": "glm-5.3"
+}

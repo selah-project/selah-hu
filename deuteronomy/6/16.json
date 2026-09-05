@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ne próbálgassátok ⟨את⟩ Jahvét, a ti Elohimotokat, ahogy próbálgattátok Masszában.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "próbálgassátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotokat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "próbálgattátok"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Masszában"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:34.041775708Z",
+  "model": "glm-5.3"
+}

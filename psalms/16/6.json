@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Mérőkötelek hullottak reám gyönyörű ⟨helyeken⟩, sőt örökségem ékes ⟨előttem⟩.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "Mérőkötelek"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "hullottak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "reám"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "gyönyörű(ek)ben"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "örökségem"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "ékes"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rajtam"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:52.380004149Z",
+  "model": "glm-5.3"
+}

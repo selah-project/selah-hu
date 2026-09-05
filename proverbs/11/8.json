@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Az igaz a szorongatásból kimenekül, és a gonosz megy be helyette.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "szorongatásból"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "kimenekül"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és bemegy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:20.144487438Z",
+  "model": "glm-5.3"
+}

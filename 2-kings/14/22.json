@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ő építette ⟨את⟩ Elatot, és visszahozta ⟨azt⟩ Jehúdának, azután hogy ⟨a király⟩ elaludt atyáival.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ő"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "építette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elatot"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elatot"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "és visszahozta"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehúdának"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "azután hogy"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "elaludt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨a király⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vele — atyái"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyáival"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:38.517227811Z",
+  "model": "glm-5.3"
+}

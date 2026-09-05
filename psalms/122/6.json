@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "Kérjétek Jerusálajim (Jeruzsálém) békéjét: boldoguljanak, akik szeretnek téged!",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Kérjétek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "békéjét"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "boldoguljanak"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "szeretnek téged"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:14.635013262Z",
+  "model": "glm-5.3"
+}

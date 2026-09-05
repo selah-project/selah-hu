@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Jeroboám bűnei miatt, amelyeket elkövetett, és amelyekkel vétkezésre bírta ⟨את⟩ Izraelt, felbőszülése miatt, amellyel felbőszítette ⟨את⟩ Jahvét, Izrael Elohimját.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "bűnei"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboám"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "elkövetett"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amelyekkel"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "vétkezésre bírta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "felbőszülése miatt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amellyel"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "felbőszítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimját"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:09.754414686Z",
+  "model": "glm-5.3"
+}

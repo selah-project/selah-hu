@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Boldog, aki okosan bánik ⟨a⟩ szegénnyel: a gonosz napon megmenti őt Jahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "aki okosan bánik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩ szegénnyel (felé)"
+    },
+    {
+      "surface": "דל",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "megmenti őt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:42.588604901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És visszafizetett Jahve ⟨nekem⟩ az én igazságom szerint, kezeim tisztasága szerint az ő szemeivel szemben.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "És visszafizetett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "az én igazságom szerint"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tisztasága szerint"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezeim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "az ő szemeivel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:01.607792181Z",
+  "model": "glm-5.3"
+}

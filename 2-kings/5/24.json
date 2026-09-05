@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És mikor a dombra (Ofel) ért, kivette azok kezükből, és elraktározta ⟨azt⟩ a házban; és elbocsátotta ⟨את⟩ a férfiakat, és elmentek.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "és ért"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "a dombra"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "kivette"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "kezükből"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "elraktározta"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házban"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és elbocsátotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a férfiakat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a férfiakat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:54.724076625Z",
+  "model": "glm-5.3"
+}

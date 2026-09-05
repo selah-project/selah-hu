@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "A karmesternek, mizmor, Dávidtól.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "a karmesternek"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:59.831474741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És itattátok ⟨את⟩ a názírokkal bort, és a prófétáknak meghagytátok, mondván: Ne prófétáljatok!",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "és itattátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a názírokkal"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "a názírok"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bort"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a prófétáknak"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "meghagytátok"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "prófétáljatok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:22:27.168821194Z",
+  "model": "glm-5.3"
+}

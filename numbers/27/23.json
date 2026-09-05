@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És fejétette ⟨את⟩ kezeit rá, és felhatalmazta őt, ahogyan szólt Jahve Moshe (Mózes) kezében.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "És fejétette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezeit"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "kezeit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "és felhatalmazta őt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T17:43:28.594999279Z",
+  "model": "glm-5.3"
+}

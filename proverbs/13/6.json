@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Az igazság őrzi az ártatlan útját, a gonoszság pedig felforgatja a bűnt.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "Az igazság"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "תם",
+      "gloss": "az ártatlan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útját"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "a gonoszság"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "felforgatja"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "a bűnt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:05.621197148Z",
+  "model": "glm-5.3"
+}

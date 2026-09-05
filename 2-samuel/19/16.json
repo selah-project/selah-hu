@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És visszatért a király, és eljutott a Jardánig; Jehúda pedig eljött a Gilgálba, hogy a király elé menjen, hogy átvigye ⟨את⟩ a királyt ⟨את⟩ a Jardánon.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és eljutott"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardán"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "és Jehúda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eljött"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "a Gilgálba"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hogy menjen"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": " elé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "hogy átvigye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jardánt"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardánt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:32:14.676351323Z",
+  "model": "glm-5.3"
+}

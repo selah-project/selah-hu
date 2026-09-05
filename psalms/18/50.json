@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Ezért dícsérlek téged a népek között, Jahve, és a te nevedet zengem.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "azon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "dícsérlek téged"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a népek között"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "és a te nevedet"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zengem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:28.532078278Z",
+  "model": "glm-5.3"
+}

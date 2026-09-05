@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "A korhadásnak ezt mondtam: apám vagy te; a féregnek: anyám és nővérem.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "a korhadásnak"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ezt mondtam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apám"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te",
+      "marks": "apám"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anyám"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "és nővérem"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "a féregnek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:21:56.448286761Z",
+  "model": "fable-5-hand"
+}

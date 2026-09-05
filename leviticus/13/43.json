@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 13:43",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És megnézi ⟨את⟩ őt a kohen, és íme a csapás kiemelkedése fehér, vörösesvörös az ő karáhátján vagy az ő giváhátján, olyan, mint a caraát megjelenése a húsnak bőrén.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "És megnézi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "a kohent jelöli ki mint alanyt — az את itt a megnézett férfit mutatja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kiemelkedése"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "a csapás"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "fehér"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "vörösesvörös"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "az ő karáhátján"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "az ő giváhátján"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "olyan, mint a megjelenése"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "caraát"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bőrén"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "a húsnak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:52.783808772Z",
+  "model": "glm-5.3"
+}

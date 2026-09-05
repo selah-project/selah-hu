@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Fújjátok kürttel az újholdat, a teliholdat, a mi ünnepünk napján!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Fújjátok"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "az újholdat"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "kürttel"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "a teliholdat"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "ünnepünknek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:01.108699606Z",
+  "model": "glm-5.3"
+}

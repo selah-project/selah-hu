@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 121,
+  "translation": "Ne engedje megtántorodni a lábadat, ne szunyódkodjék őriződ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "engedje"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "megtántorodni"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "a lábadat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "szunyódkodjék"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "őriződ"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:29.924024907Z",
+  "model": "glm-5.3"
+}

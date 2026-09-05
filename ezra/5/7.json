@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 5:7",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Beszédet küldtek hozzá, és így van írva benne: Darjavésnak (Dáriusznak), a királynak: minden békesség!",
+  "tokens": [
+    {
+      "surface": "פתגמא",
+      "gloss": "beszédet"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "küldtek"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "hozá"
+    },
+    {
+      "surface": "וכדנה",
+      "gloss": "és így"
+    },
+    {
+      "surface": "כתיב",
+      "gloss": "írva"
+    },
+    {
+      "surface": "בגוה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Darjavésnak"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "királynak"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "békesség"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "minden"
+    }
+  ],
+  "timestamp": "2026-09-04T23:55:17.136024658Z",
+  "model": "glm-5.3"
+}

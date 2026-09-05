@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 37:7",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Így szólt Jahve, Izráél Elohimja: Így mondjátok Jehúda (Júda) királyának, aki ⟨את⟩ titeket hozzám küldött, hogy megkeressetek engem: Íme, Paroh serege, amely kivonult segítségetekre, visszatér a maga földjére, Micrajimra (Egyiptomra).",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráélnek"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mondjátok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nekinek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda (Júda)"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "aki küldött"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozám"
+    },
+    {
+      "surface": "לדרשני",
+      "gloss": "hogy megkeressetek engem"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "serege"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohnak"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "amely kivonult"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "segítségül"
+    },
+    {
+      "surface": "שב",
+      "gloss": "visszatér"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "a maga földjére"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimra (Egyiptomra)"
+    }
+  ],
+  "timestamp": "2026-09-04T20:48:13.132567242Z",
+  "model": "glm-5.3"
+}

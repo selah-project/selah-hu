@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Bizony, ⟨az⟩ lélek ⟨van⟩ az emberben, és a Saddáj (a Mindenható) lehelete ad nékik értelmet.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨van⟩"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "az emberben"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "és lehelete"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Saddáj"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "ad nékik értelmet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:26:16.566265749Z",
+  "model": "glm-5.3"
+}

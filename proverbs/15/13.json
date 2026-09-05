@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Az örvendező szív jóvá teszi ⟨az⟩ arcot, de a szív szomorúságától a lélek megsebzett.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "a szív"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "örvendező"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "jóvá teszi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "az arcot"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "de a szomorúságától"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a szív"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a lélek"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "megsebzett"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:30.154540819Z",
+  "model": "glm-5.3"
+}

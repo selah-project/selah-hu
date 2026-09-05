@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 125,
+  "translation": "Ének a lépcsőfokokról. A Jahvéban bízók, mint a Cijon hegye: nem inog meg, örökké megmaradnak.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ének"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a lépcsőfokokról"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "A bízók"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "mint a hegye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijonnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "inog meg"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "megmaradnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:03.719794354Z",
+  "model": "glm-5.3"
+}

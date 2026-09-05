@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Ahogy a szarvas kívánkozik a vízmedrekhez, úgy kívánkozik a lelkem hozzád, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Ahogy a szarvas"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "kívánkozik"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "a vízmedrekhez"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "kívánkozik"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:42.683759075Z",
+  "model": "glm-5.3"
+}

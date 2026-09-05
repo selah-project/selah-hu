@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És tedd ⟨את⟩ őket két rendbe, hat ⟨a⟩ renden, a tiszta asztalra, Jahve elé.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "És tedd"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "két rend"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "két"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rendbe"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "a renden"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "az asztal"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:21:36.493468038Z",
+  "model": "glm-5.3"
+}

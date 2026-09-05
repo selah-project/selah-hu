@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Ki ⟨az⟩ ember, aki az életet kívánja, szereti a napokat, hogy jót lásson?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨az⟩ ember"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "kívánja"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "az életet"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a napokat"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy lásson"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:28.697200549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "és a serege és az összeszámoltjai: hét és ötvenezer meg négyszáz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "és a serege"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "és az összeszámoltjai"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "hét"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "és ötven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "és négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:46.758684832Z",
+  "model": "glm-5.3"
+}

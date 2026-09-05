@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És elindította Mose (Mózes) ⟨את⟩ Izráelt a Kámszín-tengertől, és kimentek a Sur (Sur) pusztájába, és jártak három napot a pusztában, és nem találtak vizet.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "és elindította"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tengertől"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Kámszín-"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "és kimentek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztaságába"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és jártak"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napot"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "találtak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:06.552545680Z",
+  "model": "glm-5.3"
+}

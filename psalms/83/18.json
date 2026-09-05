@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Szégyenkezzenek és rettegjenek mindörökké, és piruljanak szégyenben, és vesszenek el!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Szégyenkezzenek"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "és rettegjenek"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mind"
+    },
+    {
+      "surface": "עד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "és piruljanak szégyenben"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "és vesszenek el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:00.508348492Z",
+  "model": "glm-5.3"
+}

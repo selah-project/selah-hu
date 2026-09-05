@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Ezért odaadom ⟨את⟩ feleségeiket másoknak, földjeiket öröklőknek, mert a kicsitől a nagyig mindnyájan nyerészkedik haszonért, a prófétától a papig mindenki hamisságot cselekszik.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ezért"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "odaadom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségeiket"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "feleségeiket"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "másoknak"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "földjeiket"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "öröklőknek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "a kicsitől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és …ig"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "a nagyig"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "nyerészkedik"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "haszonért"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "a prófétától"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és …ig"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "a papig"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hamisságot"
+    }
+  ],
+  "timestamp": "2026-09-04T20:34:50.518426592Z",
+  "model": "glm-5.3"
+}

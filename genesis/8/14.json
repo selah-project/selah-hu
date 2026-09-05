@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És a második hónapban, a hónap hét és huszadik napján, kiszáradt a föld.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "És a hónapban"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a másodikban"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "héten"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónap"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "kiszáradt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:47.345940439Z",
+  "model": "glm-5.3"
+}

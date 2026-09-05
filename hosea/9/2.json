@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Szérű és sajtó nem ⟨fog⟩ legeltetni őket, és az újbor megcsal ⟨bennük⟩.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "szérű"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "és sajtó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "legeltetni fogja őket"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "és az újbor"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "megcsal"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    }
+  ],
+  "timestamp": "2026-09-04T23:45:16.576261064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 110,
+  "translation": "Dávid zsoltára. Jahve kijelentése az én uramnak: „Ülj jobbkezemre, míg zsámollyá nem teszem ellenségeidet a lábaid alá.”",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltára"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "az én uramnak"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Ülj"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "jobbkezemre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nem teszem"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeidet"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "zsámollyá"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "a lábaid alá"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:06.841863997Z",
+  "model": "glm-5.3"
+}

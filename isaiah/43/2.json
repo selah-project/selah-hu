@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Ha vizeken mész át, én ⟨את⟩ veled vagyok, és a folyókon — nem árasztanak el; ha a tűzben jársz, nem perzselődsz meg, és a láng nem lobban fel benned.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "vizeken mész át"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vizeken"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled",
+      "marks": "veled"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "és a folyókon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "árasztanak el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "jársz"
+    },
+    {
+      "surface": "במו",
+      "gloss": "a ... közepette"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "perzselődsz meg"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "és a láng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "lobban fel"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    }
+  ],
+  "timestamp": "2026-09-04T20:22:27.497687394Z",
+  "model": "glm-5.3"
+}

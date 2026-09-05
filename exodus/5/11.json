@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ti magatok menjetek, vegyetek magatoknak szalmát, ahol találtok, mert nincs levonva a munkátokból semmi.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "menjetek"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "vegyetek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatoknak"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "szalmát"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "találtok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "levonva"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "a munkátokból"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "semmi"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:54.677490661Z",
+  "model": "glm-5.3"
+}

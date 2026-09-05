@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Így szólt Jahve Cevaót: Íme, megszabadítom ⟨את⟩ népemet a napkelet földjéből és a napnyugta földjéből.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "megszabadítom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéből"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "a napkelet"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "és földjéből"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "a napnyugta"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    }
+  ],
+  "timestamp": "2026-09-04T21:34:48.916709089Z",
+  "model": "glm-5.3"
+}

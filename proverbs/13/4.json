@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Kíván a lélek, de nincs semmi — a lustáé; de a szorgosok lelke kövérré ⟨lesz⟩.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "kíván"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "de nincs semmi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a lélek"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "a lustáé"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "de a lélek"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "a szorgosoknak"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "kövéredik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:12.041385246Z",
+  "model": "glm-5.3"
+}

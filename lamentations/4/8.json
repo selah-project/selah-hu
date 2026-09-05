@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Sötétebb lett a koromnál arcuk, az utcákon nem ismerik fel őket; rátapadt bőrük a csontjukra, kiszáradt, fává lett.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "sötétebb lett"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "a koromnál"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "arcuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "ismerik fel"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "az utcákon"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "ratapadt"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "bőrük"
+    },
+    {
+      "surface": "על",
+      "gloss": "csontjukra"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "csontjuk"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kiszáradt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "fává"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:21.885470754Z",
+  "model": "glm-5.3"
+}

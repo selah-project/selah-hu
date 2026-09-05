@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És szólt Jahve Moshéhoz: Szólj Aharonhoz: Nyújtsd ki ⟨את⟩ a vessződet, és csapd meg ⟨את⟩ a föld porát, és legyenek belőle tetvek egész Micrajim (Egyiptom) földjén.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Szólj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Áron)"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Nyújtsd ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vessződet"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "a vessződet"
+    },
+    {
+      "surface": "והך",
+      "gloss": "és csapd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld porát"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "a porát"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "tetvek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:29.773652271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Nem szégyenülnek meg a baj idején, és éhínség napjain megelégednek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "szégyenülnek meg"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "idején"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bajnak"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "és napjain"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "éhínség"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "megelégednek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:01.863676243Z",
+  "model": "glm-5.3"
+}

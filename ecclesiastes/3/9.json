@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mi ⟨a⟩ haszna ⟨az⟩ annak, aki cselekszi azt, amiben ő fáradozik?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "haszna"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "annak, aki cselekszi"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "amiben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fáradozik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:06.618748351Z",
+  "model": "glm-5.3"
+}

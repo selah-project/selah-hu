@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 31:12",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "mert tűz ⟨ez⟩, ami az Abaddonig ⟨el⟩ emészt, és minden termésemet gyökerestül kitépi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "az Abaddonig"
+    },
+    {
+      "surface": "אבדון",
+      "gloss": "Abaddon"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "emészt"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "תבואתי",
+      "gloss": "termésemet"
+    },
+    {
+      "surface": "תשרש",
+      "gloss": "gyökerestül kitépi"
+    }
+  ],
+  "timestamp": "2026-09-04T22:25:27.739505468Z",
+  "model": "glm-5.3"
+}

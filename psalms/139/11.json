@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "És mondtam: bizony sötétség borít el engem, de az éjszaka is világosság ⟨lesz⟩ körülöttem.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "és mondtam"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sötétség"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "borít el engem"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "de az éjszaka"
+    },
+    {
+      "surface": "אור",
+      "gloss": "világosság"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "körülöttem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:53.680247810Z",
+  "model": "glm-5.3"
+}

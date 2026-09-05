@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A gonoszak kötelei körülfogtak engem — a Tora nem felejtettem el. (Torádat nem felejtettem el.)",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "kötelei"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gonoszak"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "körülfogtak engem"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torádat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "felejtettem el"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:56.100338802Z",
+  "model": "glm-5.3"
+}

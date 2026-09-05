@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És adják ⟨את⟩ azt és ⟨את⟩ minden edényét egy tahas-bőr takaróba, és tegyék a vállrúdra.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "és adják"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebbe"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "takaróba"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bőr-"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahas-"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "és tegyék"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "vállrúdra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:07.218473736Z",
+  "model": "glm-5.3"
+}

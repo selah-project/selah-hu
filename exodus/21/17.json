@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És aki átkozza az apját és az anyját, halállal haljon.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "és aki átkozza"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az apját"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "és az anyját"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:29.665010355Z",
+  "model": "glm-5.3"
+}

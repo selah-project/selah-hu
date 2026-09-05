@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 110,
+  "translation": "Erőd pálcáját küldi Jahve Cíjonból: uralkodj ellenségeid közepette!",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "pálcáját"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "erőd"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "küldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Cíjonból"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "uralkodj"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepette"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeid"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:06.842193116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És nevet adott az elsőnek: Jemimá (galamb), a másodiknak Ketziá (cassia), a harmadiknak Keren-Hapuk (szarufesték).",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevet adott"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevet"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az elsőnek"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Jemimá"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a másodiknak nevet"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "a másodiknak"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Ketziá"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a harmadiknak nevet"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "a harmadiknak"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren-"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "Hapuk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:29:14.144542326Z",
+  "model": "glm-5.3"
+}

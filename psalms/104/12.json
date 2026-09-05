@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Felettük az ég madarai lakoznak, a lombok közül adnak hangot.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "Felettük"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madarai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "lakoznak"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "közül"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "a lombok"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "adnak"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:43.286997996Z",
+  "model": "glm-5.3"
+}

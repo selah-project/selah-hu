@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 22:35",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És mondta Jahve követe Bilamnak: menj az emberekkel, de ⟨את⟩ az igét, amelyet szólok hozzád, ⟨את⟩ azt mondd. És elment Bilam Balak fejedelmeivel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "követé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nak"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az emberekkel"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "de csak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az igét"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az igét"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "szólok"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozád"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (a mondanivalót)"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "mondd"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmeivel"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:41:18.717577762Z",
+  "model": "glm-5.3"
+}

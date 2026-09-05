@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Hogy eltöröm Ashurt (Asszíria) földemen, és hegyeimen tapodom el őt; és eltávozik az ő igája róluk, és terhük vállukról elhajlik.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "hogy eltöröm"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurt (Asszíria)"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "földemen"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "hegyeimen"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "tapodom el őt"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "és eltávozik"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "róluk"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "az ő igája"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "és terhük"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "vállukról"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "elhajlik"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:23.474183755Z",
+  "model": "glm-5.3"
+}

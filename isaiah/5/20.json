@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Jaj azoknak, akik a rosszat jónak mondják, és a jót rossznak; akik a sötétséget világossággá teszik, és a világosságot sötétséggé; a keserűt édessé teszik, és az édest keserűvé!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "akik mondják"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jónak"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "és a jót"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossznak"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "akik teszik"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a sötétséget"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "világossággá"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "és a világosságot"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "sötétséggé"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "teszik"
+    },
+    {
+      "surface": "מר",
+      "gloss": "a keserűt"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "édessé"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "és az édest"
+    },
+    {
+      "surface": "למר",
+      "gloss": "keserűvé"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:41.891204076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Így szólt Jahve: ha megszeghetitek ⟨את⟩ szövetségemet a nappal, és ⟨את⟩ szövetségemet az éjjel, úgyhogy ne legyen nappal és éjjel az ő idejükben —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "megszeghetitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemet a nappal"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a nappal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szövetségemet az éjjel"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "az éjjel"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "úgyhogy ne"
+    },
+    {
+      "surface": "היות",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és éjjel"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "idejükben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:46:37.216862009Z",
+  "model": "glm-5.3"
+}

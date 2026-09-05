@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "és a szőlővesszőt, amelyet a te jobbod ültetett, és a fiút, akit megerősítettél magadnak",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "és a szőlővesszőt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "ültetett"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "a te jobbod"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és a"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiút"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "megerősítettél"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:43.086315533Z",
+  "model": "glm-5.3"
+}

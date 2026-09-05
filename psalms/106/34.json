@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Nem pusztították el ⟨את⟩ a népeket, amelyekről szólt Jahve nekik ⟨eloslatásra⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "pusztították el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népeket"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "a népeket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyekről"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:27.973219265Z",
+  "model": "glm-5.3"
+}

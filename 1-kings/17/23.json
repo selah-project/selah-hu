@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És fogta Elija ⟨את⟩ a gyermeket, és lehozta őt a felső szobából a házba, és odaadta őt az anyjának, és mondta Elija: „Lásd, él a te fiad!”",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyermeket"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermek"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "és lehozta őt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "a felső szoba"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "a házba"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "és odaadta őt"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "az anyjának"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "חי",
+      "gloss": "él"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "a te fiad"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:07.453677798Z",
+  "model": "glm-5.3"
+}

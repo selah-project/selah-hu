@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Láttad, Jahve! Ne hallgass! Adonáj, ne távolodj el tőlem!",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Láttad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "hallgass"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "távolodj el"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:16.373756659Z",
+  "model": "glm-5.3"
+}

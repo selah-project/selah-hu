@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és adok füvet a meződön az állatodnak, és ehetsz és jóllakhatsz.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "és adok"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "füvet"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "a meződön"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "állatodnak"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "és ehetsz"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "és jóllakhatsz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:59.995098804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Tőkéletesen összetört, összetört a föld; széjjelhullott, széjjelhullott a föld; inogva ingott meg a föld.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "tőkéletesen összetört"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "összetört"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "פור",
+      "gloss": "széjjelhullott"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "széjjelhullott"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "inogva"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "ingott meg"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:20.950159908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És ⟨את⟩ az égőáldozat oltárát és ⟨את⟩ minden edényét, és ⟨את⟩ a medencét és ⟨את⟩ annak talpát.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az égőáldozat oltárát"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárát"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden edényét (az oltárét)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a medencét"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "a medencét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak talpát"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "talpát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:15.271153043Z",
+  "model": "glm-5.3"
+}

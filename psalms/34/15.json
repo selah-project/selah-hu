@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Távozz a rossztól, és cselekedj jót; keresd a békességet, és kövesd azt!",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Távozz"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "a rossztól"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és cselekedj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "keresd"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "a békességet"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "és kövesd azt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:28.697712458Z",
+  "model": "glm-5.3"
+}

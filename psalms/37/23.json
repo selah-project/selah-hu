@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Jahvétől ⟨vannak⟩ a férfi léptei; ⟨meg⟩állapíttattak, és az ő útját kedveli.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvétől"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "a léptei"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "⟨meg⟩állapíttattak"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "és az ő útját"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kedveli"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:45.084376712Z",
+  "model": "glm-5.3"
+}

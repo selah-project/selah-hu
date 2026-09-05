@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Jahve ⟨van⟩ az ő szentélyében — csitt előtte, az egész föld!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "És Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "⟨van⟩ szentélyében"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "az ő szent"
+    },
+    {
+      "surface": "הס",
+      "gloss": "csitt"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:30:42.899048223Z",
+  "model": "glm-5.3"
+}

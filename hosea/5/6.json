@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Juhaikkal és marháikkal mennek Jahvét ⟨את⟩ keresni, de nem találják; elvonult tőlük ⟨ő⟩.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "Juhaikkal"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "és marháikkal"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "mennek"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "keresni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "találják"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "elvonult"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tőlük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:00.964432594Z",
+  "model": "glm-5.3"
+}

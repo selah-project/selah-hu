@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 21:14",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Íme, Jahve nagy csapást csap népedre, és fiaidra, és feleségeidre, és minden vagyonodra.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "csap"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "csapást"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "népedre"
+    },
+    {
+      "surface": "ובבניך",
+      "gloss": "és fiaidra"
+    },
+    {
+      "surface": "ובנשיך",
+      "gloss": "és feleségeidre"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "רכושך",
+      "gloss": "vagyonodra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:17:53.075715705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És monda: Menj el, Dániel, mert el vannak zárva és lepecsételve e szavak a vég idejéig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj el"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Dániel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "el vannak zárva"
+    },
+    {
+      "surface": "וַחֲתֻמִים",
+      "gloss": "és lepecsételve"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "e szavak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ideje"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "a vég"
+    }
+  ],
+  "timestamp": "2026-09-04T22:47:18.362008011Z",
+  "model": "glm-5.3"
+}

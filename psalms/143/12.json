@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 143,
+  "translation": "És heszed-ben irtsd ki ellenségeimet, és pusztítsd el minden gyűlölőmet, ⟨akik⟩ lelkemet szorongatják; mert én a te szolgád vagyok.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "és heszed-ben"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "irtsd ki"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségeimet"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "és pusztítsd el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "szorongatóimat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgád"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:58.286877301Z",
+  "model": "glm-5.3"
+}

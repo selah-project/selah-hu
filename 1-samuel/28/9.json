@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 28:9",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És mondta az asszony hozzá: Íme, te tudod, mit tett Saúl (Saul), hogy kipusztította ⟨את⟩ a halottidézőket és ⟨את⟩ a jósokat az országból; és miért állítasz csapdát az életemre, hogy megölj engem?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "kipusztította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a halottidézőket"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "a halottidézőket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jósokat"
+    },
+    {
+      "surface": "הידעני",
+      "gloss": "a jósokat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "az országból"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨az⟩ országból"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "és miért"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "מתנקש",
+      "gloss": "csapdát állítasz"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "az életemre"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "hogy megölj engem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:49.220131952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Egyszer megesküdtem szentségemben: bizony, Dávidnak nem hazudok.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Egyszer"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "megesküdtem"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "szentségemben"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "nem hazudok"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:20.809639328Z",
+  "model": "glm-5.3"
+}

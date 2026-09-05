@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Jó nekem, hogy megaláztattam, hogy megtanuljam rendeléseidet.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "megaláztattam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "megtanuljam"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "rendeléseidet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:19.153063549Z",
+  "model": "glm-5.3"
+}

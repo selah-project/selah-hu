@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És történt, miután körbehordozták ⟨את⟩, Jahve keze volt ⟨az⟩ város ellen: nagyon nagy zavarodottság; és megverte ⟨את⟩ a város embereit, a kicsinytől a nagyig, és dúlok ki rajtuk.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "miután"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "körbehordozták"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "körbehordozták (őt, a ládát)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és volt"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨a⟩ város ⟨ellen⟩"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "zavarodottság"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és megverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a város embereit"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "embereit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "a kicsinytől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a nagyig"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "a nagyig"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "és kidúltak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "rajtuk"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "dúlók"
+    }
+  ],
+  "timestamp": "2026-09-05T00:33:03.093717728Z",
+  "model": "glm-5.3"
+}

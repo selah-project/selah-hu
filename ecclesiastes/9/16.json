@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És én ezt mondtam: jobb a bölcsesség az erőnél, mégis a szegény bölcsessége megvetett, és az ő szavait nem hallgatják meg.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "és mondtam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "a bölcsesség"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "az erőnél"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "mégis a bölcsessége"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "a szegénynek"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "megvetett"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "és az ő szavait"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "hallgatják meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:47.957013645Z",
+  "model": "glm-5.3"
+}

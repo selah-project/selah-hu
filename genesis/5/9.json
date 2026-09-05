@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És élt Enos kilencven esztendőt, és nemzette ⟨את⟩ Kenánt.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enos"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "kilencven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenánt"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenánt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:08.977939307Z",
+  "model": "glm-5.3"
+}

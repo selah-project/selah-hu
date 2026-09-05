@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és annak belsejét és lábszárait mossa meg vízben, és füstölögteti fel a pap ⟨את⟩ az egészet az oltáron: égőáldozat, tűzáldozat, megnyugtató illatul Jahvénak.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "annak belsejét"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "és lábszárait"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mossa meg"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "és füstölögteti fel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egészet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "az egészet"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "égőáldozat"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozat"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "illat"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "megnyugtató"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:25.749787783Z",
+  "model": "glm-5.3"
+}

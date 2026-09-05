@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Egész napon át szavaimat ferdítgetik, ellenem minden gondolatuk rosszra ⟨irányul⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavaimat"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "ferdítgetik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "gondolatuk"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "rosszra"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:16.874072921Z",
+  "model": "glm-5.3"
+}

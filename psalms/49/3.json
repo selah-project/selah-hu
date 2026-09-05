@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Mind az emberek fiai, mind a hősök fiai, együtt gazdag és szegény.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a férfinek"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "gazdag"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és szegény"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:14.728484357Z",
+  "model": "glm-5.3"
+}

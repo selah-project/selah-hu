@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Építve építettem ⟨a⟩ lakhely-házat neked, szilárd helyet lakhásodnak örökre.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "építve"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "építettem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házat"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "lakhely-"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "szilárd helyet"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "lakhásodnak"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:07.814003996Z",
+  "model": "glm-5.3"
+}

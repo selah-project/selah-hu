@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "és bekotorja ⟨את⟩ a föld színét, és nem lehet ⟨את⟩ a földet látni, és megeszi ⟨את⟩ a megmaradást, az ami megmaradt nektek a jégesőből, és megeszi ⟨את⟩ minden fát, a mi sarjad nektek a mezőről",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "és bekotorja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld színét"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szín"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lehet"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "látni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "és megeszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a megmaradást"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "a megmaradást"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "a megmenekültet"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "az ami megmaradt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "jégesőből"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "és megeszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden fát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "fát"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "a mi sarjad"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mezőről"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:59.477368812Z",
+  "model": "glm-5.3"
+}

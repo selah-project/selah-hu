@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És szóltam az angyalhoz, aki bennem beszélt: mik ezek? És szólt nekem: ezek a szarvak, amelyek szétszórták ⟨את⟩ Jehúdát (Júdát), ⟨את⟩ Jiszráélt (Izraelt) és Jerusálajimet.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És szóltam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "az angyalhoz"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "angyal"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "beszélő"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mik"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "a szarvak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "szétszórták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúdát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdát (Júdát)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélt (Izraelt)"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "és Jerusálajimet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:33:00.810115393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Igazságodban ments meg engem, és szabadíts ki; hajtsd füled felém, és tarts meg engem.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Igazságodban"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "ments meg engem"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "és szabadíts ki"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "hajtsd"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "felém"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "füled"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "és tarts meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:26.109093069Z",
+  "model": "glm-5.3"
+}

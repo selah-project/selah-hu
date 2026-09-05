@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És ⟨ők⟩ nem tudták, hogy Joszéf (József) érti ⟨ezt⟩, mert tolmács ⟨állt⟩ közöttük.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "és ők"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tudták"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "érti"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszéf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tolmács"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "közöttük"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:13.656472590Z",
+  "model": "glm-5.3"
+}

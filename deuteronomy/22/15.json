@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És vegye a lány apja és az anyja, és vigyék ki ⟨את⟩ a lány szüzességének jeleit a város véneihez, a kapuba,",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "és vegye"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apja"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a lánynak"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és az anyja"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "és vigyék ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lány szüzességének jeleit"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "szüzességének jeleit"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a lánynak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "a véneihez"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "a kapuba"
+    }
+  ],
+  "timestamp": "2026-09-05T00:27:41.022035273Z",
+  "model": "glm-5.3"
+}

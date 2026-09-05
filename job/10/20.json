@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Nincs-e kevés a napom? Hagyj fel, és vonj el tőlem, hogy egy keveset felviduljak —",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nincs-e"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "a napom"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Hagyj fel"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "vonj el"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "hogy felviduljak"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "egy keveset"
+    }
+  ],
+  "timestamp": "2026-09-04T22:20:07.237678526Z",
+  "model": "glm-5.3"
+}

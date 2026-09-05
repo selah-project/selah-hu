@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Nem nekünk, Jahve, nem nekünk, hanem a te nevednek adj dicsőséget a te heszededért, a te hűségedért.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "a te nevednek"
+    },
+    {
+      "surface": "תן",
+      "gloss": "adj"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőséget"
+    },
+    {
+      "surface": "על",
+      "gloss": "a...ért"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "te heszededért"
+    },
+    {
+      "surface": "על",
+      "gloss": "a...ért"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "te hűségedért"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:31.315720804Z",
+  "model": "glm-5.3"
+}

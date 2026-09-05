@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És a föld minden állatának, és az ég minden madarának, és minden földön csúszónak, amelyben élő lélek ⟨van⟩ — ⟨את⟩ minden zöld növény eledelül. És úgy lett.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "És minden"
+    },
+    {
+      "surface": "חית",
+      "gloss": "állatának"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madarának"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "csúszónak"
+    },
+    {
+      "surface": "על",
+      "gloss": "földön"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "…"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyben"
+    },
+    {
+      "surface": "בו",
+      "gloss": "…"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "élő"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden zöld növényt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "zöld"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "növényt"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "eledelül"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:09.500011085Z",
+  "model": "glm-5.3"
+}

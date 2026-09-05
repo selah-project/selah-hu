@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megparancsoltam ⟨את⟩ bíráitokat abban az időben, mondván: Hallgassátok testvéreitek ügyeit, és ítéljetek igazságosan ember és az ő testvére, és az ő jövevénye között.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "És megparancsoltam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bíráitokat"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "bíráitokat"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hallgassátok"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "testvéreitek"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "és ítéljetek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságosan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "az ő testvére"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "az ő jövevénye"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:51.771437524Z",
+  "model": "glm-5.3"
+}

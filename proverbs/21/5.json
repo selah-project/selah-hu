@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "A szorgalmas tervezése csak többlethez ⟨vezet⟩, de minden siető csak hiányhoz.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "tervezése"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "a szorgalmasé"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "többlethez"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "de minden"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "siető"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "hiányhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:27.468997818Z",
+  "model": "glm-5.3"
+}

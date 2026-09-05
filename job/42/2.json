@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Tudom, hogy mindent megtehetsz, és tőled nem vétetik meg semmi terv.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Tudom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "megtehetsz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "vétetik meg"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "tőled"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "terv"
+    }
+  ],
+  "timestamp": "2026-09-04T22:29:05.630799008Z",
+  "model": "glm-5.3"
+}

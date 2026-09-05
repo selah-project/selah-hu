@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És adott Laván neki ⟨את⟩ Zilpát, az ő szolgálóját, Leának, az ő leányának, szolgálónak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És adott"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laván"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpát"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpát"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "az ő szolgálóját"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Leának"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "az ő leányának"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "szolgálónak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:01.490491032Z",
+  "model": "glm-5.3"
+}

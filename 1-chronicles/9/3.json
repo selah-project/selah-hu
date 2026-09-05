@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És Jerúsálemben laktak Jehúda fiai közül, és Binján (Benjámin) fiai közül, és Efrájim és Menasse (Manassé) fiai közül.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "És Jerúsálemben"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "laktak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...közül"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és ...közül"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binján (Benjámin)"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és ...közül"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "és Menasse (Manassé)"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:56.282537309Z",
+  "model": "glm-5.3"
+}

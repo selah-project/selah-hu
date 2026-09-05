@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És a Dávid házának kulcsát adom a vállára: ⟨és⟩ kinyitja, és nincs bezáró; és bezárja, és nincs kinyitó.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "és adom"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "kulcsát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "vállára"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "és kinyitja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "bezáró"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "és bezárja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kinyitó"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:09.541581337Z",
+  "model": "glm-5.3"
+}

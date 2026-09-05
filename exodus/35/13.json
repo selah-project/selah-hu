@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "⟨את⟩ az asztalt és ⟨את⟩ rúdjait és ⟨את⟩ minden edényét, és ⟨את⟩ az arcok kenyerét;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asztalt"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "az asztalt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "rúdjait"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "rúdjait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "kenyerét"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerét"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "az arcok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:30.914874476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 57,
+  "translation": "Ébredj, dicsőségem, ébredj, lant és hárfa, én ⟨a⟩ hajnalt ébresztem!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ébredj"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "dicsőségem"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ébredj"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "lant"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "és hárfa"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ébresztem"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "a hajnalt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:09.550060851Z",
+  "model": "glm-5.3"
+}

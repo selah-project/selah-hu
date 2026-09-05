@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Szereted az igazságosságot, és gyűlölöd a gonoszságot; azért kent fel téged Elohim, a te Elohimad, az öröm olajával, társaid fölé.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "szereted"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "az igazságosságot"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "és gyűlölöd"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonoszságot"
+    },
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ezért⟩"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "kent fel téged"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimad"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "az … olajával"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "öröm"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "társaid fölé"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:32.807131415Z",
+  "model": "glm-5.3"
+}

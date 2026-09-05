@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Megesküdött Jahve Cevaót, mondván: Bizony, ahogyan gondoltam, úgy lett, és ahogyan határoztam, az áll fel.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Megesküdött"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨bizony erősítője⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "gondoltam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "és ahogyan"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "határoztam"
+    },
+    {
+      "surface": "היא",
+      "gloss": "az"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "áll fel"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:27.990208672Z",
+  "model": "glm-5.3"
+}

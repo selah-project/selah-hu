@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "A Gibeon lakói pedig meghallották ⟨את⟩ azt, amit tett Jehosua Jerikhóval és Ájjal.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "A lakói pedig"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "meghallották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit tett Jehosua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Jerikhóval"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "és Ájjal"
+    }
+  ],
+  "timestamp": "2026-09-04T18:39:10.986243129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahvét, az Elohimodat, féljed, ⟨את⟩ őt szolgáld, és hozzá ragaszkodj, és a nevére esküdj.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét, az Elohimodat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "az Elohimodat"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "féljed"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "őt szolgáld"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "és hozzá"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "ragaszkodj"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "és a nevére"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "esküdj"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:11.841633262Z",
+  "model": "glm-5.3"
+}

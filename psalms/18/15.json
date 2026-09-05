@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És kilőtte nyilait, és szétszórta őket, és villámokat sokat lőtt, és megháborította őket.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és kilőtte"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "nyilait"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "és szétszórta őket"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "és villámokat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sokat lőtt"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "és megháborította őket"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:29.135963478Z",
+  "model": "glm-5.3"
+}

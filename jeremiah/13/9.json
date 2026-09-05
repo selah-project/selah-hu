@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Így szólt Jahve: Éppen így teszem tönkre ⟨את⟩ Jehúda gőgjét és ⟨את⟩ Jerusálaim nagy gőgjét.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Éppen így"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "teszem tönkre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúda gőgjét"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gőgjét"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jerusálaim nagy gőgjét"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gőgjét"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálaim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T20:37:32.034117990Z",
+  "model": "glm-5.3"
+}

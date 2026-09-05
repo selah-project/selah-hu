@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Öntött istent ne készíts magadnak.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "istent"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "öntött"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "készíts"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:26.772546491Z",
+  "model": "glm-5.3"
+}

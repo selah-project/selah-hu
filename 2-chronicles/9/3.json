@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És látta a Sába királynője ⟨את⟩ Selomo bölcsességét, és ⟨את⟩ a házat, amelyet épített.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "a királynő"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sába"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selomo bölcsességét"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bölcsességét"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "és a házat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "épített"
+    }
+  ],
+  "timestamp": "2026-09-04T23:14:07.580318967Z",
+  "model": "glm-5.3"
+}

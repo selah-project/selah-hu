@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És a lisztáldozat maradéka Aháróné (Ároné) és az ő fiaié legyen: szentségek szentsége ⟨ez⟩ Jahve tűzáldozatai közül.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "És a maradéka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-a"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "a lisztáldozatnak"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aháróné (Ároné)"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "és az ő fiaié"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentség"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentsége"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tűzáldozatai közül"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:32.394234467Z",
+  "model": "glm-5.3"
+}

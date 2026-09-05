@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "Levonja ⟨az⟩ népeket alattunk, és a nemzeteket a lábaink alá.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Levonja"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "népeket"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "alattunk"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "és a nemzeteket"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alá"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "a lábaink"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:19.197421533Z",
+  "model": "glm-5.3"
+}

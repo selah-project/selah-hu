@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És úgy tett Dávid, ahogyan parancsolta neki az Elohim, és megverték ⟨את⟩ a Pelistim táborát Givontól Gézerig.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És úgy tett"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "parancsolta neki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és megverték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Pelistim táborát"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "táborát"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Pelistim"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "Givontól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és egészen"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gézerig"
+    }
+  ],
+  "timestamp": "2026-09-04T23:58:35.614904238Z",
+  "model": "glm-5.3"
+}

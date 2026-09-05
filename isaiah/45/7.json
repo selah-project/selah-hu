@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Formálója ⟨vagyok⟩ a világosságnak, és teremtője a sötétségnek; alkotóm ⟨vagyok⟩ a békességnek, és teremtője a rossznak; én Jahve, cselekszem mindezeket.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "Formálója"
+    },
+    {
+      "surface": "אור",
+      "gloss": "a világosságnak"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "és teremtője"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a sötétségnek"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alkotóm"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "a békességnek"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "és teremtője"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a rossznak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekszem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezeket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:02.596081322Z",
+  "model": "glm-5.3"
+}

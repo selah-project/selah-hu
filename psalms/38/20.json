@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És ellenségeim élnek és hatalmasok, és megsokasodtak, akik hamisan gyűlölnek ⟨engem⟩.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "És ellenségeim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élnek"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "hatalmasok"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "és megsokasodtak"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "gyűlölnek (akik)"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hamisan"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:43.737645065Z",
+  "model": "glm-5.3"
+}

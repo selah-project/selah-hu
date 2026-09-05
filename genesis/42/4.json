@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "De ⟨את⟩ Binjamin (Benjámin) testvérét, Jószéf testvérét, nem küldte el Jaakov ⟨את⟩ testvéreivel, mert mondta: nehogy szerencsétlenség érje őt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamint"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamint"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Jószéf testvérét"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "küldte el"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreivel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreivel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "érje őt"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "szerencsétlenség"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:45.561625336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Ül lesben az udvarokban, rejtekhelyeken megöli az ártatlant; szemei titkon figyelik a gyengét.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Ül"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "lesben"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "az udvarokban"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "rejtekhelyeken"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "megöli"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "az ártatlant"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "szemei"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "a gyengét"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "titkon figyelik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:28.256601454Z",
+  "model": "glm-5.3"
+}

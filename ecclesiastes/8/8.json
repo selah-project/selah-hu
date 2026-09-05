@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Nincs ember, aki uralkodnék a lélegen, hogy visszatartsa ⟨את⟩ a léleget, és nincs hatalom a halál napján, és nincs felmentés a háborúban, és a gazemberség nem menti meg ⟨את⟩ gazdáit.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "aki uralkodnék"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "a lélegen"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "hogy visszatartsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a léleget"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "a léleget"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "hatalom"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a ... napján"
+    },
+    {
+      "surface": "המות",
+      "gloss": "halál"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "felmentés"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "a háborúban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "menti meg"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gazemberség"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazdáit"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "gazdáit"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:57.476659535Z",
+  "model": "glm-5.3"
+}

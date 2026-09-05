@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És Kelub (Káléb), Súcha testvére nemzette ⟨את⟩ Mechírt; ő ⟨az⟩ Esheton atyja.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "És Kelub"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvére"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Súcha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechírt"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mechírt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyja"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Esheton"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:33.423600551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Mert, mégpedel mert félrevezették ⟨את⟩ népemet, mondván: Salom! — és nincs salom; ⟨az pedig⟩, aki falat épít, és íme, ők ⟨azzal⟩ a tapaszt tapasztják.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "mégpedel mert"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "félrevezették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salom!"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨az pedig⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "épít"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "falat"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "és íme, ők"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "tapasztják"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a falat)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "tapasszal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:02:39.104003534Z",
+  "model": "glm-5.3"
+}

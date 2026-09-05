@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Ne feledd el ellenségeid hangját, a felkelőid zaját, amely szüntelenül felszáll.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "feledd el"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ellenségeid"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "zaját"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "a felkelőid"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "felszáll"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    }
+  ],
+  "timestamp": "2026-09-05T00:12:54.863041730Z",
+  "model": "glm-5.3"
+}

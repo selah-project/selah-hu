@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Merári fiait törzseik szerint, atyáik háza szerint számláljad ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merári"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "törzseik szerint"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "háza szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "számláljad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:18.618498147Z",
+  "model": "glm-5.3"
+}

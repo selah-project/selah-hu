@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "és ⟨את⟩ a bika bőrét, és ⟨את⟩ minden húsát, a fején és a lábszárain, és a belső részeit és a ganéját —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bika bőrét"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bőrét"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden húsát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "fején"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és a"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "lábszárain"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "és a belső részeit"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "és a ganéját"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:47.427019188Z",
+  "model": "glm-5.3"
+}

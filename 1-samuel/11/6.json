@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És az Elohim lelke szálla ⟨ rá Saulra, mikor meghallotta ⟨את⟩ ezeket a szavakat, és haragja fellángolt igen nagy mértékben.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "és szálla rá"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimnak"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "mikor meghallotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket a szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a szavakat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "és fellángolt"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "haragja (orrai)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:07:48.785559004Z",
+  "model": "glm-5.3"
+}

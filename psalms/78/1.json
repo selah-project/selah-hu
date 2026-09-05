@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Maskil (oktató ének) Asafnak. Figyelj, népem, a Tórámat (Tóra), hajtsátok füleiteket a szám szavaihoz.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (oktató ének)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafnak"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Figyelj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "a Tórámat"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "hajtsátok"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "füleiteket"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "szavaihoz"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a szám"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:51.976332955Z",
+  "model": "glm-5.3"
+}

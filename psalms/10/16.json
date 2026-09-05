@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Jahve király örökké és mindvégig; kipusztultak a nemzetek az ő földjéről.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és mindvégig"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "kipusztultak"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a nemzetek"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "földjéről"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:47.749587752Z",
+  "model": "glm-5.3"
+}

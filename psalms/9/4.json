@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Amikor ellenségeim hátrafordulnak, megtántorodnak és elvesznek orcád elől.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Amikor fordulnak"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ellenségeim"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátra"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "megtántorodnak"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "és elvesznek"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "orcád elől"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:06.658452119Z",
+  "model": "glm-5.3"
+}

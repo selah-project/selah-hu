@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "és ⟨את⟩ Parmastát és ⟨את⟩ Ariszait és ⟨את⟩ Aridait és ⟨את⟩ Vajezatát",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Parmastát"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmastát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ariszait"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Ariszait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aridait"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Vajezatát"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vajezatát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:53.649791361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 124,
+  "translation": "akkor a vizek elárasztottak volna minket, vízfolyás zúdult volna lelkünkre,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "elárasztottak volna minket"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "vízfolyás"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "zúdult volna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "lelkünkre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:52.160050815Z",
+  "model": "glm-5.3"
+}

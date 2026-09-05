@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És tolassanak be ⟨את⟩ annak rudai a gyűrűkbe, és legyenek a rudak az oltár két oldalán, ⟨amikor⟩ viszik ⟨את⟩ azt.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "és tolassanak be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak rudai"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "annak rudai"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "a gyűrűkbe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "és legyenek"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "a rudak"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "két"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "oldalán"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "viszszükor"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (az oltárt)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:56.852115795Z",
+  "model": "glm-5.3"
+}

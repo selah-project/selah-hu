@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És őrizzék őrségét, és ⟨את⟩ az egész gyülekezet őrségét a találkozás sátra előtt, hogy végezzék ⟨את⟩ a lakószentély szolgálatát.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "És őrizzék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "őrségét"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "őrségét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "őrségét"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "őrségét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hogy végezzék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgálatát"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "szolgálatát"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakószentély"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:34.954308073Z",
+  "model": "glm-5.3"
+}

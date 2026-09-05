@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Mert amilyen magasak az egek a földnél, olyanok magasak az én útjaim a ti útaitoknál, és az én gondolataim a ti gondolataitoktól.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "magasak"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "a földnél"
+    },
+    {
+      "surface": "כן",
+      "gloss": "olyanok"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "magasak"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "az én útjaim"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "a ti útaitoknál"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "és az én gondolataim"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "a ti gondolataitoktól"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:55.643621321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Dávidé. Ne háborogj a gonoszok miatt, ne irigykedj a hamisság cselekvőire!",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "háborogj"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "a gonoszok miatt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "irigykedj"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "a … cselekvőire"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "hamisság"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:00.112956622Z",
+  "model": "glm-5.3"
+}

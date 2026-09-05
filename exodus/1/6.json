@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És meghalt Josef, és minden testvére, és mind az a nemzedék.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "És meghalt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ו כל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvére"
+    },
+    {
+      "surface": "ו כל",
+      "gloss": "és mind"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "nemzedék"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "az"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:19.679531938Z",
+  "model": "glm-5.3"
+}

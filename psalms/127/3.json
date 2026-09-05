@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 127,
+  "translation": "Íme, Jahve öröksége ⟨a⟩ fiak; jutalom ⟨a⟩ méh gyümölcse.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "öröksége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "⟨a⟩ fiak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "jutalom"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "gyümölcse"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "⟨a⟩ méh"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:01.962954469Z",
+  "model": "glm-5.3"
+}

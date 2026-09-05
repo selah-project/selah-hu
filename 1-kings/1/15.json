@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És bement Bát-Seva (Betsabé) a királyhoz, a belső szobába; a király pedig nagyon öreg volt, és Aviság (Abiság) a sunámi ⟨az⟩ ⟨a⟩ királyt szolgálta.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "És bement"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bát-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Seva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "a belső szobába"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "és a király"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "öreg"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "és Aviság"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "a sunámi"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "szolgálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:03.906125163Z",
+  "model": "glm-5.3"
+}

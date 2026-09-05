@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És kivitte ⟨את⟩ az Áserát Jahve házából, Jeruzsálemen kívül, a Kidron patakhoz, és elégette ⟨את⟩ a Kidron patakban, és porrá őrölte, és kihintette ⟨את⟩ porát a nép fiainak sírjaira.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kivitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Áserát"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "az Áserát"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jeruzsálemnek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "patak"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "és elégette"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "a Kidron patakban"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "patakban"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "és porrá őrölte"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "porrá"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "és kihintette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porát"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "porát"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sírjaira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:22.256820974Z",
+  "model": "glm-5.3"
+}

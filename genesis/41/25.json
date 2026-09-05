@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És szólt Jószéf (József) Paróhoz: „Paró álma egy ⟨az⟩; ⟨את⟩ amit az Elohim cselekszik, megjelentette Parónak.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "álma"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit az Elohim cselekszik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "megjelentette"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parónak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:53.425801385Z",
+  "model": "glm-5.3"
+}

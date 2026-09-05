@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 146,
+  "translation": "Kimelezi ⟨a⟩ lelke, visszatér földjéhez; azon a napon elpusztulnak tervei.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Kimelezi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "visszatér"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "földjéhez"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon a"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "elpusztulnak"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "tervei"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:09.469285031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És megáldotta őt, és mondta: „Áldott Avram (Ábrám) El Eljontól, az ég és a föld birtokosától.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "És megáldotta őt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram (Ábrám)"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "birtokosától"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "és a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:03.578660842Z",
+  "model": "glm-5.3"
+}

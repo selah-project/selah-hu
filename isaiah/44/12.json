@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 44:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "A vasműves — fejszével — dolgozik a szén fölött, és kalapácsokkal formálja azt, és karjának erejével készíti el; mégis éhezett, és nincs ereje: nem ivott vizet, és elgyengült.",
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "műves"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vas"
+    },
+    {
+      "surface": "מעצד",
+      "gloss": "fejszével"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "és dolgozik"
+    },
+    {
+      "surface": "בפחם",
+      "gloss": "a szén fölött"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "és kalapácsokkal"
+    },
+    {
+      "surface": "יצרהו",
+      "gloss": "formálja azt"
+    },
+    {
+      "surface": "ויפעלהו",
+      "gloss": "és elkészíti"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "karjának"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "erejével"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mégis"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "éhezett"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ereje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ivott"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "וייעף",
+      "gloss": "és elgyengült"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:41.669514894Z",
+  "model": "glm-5.3"
+}

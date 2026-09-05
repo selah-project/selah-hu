@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És megformálta Jahve Elohim ⟨את⟩ az embert, a föld porából, és belelehelt az orrába élet leheletét — és lett az ember élő lélekké.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "és megformálta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "port"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a földből"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "és belelehelt"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "az orrába"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "leheletét"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "az élet"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "lélekké"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "élő"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:52.211709745Z",
+  "model": "glm-5.3"
+}

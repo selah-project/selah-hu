@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megkeserítették ⟨את⟩ életüket kemencemunkával, agyaggal és téglákkal, és minden szántási munkával — ⟨את⟩ minden munkájukat, amelyet végeztettek velük, kegyetlenséggel.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "És megkeserítették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "életüket"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "életüket"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "munkával"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kemencemunkával"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "agyaggal"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "és téglákkal"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "szántási munkával"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "szántáson"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden munkájukat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "munkájukat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "végeztettek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "kegyetlenséggel"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:41.158627070Z",
+  "model": "glm-5.3"
+}

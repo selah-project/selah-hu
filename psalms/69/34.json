@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Mert meghallgatja a szegényeket Jahve, és ⟨את⟩ fogolytait nem veti meg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "meghallgatja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "a szegényeket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fogolytait"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "fogolytait"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "veti meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:00.482533772Z",
+  "model": "glm-5.3"
+}

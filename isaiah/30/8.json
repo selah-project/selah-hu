@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Most pedig menj, írd fel táblára, ⟨את⟩ velük, és vesd ⟨את⟩ könyvbe, hogy ⟨legyen⟩ az utolsó napra, tanúságul, örökre, örökön-örökké.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Most"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "menj"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "írd fel"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "táblára"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ velük",
+      "marks": "velük"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és -ba"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "könyvbe"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "vesd"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "napra"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "utolsó"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tanúságul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    }
+  ],
+  "timestamp": "2026-09-05T00:29:38.514542115Z",
+  "model": "glm-5.3"
+}

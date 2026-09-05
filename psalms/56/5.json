@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Elohim ⟨szavát⟩ dicsérem, Elohimra bíztam magam, nem félek — mit tehet ⟨a⟩ test nekem?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimra"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "dicsérem"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨szavát⟩"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimra"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bíztam magam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "félek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "test"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:16.873759029Z",
+  "model": "glm-5.3"
+}

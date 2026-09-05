@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És megáldotta a nép minden férfiút, aki önként felajánlkozott, hogy Jerusálémban lakjék.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "És megáldotta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "férfiút"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "aki önként felajánlkozott"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hogy lakjék"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusálémban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:57:26.376432925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "Mert tűzzel tart Jahve ítéletet, és az ő kardjával ⟨את⟩ minden testet, és megsokasodnak a Jahve megsebezettjei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzzel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ítéletet tart"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "és az ő kardjával"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden testet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "test"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "és megsokasodnak"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "megsebezettjei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:46.872368873Z",
+  "model": "glm-5.3"
+}

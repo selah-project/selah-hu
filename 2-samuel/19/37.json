@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Alig egy kicsit menne át a szolgád ⟨את⟩ a Jordánt ⟨את⟩ a királlyal, és miért viszonozná ezt nekem a király ilyen viszonzással?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "alig egy kicsit"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "menne át"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a szolgád"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jordánt"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jordánt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királlyal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "és miért"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "viszonozná nekem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "viszonzással"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ilyet"
+    }
+  ],
+  "timestamp": "2026-09-04T19:31:40.488347390Z",
+  "model": "glm-5.3"
+}

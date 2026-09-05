@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És úgy cselekedtek, és kinyújtotta Áhárón (Áron) ⟨את⟩ a kezét a botjával, és megütötte ⟨את⟩ a föld porát, és lettek a szúnyogok az emberen és a jószágon; a föld egész pora szúnyogok lett egész Micrajim (Egyiptom) földjén.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "És cselekedtek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "és kinyújtotta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áhárón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "a botjával"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és megütötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld porát"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "porát"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "a szúnyogok"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "az emberen"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "és a jószágon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pora"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "szúnyog"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:36.573327377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És minden lélek, aki dögre vagy széttépettre eszik, akár a benszülött, akár a jövevény, mossa ki ruháit és mosakodjék vízben, és tisztátalan legyen estig, az estig — akkor tiszta lesz.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "És minden"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "dögre"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "vagy széttépettre"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "a benszülött"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "és a jövevény"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "mossa ki"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "és mosakodjék"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "és tisztátalan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "estig"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "az est"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "és tiszta lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:36.883541080Z",
+  "model": "glm-5.3"
+}

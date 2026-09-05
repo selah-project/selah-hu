@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és mondta neki: „Így szólt Jiftach: Nem foglalta el Izrael ⟨את⟩ Moáv földjét és ⟨את⟩ Bnei Ammon földjét.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "foglalta el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moáv földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Bnei Ammon földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a fiai"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-04T18:56:18.812179978Z",
+  "model": "glm-5.3"
+}

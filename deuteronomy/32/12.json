@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Jahve egyedül vezette őt, és idegen El nem volt vele.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "vezette őt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nem volt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "idegen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:02.748069136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És történt, mikor hallotta a király ⟨את⟩ a Tora (Tóra) könyvének szavait, hogy szétszakította ⟨את⟩ ruháit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mikor hallotta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "könyvének"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "hogy szétszakította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    }
+  ],
+  "timestamp": "2026-09-04T20:03:10.848815651Z",
+  "model": "glm-5.3"
+}

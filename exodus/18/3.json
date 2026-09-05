@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És ⟨את⟩ az ő két fiát — az egyiknek a neve Gersóm, mert azt mondta: „Jövevény voltam idegen földön” —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "az ő két fiát"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a neve"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyiknek"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersóm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "azt mondta"
+    },
+    {
+      "surface": "גר",
+      "gloss": "Jövevény"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "voltam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földön"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "idegen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:40.534610629Z",
+  "model": "glm-5.3"
+}

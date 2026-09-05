@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És felkelt Jehonatán (Jónatán), Saul fia, és elment Davidhoz a Horesába, és megerősítette ⟨את⟩ az ő kezét Elohimban.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatán"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "a Horesába"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "és megerősítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "az ő kezét"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:13.039788176Z",
+  "model": "glm-5.3"
+}

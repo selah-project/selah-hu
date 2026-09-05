@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Szerug, miután nemzette ⟨את⟩ Náchort, kétszáz esztendőt, és nemzett fiakat és leányokat.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Szerug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "miután"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Náchort"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchort"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kétszáz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzett"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiakat"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "és leányokat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:46.190169111Z",
+  "model": "glm-5.3"
+}

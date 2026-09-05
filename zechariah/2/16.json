@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És örökségül kapja Jahve ⟨את⟩ Jehudát örökrészeként a szent földön, és újra kiválasztja Jerúsálemet.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "örökségül kapja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudát"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "örökrészeként"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "földön"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "és kiválasztja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "újra"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerúsálemet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:32:17.946970364Z",
+  "model": "glm-5.3"
+}

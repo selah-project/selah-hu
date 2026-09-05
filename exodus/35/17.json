@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "⟨את⟩ audvar kárpitjait, ⟨את⟩ oszlopait és ⟨את⟩ talpjait, és ⟨את⟩ az audvar kapjának kárpitját,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az audvar kárpitjait"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "kárpitjait"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az audvar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oszlopait"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "oszlopait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "talpjait"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "talpjait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kapu kárpitját"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kárpitját"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapujának"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az audvar"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:28.121059461Z",
+  "model": "glm-5.3"
+}

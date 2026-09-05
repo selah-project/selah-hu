@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "És gyűlölet szavai vettek körül engem, és ok nélkül harcoltak ellenem.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "És szavai"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "gyűlölet"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "körülvettek engem"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "és harcoltak ellenem"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ok nélkül"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:54.245294764Z",
+  "model": "glm-5.3"
+}

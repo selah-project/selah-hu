@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Karoddal megváltottad népedet, Jaakov (Jákob) és Jószéf (József) fiait. Szela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "megváltottad"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "karoddal"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov (Jákob)"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "és Jószéf (József)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:34.374137502Z",
+  "model": "glm-5.3"
+}

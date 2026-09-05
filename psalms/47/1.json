@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "A karmesternek, a Korach-fiainak, zsoltár.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a ...-fiainak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:19.196863456Z",
+  "model": "glm-5.3"
+}

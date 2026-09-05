@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Te uralkodsz a tenger dühöngésén; ha hullámai magasba nőnek, te csendbíted őket.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "uralkodsz"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "a dühöngésén"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "ha... nőnek"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "hullámai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "csendbíted őket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:48.887040779Z",
+  "model": "glm-5.3"
+}

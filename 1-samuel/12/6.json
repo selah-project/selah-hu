@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És mondta Smuél a népnek: „Jahve ⟨az⟩, aki tette ⟨את⟩ Moshét (Mózest) és ⟨את⟩ Aharont, és aki felhozza ⟨את⟩ atyáitokat Micrajimból (Egyiptomból).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a néphez"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és aki"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "felhozza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyáitokat"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "atyáitokat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéből"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T19:07:21.063504250Z",
+  "model": "glm-5.3"
+}

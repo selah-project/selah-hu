@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És fellázadt Izrael Dávid háza ellen, egészen e napig.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "És fellázadt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában (ellen)"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e(z)"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:23.978265020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Félelem és reszketés jön belém, és borzalom borított el engem.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Félelem"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "és reszketés"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "בי",
+      "gloss": "belém"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "és borított el engem"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "borzalom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:40.278415936Z",
+  "model": "glm-5.3"
+}

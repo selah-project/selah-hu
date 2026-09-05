@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Jahve őrzi az együgyűeket; elgyengültem, és nekem megszabadított.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "az együgyűeket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "elgyengültem"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "és nekem"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "megszabadított"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:47.645534314Z",
+  "model": "glm-5.3"
+}

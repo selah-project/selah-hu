@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "és leviszik annak a városnak a vénei ⟨את⟩ az üzőt egy sziklás, sosem apadó patakmederhez, amelyet nem művelnek és nem vetnek be, és ott nyakát szegik ⟨את⟩ az üzőnek, a patakmederben.",
+  "tokens": [
+    {
+      "surface": "והורידו",
+      "gloss": "és leviszik"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "a vénei"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "annak a városnak"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az üzőt"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "az üzőt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "egy patakmederhez"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "sziklás, sosem apadó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "művelnek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "vetnek be"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "és nyakát szegik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az üzőnek"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "az üzőnek"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a patakmederben"
+    }
+  ],
+  "timestamp": "2026-09-04T18:25:36.872712092Z",
+  "model": "glm-5.3"
+}

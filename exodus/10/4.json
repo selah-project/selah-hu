@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Mert ha megtagadod ⟨את⟩ népem elbocsátását, íme, holnap sáskát hozok a te határodra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "megtagadod"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "elbocsátását"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "hozok"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "holnap"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "sáskát"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "a te határodra"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:36.180545536Z",
+  "model": "glm-5.3"
+}

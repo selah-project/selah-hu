@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Ez ⟨legyen⟩ a fizetsége vádaskodóimnak Jahvétól ⟨את⟩, és azoknak, akik rosszat szólnak a lelkem ellen.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "fizetsége"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "vádaskodóimnak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ …tól",
+      "marks": "Jahvétól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "és akik szólnak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:46.383526167Z",
+  "model": "glm-5.3"
+}

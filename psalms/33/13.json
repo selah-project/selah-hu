@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Az égből tekintett le Jahve, látta ⟨את⟩ az ember minden fiát.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "az égből"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "tekintett le"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ember minden fiát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embernek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:30.281078851Z",
+  "model": "glm-5.3"
+}

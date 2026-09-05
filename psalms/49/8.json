@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Testvért váltságdíjért nem válthat ki ember, nem adhat Elohimnak váltságdíjat.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Testvért"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "váltani"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "kiválthat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adhat"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimnak"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "váltságdíjat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:37.527297403Z",
+  "model": "glm-5.3"
+}

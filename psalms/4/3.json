@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Emberek fiai, meddig ⟨lesz⟩ az én dicsőségem gyalázattá? Meddig szerettek hiúságot, hazugságot kerestek? Szela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Emberek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨meddig⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "dicsőségem"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "gyalázattá"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "szerettek"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "hiúságot"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "kerestek"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "hazugságot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:59.957158549Z",
+  "model": "glm-5.3"
+}

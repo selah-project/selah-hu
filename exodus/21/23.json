@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha szerencsétlenség lesz, akkor adj élelmet életért,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "szerencsétlenség"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "akkor adsz"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "életet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ért"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "élet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:59.529041978Z",
+  "model": "glm-5.3"
+}

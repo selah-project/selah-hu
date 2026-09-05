@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Ahol a király szava ⟨van⟩, ott hatalom ⟨van⟩, és ki mondhatja néki: „mit teszel?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "Ahol"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szava"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "hatalom"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondhatja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teszel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:45.236556532Z",
+  "model": "glm-5.3"
+}

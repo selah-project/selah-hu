@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Jobb a szemek látványa, mint a lélek vándorlása; ez is hiúság és a lélek nyughatatlansága.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "látványa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "a szemeknek"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "mint a vándorlása"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "a léleknek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "szintén"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hiúság"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "és nyughatatlansága"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a léleknek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:07.297086667Z",
+  "model": "glm-5.3"
+}

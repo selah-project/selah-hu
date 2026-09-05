@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 126,
+  "translation": "Menve megy és sírva, hordozza vetőmagja zsákját; bizony eljő ujjongva, hordozva kévéit.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "menve"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "megy"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "és sírva"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hordozza"
+    },
+    {
+      "surface": "משך",
+      "gloss": "vetőmag-"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "zsákját"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bizony el-"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jő"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ujjongva"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hordozva"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "kévéit"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:27.569585416Z",
+  "model": "glm-5.3"
+}

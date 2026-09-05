@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És bevihette ⟨את⟩ a ládát a sátorkunyhóba, és helyezhette ⟨את⟩ a függönytakarót, és elfedhette vele a bizonyság ládáját — ahogyan megparancsolta Jahve ⟨את⟩ Moshénak (Mózesnek).",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "és bevihette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ládát"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "a ládát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "be"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a sátorkunyhóba"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és helyezhette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a függönytakarót"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "a függönyt"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "takaróját"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "és elfedhette"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "a bizonyságnak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshét (Mózest)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:05.671539047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "A mellből rabolják ⟨az⟩ árvát, és a szegénytől zálogot visznek.",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "rabolják"
+    },
+    {
+      "surface": "משד",
+      "gloss": "a mellből"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "az árvát"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ... -tól"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a szegény"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "zálogot visznek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:24:18.941431336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ⟨את⟩ a népet parancsold meg, mondván: „Átvonultok testvéreitek, Ézsau (Ézsau) fiainak határán, akik Széírban laknak, és félnek tőletek; ti pedig nagyon vigyázzatok magatokra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "צו",
+      "gloss": "parancsold meg"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ávonultok"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "határán"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "testvéreitek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ézsau"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "akik laknak"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Széírban"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "és félnek"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "tőletek"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "ti pedig vigyázzatok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:20.007696232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 26:23",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És aludt Uzijjáhu atyáival, és eltemették őt ⟨את⟩ atyáival a királyok temetkezésének mezején, mert azt mondták: bélpoklos ⟨ő⟩; és uralkodott Jótám, az ő fia, helyette.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "És aludt"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzijjáhu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyái"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "atyái"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mezején"
+    },
+    {
+      "surface": "הקבורה",
+      "gloss": "a temetkezésnek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "a királyoké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "azt mondták"
+    },
+    {
+      "surface": "מצורע",
+      "gloss": "bélpoklos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "és uralkodott"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jótám"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    }
+  ],
+  "timestamp": "2026-09-04T23:18:32.895214289Z",
+  "model": "glm-5.3"
+}

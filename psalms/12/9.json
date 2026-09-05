@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Köröskörül járkálnak a gonoszak, amikor magasra emelik a gyalázatot ⟨az⟩ emberek fiai.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "Köröskörül"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszak"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "járkálnak"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "amikor magasra"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "a gyalázatot"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨az⟩ fiai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "emberek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:09.861119340Z",
+  "model": "glm-5.3"
+}

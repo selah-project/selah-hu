@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Mert gúnyolódó ajkakkal és más nyelven szól ⟨ő⟩ e néphez,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "gúnyolódó"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ajkakkal"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "és nyelven"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "más"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:26.499761114Z",
+  "model": "glm-5.3"
+}

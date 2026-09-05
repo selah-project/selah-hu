@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "de a hetedik évben szabbat-legyen szabbatón a földnek, szabbat Jahvénak: meződet ne vesd, és szőlőhegyedet ne metszd.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "de a … évben"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "hetedik"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szabbat-legyen"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "szabbatón"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "szabbat-legyen"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "meződet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "vesd"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "és szőlőhegyedet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "metszd"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:36.581837680Z",
+  "model": "glm-5.3"
+}

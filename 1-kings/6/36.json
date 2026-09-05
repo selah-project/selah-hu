@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És felépítette ⟨את⟩ a belső udvart: három sor faragott kőből és egy sor vágott cédrusból.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "És felépítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a belső udvart"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvarat"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "belső"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "sor"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "faragott kőből"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "és egy sor"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "vágott"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cédrusból"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:18.526325574Z",
+  "model": "glm-5.3"
+}

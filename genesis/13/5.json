@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És Lótnak (Lót) is, aki ⟨את⟩ Avrammal (Ábrahámmal) járt, volta juhnyája, marhája és sátrai.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És is"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lótnak"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "aki járt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrammal (Ábrahámmal)"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrammal (Ábrahámmal)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juhnyája"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "és marhája"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "és sátrai"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:00.028238574Z",
+  "model": "glm-5.3"
+}

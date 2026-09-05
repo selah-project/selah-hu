@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "A gonosz ember vétkében ⟨van⟩ ⟨a⟩ csapda, az igaz pedig énekel és örvend.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "vétkében"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "csapda"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "és az igaz"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "énekel"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "és örvend"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:46.315192045Z",
+  "model": "glm-5.3"
+}

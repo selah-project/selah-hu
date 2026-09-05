@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Némává lettem, nem nyitom meg ⟨a⟩ számat, mert te tetted.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "némává lettem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "nyitom meg"
+    },
+    {
+      "surface": "פי",
+      "gloss": "számat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tetted"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:47.605488999Z",
+  "model": "glm-5.3"
+}

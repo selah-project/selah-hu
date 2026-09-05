@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "mert szemetek látta Jahve egész nagy tettét, amelyet végbevitt:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "szemetek"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tettét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "végbevitt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:38.449046727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "A pusztuláson és az éhségen nevetsz, és a föld vadállataitól sem félsz.",
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "a pusztuláson"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "és az éhségen"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "nevetsz"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "és a vadállataitól"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "félsz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:39.886929696Z",
+  "model": "glm-5.3"
+}

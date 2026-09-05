@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És azután leányt szült, és nevét Dínának nevezte.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "és azután"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "szült"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leányt"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "és nevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevét"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dína"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:12.703488160Z",
+  "model": "glm-5.3"
+}

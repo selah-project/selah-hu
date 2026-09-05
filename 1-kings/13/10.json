@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És elment más úton, és nem tért vissza az úton, amelyen Bet-Elbe jött.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "más"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tért vissza"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "בה",
+      "gloss": "azon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elbe"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:34.016399829Z",
+  "model": "glm-5.3"
+}

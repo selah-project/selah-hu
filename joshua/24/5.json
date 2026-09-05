@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És elküldtem ⟨את⟩ Moshét (Mózest) és ⟨את⟩ Aharont (Áront), és megvertem ⟨את⟩ Micrajimet (Egyiptomot), ahogyan cselekedtem annak bensejében, és azután kivezettelek ⟨את⟩ titeket.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "És elküldtem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "és megvertem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajimet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "annak bensejében"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és azután"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "kivezettelek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:50.492967284Z",
+  "model": "glm-5.3"
+}

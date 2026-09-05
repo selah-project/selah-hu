@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "És Elohim az én királyom ⟨régtől⟩, cselekvő szabadításokat a föld közepében.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "és Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "az én királyom"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "⟨régtől⟩"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "cselekvő"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "szabadításokat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepében"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:17.884140055Z",
+  "model": "glm-5.3"
+}

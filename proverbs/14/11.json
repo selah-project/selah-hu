@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "A gonoszok háza elpusztul, és az egyenesek sátora kivirágzik.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszoknak"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "elpusztul"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "és sátra"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "az egyeneseknek"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "kivirágzik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:30.563616828Z",
+  "model": "glm-5.3"
+}

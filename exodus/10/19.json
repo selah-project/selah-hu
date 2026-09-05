@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Jahve szélcsere-erősséggel fordított egy tenger felől jövő, nagyon erős szelet, és ⟨az⟩ felkapta ⟨את⟩ a sáskát, és belevetette a Szúf-tengerbe; nem maradt egyetlen sáska sem egész Micrajim (Egyiptom) határain.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "és fordított"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szél"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "erős"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "és felkapta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sáskát"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "a sáskát"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "és belevetette"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "tengerbe"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Szúf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "maradt"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "sáska"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyetlen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "határain"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:18.449413440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És most menj, és elküldlek Paróhoz (a fáraóhoz), és hozd ki ⟨את⟩ népemet, Izráel fiait Micrajimból.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "menj"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "elküldlek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "és hozd ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:37.521379669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Nem félsz az éj rémületétől, sem a nappal röpködő nyíltól.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "félsz"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "rémületétől"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "az éj"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "nyíltól"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "röpködő"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:09.850108626Z",
+  "model": "glm-5.3"
+}

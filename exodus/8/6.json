@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És monda ⟨ő⟩: „Holnapra.” És monda ⟨Paroh⟩: „A te szavad szerint — hogy megtudd, hogy nincs senki Jahvénkhez, az Elohimunkhoz hasonló.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Holnapra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "A te szavad szerint"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "megtudd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs senki"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Jahvénkhez… hasonló"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "az Elohimunkhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:22.071486779Z",
+  "model": "glm-5.3"
+}

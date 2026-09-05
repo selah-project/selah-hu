@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 2:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Mert elhagytad népedet, Jaakov házát, mert megteltek keletről ⟨és⟩ jósmondókkal, mint ⟨a⟩ Plistim, és idegen gyermekekkel csapnak kezet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נטשתה",
+      "gloss": "elhagytad"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "megteltek"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "keletről"
+    },
+    {
+      "surface": "ועננים",
+      "gloss": "és jósmondókkal"
+    },
+    {
+      "surface": "כפלשתים",
+      "gloss": "mint ⟨a⟩ Plistim"
+    },
+    {
+      "surface": "ובילדי",
+      "gloss": "és ... gyermekekkel"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "ישפיקו",
+      "gloss": "csapnak kezet"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:41.566442512Z",
+  "model": "glm-5.3"
+}

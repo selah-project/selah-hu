@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 9:28",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "nehogy azt mondja az a föld, amelyről kihoztál minket: Mivel nem volt képes Jahve bevezetni őket arra a földre, amelyről szólt nekik, és mivel gyűlölte őket, kivitte őket, hogy megölje őket a pusztában.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "azt mondja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyről"
+    },
+    {
+      "surface": "הוצאתנו",
+      "gloss": "kihoztál minket"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnét"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "mivel nem"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "volt képes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "bevezetni őket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyről"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "ומשנאתו",
+      "gloss": "és gyűlöletéből"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kivitte őket"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "kivitte őket"
+    },
+    {
+      "surface": "להמתם",
+      "gloss": "hogy megölje őket"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:49.726162697Z",
+  "model": "glm-5.3"
+}

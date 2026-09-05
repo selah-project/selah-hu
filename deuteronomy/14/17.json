@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "és a kaat, és ⟨את⟩ a raháma, és ⟨את⟩ a salách",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "és a kaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a raháma"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "a raháma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a salách"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "a salách"
+    }
+  ],
+  "timestamp": "2026-09-04T17:56:30.021829391Z",
+  "model": "glm-5.3"
+}

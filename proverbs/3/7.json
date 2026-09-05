@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ne légy bölcs a saját szemeidben; félj ⟨את⟩ Jahvét, és fordulj el a rossztól.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "légy"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a saját szemeidben"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "félj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "és fordulj el"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "a rossztól"
+    }
+  ],
+  "timestamp": "2026-09-05T00:48:55.949291331Z",
+  "model": "glm-5.3"
+}

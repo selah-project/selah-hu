@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És ez az áldás, amellyel megáldotta Mose (Mózes), az Elohim embere ⟨את⟩ Jiszráél fiait halála előtt.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "És ez"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "az áldás"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amellyel"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "megáldotta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "halála"
+    }
+  ],
+  "timestamp": "2026-09-04T18:33:28.201614934Z",
+  "model": "glm-5.3"
+}

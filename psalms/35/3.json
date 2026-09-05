@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És rántsd ki ⟨a⟩ lándzsát, és zárj el ⟨az⟩ utat üldözőim elől; mondd lelkemnek: »Én vagyok szabadításod.«",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "és rántsd ki"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lándzsát"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "és zárj el"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "elől"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "üldözőim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondd"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lelkemnek"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "szabadításod"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:54.688909193Z",
+  "model": "glm-5.3"
+}

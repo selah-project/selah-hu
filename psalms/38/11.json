@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Szívem hevesen dobog, erőm elhagyott, és szemem világát — az sincs ⟨את⟩ velem.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "szívem"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "hevesen dobog"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "elhagyott"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "erőm"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "és világát"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "az is"
+    },
+    {
+      "surface": "הם",
+      "gloss": "azok"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:37.947084457Z",
+  "model": "glm-5.3"
+}

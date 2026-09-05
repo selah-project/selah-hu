@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És éjjel felosztotta magát ellenük, ő és szolgái, és megverte ⟨őket⟩, és üldözte ⟨őket⟩ Chováig, amely Damaszkusztól balra ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "És felosztotta"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "és szolgái"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "és megverte őket"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "és üldözte őket"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "Chováig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "bal(jára)"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Damaszkusztól"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:54.282156383Z",
+  "model": "glm-5.3"
+}

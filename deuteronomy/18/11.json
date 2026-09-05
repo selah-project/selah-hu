@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "és igéző igézetet, és aki szellemidézőt kérdez, és jövendőmondó, és aki a holtakhoz fordul.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "és igéző"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "igézetet"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "és aki kérdez"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "szellemidézőt"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "és jövendőmondó"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "és aki fordul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hoz"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "a holtakhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:39.659252384Z",
+  "model": "glm-5.3"
+}

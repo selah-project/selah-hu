@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Jahve dicséretét szólja ⟨az én⟩ szám, és áldja minden test az ő szent nevét örökkön-örökké.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "dicséretét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "szólja"
+    },
+    {
+      "surface": "פי",
+      "gloss": "⟨az én⟩ szám"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és áldja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "test"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "szent"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökkön"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és örökké"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:32.036866871Z",
+  "model": "glm-5.3"
+}

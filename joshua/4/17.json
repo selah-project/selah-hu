@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És megparancolta Jehosúa (Józsué) ⟨את⟩ a papoknak, mondván: Menjetek fel a Jardénből.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancolta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosúa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a papoknak"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papoknak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondva"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Menjetek fel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardénből"
+    }
+  ],
+  "timestamp": "2026-09-04T18:34:35.562063581Z",
+  "model": "glm-5.3"
+}

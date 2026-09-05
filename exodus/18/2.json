@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És vette Jitró, Moshe apósa, ⟨את⟩ Cipórát, Moshe feleségét, az ő elbocsátása után.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitró"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "apósa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cipórát"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cipórát"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "után"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "az ő elbocsátása"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:40.534450400Z",
+  "model": "glm-5.3"
+}

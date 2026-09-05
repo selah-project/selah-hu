@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És történt, midőn befejezte az égőáldozat felvitelét — íme, Smuél jött; és Saul kiment eléje, hogy áldást mondjon rá.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "midőn befejezte"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "felvinni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatot"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "és kiment"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "eléje"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "hogy áldást mondjon rá"
+    }
+  ],
+  "timestamp": "2026-09-04T19:09:32.873489304Z",
+  "model": "glm-5.3"
+}

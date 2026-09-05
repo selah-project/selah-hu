@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 134,
+  "translation": "Emeljétek fel kezeiteket ⟨a⟩ szentély ⟨felé⟩, és áldjátok ⟨את⟩ Jahvét!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Emeljétek fel"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "kezeiteket"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentély(felé)"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "és áldjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:32.806859352Z",
+  "model": "glm-5.3"
+}

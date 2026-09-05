@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És történt másnap, hogy leült Moshe (Mózes), hogy ítélkezzen ⟨את⟩ a nép fölött, és a nép ott állt Moshe mellett reggeltől estig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "másnap"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "leült"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "hogy ítélkezzen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "és állt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "est"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:14.179362849Z",
+  "model": "glm-5.3"
+}

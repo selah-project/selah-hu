@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Jahve a jogost próbára teszi, és a gonoszt és az erőszak szeretőjét gyűlöli a lelke.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "a jogost"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "próbára teszi"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "és a gonoszt"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "és szeretőjét"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszak"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "gyűlöli"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a lelke"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:46.358761121Z",
+  "model": "glm-5.3"
+}

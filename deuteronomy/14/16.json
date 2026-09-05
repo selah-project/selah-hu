@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "⟨את⟩ a kuvikot, és ⟨את⟩ az uhubufecsitet, és a hóbaglyot",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kuvikot"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "a kuvikot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az uhubufecsitet"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "az uhubufecsitet"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "és a hóbaglyot"
+    }
+  ],
+  "timestamp": "2026-09-04T17:56:30.171115545Z",
+  "model": "glm-5.3"
+}

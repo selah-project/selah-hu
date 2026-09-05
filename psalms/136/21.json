@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "és adta földjüket örökségül, mert örökre ⟨áll⟩ a heszedje",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "földjüket"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "örökségül"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:38.921545047Z",
+  "model": "glm-5.3"
+}

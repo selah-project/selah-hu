@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És az ivászat törvény szerint ⟨történt⟩: nincs kényszerítés, mert így rendelte a király háza minden főembere fölé, hogy cselekedjenek mindenkinek az akarata szerint, férfi és férfi szerint.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "és az ivászat"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "törvény szerint"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "kényszerítés"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "rendelte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "רב",
+      "gloss": "főembere"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "az ő háza"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy cselekedjenek"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "akarata szerint"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és férfi"
+    }
+  ],
+  "timestamp": "2026-09-04T23:54:58.993195345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Gúnyoló ⟨a⟩ bor, zajongó ⟨a⟩ részegítő ital, és mindenki, aki tévelyeg benne, nem lesz bölcs.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "gúnyoló"
+    },
+    {
+      "surface": "היין",
+      "gloss": "⟨a⟩ bor"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zajongó"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "⟨a⟩ részegítő ital"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és mindenki, aki"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "tévelyeg"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "lesz bölcs"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:13.224379582Z",
+  "model": "glm-5.3"
+}

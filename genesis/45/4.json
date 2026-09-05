@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "És mondta Joszef a testvéreinek: Jöjjetek közelebb hozzám, kérlek. És közelebb jöttek. És mondta: Én Joszef vagyok, a ti testvéretek, akit eladtatok ⟨את⟩ engem Micrajimba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreinek"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Jöjjetek közelebb"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "és közelebb jöttek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "testvéretek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "eladtatok"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micrajimba"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:15.810023433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Bizony, Jahve, pusztává tették Assur királyai ⟨את⟩ a népeket és ⟨את⟩ az ő országukat,",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "pusztává tették"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népeket"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a népeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő országukat"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "az ő országukat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:40.283145447Z",
+  "model": "glm-5.3"
+}

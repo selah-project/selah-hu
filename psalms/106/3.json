@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Boldogok ⟨azok⟩, akik megtartják a jogot, akik igazságot cselekszenek minden időben.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldogok"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "akik megtartják"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "a jogot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akik cselekszenek"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עת",
+      "gloss": "időben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:40.320364606Z",
+  "model": "glm-5.3"
+}

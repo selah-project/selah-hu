@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És egyedül maradt Jaakob (Jákob), és birkózott ⟨egy⟩ férfi vele, míg fel nem kelt a hajnal.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "maradt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "birkózott"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "fel nem kelt"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "a hajnal"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:56.565843099Z",
+  "model": "glm-5.3"
+}

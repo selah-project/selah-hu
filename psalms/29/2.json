@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Adjatok Jahvénak az ő nevének dicsőségét, boruljatok le Jahve előtt szent fényességben.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "adjatok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőséget"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevének"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "boruljatok le"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "fényességében"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:20.574165825Z",
+  "model": "glm-5.3"
+}

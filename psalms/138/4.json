@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 138,
+  "translation": "Hálát adnak neked, Jahve, a föld minden királyai, mert hallották szájad igéit.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "hálát adnak neked"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hallották"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "igéit"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "szájad"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:24.036910631Z",
+  "model": "glm-5.3"
+}

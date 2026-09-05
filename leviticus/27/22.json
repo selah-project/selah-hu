@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És ha ⟨את⟩ vásárolt földjét — amely nem örökbirtoki földjei közül való — megszenteli Jahvénak:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vásárolt földjét"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "vásárolt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "földjei közül"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "örökbirtoki"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "megszenteli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:15.520618762Z",
+  "model": "glm-5.3"
+}

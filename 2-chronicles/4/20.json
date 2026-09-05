@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ⟨את⟩ a menórákat és lámpásaikat, hogy égjenek a rendelet szerint a devír előtt — tömör aranyból.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a menórákat"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "a menórákat"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "és lámpásaikat"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "hogy égjenek"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "a rendelet szerint"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "a devír"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyból"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "tömör"
+    }
+  ],
+  "timestamp": "2026-09-04T23:10:44.891970021Z",
+  "model": "glm-5.3"
+}

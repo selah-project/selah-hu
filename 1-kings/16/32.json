@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És oltárt emelt a Baálnak a Baál házában, amelyet Samáriában épített.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És emelt"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "a Baálnak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Baál"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "épített"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Samáriában"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:39.616321617Z",
+  "model": "glm-5.3"
+}

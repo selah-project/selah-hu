@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És a kapkodók szíve megérti az ismeretet, és a dadogók nyelve siet érthetően beszélni.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "És szíve"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "a kapkodóknak"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "megérti"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "az ismeretet"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "és nyelve"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "a dadogóknak"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "siet"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "beszélni"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "érthetően"
+    }
+  ],
+  "timestamp": "2026-09-04T20:17:51.553700978Z",
+  "model": "glm-5.3"
+}

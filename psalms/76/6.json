@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 76,
+  "translation": "Zsákmányul estek az erős-szívűek, álmukat aludták, és nem találták kezüket a hős férfiak mind.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "Zsákmányul estek"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "erős-"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívűek"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "álmodtak"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "álmukat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "találták"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiai"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hős(vagy: hatalom)"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kezüket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:45.859857413Z",
+  "model": "glm-5.3"
+}

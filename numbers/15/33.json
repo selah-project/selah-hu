@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És előhozták ⟨את⟩ őt, a megtalálói ⟨את⟩ őt fagyűjtögetőként fát, Moshéhoz (Mózeshez) és Aharonhoz és az egész gyülekezethez.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "és előhozták"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt — a fagyűjtögető embert"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "a megtalálói"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt — a megtalált embert"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "fagyűjtögetőként"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "fát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és …hoz"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és …hoz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gyülekezet"
+    }
+  ],
+  "timestamp": "2026-09-04T17:35:53.671863767Z",
+  "model": "glm-5.3"
+}

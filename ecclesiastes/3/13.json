@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És sőt minden ember, hogy eszik és iszik és jót lát minden fáradozásában — ajándék ez, az Elohim adománya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És sőt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "és iszik"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és lát"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "fáradozásában"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ajándék"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:44.003919212Z",
+  "model": "glm-5.3"
+}

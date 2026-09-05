@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "Akkor meghasad mint a hajnal ⟨a⟩ világosságod, és gyógyulásod gyorsan kihajt, és igazsáod járra előtted, Jahve dicsősége gyűjtsön be téged.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "meghasad"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "mint a hajnal"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "világosságod"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "és gyógyulásod"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "gyorsan"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "kihajt"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "és járjon"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "igazsáod"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsősége"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "gyűjtsön be téged"
+    }
+  ],
+  "timestamp": "2026-09-04T20:29:14.128418604Z",
+  "model": "glm-5.3"
+}

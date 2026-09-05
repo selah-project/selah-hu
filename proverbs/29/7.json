@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Ismeri az igaz a szegények ügyét, a gonosz nem ért ismeretet.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ügyét"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "a szegények"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ért"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ismeretet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:46.315303800Z",
+  "model": "glm-5.3"
+}

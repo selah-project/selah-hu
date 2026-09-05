@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Álljon előtted könyörgésem mint tömjén, kézfelem ⟨felemelése⟩ mint az estváló áldozat.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "Álljon"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "könyörgésem"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mint tömjén"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "elötted"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "⟨felemelése⟩"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kézfelem"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mint ⟨az⟩ estváló adomány"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "estvének"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:31.428385840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És ő mondta neki: Én vagyok az. Menj, mondd meg uradnak: Íme, Eljáhu!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondd meg"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "uradnak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eljáhu"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:18.339446734Z",
+  "model": "glm-5.3"
+}

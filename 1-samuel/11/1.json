@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És felvonult Nahas, az emmonita, és tábort ütött Jáves-Gilád ellen; és mondtak Jáves minden embere Nahasnak: Köss velünk ⟨את⟩ a szövetséget, és szolgálunk neked.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "És felvonult"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahas"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "az emmonita"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "és tábort ütött"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Jáves"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilád"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondtak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "embere(i)"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jávesnek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nak"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahas"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Köss"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "a szövetséget"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "és szolgálunk neked"
+    }
+  ],
+  "timestamp": "2026-09-05T00:27:02.611021813Z",
+  "model": "glm-5.3"
+}

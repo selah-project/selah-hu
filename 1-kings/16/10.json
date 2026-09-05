@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És bement Zimri, és megütötte őt, és megölte őt Ászának, Jehúda királyának huszonhetedik évében, és uralkodott helyette.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bement"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "megütötte őt"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "megölte őt"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "évében"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "huszon"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "hetedik"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Ászának"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "uralkodott"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:28.083980080Z",
+  "model": "glm-5.3"
+}

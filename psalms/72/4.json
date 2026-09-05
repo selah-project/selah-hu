@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Ítélje ⟨meg⟩ a nép szegényeit, szabadítsa meg a szűkölködők fiait, és zúzza össze ⟨a⟩ nyomót.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "ítélje"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "szegényeit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "szabadítsa meg"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "a szűkölködőnek"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "és zúzza össze"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "nyomót"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.402342665Z",
+  "model": "glm-5.3"
+}

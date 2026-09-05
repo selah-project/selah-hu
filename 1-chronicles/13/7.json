@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És felvitték ⟨את⟩ az Elohim ládáját egy új szekéren Avinadáv (Abinádáb) házából, és Uzza és Ahijó (Akhijó) vezették a szekeret.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "felvitték (szekérre rakták)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohim ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "szekéren"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "új"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadáv"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "és Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "és Ahijó (testvére)"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "vezették"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "a szekeret"
+    }
+  ],
+  "timestamp": "2026-09-04T23:05:12.074560922Z",
+  "model": "glm-5.3"
+}

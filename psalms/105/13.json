@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "És vándoroltak néptől népig, országtól más népig.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "És vándoroltak"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "néptől"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ig"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "népig"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "országtól"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népig"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "más"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:03.272144759Z",
+  "model": "glm-5.3"
+}

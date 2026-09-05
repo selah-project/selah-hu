@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És odahívta Dávid egyet az ifjak közül, és azt mondta: Járulj oda, vesd rád ⟨את⟩. És az leütötte ⟨את⟩, és meghalt.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És odahívta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "az ifjak közül"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és azt mondta"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Járulj oda"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "vesd rád"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "és leütötte"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.190753588Z",
+  "model": "glm-5.3"
+}

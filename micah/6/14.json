@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Te eszel, és nem lakolsz jól, és üresség ⟨van⟩ a bensőd közepette; és elviszed ⟨את⟩, de nem mentesz meg, és amit megmentesz, azt kardnak adom.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eszel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "lakolsz jól"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "és üresség ⟨van⟩"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "a bensőd közepette"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "és elviszed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "mentesz meg"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amit"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "megmentsz"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kardnak"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:28:26.345299675Z",
+  "model": "glm-5.3"
+}

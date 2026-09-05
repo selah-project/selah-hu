@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Nemde mint Karkemis, úgy ⟨van⟩ Kalno? Nemde mint Arpad, úgy Hamat? Nemde mint Damesek, úgy Somron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "mint Karkemis"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "úgy ⟨van⟩ Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mint"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "úgy Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mint"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "Damesek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "úgy Somron"
+    }
+  ],
+  "timestamp": "2026-09-04T20:09:51.019450759Z",
+  "model": "glm-5.3"
+}

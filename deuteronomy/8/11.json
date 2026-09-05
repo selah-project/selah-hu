@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Vigyázz magadra, hogy el ne feledd ⟨את⟩ Jahvét, a te Elohimodat, elhanyagolva parancsolatainak, rendeleteinek és szabályainak megtartását, amelyeket én parancsolok neked ma.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "vigyázz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadra"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy... ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "el feledd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodat"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "elhanyagolva"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "megtartását"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "parancsolatainak"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "és rendeleteinek"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "és szabályainak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parancsolok neked"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:23.133665841Z",
+  "model": "glm-5.3"
+}

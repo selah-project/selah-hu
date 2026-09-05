@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És a nővére, Hámoleket (Hámóleket), megszülte ⟨את⟩ Is-hodot (Is-hodot) és ⟨את⟩ Aviézert (Aviézer) és ⟨את⟩ Machlát (Machlá).",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "És a nővére"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hámoleket (Hámóleket)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "megszülte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Is-hodot (Is-hodot)"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Is-hodot (Is-hodot)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aviézert (Aviézer)"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviézert (Aviézer)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Machlát (Machlá)"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlát (Machlá)"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:36.140696514Z",
+  "model": "glm-5.3"
+}

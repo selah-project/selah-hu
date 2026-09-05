@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És történt ezután, hogy Dávid szíve megszúrta ⟨את⟩ ⟨őt⟩, amiért levágta ⟨את⟩ a szárnyat, amely Saulé volt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ezután"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ezután⟩"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "hogy megütötte"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a szíve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "Dávid"
+    },
+    {
+      "surface": "על",
+      "gloss": "amiért"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "levágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szárnyat"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "a szárnyat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulé volt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:59.588160809Z",
+  "model": "glm-5.3"
+}

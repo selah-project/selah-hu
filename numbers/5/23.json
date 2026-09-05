@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És megírja a kohen ⟨את⟩ ezeket az átkokat a könyvbe, és beletörli ⟨את⟩ a keserű vizekbe.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "és megírja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket az átkokat"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "az átkokat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "a könyvbe"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "és beletörli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bele"
+    },
+    {
+      "surface": "מי",
+      "gloss": "a vizekbe"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "keserű"
+    }
+  ],
+  "timestamp": "2026-09-04T17:29:21.850811234Z",
+  "model": "glm-5.3"
+}

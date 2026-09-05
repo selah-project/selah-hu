@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "A bűnös ember lelke a rosszat kívánja; a felebarátja nem talál kegyelmet a szemeiben.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bűnös ember"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "kívánja"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "talál kegyelmet"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a szemeiben"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a felebarátja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:52.487200519Z",
+  "model": "glm-5.3"
+}

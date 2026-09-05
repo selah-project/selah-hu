@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Az esztelen útja egyenes ⟨a⟩ saját szemében, de aki tanácsra hallgat, az bölcs.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "útja"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "esztelennek"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "egyenes"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "és hallgat"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "tanácsra"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:44.763514769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És most, Jahve, Elohimem, te uralkodóvá tetted ⟨את⟩ szolgádat Dávidom, az atyám helyett; én pedig kicsiny ifjú vagyok, nem tudom kimenetelt és bejövetelt.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "uralkodóvá tetted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgádat"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidom, az"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ifjú"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kicsiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kimenetelt"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "és bejövetelt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:15.186663269Z",
+  "model": "glm-5.3"
+}

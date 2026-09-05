@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 114,
+  "translation": "Hegyek, hogy ugráltok, mint a kosok, dombok, mint a juhnyáj ⟨fiataljai⟩?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Hegyek"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "hogy ugráltok"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "mint a kosok"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dombok"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "mint ⟨a juhnyáj fiataljai⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juhnyáj"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:12.915366231Z",
+  "model": "glm-5.3"
+}

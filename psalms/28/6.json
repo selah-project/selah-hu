@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Áldott ⟨legyen⟩ Jahve, mert meghallotta könyörgéseim hangját.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott ⟨legyen⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "meghallotta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "könyörgéseim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:22.990293946Z",
+  "model": "glm-5.3"
+}

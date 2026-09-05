@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És kimentek Izsel férfiai a Micpából, és üldözték ⟨את⟩ a filiszteusokat, és megverték őket egészen Bét-Kár alattáig.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "És kimentek"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izsel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–ból"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "a Micpából"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "és üldözték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a filiszteusokat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filiszteusokat"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "és megverték őket"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alattáig"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bét"
+    },
+    {
+      "surface": "כר",
+      "gloss": "-Kár"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:57.274477679Z",
+  "model": "glm-5.3"
+}

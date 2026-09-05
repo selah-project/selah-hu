@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És elküldte ⟨את⟩ Jiszráél (Izrael) fiainek ifjait, és felvitték az égőáldozatokat, és véresáldozatokat áldoztak szelámim-békéáldozatokat Jahvénak: bikaborjakat.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél fiainek ifjait"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ifjait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "és felvitték"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "égőáldozatokat"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "és áldoztak"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "véresáldozatokat"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "szelámim-békéáldozatokat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "bikaborjakat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:50.300362206Z",
+  "model": "glm-5.3"
+}

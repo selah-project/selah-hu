@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És történt Ahasverós (Ahasvéros) napjaiban — ő ⟨az⟩ Ahasverós, a király, aki uralkodott Hodútól Kúsig, hét és húsz és száz tartomány fölött —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "napjaiban"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasverós"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahasverós"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hodútól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és mind"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kúsig"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "és száz"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "tartomány"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:08.650587189Z",
+  "model": "glm-5.3"
+}

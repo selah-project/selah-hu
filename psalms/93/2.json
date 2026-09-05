@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 93,
+  "translation": "Áll ⟨a⟩ trónodod hajdan(mt)ól, öröktől fogva ⟨te⟩ vagy.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Áll"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "trónod"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "hajdanót"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "öröktől fogva"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:11.349353290Z",
+  "model": "glm-5.3"
+}

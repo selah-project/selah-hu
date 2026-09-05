@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "örökségül Izráelnek, az ő szolgájának, mert örökre ⟨áll⟩ a heszedje",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "örökségül"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izráelnek"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "az ő szolgájának"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:38.921770303Z",
+  "model": "glm-5.3"
+}

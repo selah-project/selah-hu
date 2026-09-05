@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És megrendült és remegett a föld, és a hegyek alapjai megindultak, és hánykolódtak, mert haragra gyúlt ⟨ő⟩.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "és megrendült"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "és remegett"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "és az alapjai"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "megindultak"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "és hánykolódtak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "haragra gyúlt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ő⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:14.679858124Z",
+  "model": "glm-5.3"
+}

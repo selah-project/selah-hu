@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Az együgyűeknek ravaszság adására, az ifjúnak ismeret és megfontoltság ⟨adására⟩",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "adására"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "együgyűeknek"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ravaszság"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ifjúnak"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ismeret"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "és megfontoltság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:25.605037789Z",
+  "model": "glm-5.3"
+}

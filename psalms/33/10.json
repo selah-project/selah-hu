@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Jahve meghiúsítja a népek tanácsát, semmissé teszi a nemzetek terveit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "meghiúsítja"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "…tanácsát"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "semmissé teszi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "…terveit"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "a nemzetek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:02.429238758Z",
+  "model": "glm-5.3"
+}

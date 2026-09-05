@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondták a király szolgái, akik a király kapujában ⟨voltak⟩, Mordochájnak: miért szeged meg ⟨את⟩ a király parancsát?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kapujában"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordochájnak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miért"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "szeged meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a király parancsát"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:11.612978435Z",
+  "model": "glm-5.3"
+}

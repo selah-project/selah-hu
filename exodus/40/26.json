@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És helyezte ⟨את⟩ az arany oltárt a találkozás sátrában, a kárpit előtt.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "és helyezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az arany oltárt"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltár"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az arany"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sátrában"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "a kárpit"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:00.383285100Z",
+  "model": "glm-5.3"
+}

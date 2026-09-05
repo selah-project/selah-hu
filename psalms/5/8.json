@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Én pedig heszeded bőségével bemegyek házadba, leborulok szentséged heikalja felé, a te félelmedben.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én pedig"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bőségével"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszeded"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "bemegyek"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "házadba"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "leborulok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikalja"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "szentséged"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "a te félelmedben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:34.301094749Z",
+  "model": "glm-5.3"
+}

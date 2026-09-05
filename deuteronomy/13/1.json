@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "⟨את⟩ az egész szót, amelyet én parancsolok ⟨את⟩ nektek, azt tartsátok meg, hogy megtegyétek; ne tégy hozzá, és ne végy el belőle.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész szót"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a szót"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parancsolok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nektek",
+      "marks": "nektek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tartsátok meg"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy megtegyétek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "tégy hozzá"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "végy el"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "belőle"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:27.724475726Z",
+  "model": "glm-5.3"
+}

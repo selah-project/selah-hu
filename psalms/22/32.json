@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Eljönnek, és hirdetik az ő igazságát annak a népnek, amely megszületik, mert megcselekedte.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Eljönnek"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "és hirdetik"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "az ő igazságát"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "annak a népnek"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "amely megszületik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "megcselekedte"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:42.137560039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "„Kelj fel, menj Ninivéhez, a nagy városhoz, és hirdesd neki ⟨את⟩ azt a kiáltást, amelyet én szólok hozzád.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninivé"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "és hirdesd"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt a kiáltást"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "a kiáltást"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólok"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:12.580196789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Gómer fiai: Askenáz, Rifát és Togarmá.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "És fiai"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gómer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Askenáz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "és Rifát"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "és Togarmá"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:23.035917483Z",
+  "model": "glm-5.3"
+}

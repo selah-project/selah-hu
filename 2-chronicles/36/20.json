@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És fogságba vitte a kardtól megmaradt maradékot Babilonba, és szolgáivá lettek neki és fiainak, míg uralkodni kezdett a Perzsa királyság.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "fogságba vitte"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "a megmaradt maradék"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "és fiainak"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "szolgáivá"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uralkodni kezdett"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "királysága"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Perzsa"
+    }
+  ],
+  "timestamp": "2026-09-04T23:24:32.701970671Z",
+  "model": "glm-5.3"
+}

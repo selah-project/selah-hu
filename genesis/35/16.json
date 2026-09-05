@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 35:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És elindultak Bet-Elből, és történt, ⟨még⟩ egy földdarabnyi volt Efratába érni, és szült Rahel (Ráhel), és megnehezült az ő szülése.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "és elindultak"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Bet-…-ből"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "egy darabnyi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "érni"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efratába"
+    },
+    {
+      "surface": "ויתלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel (Ráhel)"
+    },
+    {
+      "surface": "ויתקש",
+      "gloss": "és megnehezült"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "az ő szülése"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:21.555910055Z",
+  "model": "glm-5.3"
+}

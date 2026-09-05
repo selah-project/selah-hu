@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondta az Elohim embere: Hol esett le? Az megmutatta neki ⟨את⟩ a helyet, és az kivágott egy fát, és odavetette, és felúsztatta ⟨את⟩ a vasat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Hol"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "esett le"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "és megmutatta neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a helyet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a helyet"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "és kivágott"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "egy fát"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "és odavetette"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "és felúsztatta"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "a vasat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:28.423120627Z",
+  "model": "glm-5.3"
+}

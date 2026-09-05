@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Vesse tőrvet a hitelező mindenre, ami ⟨van⟩ neki, és idegenek zsákmányolják munkája gyümölcsét.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "Vesse tőrvet"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "a hitelező"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "és zsákmányolják"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "idegenek"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "munkája gyümölcsét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:14.566299192Z",
+  "model": "glm-5.3"
+}

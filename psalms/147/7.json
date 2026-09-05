@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Énekeljetek Jahvénak hálaadással, zengjetek a mi Elohimunknak lanttal!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Énekeljetek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "hálaadással"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zengjetek"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "a mi Elohimunknak"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "lanttal"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:40.664991100Z",
+  "model": "glm-5.3"
+}

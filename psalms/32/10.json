@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Sok kín ⟨ér⟩ a gonoszt, de aki Jahvéban bízik, azt heszed övezi.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Sok"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "kín"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "a gonosznak"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "de aki bízik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "övezi őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:06.996928726Z",
+  "model": "glm-5.3"
+}

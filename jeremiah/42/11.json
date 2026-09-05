@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 42:11",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Ne féljetek a Bável királyától, akitől féltek; ne féljetek tőle — Jahve kijelentése —, mert én ⟨את⟩ veletek vagyok, hogy megszabadítsalak ⟨את⟩ titeket, és megmentselek ⟨את⟩ titeket a kezéből.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bável"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akitől"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "féltek"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "-től"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "megszabadítsalak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "megszabadítsalak titeket"
+    },
+    {
+      "surface": "ולהציל",
+      "gloss": "és megmentselek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "megmentselek titeket"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "kezéből"
+    }
+  ],
+  "timestamp": "2026-09-04T23:40:23.510565948Z",
+  "model": "glm-5.3"
+}

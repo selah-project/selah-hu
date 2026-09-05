@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És látta Elohim ⟨את⟩ a földet, és íme, megromlott, mert elrontotta minden test ⟨את⟩ a maga útját a földön.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "megromlott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "elrontotta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "test"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a maga útját"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "a maga útját"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:46.376412712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Hogy zengje tenéked a díszfényem, és el ne hallgasson: Jahve, Elohim (Isten) om, örökké hálát adok neked!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Hogy"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "zengje tenéked"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "a díszfényem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hallgasson el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim (Isten) om"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "hálát adok neked"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:00.353693407Z",
+  "model": "glm-5.3"
+}

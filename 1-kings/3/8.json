@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "és szolgád néped közepette van, amelyet kiválasztottál — nép nagy, amely meg nem számlálható és meg nem olvasható a nagyság miatt.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "és szolgád"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepette"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "kiválasztottál"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "megszámlálható"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "megolvasható"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "a nagyság miatt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:15.186844941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 28:29",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És hordozza Aharon (Áron) ⟨את⟩ Izrael fiainak neveit a rendelés hósenjén a szívén, amikor bemegy a szentélybe, emlékezetül Jahve előtt szüntelen.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "és hordozza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael fiainak neveit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "neveit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בחשן",
+      "gloss": "a hósenen"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "a rendelés"
+    },
+    {
+      "surface": "על",
+      "gloss": "a szívén"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szívén"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "amikor bemegy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "be"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentélybe"
+    },
+    {
+      "surface": "לזכרן",
+      "gloss": "emlékezetül"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:29.855989860Z",
+  "model": "glm-5.3"
+}

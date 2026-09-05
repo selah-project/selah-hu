@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És körülállt tíz ifjú, Joáb fegyverhordozói, és megverték ⟨את⟩ Avsalomot, és megölték őt.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "És körülállták"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ifjú"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "hordozói"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fegyver"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és megverték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsalomot"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalomot"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "és megölték őt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:32:21.144817308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Csak a te napjaidon nem teszem meg, Dávid, atyád miatt; a fiad kezéből tépem ki azt.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "a te napjaidon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "teszem meg"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "fiad"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "tépem ki azt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:07.098264936Z",
+  "model": "glm-5.3"
+}

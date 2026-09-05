@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "és íme, egy asszony ⟨eleje megy⟩ — paráznák öltözéke ⟨van rajta⟩, és ravaszul őrzött ⟨az⟩ szíve —",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "egy asszony"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "eleivel"
+    },
+    {
+      "surface": "שית",
+      "gloss": "öltözéke"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "paráznának"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "és őrzött"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szív"
+    }
+  ],
+  "timestamp": "2026-09-04T22:08:50.546627142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Őrzi ⟨את⟩ mind a csontjait: egy azok közül nem töretik meg.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "a csontjait"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "azok közül"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "töretik meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:54.888554612Z",
+  "model": "glm-5.3"
+}

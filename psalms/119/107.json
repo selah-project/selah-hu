@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Nagyon nyomorulttá lettem, Jahve; élesztj meg ⟨engem⟩ a te szavad szerint.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "Nyomorulttá lettem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Nagyon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨nagyon⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "élesztj meg ⟨engem⟩"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "a te szavad szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:02.618386938Z",
+  "model": "glm-5.3"
+}

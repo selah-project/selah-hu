@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És elveszed ⟨את⟩ azokat a kezükből, és elfüstölögteted az oltáron, az égőáldozat felett, kedves illatul Jahve színe előtt; tűzáldozat az Jahvénak.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "És elveszed"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azokat",
+      "marks": "azokat"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "a kezükből"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "és elfüstölögteted"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "illatul"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "kedves"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:43.015337642Z",
+  "model": "glm-5.3"
+}

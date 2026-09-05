@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És az udvar szélessége a nyugati oldalon: kárpitok ötven könyök, oszlopaik tízen, és talpaik tízen.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "És szélessége"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvarnak"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "oldalán"
+    },
+    {
+      "surface": "ים",
+      "gloss": "nyugati"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "kárpitok"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötven"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "oszlopaik"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tízen"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "és talpaik"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tízen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:46.574510857Z",
+  "model": "glm-5.3"
+}

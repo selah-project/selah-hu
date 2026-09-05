@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ha megtaláltatik, hétszerest fizet: ⟨את⟩ az egész vagyont házából odaadja.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "és ha megtaláltatik"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizet"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "hétszerest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész vagyont"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הון",
+      "gloss": "vagyont"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "házának"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "odaadja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:09:39.846094342Z",
+  "model": "glm-5.3"
+}

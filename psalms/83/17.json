@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Töltsd meg az arcukat gyalázattal, és keressék a te nevedet, Jahve!",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Töltsd meg"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "az arcukat"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "gyalázattal"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "és keressék"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a te nevedet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:00.508033622Z",
+  "model": "glm-5.3"
+}

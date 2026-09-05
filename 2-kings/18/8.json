@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "⟨Ő⟩ leverte ⟨את⟩ a filiszteusokat Gázáig, és ⟨את⟩ annak határát, az őrtoronytól az erődített városig.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ő"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "leverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a filiszteusokat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiszteusokat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gázá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "annak határát"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "annak határát"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "toronytól"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "őr-"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "erődített"
+    }
+  ],
+  "timestamp": "2026-09-04T20:00:19.225895979Z",
+  "model": "glm-5.3"
+}

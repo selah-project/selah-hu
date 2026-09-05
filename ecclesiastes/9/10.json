@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Minden, amit a kezed talál tenni, tedd meg a te erőddel; mert nincs cselekedet, és számítás, és ismeret, és bölcsesség a Seolban, ahová te mégy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "talál"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a kezed"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tenni"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "erőddel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tedd meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "cselekedet"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "és számítás"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "és ismeret"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "és bölcsesség"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "a Seolban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahová"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mégy"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:31.069332190Z",
+  "model": "glm-5.3"
+}

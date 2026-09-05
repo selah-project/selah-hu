@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És megfizet az ő gyűlölőinek az ő orcájukra, hogy elpusztítsa ⟨őket⟩; nem késlekedik az ő gyűlölőjével szemben, az ő orcájára fizet meg néki.",
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "És megfizet"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "az ő gyűlölőinek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "az ő orcájukra"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "hogy elpusztítsa ⟨őket⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "késlekedik"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "az ő gyűlölőjével szemben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "az ő orcájára"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizet meg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:29.212081787Z",
+  "model": "glm-5.3"
+}

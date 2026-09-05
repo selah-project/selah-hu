@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És történt, amikor Moshe befejezte ⟨את⟩ e Tora (Tóra) szavait könyvbe írni, egészen bevégzésükig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "amikor befejezte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "írni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e Tora szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "e Torának"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "על",
+      "gloss": "könyvbe"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "könyv"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "bevégzésükig"
+    }
+  ],
+  "timestamp": "2026-09-04T18:33:16.054898597Z",
+  "model": "glm-5.3"
+}

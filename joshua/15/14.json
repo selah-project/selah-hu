@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 15:14",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És kiszorította onnan Kalev ⟨את⟩ Anaknak három fiát: ⟨את⟩ Sésajt és ⟨את⟩ Ahimánt és ⟨את⟩ Talmajt, Anak szülötteit.",
+  "tokens": [
+    {
+      "surface": "וירש",
+      "gloss": "És kiszorította"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anaknak három fiát"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "három"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anaknak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sésajt"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sésajt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ahimánt"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimánt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Talmajt"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmajt"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "szülötteit"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:43:55.607593555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Mert nincs ⟨az⟩ ember ⟨a⟩ házában, elment távoli útra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨az⟩ ember"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "házában"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "útra"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "távoli"
+    }
+  ],
+  "timestamp": "2026-09-04T22:09:17.020254097Z",
+  "model": "glm-5.3"
+}

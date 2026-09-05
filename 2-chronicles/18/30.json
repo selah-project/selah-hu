@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És Arám királya megparancsolta ⟨את⟩ a szekérfőnökeinek, akik vele voltak, mondván: ne harcoljatok ⟨את⟩ a kicsinnyel ⟨את⟩ a naggyal, hanem csak ⟨את⟩ Jisraél királyával, egyedül vele.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "És … királya"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szekérfőnökeinek"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "főnökeinek"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "szekér"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vele (voltak)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "harcoljatok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kicsinnyel"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "a kicsiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a naggyal"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "a nagy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "csak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraél királyával"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egyedül vele"
+    }
+  ],
+  "timestamp": "2026-09-05T00:02:04.420869298Z",
+  "model": "glm-5.3"
+}

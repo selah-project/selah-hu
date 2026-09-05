@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És mondta a nép Sámuelhez: Ki az, aki mondta: „Saul uralkodjék fölöttünk?” Adjátok ⟨az⟩ embereket, és megöljük őket.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Sámuelhez"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sámuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "az, aki mondta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "uralkodjék"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fölöttünk"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Adjátok"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az embereket"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "és megöljük őket"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:13.103430773Z",
+  "model": "glm-5.3"
+}

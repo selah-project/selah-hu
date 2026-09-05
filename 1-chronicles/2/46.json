@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Éfá pedig, Kálev (Káleb) ágyasa, szülte ⟨את⟩ Haránt és ⟨את⟩ Mócát és ⟨את⟩ Gázezt; és Harán nemzette ⟨את⟩ Gázezt.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Éfá pedig"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "ágyasa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kálev"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "szülte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haránt"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haránt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Mócát"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Mócát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Gázezt"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gázezt"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "és Harán"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gázezt"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gázezt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:49.244880112Z",
+  "model": "glm-5.3"
+}

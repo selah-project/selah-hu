@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "Dicsérjétek őt, minden angyalai; dicsérjétek őt, minden seregei!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dicsérjétek őt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "angyalai"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dicsérjétek őt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "seregei"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:12.173376504Z",
+  "model": "glm-5.3"
+}

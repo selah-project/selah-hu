@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Mondták: „Jöjjetek, és irtsuk ki őket nemzetként, és ne emlékezzék meg Izráel neve többé.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Mondták"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Jöjjetek"
+    },
+    {
+      "surface": "וונכחידם",
+      "gloss": "és irtsuk ki őket"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "nemzetként"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "emlékezzék meg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a neve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:50.263749507Z",
+  "model": "glm-5.3"
+}

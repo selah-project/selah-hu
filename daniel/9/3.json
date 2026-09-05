@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És arcomat ⟨את⟩ az Adonáj, az Elohim felé fordítottam, könyörgésért és esedezésért, böjtben, zsákban és hamuban.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "és fordítottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcomat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcomat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kérésért"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "könyörgés"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "és esedezésért"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "böjtben"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "és zsákban"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "és hamuban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:45:34.383236036Z",
+  "model": "glm-5.3"
+}

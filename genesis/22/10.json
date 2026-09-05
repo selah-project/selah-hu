@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És kinyújtotta Avraham ⟨את⟩ a kezét, és vette ⟨את⟩ ⟨a⟩ kést, hogy levágja a fiát.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és kinyújtotta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kést"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "⟨a⟩ kést"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "hogy levágja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiát"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a fiát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:16.819461234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 130,
+  "translation": "Lelkem ⟨az⟩ Adonájra ⟨vár⟩ — a hajnali őrség ⟨vár⟩, őrök ⟨várják⟩ a hajnalt.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Lelkem"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨az⟩ Adonájra"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "a hajnali őrség"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "⟨vár⟩"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "őrök"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "a hajnalt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:03.666823011Z",
+  "model": "glm-5.3"
+}

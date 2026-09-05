@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És nem mondja a lakó: „beteg vagyok”; a nép, amely benne lakik, megbocsáttatott vétekből.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "És nem"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "lakó"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "beteg vagyok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "amely lakik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "megbocsáttatott"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vétekből"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:03.753536713Z",
+  "model": "glm-5.3"
+}

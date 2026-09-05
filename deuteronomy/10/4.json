@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 10:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ő ráírta a táblákra az első írás szerint ⟨את⟩ a tíz szót, amelyeket Jahve szólt hozzátok a hegyen, a tűz közepéből, a gyülekezet napján, és Jahve nekem adta őket.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "És ő ráírta"
+    },
+    {
+      "surface": "על",
+      "gloss": "arra"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "a táblákra"
+    },
+    {
+      "surface": "כמכתב",
+      "gloss": "az írás szerint"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "az első"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tíz szót"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "a tíz"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "szót"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "hozzátok"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyen"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "a közepéből"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napján"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "a gyülekezetnek"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "és adta őket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:10.738364258Z",
+  "model": "glm-5.3"
+}

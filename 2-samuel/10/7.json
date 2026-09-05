@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És hallotta Dávid, és elküldte ⟨את⟩ Joábot és ⟨את⟩ az egész sereget, a hősöket.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "És hallotta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joábot"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joábot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az egész sereget, a hősöket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "a sereget"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "a hősöket"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:57.261279183Z",
+  "model": "glm-5.3"
+}

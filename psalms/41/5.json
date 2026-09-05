@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Én mondtam: Jahve, kegyelmezz meg nekem, gyógyítsd meg a lelkemet, mert vétkeztem ellened.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kegyelmezz meg nekem"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "gyógyítsd meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkemet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétkeztem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ellened"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:17.228712355Z",
+  "model": "glm-5.3"
+}

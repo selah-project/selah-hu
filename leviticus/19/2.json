@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Beszélj Izráel fiainak egész gyülekezetéhez, és mondd nekik: szentek legyetek, mert szent ⟨vagyok⟩ én, Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Beszélj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(gyülekezet)hez"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentek"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "legyetek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:17:02.144520812Z",
+  "model": "glm-5.3"
+}

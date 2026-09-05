@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A szívében bölcs parancsokat fogad, de a szájas bolond elbukik.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívében"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "fogad"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsokat"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "de a bolond"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "szájas"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "elbukik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:05.143959164Z",
+  "model": "glm-5.3"
+}

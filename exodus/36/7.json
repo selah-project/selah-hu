@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És elegendő volt az anyag minden munkához, hogy megcsinálják ⟨את⟩ azt, és maradt belőle fölösleg.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "És az anyag"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "דים",
+      "gloss": "elegendő"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "munkához"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hogy megcsinálják"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a munkát)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "és maradt fölösleg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:52.553052571Z",
+  "model": "glm-5.3"
+}

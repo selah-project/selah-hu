@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Szent dolgaimat megvetetted, és ⟨את⟩ szombatjaimat meggyaláztad.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Szent dolgaimat"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "megvetetted"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "szombatjaimat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "szombatjaimat"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "meggyaláztad"
+    }
+  ],
+  "timestamp": "2026-09-04T21:06:11.933869685Z",
+  "model": "glm-5.3"
+}

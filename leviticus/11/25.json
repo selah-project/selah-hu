@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És mindaz, aki visz ⟨את⟩ dögükből, mossa ki ruháit, és tisztátalan estig.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "És minden"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "aki visz"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "dögükből"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mossa ki"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "és tisztátalan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "estig"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "az estig"
+    }
+  ],
+  "timestamp": "2026-09-04T17:11:19.158345560Z",
+  "model": "glm-5.3"
+}

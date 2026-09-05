@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Annyi szerint, amennyit készítetek, úgy tegyetek mindegyikkel, az ő számuk szerint.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "annyi szerint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amennyit"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "készítetek"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tegyetek"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "mindegyikkel"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "az ő számuk szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:36:07.676129329Z",
+  "model": "glm-5.3"
+}

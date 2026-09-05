@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És mikor Dávid befejezte az égőáldozat és a békeáldozatok bemutatását, megáldotta ⟨את⟩ a népet Jahve nevében.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "És befejezte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "a bemutatását"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "és a békeáldozatok"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "megáldotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:05:35.824706616Z",
+  "model": "glm-5.3"
+}

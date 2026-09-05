@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Amíg be nem jutottam El szenthelyeire, megértettem az ő végüket.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Amíg"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "be nem jutottam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "szenthelyeire"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "megértettem"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "az ő végüket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:41.401653099Z",
+  "model": "glm-5.3"
+}

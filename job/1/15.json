@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És Sába rájuk tört, és elhurcolta őket, és ⟨את⟩ a szolgákat kard élével leverték; és én menekültem meg, csak én egyedül, hogy elmondjam neked.”",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "És rájuk tört"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sába"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "és elhurcolta őket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szolgákat"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "a szolgákat"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "leverték"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "élével"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "és én menekültem meg"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "hogy elmondjam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:09.904644182Z",
+  "model": "glm-5.3"
+}

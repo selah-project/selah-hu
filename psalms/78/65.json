@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "És felriadt, mint az alvó, az Adonáj, mint a hős, aki bortól zeng.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "és felriadt"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "mint az alvó"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "az Adonáj"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "mint a hős"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "aki zeng"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "bortól"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:10.201541096Z",
+  "model": "glm-5.3"
+}

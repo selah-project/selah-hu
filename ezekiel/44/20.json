@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És fejüket ne nyiratkozják kopaszra, és hajzatukat ne engedjék megnőni; ⟨csak⟩ lenyírva nyírják ⟨את⟩ fejüket.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "És fejüket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "nyiratkozzák"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "és hajzatukat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "engedjék megnőni"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "lenyírva"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "nyírják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fejüket"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "fejüket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:16:44.588636468Z",
+  "model": "glm-5.3"
+}

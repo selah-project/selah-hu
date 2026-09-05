@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És mondta nekik: nem úgy, hanem az ország meztelenségét azért jöttetek, hogy megnézzétek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "meztelenségét"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az országnak"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "azért jöttetek"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy megnézzétek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:54.775303838Z",
+  "model": "glm-5.3"
+}

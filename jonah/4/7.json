@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És rendelt ⟨az⟩ Elohim egy férget a hajnalpír felkeltekor másnap, és megverte ⟨את⟩ a kükajónt, és az elszáradt.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "és rendelt"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "férget"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "felkeltekor"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "a hajnalpír"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "másnap"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "és megverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kükajónt"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "a kükajónt"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "és elszáradt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:27:01.573876005Z",
+  "model": "glm-5.3"
+}

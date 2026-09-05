@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne kívánd az ő ínyencségeit, mert azok csaló étel-⟨kenyeret⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "kívád"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "az ő ínyencségeit"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mert azok"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "étel"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "csaló"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:23.858464866Z",
+  "model": "glm-5.3"
+}

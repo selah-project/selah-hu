@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "De nem bízott Szichón ⟨את⟩ Jiszráélban, hogy átvonuljon a határán; és összegyűjtötte Szichón ⟨את⟩ az egész népét, és tábort ütöttek Jahácban, és harcolt Jiszráéllal.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "bízott"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Szichón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átvonuljon"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "határán"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "összegyűjtötte"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Szichón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész népét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "tábort ütöttek"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "Jahácban"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "harcolt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-04T18:57:21.251579066Z",
+  "model": "glm-5.3"
+}

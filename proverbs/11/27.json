@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Aki jó után igyekszik, jóindulatot keres, de aki rosszat kutat, az ⟨el⟩jön hozzá.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "igyekszik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "keres"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "jóindulatot"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "de kutat"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "eljön hozzá"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:56.394428715Z",
+  "model": "glm-5.3"
+}

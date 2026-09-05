@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És megnézi a kohén ⟨את⟩ a nyavalyát, és elzárja ⟨את⟩ a nyavalyát hét napra.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "és megnézi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohén"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nyavalyát"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "a nyavalyát"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "és elzárja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nyavalyát"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "a nyavalyát"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:59.554464908Z",
+  "model": "glm-5.3"
+}

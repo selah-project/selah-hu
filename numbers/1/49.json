@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Csak a Lévi törzsét ⟨את⟩ ne számláld, és ⟨את⟩ a fejüket ne vedd fel Izrael fiai között.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Lévi törzsét"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "törzsét"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "számláld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fejüket"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "a fejüket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "vedd fel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "között"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:06.248525314Z",
+  "model": "glm-5.3"
+}

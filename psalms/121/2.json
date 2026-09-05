@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 121,
+  "translation": "Segítségem Jahvétól ⟨van⟩, ⟨aki⟩ alkotta ⟨az⟩ eget és ⟨a⟩ földet.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Segítségem"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "Jahvétól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvétól"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alkotta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨az⟩ eget"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "és ⟨a⟩ földet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:29.923843654Z",
+  "model": "glm-5.3"
+}

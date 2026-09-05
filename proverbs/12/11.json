@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Aki műveli a maga földjét, megelégedik kenyérrel, de aki hiábavalóságokat hajszol, értelmetlen ⟨marad⟩.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "műveli"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "a földjét"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "megelégedik"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyérrel"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "de aki hajszol"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "hiábavalóságokat"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "szűlkél"
+    },
+    {
+      "surface": "לב",
+      "gloss": "értelemmel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:33.694547859Z",
+  "model": "glm-5.3"
+}

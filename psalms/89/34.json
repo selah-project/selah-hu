@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "és heszedem ⟨törlöm el⟩ ⟨nem⟩ tőle — nem, nem hazudtolom meg a hűségemben",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "és heszedem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "törlöm el"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "tőle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "hazudtolom meg"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "a hűségemben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:15.178667862Z",
+  "model": "glm-5.3"
+}

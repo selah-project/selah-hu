@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És fogta ⟨את⟩ őket Nevuzaradán, a főhóhér, és vitte őket a Bábel királyához, Riblába.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradán"
+    },
+    {
+      "surface": "רב",
+      "gloss": "fő"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "hóhér"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és vitte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "על",
+      "gloss": "(hoz)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyához"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblába"
+    }
+  ],
+  "timestamp": "2026-09-04T20:05:53.341216770Z",
+  "model": "glm-5.3"
+}

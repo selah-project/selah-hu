@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És egye meg Aharon és fiai ⟨את⟩ a kos húsát és ⟨את⟩ a kenyeret, amely a kosárban ⟨van⟩, a találkozás sátra bejáratánál.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "és egye meg"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kos húsát"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kenyeret"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "a kenyeret"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "a kosárban"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:48.533254474Z",
+  "model": "glm-5.3"
+}

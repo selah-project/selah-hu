@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Te szolgáltattad ⟨ki⟩ a rendelkezéseidet, hogy nagyon megtartsák ⟨azokat⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "szolgáltattad ki"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "rendelkezéseidet"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hogy megtartsák"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:44.353643712Z",
+  "model": "glm-5.3"
+}

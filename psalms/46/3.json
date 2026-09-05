@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Azért nem félünk, amikor ⟨meg⟩változik a föld, és amikor hegyek csúsznak a tengerek szívébe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "az"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "félünk"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "amikor változik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "és amikor csúszik"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hegyek"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "a szívébe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tengerek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:53.149281078Z",
+  "model": "glm-5.3"
+}

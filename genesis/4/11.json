@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És most átkozott vagy te a földtől, amely megnyitotta ⟨את⟩ a száját, hogy elvegye ⟨את⟩ testvéred vérét a kezedből.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "átkozott"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-től"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "megnyitotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a száját"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "a száját"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hogy elvegye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéred vérét"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "a kezedből"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:30.902363379Z",
+  "model": "glm-5.3"
+}

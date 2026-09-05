@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Ne rágalmazd a szolgát az ő uránál, nehogy megátkozzon téged, és vétkesnek találtassál.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "rágalmazd"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "a szolgát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nél(–nél)"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "az ő uránál"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "megátkozzon téged"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "és vétkesnek találtassál"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:14.253440046Z",
+  "model": "glm-5.3"
+}

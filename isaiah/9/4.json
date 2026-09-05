@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Mert minden saru, amely csattogva tapos, és minden köntös, amely vérben gomolyog, égővel lesz, a tűz elemője.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "saru"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "taposó"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "csattogva"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "és köntös"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "gomolygó"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "vérben"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "égővé"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "elemője"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:48.020695015Z",
+  "model": "glm-5.3"
+}

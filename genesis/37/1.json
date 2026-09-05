@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És letelepedett Jaakob (Jákob) atyja vendégeskedésének földjén, Kenaan földjén.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "És letelepedett"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob (Jákob)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "vendégeskedésének"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:59.276539281Z",
+  "model": "glm-5.3"
+}

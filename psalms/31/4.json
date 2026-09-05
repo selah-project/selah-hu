@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Mert sziklám és erősségem te vagy, és nevedért vezess engem, és igazgass engem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "sziklám"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "és erősségem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "és ...ért"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neved"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vezess engem"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "és igazgass engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:39.368096885Z",
+  "model": "glm-5.3"
+}

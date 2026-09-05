@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "aki kihozott ⟨את⟩ titeket Micrajim (Egyiptom) földjéből, hogy Elohimotok legyek: én vagyok Jahve.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "aki kihozott"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "az אֵת előtag a tárgyra mutat: titeket"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéből"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hogy legyek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimnak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:17:42.630833856Z",
+  "model": "glm-5.3"
+}

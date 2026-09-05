@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Az igazság ajka megáll örökre, de egy szempillantásig ⟨marad⟩ a hazugság nyelve.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "ajka"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "igazság"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "megáll"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "de"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "szempillantásig"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nyelve"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:55.958031069Z",
+  "model": "glm-5.3"
+}

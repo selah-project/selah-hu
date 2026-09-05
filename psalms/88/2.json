@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Jahve, szabadításom Elohimja, nappal kiáltottam, éjjel előtted.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "szabadításom"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "kiáltottam"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "előtted"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:22.884163408Z",
+  "model": "fable-5-hand"
+}

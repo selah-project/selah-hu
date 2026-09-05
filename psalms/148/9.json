@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "A hegyek és minden dombok, gyümölcsfa és minden cédrusok",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dombok"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gyümölcsfa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "gyümölcs-"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cédrusok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:39.184826217Z",
+  "model": "glm-5.3"
+}

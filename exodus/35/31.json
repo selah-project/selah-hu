@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És megtöltötte ⟨את⟩ őt Elohim Lelkével: bölcsességben, értelemben, ismeretben és minden munkában.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "És megtöltötte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Lelkével"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "bölcsességben"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "értelemben"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "és ismeretben"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "munkában"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:42.185673820Z",
+  "model": "glm-5.3"
+}

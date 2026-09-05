@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Zúdítottak a vizeket a sűrű felhők, hangot adott a magas ég, sőt nyilaid ide-oda jártak.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "zúdítottak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a vizeket"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "a sűrű felhők"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangot"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "adott"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "a magas ég"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "nyilaid"
+    },
+    {
+      "surface": "יִתְהַלָּכוּ",
+      "gloss": "ide-oda jártak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:44.391918580Z",
+  "model": "glm-5.3"
+}

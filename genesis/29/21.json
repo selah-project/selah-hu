@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És szólt Jaakob (Jákob) Lavánnak: Add ⟨את⟩ a feleségemet, mert beteltek az én napjaim, és bemegyek hozzá.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laván"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Add"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a feleségemet"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "a feleségemet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "beteltek"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "az én napjaim"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "és bemegyek"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hozzá"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:01.489839150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És azt tette, ami rossz Jahve szemeiben, csak nem úgy, mint az apja és az anyja; és eltávolította ⟨את⟩ a Báál szobrát, amelyet az apja készített.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "És tette"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemeiben"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "mint az apja"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "és mint az anyja"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "és eltávolította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Báál szobrát"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "szobra"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Báálnak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az apja"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:47.100140511Z",
+  "model": "glm-5.3"
+}

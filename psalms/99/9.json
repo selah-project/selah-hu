@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 99,
+  "translation": "Magasztaljátok Jahvét, a mi Elohimunkat, és boruljatok le az ő szent hegyéhez, mert szent ⟨van⟩ Jahve, a mi Elohimunk.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Magasztaljátok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunkat"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "és boruljatok le"
+    },
+    {
+      "surface": "להר",
+      "gloss": "a hegyhez"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "az ő szent ⟨helyéhez⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:17.098963570Z",
+  "model": "glm-5.3"
+}

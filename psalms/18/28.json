@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Mert Te megszabadítod a nyomorult népet, és a gőgös szemeket megalázod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorult"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "megszabadítod"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "és szemeket"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "gőgös(eket)"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "megalázod"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:52.683530084Z",
+  "model": "glm-5.3"
+}

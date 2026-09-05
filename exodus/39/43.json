@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 39:43",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És látta Moshe ⟨את⟩ az egész munkát, és íme, elkészítették ⟨את⟩ azt, ahogparancsolta Jahve — úgy készítették el. És megáldotta ⟨את⟩ őket Moshe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész munkát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "elkészítették"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "készítették el"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "És megáldotta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:55.738001352Z",
+  "model": "glm-5.3"
+}

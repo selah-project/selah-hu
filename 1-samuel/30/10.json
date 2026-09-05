@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És üldözőbe vett David, ő és négyszáz férfi; és megálltak kétszáz férfi, akik kimerültek a Besor patak ⟨את⟩ átkelésétől.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "és üldözőbe vett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "és négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "és megálltak"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kétszáz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "kimerültek"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "átkelés"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Besor patak"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "patak"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "a Besor"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:48.101695422Z",
+  "model": "glm-5.3"
+}

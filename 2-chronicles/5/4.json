@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És eljött Izrael minden véne, és a leviták felvették ⟨את⟩ a ládát.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "És eljött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "véne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "és felvették"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a leviták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ládát"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ládát"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:52.060180770Z",
+  "model": "glm-5.3"
+}

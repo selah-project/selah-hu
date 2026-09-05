@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És őrizzétek ⟨את⟩ őrzésemet, hogy ne cselekedjétek az utálatos szokásokból, amelyek elkövettettek előttetek, és ne tisztátalanítsátok meg magatokat azokkal; én vagyok Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "És őrizzétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "őrzésemet"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "őrzésemet"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "cselekedjétek"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "szokásokból"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "az utálatos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "elkövettettek"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "előttetek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "tisztátalanítsátok meg magatokat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azokkal"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:38.613459961Z",
+  "model": "glm-5.3"
+}

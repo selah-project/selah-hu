@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Mert megszabadítja a szűkölködőt, aki kiált, és a nyomorultat, akinek nincs segítője.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "megszabadítja"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "a szűkölködőt"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "aki kiált"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "és a nyomorultat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akinek nincs"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "segítője"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.203945617Z",
+  "model": "glm-5.3"
+}

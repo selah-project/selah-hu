@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Úgy fog az El lerombolni téged mindörökre, kiránt és kitép ⟨a⟩ sátradból, és kitépi gyökeredet ⟨az⟩ élők földjéről. Szelá.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "lerombolni téged"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mindörökre"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "kiránt"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "és kitép"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "sátradból"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "és gyökeredet"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élők"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:14.696614763Z",
+  "model": "glm-5.3"
+}

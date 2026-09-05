@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És ha egy ember az ő házát szenteli fel szentségül Jahvénak, then a pap értékelje ⟨את⟩ azt, jóként és rosszként; ahogyan a pap értékeli ⟨את⟩ őt, úgy álljon.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És egy ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "felszenteli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő házát"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "az ő házát"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentségül"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "akkor értékelje"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jóként"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rosszként"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "értékeli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "álljon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:40.461825411Z",
+  "model": "glm-5.3"
+}

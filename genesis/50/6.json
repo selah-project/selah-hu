@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "És mondotta Paró: Menj fel, és temesd el ⟨את⟩ az apádat, ahogyan megesketett téged.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondotta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Menj fel"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "és temesd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az apádat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apádat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "megesketett téged"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:19.994674746Z",
+  "model": "glm-5.3"
+}

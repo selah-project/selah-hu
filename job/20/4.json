@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ezt tudtad-⟨e⟩ régóta, azóta, hogy embert helyeztek ⟨a⟩ föld színére?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "Ezt"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudtad-⟨e⟩"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨E⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "régóta"
+    },
+    {
+      "surface": "מני",
+      "gloss": "azóta"
+    },
+    {
+      "surface": "שים",
+      "gloss": "hogy helyeztek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "embert"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨a⟩ színére"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T22:23:04.006143520Z",
+  "model": "glm-5.3"
+}

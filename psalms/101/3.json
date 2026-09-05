@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 101,
+  "translation": "Nem vetek szemem elé hitvány dolgot: a bűnösök tetteit gyűlölöm, nem tapad hozzám.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "vetek"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "elé"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dolgot"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "hitvány"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tetteit"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "bűnösöknek"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "gyűlölöm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "tapad"
+    },
+    {
+      "surface": "בי",
+      "gloss": "hozzám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:53.578240804Z",
+  "model": "glm-5.3"
+}

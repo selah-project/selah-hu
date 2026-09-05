@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 28:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Felnyitja Jahve neked ⟨את⟩ jó kincstárát, ⟨את⟩ az eget, hogy esőt adjon földednek a maga idejében, és megáldja ⟨את⟩ kezed minden munkáját; és kölcsönadsz sok népnek, te pedig nem veszel kölcsönt.",
+  "tokens": [
+    {
+      "surface": "יפתח",
+      "gloss": "felnyitja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jó kincstárát"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "kincstárát"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az eget"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az eget"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hogy adjon"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "esőt"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "földednek"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "a maga idejében"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "és megáldja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezed minden munkáját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "munkáját"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "והלוית",
+      "gloss": "és kölcsönadsz"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népnek"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "te pedig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "veszel kölcsönt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:29:04.969243402Z",
+  "model": "glm-5.3"
+}

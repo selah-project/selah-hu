@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megalázott téged, és éheztetett téged, és etetett téged ⟨את⟩ a mánnal, amelyet nem ismertél, és nem ismerték atyáid, hogy megismertessen veled, hogy nem a kenyéren egyedül él az ember, hanem mindenen, ami Jahve szájából kijön, él az ember.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "És megalázott téged"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "és éheztetett téged"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "és etetett téged"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mánnal"
+    },
+    {
+      "surface": "המן",
+      "gloss": "a mánnal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ismertél"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ismertek"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atyáid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "megismertessen veled"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "a kenyéren"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "él"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "על",
+      "gloss": "-en"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenen"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ami… kijön"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szájából"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "él"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:50.995235260Z",
+  "model": "glm-5.3"
+}

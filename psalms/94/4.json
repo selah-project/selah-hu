@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Zúdítsák szavaikat, gőgösen szólnak, minden bajnok cselekvője felfuvalkodik.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Zúdítsák"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "szólnak"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "gőgösen"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "felfuvalkodnak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "cselekvője"
+    },
+    {
+      "surface": "און",
+      "gloss": "bajnok"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:00.574167678Z",
+  "model": "glm-5.3"
+}

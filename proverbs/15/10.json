@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Gyötrelmes a fenyítés annak, ki elhagyja az ösvényt; gyűlölője a megrovásnak meghal.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "a fenyítés"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gyötrelmes"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "annak, ki elhagyja"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "az ösvényt"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "gyűlölője"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "a megrovásnak"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "meghal"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:26.726488982Z",
+  "model": "glm-5.3"
+}

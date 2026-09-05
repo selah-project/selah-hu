@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Abban az időben megbetegedett Avijá (Ábijjá), Jaravám (Jeroboám) fia.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Abban az időben"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "megbetegedett"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avijá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravám"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:36.187729790Z",
+  "model": "glm-5.3"
+}

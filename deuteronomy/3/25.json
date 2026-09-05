@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Átkelhetnék-é ⟨ most ⟩ és láthatnám ⟨את⟩ a jó földet, amely azárden túl van, ezt a jó hegyet és a Levanont?",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "átkelhetnék-é"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ most ⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "és láthatnám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a jó földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "jó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "túl van"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "azárden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegyet"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "és a Levanont"
+    }
+  ],
+  "timestamp": "2026-09-04T17:50:54.170288191Z",
+  "model": "glm-5.3"
+}

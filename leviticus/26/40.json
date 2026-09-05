@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És vallást tesznek bűneikről ⟨את⟩, és atyáik bűnéről ⟨את⟩, hűtlenségükért, amellyel hűtlenkedtek ellenem, és arról is, hogy velem ellenségesen jártak.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "És vallást tesznek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bűneikről"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "bűneikről"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "atyáik bűnéről"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bűnéről"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "hűtlenségükért"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "hűtlenkedtek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "és"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arról, hogy"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "jártak"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "velem"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ellenségesen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:02.569405202Z",
+  "model": "glm-5.3"
+}

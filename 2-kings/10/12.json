@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És felkelt, eljött és ment Szamáriába; ő ⟨volt⟩ a pásztorok nyíróházánál, Bet-Ekednél, az úton.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "eljött"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és ment"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szamáriába"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "a pásztorok"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:16.037200922Z",
+  "model": "glm-5.3"
+}

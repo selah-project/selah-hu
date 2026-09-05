@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És nem révedeznek el a látók szemei, és a hallók fülei figyelmesen hallgatnak.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És nem"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "révedeznek el"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemei"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "a látóknak"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "és fülei"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "a hallóknak"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "figyelmesen hallgatnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:17:51.553528247Z",
+  "model": "glm-5.3"
+}

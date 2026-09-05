@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Én ⟨vagyok⟩ Jahve, a te Elohimod, aki kihoztalak Micrajim (Egyiptom) földjéről, a szolgák házából.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "kihoztalak"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgák"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:46.047272997Z",
+  "model": "glm-5.3"
+}

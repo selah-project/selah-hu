@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 101,
+  "translation": "Dávid zsoltára. Heszedről és jogról énekelek; neked, Jahve, zengek zsoltárt.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és jog"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "énekelek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zengek zsoltárt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:53.577583195Z",
+  "model": "glm-5.3"
+}

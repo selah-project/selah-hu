@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Atyád mezítelenségét és anyád mezítelenségét ne tardsd fel; anyád ⟨ő⟩ az — ne tardsd fel az ő mezítelenségét.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "mezítelenségét"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "és mezítelenségét"
+    },
+    {
+      "surface": "אמק",
+      "gloss": "anyád"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "tardsd fel"
+    },
+    {
+      "surface": "אמק",
+      "gloss": "anyád"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "tardsd fel"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "mezítelenségét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:55.066728705Z",
+  "model": "glm-5.3"
+}

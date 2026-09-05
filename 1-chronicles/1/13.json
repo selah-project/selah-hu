@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Kenaán nemzette ⟨את⟩ Cidónt, az ő elsőszülöttjét, és ⟨את⟩ Hétet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Kenaán"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidónt"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Cidónt"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "az ő elsőszülöttjét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hétet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hétet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:39.978351445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 32:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És mondták: ha kegyeletet találtunk szemedben, adassék ⟨את⟩ a föld, ez, szolgáidnak birtokul; ne vigyél minket át ⟨את⟩ a Jardénen.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondták"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "találtunk"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kegyeletet"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "szemedben"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adassék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "szolgáidnak"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "birtokul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעברנו",
+      "gloss": "vigyél minket át"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jardénen"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardénen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:45:37.016308254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És monda: Kérlek, Adonáj, küldd el kéz által, akit küldesz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Kérlek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "küldd"
+    },
+    {
+      "surface": "נא",
+      "gloss": "el"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kéz által"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "akit küldesz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:57.430580958Z",
+  "model": "glm-5.3"
+}

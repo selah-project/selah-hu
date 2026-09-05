@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És a kohén vegye ⟨את⟩ az egyik kost, és áldozza fel ⟨את⟩ azt vétekáldozatul, és ⟨את⟩ az olaj lógot, és lóbálja ⟨את⟩ azokat lobogtatásul Jahve előtt.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "És vegye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohén"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egyik kost"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "a kost"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyiket"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "és áldozza fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "vétekáldozatul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lógot"
+    },
+    {
+      "surface": "לג",
+      "gloss": "lógot"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "az olaj"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "és lóbálja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azokat"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "lobogtatásul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:28.286831072Z",
+  "model": "glm-5.3"
+}

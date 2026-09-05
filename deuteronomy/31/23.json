@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 31:23",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És parancsot adott ⟨את⟩ Jehosuának (Józsué), Nun fiának, és mondta: Légy erős és bátor, mert te viszed be ⟨את⟩ Jiszráel fiait arra a földre, amelyre megesküdtem nekik, és én veled leszek.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És parancsot adott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosuának, Nun fiának"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosuának (Józsué)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiának"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Légy erős"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "és bátor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "viszed be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráel fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "megesküdtem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "és én"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "leszek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    }
+  ],
+  "timestamp": "2026-09-04T18:33:16.054722583Z",
+  "model": "glm-5.3"
+}

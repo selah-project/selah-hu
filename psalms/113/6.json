@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 113,
+  "translation": "aki megalázza magát, hogy lásson ⟨ az ⟩ egekben és ⟨ a ⟩ földön?",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "aki megalázza magát"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy lásson"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az egekben"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "és a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:14.211959055Z",
+  "model": "glm-5.3"
+}

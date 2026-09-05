@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És elküldte Nátán (Náthán) próféta kezén, és elnevezte őt Jdidjáhnak (Jedidja), Jahve miatt.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezén"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátán"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "próféta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és elnevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "őt (a nevét)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jdidjáhnak"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:13.054988329Z",
+  "model": "glm-5.3"
+}

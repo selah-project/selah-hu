@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És meglátta Saul ⟨את⟩ a Pelisti-tábort, és félt, és szíve igen megrettult.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és meglátta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Pelisti-tábort"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábort"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és félt"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "és megrettult"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "igen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:29.884813638Z",
+  "model": "glm-5.3"
+}

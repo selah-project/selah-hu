@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Salum nemzette ⟨את⟩ Jekamját, és Jekamja nemzette ⟨את⟩ Elisamát.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "És Salum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamját"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamját"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "és Jekamja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elisamát"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elisamát"
+    }
+  ],
+  "timestamp": "2026-09-04T23:58:46.685307011Z",
+  "model": "glm-5.3"
+}

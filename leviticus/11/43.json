@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Ne tegyétek utálatossá ⟨את⟩ lelkeiteket semmilyen nyüzsgővel, amely nyüzsgő, és ne tisztátalanítsátok magatokat általuk, hogy tisztátalanok ne legyetek általuk.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "tegyétek utálatossá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelkeiteket"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "lelkeiteket"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "semmilyen"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nyüzsgővel"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "amely nyüzsgő"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "tisztátalanítsátok magatokat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "általuk"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "hogy tisztátalanok ne legyetek"
+    },
+    {
+      "surface": "בם",
+      "gloss": "általuk"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:45.125362717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És hiába fogy erőtök, és nem adja földetek ⟨את⟩ termését, és a föld fája nem adja gyümölcsét.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "és fogy"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "hiába"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "erőtök"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "adja"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "földetek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "termését"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "termését"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "és fája"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adja"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "gyümölcsét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:53.398834958Z",
+  "model": "glm-5.3"
+}

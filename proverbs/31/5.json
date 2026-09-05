@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "hogy ne igyék és el ne felejtse a rendeletet, és el ne fordítsa minden nyomorult fiának ügyét.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "igyék"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "és el ne felejtse"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "a rendeletet"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "és el ne fordítsa"
+    },
+    {
+      "surface": "דין",
+      "gloss": "az ügyét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiának"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorult"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:23.904060617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Szólj Izráel fiaihoz, és mondd nekik: Mivel átmentek ⟨את⟩ a Jardénen, Kenaán földjére —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Szólj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mivel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "átmentek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardén"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaán"
+    }
+  ],
+  "timestamp": "2026-09-04T17:47:38.443925193Z",
+  "model": "glm-5.3"
+}

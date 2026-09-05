@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Szomjazik a lelkem Elohimra, az élő Elre — mikor jöhetek el, és láthatom ⟨az⟩ Elohim orcáját?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Szomjazik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimra"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "az Elre"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mikor"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "jöhetek el"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "és láthatom"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨az⟩ orcáját"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:42.684007731Z",
+  "model": "glm-5.3"
+}

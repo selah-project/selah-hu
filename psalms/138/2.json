@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 138,
+  "translation": "Leborulok szent palotád felé, és hálát adok ⟨את⟩ nevednek heszededért és igazságodért, mert felmagasztaltad minden neved fölé ⟨את⟩ igédet.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "leborulok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palotád"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "szent"
+    },
+    {
+      "surface": "ויאודה",
+      "gloss": "és hálát adok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevednek"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nevednek"
+    },
+    {
+      "surface": "על",
+      "gloss": "érte"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszeded"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "igazságod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "felmagasztaltad"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neved"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "igédet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:24.036616225Z",
+  "model": "glm-5.3"
+}

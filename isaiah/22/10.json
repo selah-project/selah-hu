@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És ⟨את⟩ Jerusáalajim (Jeruzsálem) házait megszámoltátok, és lebontottátok a házakat, hogy megerősítsétek ⟨a⟩ falat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jerusáalajim házait"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "házait"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusáalajim (Jeruzsálem)"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "megszámoltátok"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "és lebontottátok"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "a házakat"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "hogy megerősítsétek"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "⟨a⟩ falat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:14.612855028Z",
+  "model": "glm-5.3"
+}

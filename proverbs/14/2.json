@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Aki egyenesen jár, az Jahvét féli, és aki útjaiban görbe, az megveti őt.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "aki jár"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "egyenesen"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "féli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "és aki görbe"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "útjaiban"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "megveti őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:49.505615308Z",
+  "model": "glm-5.3"
+}

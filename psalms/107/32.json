@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "És magasztalják őt a nép gyülekezetében, és a vének tanácsában dicsérjék őt!",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "És magasztalják őt"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "gyülekezetében"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "és … tanácsában"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "a vének"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "dicsérjék őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:32.039560347Z",
+  "model": "glm-5.3"
+}

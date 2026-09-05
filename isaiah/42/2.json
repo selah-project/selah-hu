@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Nem kiált és nem emel fel ⟨hangot⟩, és nem hallatja az utcán ⟨ázt⟩ a hangját.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "kiált"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "emel fel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "hallatja"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "az utcán"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "a hangját"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:53.454849346Z",
+  "model": "glm-5.3"
+}

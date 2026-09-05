@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Fiai és fiai fiai ⟨את⟩ vele, leányai és fiai leányai, és minden utóda — vitte ⟨את⟩ vele Micrajimba.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "leányai"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "és leányai"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "utóda"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "vitte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Micrajimba"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:07.962321673Z",
+  "model": "glm-5.3"
+}

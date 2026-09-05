@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És megmondatott Micrajim (Egyiptom) királyának, hogy elmenekült a nép, és megfordult Paró és a szolgáinak szíve a nép ⟨ellen⟩, és mondották: mi ezt tettük, hogy elbocsátottuk ⟨את⟩ Jiszráelt (Izráel) a szolgálatunkból?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "És megmondatott"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak (Egyiptom)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "elmenekült"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "és megfordult"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parónak"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "és a szolgáinak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondták"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "tettük"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "elbocsátottuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráelt (Izráelt)"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "a szolgálatunkból"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:32.148048709Z",
+  "model": "glm-5.3"
+}

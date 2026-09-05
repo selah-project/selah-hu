@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "A szemeid látták a formátlan testemet, és a könyvedben mind megíratnak a napok, amelyek formáltattak — és ⟨még⟩ egy sincs köztük.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "a formátlan testemet"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "látták"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "a szemeid"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ⟨a könyvedben⟩"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "a könyved"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mind"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "megíratnak"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a napok"
+    },
+    {
+      "surface": "יכתבו helyett יצרו",
+      "gloss": "formáltattak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "köztük"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:13.190998387Z",
+  "model": "glm-5.3"
+}

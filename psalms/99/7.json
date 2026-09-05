@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 99,
+  "translation": "Felhő-oszlopban szólt hozzájuk; megtartották ⟨את⟩ tanúságait, és törvényt adott nékik.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "oszlopban"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "felhő-"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "megtartották"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "tanúságait"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "és törvényt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nékik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:13.219001665Z",
+  "model": "glm-5.3"
+}

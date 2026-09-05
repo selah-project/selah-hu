@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És kinyitottam ⟨את⟩ számat, és etetett engem ⟨את⟩ e tekercsel.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "És kinyitottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "számat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "számat"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "és etetett engem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e tekercsel"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "e tekercsel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-09-04T20:58:50.565717440Z",
+  "model": "glm-5.3"
+}

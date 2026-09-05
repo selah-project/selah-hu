@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És kimossa a tisztulandó ⟨את⟩ ruháit, és leborotválja ⟨את⟩ minden szőrét, és megmosakszik vízben, és tiszta lesz; azután bemehet a táborba, és lakik a sátrán kívül hét napig.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "és kimossa"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "a tisztulandó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "és leborotválja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden szőrét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "szőrét"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "és megmosakszik"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "és tiszta lesz"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és azután"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bemehet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a tábor"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és lakik"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "a sátrán"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:58.013069399Z",
+  "model": "glm-5.3"
+}

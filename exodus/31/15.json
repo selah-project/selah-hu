@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Hat napon végeztessék a munka, a hetedik napon pedig szombat, szombat-nyugalom, szent Jahvénak; mindenki, aki munkát végez a szombat napján, bizony halállal hal.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Hat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napon"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "végeztessék"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "a munka"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a ... napon pedig"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "hetedik"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szombat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "szombat-nyugalom"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "aki végez"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "a szombat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hal"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:18.526746721Z",
+  "model": "glm-5.3"
+}

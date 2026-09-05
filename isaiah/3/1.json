@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mert íme, Adonáj, Jahve Cevaót elvesz Jerusálaimból és Jehúdából ⟨את⟩ a támaszt és ⟨את⟩ a botot, minden kenyér-támaszt és minden víz-támaszt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "elvesz"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerusálaimból"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "és Jehúdából"
+    },
+    {
+      "surface": "משען",
+      "gloss": "támaszt"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "és botot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "משען",
+      "gloss": "kenyér-támaszt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyér-"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "משען",
+      "gloss": "víz-támaszt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz-"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:00.398523636Z",
+  "model": "glm-5.3"
+}

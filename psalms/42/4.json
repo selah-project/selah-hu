@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Kenyerem lett nékem a könnyem nappal és éjjel, mikor naphosszat ezt mondják nékem: „Hol van a te Elohimod?”",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nékem"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "a könnyem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és éjjel"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "mikor mondják"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nékem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "naphosszat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "—"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Hol van"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:42.684220973Z",
+  "model": "glm-5.3"
+}

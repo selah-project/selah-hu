@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 63,
+  "translation": "„Miért piros a te öltözeted, és a ruháid, mint a kádban taposóé?”",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "piros"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "öltözeted"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "ruháid"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "mint a taposóé"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "a kádban"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:12.000375308Z",
+  "model": "glm-5.3"
+}

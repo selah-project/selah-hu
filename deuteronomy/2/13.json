@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Most keljetek fel, és vonuljatok át magatoknak ⟨את⟩ a Zered patakját, és átkeltünk ⟨את⟩ a Zered patakján.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Most"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "keljetek fel"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "és vonuljatok át"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatoknak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Zered patakját"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "a patak"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "és átkeltünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Zered patakján"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "a patakján"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:00.342793036Z",
+  "model": "glm-5.3"
+}

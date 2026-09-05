@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Mert ez ⟨az⟩ Elohim, a mi Elohimunk örökkön-örökké; ⟨ő⟩ vezet minket a halálon át — ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunk"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökkön"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "vezet minket"
+    },
+    {
+      "surface": "על",
+      "gloss": "át"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a halálon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:36.127803341Z",
+  "model": "glm-5.3"
+}

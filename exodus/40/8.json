@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És állítsd fel ⟨את⟩ az udvart körben, és tedd ⟨את⟩ az udvar kapujának függönyét.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "és állítsd fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az udvart"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvart"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körben"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "és tedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a függönyt"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "függönyét"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapujának"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvar"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:12.620414599Z",
+  "model": "glm-5.3"
+}

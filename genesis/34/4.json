@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És szólt Shekem Hamorhoz, az apjához, így: Védd nekem ⟨az⟩ ⟨את⟩ ezt a leányt feleségül.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamorhoz"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az apjához"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "így"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vedd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a leányt"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "a leányt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:33.380641992Z",
+  "model": "glm-5.3"
+}

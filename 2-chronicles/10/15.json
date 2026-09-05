@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 10:15",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És nem hallgatott a király a népre, mert volt az eset az Elohimtól, azért, hogy Jahve felállítsa ⟨את⟩ az ő szavát, amelyet beszélt Achijáhu (Akhijja), a silói által Jeroboám (Jeroboám), Névát fiának.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatott"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arra: a népre"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "az eset"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "az Elohimtól"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "azért, hogy"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "felállítsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő szavát"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "az ő szavát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "által (kéz által)"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achijáhu"
+    },
+    {
+      "surface": "השלוני",
+      "gloss": "a silói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nekije: Jeroboám"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboám"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Névát"
+    }
+  ],
+  "timestamp": "2026-09-05T00:00:13.000470232Z",
+  "model": "glm-5.3"
+}

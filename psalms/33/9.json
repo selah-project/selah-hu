@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Mert ő szólt, és meglett; ő parancsolt, és megállt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és meglett"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolt"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "és megállt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:02.428855927Z",
+  "model": "glm-5.3"
+}

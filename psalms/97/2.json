@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "Felhő és sűrű sötétség ⟨van⟩ körülötte, igazság és jog trónjának helye.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "felhő"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "és sűrű sötétség"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "körülötte"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazság"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és jog"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "helye"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trónjának"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:43.098668835Z",
+  "model": "glm-5.3"
+}

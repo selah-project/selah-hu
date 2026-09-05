@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Borzad a testem rettegésedtől, és ítéleteidtől félek.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "Borzad"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "rettegésedtől"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "a testem"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "és ítéleteidtől"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "félek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:05.566341746Z",
+  "model": "glm-5.3"
+}

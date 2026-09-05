@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És zúgolódott Jiszráél fiainak teljes gyülekezete Moshe (Mózes) és Aharon (Áron) ellen a sivatagban.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "És zúgolódott"
+    },
+    {
+      "surface": "כל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ellen"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sivatagban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:54.673693526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És fogant, és fiat szült, és elnevezte ⟨את⟩ a nevét Ernék.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "És fogant"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiat"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és elnevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:12.307057046Z",
+  "model": "glm-5.3"
+}

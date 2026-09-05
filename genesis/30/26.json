@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Add ⟨nekem⟩ ⟨את⟩ asszonyaimat és ⟨את⟩ gyermekeimet, akikért szolgáltalak ⟨את⟩ ⟨őt⟩ értük, és hadd eljek; mert te ismered ⟨את⟩ szolgálatomat, amelyet szolgáltam neked.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Add"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asszonyaimat"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "asszonyaimat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "gyermekeimet"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "gyermekeimet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "szolgáltalak értük"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ téged"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "értük"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "és hadd eljek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ismered"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgálatomat"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "szolgálatomat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "szolgáltam neked"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:05.409008883Z",
+  "model": "glm-5.3"
+}

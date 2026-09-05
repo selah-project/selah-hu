@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És szólt Jahve hozzám, mondván: Láttam ⟨את⟩ ezt a népet, és íme, keménynyakú nép ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kemény"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nyakú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:01.852713710Z",
+  "model": "glm-5.3"
+}

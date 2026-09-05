@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Az első napon szent gyülekezés ⟨lesz⟩; minden szolgamunkát ne végezzetek.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "az első"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "gyülekezés"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "szolga-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "végezzetek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:58.843531221Z",
+  "model": "glm-5.3"
+}

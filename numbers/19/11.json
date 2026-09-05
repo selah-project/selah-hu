@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Aki holttestet érint — bármely ember léleknek ⟨a holttestét⟩ — az tisztátalan legyen hét napig.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "Aki-érint"
+    },
+    {
+      "surface": "במת",
+      "gloss": "holttestet"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bármely"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "és-tisztátalan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    }
+  ],
+  "timestamp": "2026-09-04T17:39:26.455114877Z",
+  "model": "glm-5.3"
+}

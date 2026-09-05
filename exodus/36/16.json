@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És összekapcsolta ⟨את⟩ az öt kárpitot külön, és ⟨את⟩ a hat kárpitot külön.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "És összekapcsolta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az öt kárpitot"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kárpitot"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "külön"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hat kárpitot"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kárpitot"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "külön"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:38.760631205Z",
+  "model": "glm-5.3"
+}

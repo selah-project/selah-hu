@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Ezek pedig a nevek azoknak a férfiaknak, akik veletek ⟨את⟩ fognak állni: Révénért Elícúr, Sedeúr fia.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ezek pedig"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "a nevek"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a férfiaknak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "fognak állni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek",
+      "marks": "veletek"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "Révénért"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elícúr"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Sedeúrnak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:09.335543996Z",
+  "model": "glm-5.3"
+}

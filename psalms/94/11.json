@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Jahve ismeri az ember gondolatait, hogy hiábavalóság ⟨azok⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "gondolatait"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨azok⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hiábavalóság"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:44.222344870Z",
+  "model": "glm-5.3"
+}

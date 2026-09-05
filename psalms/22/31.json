@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Magja fogja őt szolgálni; beszámoltatik az Adonájnak a jövendő nemzedékről.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Magja"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "fogja őt szolgálni"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "beszámoltatik"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "az Adonájnak"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "a nemzedéknek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:42.137411684Z",
+  "model": "glm-5.3"
+}

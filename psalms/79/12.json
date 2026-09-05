@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 79,
+  "translation": "És térítsd vissza szomszédjainkra — az ő keblükre — hétszeres gyalázkodásukat, amellyel téged gyaláztak, Adonáj.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "és térítsd vissza"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "szomszédjainkra"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "hétszeres"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "az ő keblükre"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "gyalázkodásukat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amellyel"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "gyaláztak téged"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:17.745586566Z",
+  "model": "glm-5.3"
+}

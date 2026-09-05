@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 76,
+  "translation": "Ismert ⟨⟨van⟩⟩ Jehúdában ⟨az⟩ Elohim, Jiszráelben nagy ⟨az⟩ neve.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Ismert"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehúdában"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨az⟩ Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jiszráelben"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "neve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:22.039922337Z",
+  "model": "glm-5.3"
+}

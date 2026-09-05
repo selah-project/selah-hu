@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 150,
+  "translation": "Dicsérjétek ⟨az⟩ hatalmas tetteiért, dicsérjétek ⟨az⟩ nagyságának bőségéért!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dicsérjétek ⟨az⟩"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "hatalmas tetteiért"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dicsérjétek ⟨az⟩"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "bőségéért"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nagyságának"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:43.986698807Z",
+  "model": "glm-5.3"
+}

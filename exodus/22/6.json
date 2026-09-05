@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha egy ember a felebarátjának pénzt vagy edényeket ad őrzésre, és ellopnák az ember házából: ha megtalálják a tolvajt, fizessen kétszerest.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátjának"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénzt"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "edényeket"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "őrzésre"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "és ellopnák"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "megtalálják"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "a tolvajt"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizessen"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kétszerest"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:51.105304179Z",
+  "model": "glm-5.3"
+}

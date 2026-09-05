@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Akinek kezében gonosz terv, és jobbjuk tele van vesztegetéssel.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Akinek"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "gonosz terv"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "és jobbjuk"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tele van"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "vesztegetéssel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:28.238218720Z",
+  "model": "glm-5.3"
+}

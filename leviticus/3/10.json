@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ⟨את⟩ a két vesét, és ⟨את⟩ a zsírt, amely azokon van, amely az ágyékon van, és ⟨את⟩ a máj cimpáját — a vesékkel együtt távolítja el.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a két vesét"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a két"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "vesét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "azokon van"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "az ágyékon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a máj cimpáját"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "a máj cimpáját"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "a májon"
+    },
+    {
+      "surface": "על",
+      "gloss": "a vesékkel együtt"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "–"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "távolítja el"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:47.961543131Z",
+  "model": "glm-5.3"
+}

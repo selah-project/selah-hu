@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És mondta neki: Mi a neved? És ⟨ő⟩ mondta: Jaakob.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a neved"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:56.566336359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "De megkísértették és megiratkoztak ⟨את⟩ Elohim, ⟨az⟩ Eljon ellen, és tanúságait nem őrizték.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "megkísértették"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "iratkoztak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon (a Magasságos)"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "és tanúságait"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "őrizték"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:32.761582263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Nappal és éjjel körüljárják annak falait, és ⟨van⟩ gonoszság és nyomorúság annak belsejében.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és éjjel"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "körüljárják"
+    },
+    {
+      "surface": "על",
+      "gloss": "along"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "falait"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "és gonoszság"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "és nyomorúság"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "annak bensejében"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:45.552482554Z",
+  "model": "glm-5.3"
+}

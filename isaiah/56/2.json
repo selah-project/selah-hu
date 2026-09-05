@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 56:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Boldog ⟨az⟩ ember, aki ezt megteszi, és ⟨a⟩ embernek fia, aki erősen fogja ⟨abba⟩: aki megtartja a sábbátot, meg ne szentségtelenítse, és megőrzi ⟨a⟩ kezét, hogy semmi rosszat ne tegyen.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "megtesz"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "és fia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "embernek"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "erősen fogja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨abba⟩"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "megtartja"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "a sábbátot"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "meg ne szentségtelenítse"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "és megőrzi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "hogy ne tegyen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rosszat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:47.285816315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Tiszta kezekű és tiszta szívű, aki nem emelt fel hiábavalóságra lelkemet, és nem esküdött csalárdul.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "Tiszta"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "kezekű"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "és tiszta"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívű"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "emelt fel"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "hiábavalóságra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "esküdött"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "csalárdul"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.205862632Z",
+  "model": "glm-5.3"
+}

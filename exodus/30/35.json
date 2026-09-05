@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És készítsd ⟨את⟩ azt füstölőáldozatként: kenőcs-készítmény, kenőcs-készítő munkája, sózott, tiszta, szentség.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És készítsd"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a füstölőáldozatot)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "füstölőáldozatként"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "kenőcs-készítmény"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "munkája"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "kenőcs-készítő"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "sozott"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentség"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:33.023264503Z",
+  "model": "glm-5.3"
+}

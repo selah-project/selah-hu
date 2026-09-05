@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Ki mehet fel Jahve hegyére, és ki állhat meg az ő szent helyén?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "mehet fel"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "Jahve hegyére"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "állhat meg"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyén"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:31.776539794Z",
+  "model": "glm-5.3"
+}

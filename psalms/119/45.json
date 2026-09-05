@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "és járok ⟨a⟩ tágas téren, mert elrendeléseidet kerestem",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "és járok"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "tágas téren"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "elrendeléseidet"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "kerestem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:53.722028978Z",
+  "model": "glm-5.3"
+}

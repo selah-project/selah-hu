@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "És ez jobban tetszik Jahvénak, mint a hizott bikánál, szarvas, patás borjúnál.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "És ez jobban tetszik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "משור",
+      "gloss": "mint a hizott bikánál"
+    },
+    {
+      "surface": "פר",
+      "gloss": "borjúnál"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "szarvas"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "patás"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:19.626327011Z",
+  "model": "glm-5.3"
+}

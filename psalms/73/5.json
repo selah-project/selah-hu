@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "A halandó nyomorúságában nincsenek, és ⟨emberrel⟩ nem érintetnek meg.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "a nyomorúságában"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "halandónak"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "nincsenek"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és ⟨együtt⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember(ekkel)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "érintetnek meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:35.931342864Z",
+  "model": "glm-5.3"
+}

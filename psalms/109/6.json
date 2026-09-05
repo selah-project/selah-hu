@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Rendeld rá a gonoszt, és a vádló (szátán) álljon jobbkeze felől.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "rendeld"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonoszt"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "és a vádló (szátán)"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "álljon"
+    },
+    {
+      "surface": "על",
+      "gloss": "-nál"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "jobbkezén"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:13.909085748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Lehullott a korona a fejünkről; jaj immár nékünk, mert vétkeztünk!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "lehullott"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "a korona"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "fejünkről"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "jaj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "immár"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nékünk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "vétkeztünk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:35.321991131Z",
+  "model": "glm-5.3"
+}

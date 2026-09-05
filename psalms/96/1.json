@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 96,
+  "translation": "Énekeljetek Jahvénak új éneket, énekeljetek Jahvénak, teljes föld!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Énekeljetek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "éneket"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "énekeljetek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:40.154923793Z",
+  "model": "glm-5.3"
+}

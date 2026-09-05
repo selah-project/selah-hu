@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Jaj azoknak, akik rendelnek rendeléseket avénra, és az íróknak, akik nyomorúságot írnak — írják!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "azoknak, akik rendelkeznek"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "rendeléseket"
+    },
+    {
+      "surface": "און",
+      "gloss": "avénra"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "és az íróknak"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nyomorúságot"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "írják"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:12.896837075Z",
+  "model": "glm-5.3"
+}

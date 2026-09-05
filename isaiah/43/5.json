@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Ne félj, mert ⟨את⟩-veled vagyok én; napkeletről hozom a magodat, és napnyugatról egybegyűjtlek téged.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "félj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-veled",
+      "marks": "veled"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "napkeletről"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "hozom"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "a magodat"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "és napnyugatról"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "egybegyűjtlek téged"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:56.418359885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Földből készíts nekem oltárt, és áldozz fel rajta ⟨את⟩ égőáldozataidat és ⟨את⟩ békeáldozataidat, ⟨את⟩ juhaidat és ⟨את⟩ marháidat; minden helyen, ahol ⟨את⟩ nevemet megemlítem, eljövök hozzád és megáldalak.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "földből"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "készíts"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "és áldozz fel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "égőáldozataidat"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "égőáldozataidat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "békeáldozataidat"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "békeáldozataidat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juhaidat"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "juhaidat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "marháidat"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "marháidat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "megemlítem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevemet"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nevemet"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "eljövök"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "és megáldalak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:43.222188543Z",
+  "model": "glm-5.3"
+}

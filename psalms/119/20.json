@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Eltörik lelkem a sóvárgástól — ítéleteid felé, minden időben.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Eltörik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "a sóvárgástól"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ítéleteid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עת",
+      "gloss": "időben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:53.393859626Z",
+  "model": "glm-5.3"
+}

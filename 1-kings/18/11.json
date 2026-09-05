@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És most te azt mondod: Menj, mondd meg uradnak: Íme, Elia (Illés) itt van!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "azt mondod"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Menj"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondd meg"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "uradnak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:33.029105084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És eltávolították Izráel fiai ⟨את⟩ a Baálokat és ⟨את⟩ az Ashtarótokat, és szolgálták ⟨את⟩ Jahvét egyedül.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "És eltávolították"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Baálokat"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "a Baálokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az Ashtarótokat"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "az Ashtarótokat"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "és szolgálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egyedül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:06:03.291621380Z",
+  "model": "glm-5.3"
+}

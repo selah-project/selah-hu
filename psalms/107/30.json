@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "És örvendeztek, mert elcsitultak, és elvezette őket a kívánt kikötőjükbe.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "és örvendeztek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "elcsitultak"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "és elvezette"
+    },
+    {
+      "surface": "אל",
+      "gloss": "őket (jelöli a célt)"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "kikötőjükbe"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "kívánt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:32.039242823Z",
+  "model": "glm-5.3"
+}

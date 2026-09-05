@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Boldog ⟨a⟩ férfi, aki Jahvét tette bizodalmává, és nem fordult a gőgösködők felé, sem a hazugságra csapongók felé.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "bizodalmává"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "fordult"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "a gőgösködők"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "sem a csapongók"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "hazugságra"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:21.081111454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Az igazak jóllétekor ujjong a város, és a gonoszok elveszésén éneklés ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "jóllétekor"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazak"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "ujjong"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "és elveszésén"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "éneklés"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:04.346744074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Ne szégyenüljenek meg miattam a benned reménykedők, Adonáj Jahve Cevaót; ne váljanak megszégyenítetté miattam a téged keresők, Izrael Elohimja.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "szégyenüljenek meg"
+    },
+    {
+      "surface": "בי",
+      "gloss": "miattam"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "a benned reménykedők"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "váljanak megszégyenítetté"
+    },
+    {
+      "surface": "בי",
+      "gloss": "miattam"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "a téged keresők"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:15.909340195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Meddig fekszel, restség? Mikor kelsz fel az álmodból?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "restség"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "fekszel"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Mikor"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kelsz fel"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "az álmodból"
+    }
+  ],
+  "timestamp": "2026-09-04T22:08:35.077247611Z",
+  "model": "glm-5.3"
+}

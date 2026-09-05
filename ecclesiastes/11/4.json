@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Aki a szelet lesi, nem vet; és aki a felhőket nézi, nem arat.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "lesi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a szelet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "vet"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és aki nézi"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "a felhőket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "arat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:56.742496530Z",
+  "model": "glm-5.3"
+}

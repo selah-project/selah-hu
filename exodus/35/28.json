@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És ⟨את⟩ a fűszereket, és ⟨את⟩ az olajat — a világításhoz, a kenethez és a fűszerfüstölőhöz.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fűszereket"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "a fűszereket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az olajat"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "az olajat"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "a világításhoz"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "és a kenethez"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "(kenőolajhoz)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "és a füstölőáldozathoz"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "(fűszer)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:38.622999462Z",
+  "model": "glm-5.3"
+}

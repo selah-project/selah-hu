@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "De ha nem köt veled békét, hanem háborút visel ellened, ostromold meg.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "De ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "köt békét"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "hanem visel"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "háborút"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "és ostromold meg"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨ellenne⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:54.875265396Z",
+  "model": "glm-5.3"
+}

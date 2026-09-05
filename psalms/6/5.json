@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Térj vissza, Jahve, szabadítsd meg lelkemet, ments meg heszededért!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Térj vissza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "szabadítsd meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ments meg engem"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszededért"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:28.908837589Z",
+  "model": "glm-5.3"
+}

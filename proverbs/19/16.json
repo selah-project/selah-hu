@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "A parancs őrzője ⟨az⟩ ő nefesét őrzi, útjai megvetője pedig meghal.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "őrzője"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "a parancs"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ő nefesét"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "megvetője"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "útjai"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "meghal"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:02.686508683Z",
+  "model": "glm-5.3"
+}

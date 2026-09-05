@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És küldött Avsalom (Absolon) kémeket minden Izrael törzséhez, ezt mondván: Amint meghalljátok ⟨את⟩ a kürt hangját, akkor mondjátok: Uralkodik Avsalom Chevronban!",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És küldött"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "kémeket"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "törzséhez"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ezt mondván"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "Amint meghalljátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kürt hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "a kürt"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "akkor mondjátok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Uralkodik"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chevronban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:28:42.099001873Z",
+  "model": "glm-5.3"
+}

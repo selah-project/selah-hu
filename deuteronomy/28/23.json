@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És lesznek egeid, amelyek fejed felett ⟨vannak⟩, rézzé, és a föld, amely alattad ⟨van⟩, vassá.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "És lesznek"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "egeid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "fejed"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rézzé"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "és a föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "alattad"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vassá"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:08.330775716Z",
+  "model": "glm-5.3"
+}

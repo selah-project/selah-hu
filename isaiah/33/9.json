@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Gyászba borult, elhervadt a föld; megszégyenült Levanon, elaszadt; a Sáron puszta lett, és megrázkódott Básán és Kármel.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "gyászba borult"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "elhervadt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "megszégyenült"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "elaszadt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "a Sáron"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "puszta"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "és megrázkódott"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Básán"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "és Kármel"
+    }
+  ],
+  "timestamp": "2026-09-04T20:18:33.987003519Z",
+  "model": "glm-5.3"
+}

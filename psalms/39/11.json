@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Vedd el rólam csapásodat, kezed súlyától elpusztulok.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "vedd el"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "rólam"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "csapásodat"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "súlyától"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "elpusztulok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:47.605692114Z",
+  "model": "glm-5.3"
+}

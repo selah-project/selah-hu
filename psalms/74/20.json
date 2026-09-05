@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Tekints a szövetségre, mert megteltek a föld sötét helyei erőszak tanyáival.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Tekints"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "a szövetségre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "megteltek"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "sötét helyei"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "tanyái"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:00.949684127Z",
+  "model": "glm-5.3"
+}

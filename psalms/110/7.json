@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 110,
+  "translation": "Patakból iszik az úton, azért ⟨fel⟩emeeli fejét.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "patakból"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "iszik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ez⟩ért"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "emeeli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:31.061103273Z",
+  "model": "glm-5.3"
+}

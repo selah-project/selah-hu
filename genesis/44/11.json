@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És siettek, és leeresztették ⟨את⟩ mindenki ⟨a⟩ zsákját a földre, és kinyitotta mindenki ⟨a⟩ zsákját.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "és siettek"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "és leeresztették"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a zsákját"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "a zsákját"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "és kinyitotta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "a zsákját"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:22.219655212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Salakká tettél minden gonosztevőt ⟨az⟩ országon ⟨belül⟩; azért szeretem a te tanúságaidat.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Salakká"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "tettél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "gonosztevőt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld(ön)"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "azért"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "szeretem"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tanúságaidat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:05.566089319Z",
+  "model": "glm-5.3"
+}

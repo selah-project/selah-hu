@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Mondom Jahvénak: „Menekvésem és erődítményem, az Elohimom — benne bízom.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mondom"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "menekvésem"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "és erődítményem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "az Elohimom"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "bízom"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:18.322815631Z",
+  "model": "glm-5.3"
+}

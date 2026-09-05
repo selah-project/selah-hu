@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Elment és feleségül vette ⟨את⟩ Gómert, Diblájim leányát, és ⟨ő⟩ fogant, és fiat szült neki.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "v(zte)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gómert"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gómer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leánya"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblájim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "és fogant"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:48.811679854Z",
+  "model": "glm-5.3"
+}

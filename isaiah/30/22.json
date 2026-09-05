@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És tisztátalanná teszed ⟨את⟩ ezüstbálványaid bevonatát és ⟨את⟩ aranyöntvényed lemezét; szétszórod őket, mint a menstruációs ‹véres› ormót — „Takarodj!”, mondod neki.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "és tisztátalanná teszed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezüstbálványaid bevonatát"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "bevonatát"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "bálványaid"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "aranyöntvényed lemezét"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "lemezét"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "öntvényed"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "arany"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "szétszórod"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "menstruációs ormót"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Takarodj!"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mondod"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T20:17:54.786717338Z",
+  "model": "glm-5.3"
+}

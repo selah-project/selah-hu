@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Cselekedj velük, mint Midjánnal, mint Sziszérával, mint Jábínnal a Kison patakjánál.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Cselekedj"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "mint Midjánnal"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "mint Sziszérával"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "mint Jábínnal"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a patakjánál"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kison"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:59.539626987Z",
+  "model": "glm-5.3"
+}

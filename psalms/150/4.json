@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 150,
+  "translation": "Dicsérjétek ⟨az⟩ dobpergéssel és tánccal, dicsérjétek ⟨az› húros hangszerekkel és sipokkal!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dicsérjétek ⟨az⟩"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "dobpergéssel"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "és tánccal"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dicsérjétek ⟨az⟩"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "húros hangszerekkel"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "és sipokkal"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:43.987194651Z",
+  "model": "glm-5.3"
+}

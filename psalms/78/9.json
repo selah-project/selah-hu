@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Efrájim (Efraim) fiai, az íj kifeszítői, meghátráltak a harc napján.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "kifeszítői"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "az íj"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "íjnak"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "meghátráltak"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napján"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "harc"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:36.672255403Z",
+  "model": "glm-5.3"
+}

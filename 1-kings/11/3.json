@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És lett neki hétszáz feleség, fejedelmi rangú asszonyok, meg háromszáz ágyas; és az ő feleségei elvonták ⟨את⟩ az ő szívét.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "feleség"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "fejedelmi rangú asszonyok"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hét"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "és ágyasok"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "három"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "és elvonták"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "feleségei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szívét"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szívét"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:02.803997221Z",
+  "model": "glm-5.3"
+}

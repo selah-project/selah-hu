@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 42:17",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Visszahúlnak hátra, megszégyenülnek nagy szégyenben a faragott képben bízók, akik az öntött képhez szólnak: „Ti vagytok a mi isteneink.”",
+  "tokens": [
+    {
+      "surface": "נסגו",
+      "gloss": "visszahúlnak"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "hátra"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "megszégyenülnek"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "szégyenben"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "a bizakodók"
+    },
+    {
+      "surface": "בפסל",
+      "gloss": "a faragott képben"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "akik szólnak"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "az öntött képhez"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi isteneink"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:24.092772915Z",
+  "model": "glm-5.3"
+}

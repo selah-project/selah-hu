@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Szám szerint jegyzettjeik a Shimón (Simeon) törzséből: ötvenkilenc ezer és háromszáz.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "szám szerint jegyzettjeik"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "a törzséből"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimón"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "kilenc"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "és ötven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "és három"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:03.548514865Z",
+  "model": "glm-5.3"
+}

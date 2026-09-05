@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Csak a függönyhöz ne menjen be, és az oltárhoz ne közeledjék, mert hiba van benne; és ne gyalázza ⟨את⟩ szentélyeimet, mert én vagyok Jahve, aki megszenteli azokat.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "a függöny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "menjen be"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és …hoz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "közekedjék"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מום",
+      "gloss": "hiba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "van benne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "gyalázza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szentélyeimet"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "szentélyeimet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "megszenteli azokat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:12.991354724Z",
+  "model": "glm-5.3"
+}

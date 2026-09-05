@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "⟨את⟩ a két szekeret és ⟨את⟩ a négy marhát adta a Gersón fiainak, az ő szolgálatjuk szerint.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a két szekeret"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "két"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "a szekeret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a négy marhát"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "négy"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a marhát"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a fiai(nak)"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersón"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "az ő szolgálatjuk"
+    }
+  ],
+  "timestamp": "2026-09-04T17:27:53.173259106Z",
+  "model": "glm-5.3"
+}

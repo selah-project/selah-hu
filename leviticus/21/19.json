@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "vagy férfi, akinek lábtörés ⟨van⟩, vagy kéztörés.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akinek"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "van"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "törés"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "láb-"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "törés"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kéz-"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:22.097460114Z",
+  "model": "glm-5.3"
+}

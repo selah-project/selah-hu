@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ⟨את⟩ a két vesét, és ⟨את⟩ a rajtuk lévő zsírt, amely a csípőknél van, és ⟨את⟩ a májon lévő lebenyt a vesék mellett távolítsa el.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a két vesét"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "két"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "vesét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a rajtuk lévő zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "rajtuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "-nél"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "a csípőknél"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a májon lévő lebenyt"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "a lebenyt"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "a májon"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "a vesék"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "távolítsa el"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:40.954974308Z",
+  "model": "glm-5.3"
+}

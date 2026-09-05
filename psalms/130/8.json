@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 130,
+  "translation": "És ⟨ő⟩ megváltja ⟨את⟩ Izráelt minden bűnétől.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "És ⟨ő⟩"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "megváltja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "bűnétől"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:03.667152270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "akkor én is ellenségesen fogok járni veletek szemben, és megverlek ⟨את⟩ titeket, én is, hétszer a ti vétkeitekért.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "akkor fogok járni"
+    },
+    {
+      "surface": "אף",
+      "gloss": "is"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ellenségesen"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "és megverlek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hétszer"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt \/ -ért"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "a ti vétkeitekért"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:02.669004574Z",
+  "model": "glm-5.3"
+}

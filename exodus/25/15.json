@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "A láda gyűrűiben legyenek a rudak, ne mozdíttassanak el tőle.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "gyűrűiben"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "a ládá"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "a rudak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "mozdíttassanak el"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:42.969273388Z",
+  "model": "glm-5.3"
+}

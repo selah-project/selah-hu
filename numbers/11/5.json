@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Emlékezünk ⟨את⟩ a halra, amelyet ettünk Micrajimben (Egyiptomban) ingyen: ⟨את⟩ az uborkákat és ⟨את⟩ a dinnyéket és ⟨את⟩ a póréhagymát és ⟨את⟩ a vöröshagymákat és ⟨את⟩ a fokhagymákat.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Emlékezünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a halra"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "a halra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ettünk"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimben"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ingyen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az uborkákat"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "az uborkákat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a dinnyéket"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "a dinnyéket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a póréhagymát"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "a póréhagymát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a vöröshagymákat"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "a vöröshagymákat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fokhagymákat"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "a fokhagymákat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:33:00.880867571Z",
+  "model": "glm-5.3"
+}

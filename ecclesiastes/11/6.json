@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Reggel vessed ⟨את⟩ magodat, és estére ne pihentesd kezedet, mert nem tudod, hol sikerül, ez vagy az, és ha mindkettő, egyként jó.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Reggel"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "vessed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magodat"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "magodat"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "és estére"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "pihentesd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hol"
+    },
+    {
+      "surface": "זה",
+      "gloss": "az"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "sikerül"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "az"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindkettő"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "egyként"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "jó"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:35.916011102Z",
+  "model": "glm-5.3"
+}

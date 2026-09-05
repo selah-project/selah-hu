@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Lásd, én elétek adom ma az áldást és az átkot:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adom"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "elétek"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "áldást"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "és átkot"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:29.204020836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 121,
+  "translation": "Nappal a nap nem üt téged, sem a hold éjjel.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Nappal"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "üt téged"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "sem a hold"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "éjjel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:27.845278404Z",
+  "model": "glm-5.3"
+}

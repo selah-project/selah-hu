@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Teret nyitottál előtte, és gyökeret vertettek gyökerei, és betöltötte ⟨a⟩ földet.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "teret nyitottál"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "és gyökeret vertettek"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "gyökerei"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "és betöltötte"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:05.951834564Z",
+  "model": "glm-5.3"
+}

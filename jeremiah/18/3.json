@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És leszálltam a fazekes házába, és íme, ő munkát készített az agyagkorongokon.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "És leszálltam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a házába"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "a fazekes"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "és íme, ő"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "az agyagkorongokon"
+    }
+  ],
+  "timestamp": "2026-09-04T23:38:42.658018446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És monda néki Elisá: „Végy egy íjat és nyilakat.” És vett magának ⟨az⟩ íjat és a nyilakat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisá"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Végy"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "egy íjat"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "és nyilakat"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "És vett"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "magának"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "⟨az⟩ íjat"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "és a nyilakat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:35.755493565Z",
+  "model": "glm-5.3"
+}

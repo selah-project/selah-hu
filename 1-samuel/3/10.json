@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És eljött Jahve, és odaállt, és szólított, ahogy máskor: »Semuél, Semuél!« És mondta Semuél: Szólj, mert hallja a te szolgád.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "és eljött"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "és odaállt"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és szólított"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "máskor"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallja"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a te szolgád"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:50.488315565Z",
+  "model": "glm-5.3"
+}

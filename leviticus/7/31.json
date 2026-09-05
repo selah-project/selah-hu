@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És a kóhen (pap) füstöltesse fel ⟨את⟩ a kövér részt az oltáron; és a mellkas legyen Ahárón (Áron) és fiaié.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "és füstöltesse fel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kóhen (pap)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kövér részt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a kövér részt"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "a mellkas"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ahárónnak (Áron)"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "és fiainek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:02.701146041Z",
+  "model": "glm-5.3"
+}

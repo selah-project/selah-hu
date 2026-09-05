@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Az udvar minden függönye körös-körül csavart lenvászon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "függönye"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "az udvarnak"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körös-körül"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lenvászon"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "csavart"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:44.127063482Z",
+  "model": "glm-5.3"
+}

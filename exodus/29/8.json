@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És ⟨את⟩ az ő fiait vezesd elő, és öltöztesd őket köntösökbe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "vezesd elő"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "és öltöztesd őket"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "köntösökbe"
+    }
+  ],
+  "timestamp": "2026-09-04T16:56:50.346215879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ez is ⟨olyan⟩ baj, beteges: minden pontban amint jött, úgy elmegy, és mi haszna van neki, hogy a szélnek fáradoz⟨ik⟩?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ez is"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨olyan⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "baj"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "beteges"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "pontban"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "amint jött"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "elmegy"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "és mi"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "haszna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "van neki"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "hogy fáradozik"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "a szélnek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:29.781744874Z",
+  "model": "glm-5.3"
+}

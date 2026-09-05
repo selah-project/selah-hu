@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Selah, miután nemzette ⟨את⟩ Evert, három évet és négyszáz évet, és nemzett fiakat és leányokat.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "miután"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evert"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "három"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "évet"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "és négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzett"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiakat"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "és leányokat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:00.710076108Z",
+  "model": "glm-5.3"
+}

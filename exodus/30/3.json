@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És bevondd ⟨את⟩-őt tiszta arannyal: ⟨את⟩ a tetejét és ⟨את⟩ az oldalait köröskörül, és ⟨את⟩ a szarvait; és készíts⟨él⟩ néki arany koszorút köröskörül.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "és bevondd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-őt",
+      "marks": "ő (az oltár)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tetejét"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "a tetejét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az oldalait"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "az oldalait"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szarvait"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "a szarvait"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és készíts"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "זר",
+      "gloss": "koszorút"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:00.283379709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És nevét Jószéfnek nevezte, mondván: adjon hozzá Jahve nékem másik fiút.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "és nevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéfnek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "adjon hozzá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nékem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiút"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "másik"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:12.704130962Z",
+  "model": "glm-5.3"
+}

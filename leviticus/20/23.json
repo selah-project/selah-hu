@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ne járjatok ⟨a⟩ nép rendeleteiben, amelyet én kiűzök előletek, mert ⟨את⟩ mind ezeket megcselekedték, és undorodtam tőlük.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "járjatok"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "rendeleteiben"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨a⟩ nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "kiűzök"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "előletek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind ezeket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "megcselekedték"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "és undorodtam"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tőlük"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:19.359636559Z",
+  "model": "glm-5.3"
+}

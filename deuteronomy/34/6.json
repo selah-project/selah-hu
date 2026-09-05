@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És eltemette őt ⟨את⟩ a völgyben, Moáb földjén, Bet-Peórral szemben; és nem ismerte ember ⟨את⟩ sírját mind e napig.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "és eltemette"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "a völgyben"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "a völgyben"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "מול",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peórral"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismerte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sírját"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "sírját"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mind"
+    },
+    {
+      "surface": "היום",
+      "gloss": "e napig"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T18:34:54.524747804Z",
+  "model": "glm-5.3"
+}

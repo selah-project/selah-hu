@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Vallják meg Jahvénak heszedjét, és csodáit az ember fiai ⟨közt⟩!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Vallják meg"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "heszedjét"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "és csodáit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "az ember fiainak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:01.423142320Z",
+  "model": "glm-5.3"
+}

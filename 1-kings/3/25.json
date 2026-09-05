@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta a király: „Vágjátok ketté ⟨את⟩ a gyermeket, az élőt, kettőre, és adjátok ⟨את⟩ a felét az egyiknek, és ⟨את⟩ a felét a másiknak.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "Vágjátok ketté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyermeket, az élőt"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermeket"
+    },
+    {
+      "surface": "החי",
+      "gloss": "az élőt"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "kettőre"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "és adjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a felét"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "a felét"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "az egyiknek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a felét"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "a felét"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "a másiknak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:10.815203133Z",
+  "model": "glm-5.3"
+}

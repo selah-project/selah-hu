@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És Makhírnak adtam ⟨את⟩ a Giládot.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "És Makhírnak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Giládot"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giládot"
+    }
+  ],
+  "timestamp": "2026-09-04T17:50:02.891962589Z",
+  "model": "glm-5.3"
+}

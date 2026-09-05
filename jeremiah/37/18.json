@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 37:18",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És mondta Jirmjáhu a királynak, Cidkijáhunak: „Miért vétkeztem ellened, szolgáid ellen és e nép ellen, hogy beadtatok ⟨את⟩ engem a fogház házába?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmjáhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáhunak"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "vétkeztem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "ו לעבדיך",
+      "gloss": "szolgáid ellen"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "és a nép"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "נתתם",
+      "gloss": "beadtatok"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "a fogház házába"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "fogház"
+    }
+  ],
+  "timestamp": "2026-09-04T20:48:44.420108339Z",
+  "model": "glm-5.3"
+}

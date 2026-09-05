@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És köveket hajított Dávidra ⟨את⟩ Dávidot ⟨את⟩ és a királynak, Dávidnak minden szolgáját — pedig az egész nép és minden vitéz ⟨volt⟩ jobb keze és bal keze felől.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "És köveket hajított"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kövekkel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden szolgáját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgáját"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "ו כל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "jobb keze felől"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "és bal keze felől"
+    }
+  ],
+  "timestamp": "2026-09-04T19:29:04.451392631Z",
+  "model": "glm-5.3"
+}

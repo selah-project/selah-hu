@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "És tudják meg, hogy te, akinek neve Jahve, egyedül vagy ⟨a⟩ Legfelsőbb az egész földön!",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "És tudják meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "akinek neved"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨a⟩ Legfelsőbb"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:00.508526602Z",
+  "model": "glm-5.3"
+}

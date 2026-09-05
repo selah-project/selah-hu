@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "És a Cór (Tírusz) lánya ajándékkal — a te orcádat esdékelik a nép gazdagjai.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "És a lánya"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cór (Tírusz)"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "ajándékkal"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "a te orcádat"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "esdékelik"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "gazdagjai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:04.355474918Z",
+  "model": "glm-5.3"
+}

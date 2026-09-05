@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Sőt a béke-embenem, akiben bíztam, aki kenyeremet ette, felmagasztalta ellenem a sarkát.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "béke-embenem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "eszi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "kenyeremet"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "felmagasztalta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "a sarkát"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:45.038152358Z",
+  "model": "glm-5.3"
+}

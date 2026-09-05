@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Hang hallatszik a kopár magaslatokon, sírás, könyörgés Izráél fiainak, mert elferdítették útjukat, elfelejtették Jahvét, Elohimjukat.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hang"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "kopár magaslatokon"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "hallatszik"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "sírás"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "könyörgés"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "elferdítették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "útjukat"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "útjukat"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "elfelejtették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimjukat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:32:31.862160463Z",
+  "model": "glm-5.3"
+}

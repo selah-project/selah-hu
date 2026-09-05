@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ⟨ő⟩ ellenféllé lett Izráélnek Salomo minden napján, azonfelül ⟨את⟩ a rosszat, amelyet Hadad tett; és megutálta Izráélt, és uralkodott Arám fölött.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ellenféllé"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izráélnek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a rosszat"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "tett; és megutálta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráélt"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "és uralkodott"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:55.915911425Z",
+  "model": "glm-5.3"
+}

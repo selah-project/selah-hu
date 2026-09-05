@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Mert tenálad ⟨van⟩ az élet forrása, világosságodban látunk világosságot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tenálad"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "forrása"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "az élet"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "világosságodban"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "látunk"
+    },
+    {
+      "surface": "אור",
+      "gloss": "világosságot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:25.408875517Z",
+  "model": "glm-5.3"
+}

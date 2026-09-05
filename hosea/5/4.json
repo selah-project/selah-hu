@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Nem engedik tetteik, hogy visszatérjenek Elohimjukhoz, mert paráználkodás lelke van bennük, és ⟨את⟩ Jahvét nem ismerik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "engedik"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "tetteik"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "hogy visszatérjenek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hoz"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimjuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "paráználkodás"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "bennük"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ismerik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:46.307619266Z",
+  "model": "glm-5.3"
+}

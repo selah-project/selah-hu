@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Legyen az én szívem épségben a te rendeleteidben, hogy ne szégyenkezzem.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "az én szívem"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "épségben"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "a te rendeleteidben"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "szégyenkezzem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:47.694980480Z",
+  "model": "glm-5.3"
+}

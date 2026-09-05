@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Tizedelve tizedd ⟨את⟩ minden termést, a te magodnak, amit a mező hoz ki, évről évre.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Tizedelve"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "tizedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden termést"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "termést"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "a te magodnak"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ami kihoz"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évről"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évre"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:53.347304863Z",
+  "model": "glm-5.3"
+}

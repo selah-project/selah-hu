@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Éhínségben kivált téged a haláltól, és háborúban a kard ⟨kezétől⟩.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Éhínségben"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "kivált téged"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "a haláltól"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "és háborúban"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "a kard ⟨kezétől⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:53.737351344Z",
+  "model": "glm-5.3"
+}

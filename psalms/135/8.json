@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Aki megverte Micrajim (Egyiptom) elsőszülötteit az embertől az állatig.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Aki megverte"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "elsőszülötteit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "az embertől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–ig"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "az állatig"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:02.631445679Z",
+  "model": "glm-5.3"
+}

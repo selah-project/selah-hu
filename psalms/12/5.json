@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Akik ezt mondták: „Nyelvünkkel mi uralkodunk, ajkaink a miénk ⟨את⟩ — ki az úr közülünk?”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mondták"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "nyelvünkkel"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "uralkodunk"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "ajkaink"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ajkaink"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "úr"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:52.884516520Z",
+  "model": "glm-5.3"
+}

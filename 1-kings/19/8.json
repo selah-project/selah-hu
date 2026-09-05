@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 19:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És felkelt, evett és ivott, és elment ama étel erejével negyven nappal és negyven éjjelig, az Elohim hegyéig, Hórevig.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "evett"
+    },
+    {
+      "surface": "וישתה",
+      "gloss": "és ivott"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "erejével"
+    },
+    {
+      "surface": "האכילה",
+      "gloss": "étel"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "és negyven"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjelig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyéig"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "Hórevig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:10.761002983Z",
+  "model": "glm-5.3"
+}

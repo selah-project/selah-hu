@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Minden parancsolatod hűség ⟨van⟩; hazugsággal üldöztek engem — segíts meg engem!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parancsolatod"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "hitőség ⟨van⟩"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugsággal"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "üldöztek engem"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "segíts meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:17.249611770Z",
+  "model": "glm-5.3"
+}

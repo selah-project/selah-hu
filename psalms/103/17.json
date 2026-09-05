@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Jahve heszedje öröktől örökké ⟨az⟩ őt félőkre ⟨hat⟩, és az ő igazsága a fiak fiaira:",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "és a heszed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "öröktől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨az⟩ … ⟨hat⟩"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "őt félőkre"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "és az ő igazsága"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a fiak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiaira"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:52.505711060Z",
+  "model": "glm-5.3"
+}

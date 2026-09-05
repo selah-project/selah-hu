@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "A kisdedek és szopós csecsemők szájából alapítottál erőt elleneid miatt, hogy elnémítsd az ellenséget és a megbosszúlót.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "A ... szájából"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "kisdedek"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "és szopós csecsemők"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "alapítottál"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erőt"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "elleneid"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "hogy elnémítsd"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenséget"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "és a megbosszúlót"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:03.416290593Z",
+  "model": "glm-5.3"
+}

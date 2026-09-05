@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Mert elfogyott a bánatban életem, és éveim a sóhajtozásban; megtántorodott bűnöm miatt erőm, és csontjaim megfogyatkoztak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "elfogyott"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "a bánatban"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "életem"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "és éveim"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "a sóhajtozásban"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "megtántorodott"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "bűnöm miatt"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "erőm"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "és csontjaim"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "megfogyatkoztak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:39.486970819Z",
+  "model": "glm-5.3"
+}

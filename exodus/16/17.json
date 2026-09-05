@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És úgy cselekedtek Izrael (Jiszráél) fiai, és szedegettek ⟨az⟩ ⟨a⟩ sokat ⟨szerző⟩ és ⟨az⟩ ⟨a⟩ keveset ⟨szerző⟩.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "és úgy cselekedtek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "és szedegettek"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "⟨a⟩ sokat ⟨szerző⟩"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "és ⟨a⟩ keveset ⟨szerző⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:58.818289744Z",
+  "model": "glm-5.3"
+}

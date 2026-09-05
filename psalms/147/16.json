@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Aki havat ad mint a gyapjú, dért mint hamut szór szét.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Aki ad"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "havat"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "mint a gyapjú"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "dért"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "mint hamut"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "szór szét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:10.248991893Z",
+  "model": "glm-5.3"
+}

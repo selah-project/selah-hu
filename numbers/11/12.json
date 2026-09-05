@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 11:12",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Vajon én fogantam ⟨את⟩ az egész népet? Én szültem-e őt, hogy ezt mondod nekem: Vidd őt kebleden, ahogy viszi a dajka ⟨את⟩ a csecsemőt, arra a földre, amelyre megesküdtél atyáinak?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "Vajon-én"
+    },
+    {
+      "surface": "הריתי",
+      "gloss": "fogantam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész népet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az-egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vajon"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "ילדתיהו",
+      "gloss": "megszültem-őt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "mondod"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "vidd-őt"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "kebleden"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "viszi"
+    },
+    {
+      "surface": "האמן",
+      "gloss": "a-dajka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a csecsemőt"
+    },
+    {
+      "surface": "הינק",
+      "gloss": "a-csecsemőt"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a-föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "megesküdtél"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "atyáinak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:34:29.745608710Z",
+  "model": "glm-5.3"
+}

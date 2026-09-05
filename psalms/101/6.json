@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 101,
+  "translation": "Szemem ⟨a⟩ föld hívein, hogy velem lakjanak; aki tökéletes úton jár, ⟨az⟩ szolgál nekem.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "szemem"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "hívein"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hogy lakjanak"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "velem"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "aki jár"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tökéletes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "szolgál nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:29.457050921Z",
+  "model": "glm-5.3"
+}

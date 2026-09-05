@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És behozta ⟨את⟩ a papokat és ⟨את⟩ a levitákat, és összegyűjtötte őket a keleti széles térre.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És behozta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a papokat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a levitákat"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a levitákat"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "és összegyűjtötte őket"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "széles térre"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "a keleti"
+    }
+  ],
+  "timestamp": "2026-09-04T23:21:26.634053120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ⟨את⟩ a nép többi részét Abísáj kezébe adta, az ő testvérének, és az rendet állított Az Ammon fiainak fogadására.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nép többi részét"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "a többi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abísáj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "az ő testvére"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "és rendet állított"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "fogadására"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:25:52.166057617Z",
+  "model": "glm-5.3"
+}

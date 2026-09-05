@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "Mert megörvendeztettél engem, Jahve, műved által; kezeid tettei mellett ujjongok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "megörvendeztettél engem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "műved által"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "tettei mellett"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "kezeid"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ujjongok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:10.018269466Z",
+  "model": "glm-5.3"
+}

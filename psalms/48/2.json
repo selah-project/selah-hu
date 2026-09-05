@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Nagy ⟨a⟩ Jahve, és fölkentül dicséretes a mi Elohimunk városában, az ő szentségének hegyén.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Nagy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "és dicséretes"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fölkentül"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "városában"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyén"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "az ő szentségének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:12.479956814Z",
+  "model": "glm-5.3"
+}

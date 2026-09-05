@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Azért megutáltam, és megbántam magam a poron és a hamuban.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "azért"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "megutáltam"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "és megbántam magam"
+    },
+    {
+      "surface": "על",
+      "gloss": "a poron"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "por"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "és hamu"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:19.195094274Z",
+  "model": "glm-5.3"
+}

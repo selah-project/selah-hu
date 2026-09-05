@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És félt Jaakob nagyon, és szorongott; és kettéosztotta ⟨את⟩ a népet, amely ⟨את⟩ vele volt, és ⟨את⟩ a juhnyájat és ⟨את⟩ a szarvasmarhát meg a tevéket, két táborra.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "és félt"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "és szorongott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "és kettéosztotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a juhnyájat"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a juhnyájat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a szarvasmarhát"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a szarvasmarhát"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "és a tevéket"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kettőre"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "táborra"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:00.669215760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "„Jaj nekünk! Ki szabadít meg minket ezeknek a hatalmas isteneknek a kezéből? Ezek azok az istenek, akik megverték ⟨את⟩ Micrajimet minden csapással a pusztában.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "szabadít meg minket"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "isteneknek"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeknek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "הם",
+      "gloss": "azok"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az istenek"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "akik megverték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajimet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "csapással"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:24.096717605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És szólt Jahve hozzá: Hívd a nevét Jizreélnek, mert még kevés ⟨idő⟩, és megfenyítem ⟨את⟩ a Jizreél-vért a Jehú házán, és nyugvóra teszem Izráél házának királyságát.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hívd"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "és megfenyítem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jizreél-vért"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreél"
+    },
+    {
+      "surface": "על",
+      "gloss": "−on"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házán"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "és nyugvóra teszem"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "királyságát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:48.811834076Z",
+  "model": "glm-5.3"
+}

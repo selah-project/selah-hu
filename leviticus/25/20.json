@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És ha ezt mondjátok: mit együnk a hetedik évben? Íme, nem vetünk, és nem takarítjuk be ⟨את⟩ termésünket —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mondjátok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "együnk"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "az évben"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "a hetedik"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "vetünk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "takarítjuk be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "termésünket"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "termésünket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:46.716820251Z",
+  "model": "glm-5.3"
+}

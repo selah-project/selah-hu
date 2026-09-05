@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Ha a felkent pap vétkezik a nép vétségére, akkor vigyen vétségéért, amelyet elkövetett, fiatal bikát, a marha fiát, tökéleteset, Jahvénak bűnáldozatul.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "a felkent"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "vétkezik"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "…vétségére"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "akkor vigyen (közeledtessen)"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ért"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "vétségéért"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "elkövetett"
+    },
+    {
+      "surface": "פר",
+      "gloss": "fiatal bikát"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "a marha-"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tökéleteset"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bűnáldozatul"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:54.330529867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Az anyaméhben sarkon fogta ⟨את⟩ testvérét, és az ő erejében birkózott ⟨את⟩ Elohimmal.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "anyaméhben"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sarkon fogta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvérét"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérét"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "és az ő erejében"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "birkózott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimmal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimmal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:12.828670417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Áldom ⟨את⟩ Jahvét minden időben, szüntelenül ⟨van⟩ az ő dicsérete a szám ban.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Áldom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עת",
+      "gloss": "időben"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "az ő dicsérete"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "a számban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:37.229283702Z",
+  "model": "glm-5.3"
+}

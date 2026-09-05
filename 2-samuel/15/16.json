@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És kiment a király és egész háza népe a lábainál, és hátrahagyta a király ⟨את⟩ tíz asszonyt, ágyasokat ⟨azért⟩, hogy őrizzék a házat.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "És kiment"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "háza népe"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "a lábainál"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "és hátrahagyta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tíz asszonyt"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "asszonyt"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "ágyasokat"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "⟨azért⟩, hogy őrizzék"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:28:20.950746757Z",
+  "model": "glm-5.3"
+}

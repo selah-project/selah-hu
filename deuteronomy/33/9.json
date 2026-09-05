@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Aki azt mondta az ő atyjának és az ő anyjának: nem láttam őt, és ⟨את⟩ az ő testvéreit nem ismerte fel, és ⟨את⟩ az ő fiait nem ismerte, mert megtartották a te beszédedet, és a te szövetségedet megőrzik.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Aki azt mondta"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "az ő atyjának"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "és az ő anyjának"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "láttam őt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "az ő testvéreit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "az ő testvéreit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ismerte fel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "az ő fiait"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiait"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismerte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "megtartották"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "a te beszédedet"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "és a te szövetségedet"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "megőrzik"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:40.647185915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És levágták ⟨את⟩ a fejét, és levetkőztették ⟨את⟩ fegyverzetét, és elküldték a Pelistim földjére körökben, hogy hírül adják bálványaik házában és ⟨את⟩ a népnek.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "És levágták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fejét"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "a fejét"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "és levetkőztették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fegyverzetét"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fegyverzetét"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "és elküldték"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Pelistim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körökben"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "hírül adják"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "bálványaik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a népnek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népnek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:22.242805013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ki tudja, talán megtér és megszánja az Elohim, és elfordul haragjának izzásától, és nem pusztulunk el.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tudja"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "talán megtér"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "és megszánja"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "és elfordul"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "izzását"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "haragjának"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "pusztulunk el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:33.651832554Z",
+  "model": "glm-5.3"
+}

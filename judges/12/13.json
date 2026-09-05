@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És őutána Abdon (Abdón), Hillél (Hillel) fia, a pirátóni (Piraton-földi) így ítélkezett ⟨את⟩ Izrael (Jiszráél) felett.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "így ítélkezett"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "őutána"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillél"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "a pirátóni"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:04.702724136Z",
+  "model": "glm-5.3"
+}

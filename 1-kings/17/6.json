@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És a hollók hoztak neki kenyeret és húst reggel, és kenyeret és húst este, és a patakból ivott.",
+  "tokens": [
+    {
+      "surface": "וְהָעֹרְבִים",
+      "gloss": "és a hollók"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "hoztak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "és húst"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "és kenyeret"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "és húst"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "este"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és ... -ból"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "a patak"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ivott"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:43.396474014Z",
+  "model": "glm-5.3"
+}

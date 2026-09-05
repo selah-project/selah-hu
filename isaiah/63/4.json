@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 63,
+  "translation": "„Mert bosszú napja ⟨van⟩ szívemben, és megváltottjaim éve megérkezett.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napja"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "bosszú"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "szívemben"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "és éve"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "megváltottjaim"
+    },
+    {
+      "surface": "באה",
+      "gloss": "megérkezett"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:12.000722726Z",
+  "model": "glm-5.3"
+}

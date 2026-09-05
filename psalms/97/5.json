@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "A hegyek viaszként olvadtak el Jahve elől, az egész föld Adonája elől.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "viaszként"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "olvadtak el"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonája"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:13.876343524Z",
+  "model": "glm-5.3"
+}

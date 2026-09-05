@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Háborús szolgálat ⟨van⟩ ⟨az⟩ embernek a földön, és mint a napszámos napjai, ⟨úgy vannak⟩ az ő napjai?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Háborús szolgálat van"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "szolgálat"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "על",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földön"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "és mint a napjai"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "napszámos"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "napjai"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:55.781986072Z",
+  "model": "glm-5.3"
+}

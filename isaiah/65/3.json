@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "A nép, amely szüntelenül ⟨את⟩ engem ingerel az arcom színében, amely a kertekben áldozik, és füstölőáldozatot mutat be a téglákra.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "A nép"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "amely ingerel"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨szüntelenül⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az arcom színében"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "áldozik"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "a kertekben"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "és füstölőáldozatot mutat be"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "téglákra"
+    }
+  ],
+  "timestamp": "2026-09-04T20:31:16.799683758Z",
+  "model": "glm-5.3"
+}

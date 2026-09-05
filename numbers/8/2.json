@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Beszélj Aharonnal (Áronnal), és mondd neki: amikor felhelyezed ⟨את⟩ a lámpákat a menóra arca elé, hét lámpa világítson.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Beszélj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "val"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "amikor felhelyezed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lámpákat"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "a lámpákat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elé"
+    },
+    {
+      "surface": "מול",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az arca"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "a menórának"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "világítson"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lámpa"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:20.566783563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Ha testestül jön be, testestül menjen ki; ha egy asszonynak ura ⟨ő⟩, akkor felesége menjen ki vele.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "testestül"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jön be"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "testestül"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "menjen ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ura"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asszonynak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "akkor menjen ki"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "felesége"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:41.850917180Z",
+  "model": "glm-5.3"
+}

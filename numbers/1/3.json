@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Húszévestől felfelé minden, aki hadba megy Izráelben — megszámoljátok ⟨את⟩ őket seregük szerint, te és Ahárón.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "fiától"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "és felfelé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "aki megy"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hadba"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráelben"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "megszámoljátok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "seregük szerint"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Ahárón"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:11.917119046Z",
+  "model": "glm-5.3"
+}

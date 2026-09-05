@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Hogy hirdessék Cijonban (Sionban) Jahve nevét, és dicséretét Jerusalajimban (Jeruzsálemben);",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "hogy hirdessék"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cijonban"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "és dicséretét"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalajimban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:29.614200845Z",
+  "model": "glm-5.3"
+}

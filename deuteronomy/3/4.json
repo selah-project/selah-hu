@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És elfoglaltuk ⟨את⟩ minden városát abban az időben; nem volt város, amelyet el nem vettünk ⟨את⟩ tőlük — hatvan város, az Argob vidékének egésze, Óg királysága Básánban.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "És elfoglaltuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden városát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "városát"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "város"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "el nem vettünk"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ tőlük"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "hatvan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egésze"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "vidéke"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "királysága"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Óg"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Básánban"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:16.419709206Z",
+  "model": "glm-5.3"
+}

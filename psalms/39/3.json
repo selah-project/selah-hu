@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Némává lettem, csendben; elhallgattam, még ⟨a⟩ jó⟨ról⟩ is — és fájdalmam felzaklatott.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Némává lettem"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "csendben"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "elhallgattam"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "még ⟨a⟩ jó⟨ról⟩ is"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "és fájdalmam"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "felzaklatott"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:04.433848834Z",
+  "model": "glm-5.3"
+}

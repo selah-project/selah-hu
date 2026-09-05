@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És ment Jehúda a kánaáni ellen, aki lakik Hevronban — és Hevron neve előbb Kirjat-Arba volt —, és leverték ⟨את⟩ Sesajt és ⟨את⟩ Achimánt és ⟨את⟩ Talmajt.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És ment"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a kánaáni"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "aki lakik"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevronban"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "és ⟨a⟩ neve"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "előbb"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és leverték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sesajt"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sesajt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Achimánt"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achimánt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Talmajt"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmajt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:27.841752026Z",
+  "model": "glm-5.3"
+}

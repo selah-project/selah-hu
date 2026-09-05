@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 124,
+  "translation": "Segítségünk ⟨van⟩ Jahve nevében, aki alkotta az eget és a földet.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Segítségünk"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "a nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alkotta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az eget"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "és a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:01.089149388Z",
+  "model": "glm-5.3"
+}

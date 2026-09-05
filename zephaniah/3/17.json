@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 3:17",
+  "book": "zephaniah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Jahve, a te Elohimod, közted ⟨van⟩ ⟨mint⟩ hős, megszabadít; örül feletted örömmel, elnémul az ő szeretetében, ujjong feletted énekléssel.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "közted"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hős"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "megszabadít"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "örül"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "feletted"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "örömmel"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "elnémul"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "szeretetében"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ujjong"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "feletted"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "énekléssel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:30:54.804370922Z",
+  "model": "glm-5.3"
+}

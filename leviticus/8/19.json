@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És levágta ⟨את⟩; és Moshe (Mózes) meghintette ⟨את⟩ a vért az oltár körül.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "levágta"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "meghintette"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körül"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:06.836323366Z",
+  "model": "glm-5.3"
+}

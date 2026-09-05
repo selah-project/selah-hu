@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "A lélek, amely vétkezik, az maga hal meg; fiú ne hordozza az atya bűnét, és atya ne hordozza a fiú bűnét; az igaznak igazsága rajta lesz, és a gonosznak gonoszsága rajta lesz.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "a lélek"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "amely vétkezik"
+    },
+    {
+      "surface": "היא",
+      "gloss": "az maga"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hordozza"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "bűnét"
+    },
+    {
+      "surface": "האב",
+      "gloss": "az atya"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "és atya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hordozza"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "bűnét"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "a fiú"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "igazsága"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "az igaznak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "és gonoszsága"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosznak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:05:19.593607051Z",
+  "model": "glm-5.3"
+}

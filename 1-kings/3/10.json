@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Jó volt ⟨az⟩ a szó Adonáj (az Úr) szemeiben, hogy Selomo (Salamon) ⟨את⟩ ezt a szót kérte.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Jó volt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a szó"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemeiben"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kérte"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a szót"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a szót"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:20.249546186Z",
+  "model": "glm-5.3"
+}

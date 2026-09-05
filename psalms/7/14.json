@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ⟨annak⟩ készítette ⟨el⟩ a halál eszközeit; nyilait az izzókra munkálja.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "és ⟨annak⟩"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "készítette"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "eszközeit"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halál"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "nyilait"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "az izzókra"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "munkálja"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:48.079005012Z",
+  "model": "glm-5.3"
+}

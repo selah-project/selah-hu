@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És befogatta ⟨את⟩ a szekereit, és ⟨את⟩ a népét magával vitte.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "És befogatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szekereit"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "a szekereit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a népét"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "a népét"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vitte"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "magával"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:32.149110105Z",
+  "model": "glm-5.3"
+}

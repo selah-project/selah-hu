@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Ha Jahve tetszésére vannak ⟨az⟩ ember útjai, ellenségeit is békessé teszi ⟨את⟩ vele.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "ha tetszésére vannak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "útjai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨az⟩ ember"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ellenségei"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "békessé teszi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:15.727027614Z",
+  "model": "glm-5.3"
+}

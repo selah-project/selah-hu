@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Jobb ⟨a⟩ kevés igazsággal, mint ⟨a⟩ bevétel bősége jog nélkül.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "igazsággal"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "mint bősége"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "bevétel"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jog"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:15.727348421Z",
+  "model": "glm-5.3"
+}

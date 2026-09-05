@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És vegyél onnan keveset, megszámlálva, és kösd be azokat a szárnyaidba, ⟨a⟩ ruháid szegélyébe.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "És vegyél"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "keveset"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "megszámlálva"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "és kösd be"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "a szárnyaidba"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "a szárnyaidba"
+    }
+  ],
+  "timestamp": "2026-09-04T20:59:24.461182441Z",
+  "model": "glm-5.3"
+}

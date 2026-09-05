@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Szereti a igazságot és a jogot; a heszed Jahvéétól tele ⟨van⟩ a föld.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Szereti"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "az igazságot"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "és a jogot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéé"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "tele ⟨van⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:58.656462169Z",
+  "model": "glm-5.3"
+}

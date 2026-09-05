@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És vegyem ⟨את⟩ kenyéremet és ⟨את⟩ vizeit és ⟨את⟩ levágott húsomat, amelyet levágtam nyíróimnak, és adjam férfiaknak, akiket nem ismerek — honnan vannak azok?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "és vegyem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kenyéremet"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "kenyéremet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "vizeit"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "vizeit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "levágott húsomat"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "levágott húsomat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "levágtam"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "nyíróimnak"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "és adjam"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "férfiaknak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismerek"
+    },
+    {
+      "surface": "אי",
+      "gloss": "honnan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "—"
+    },
+    {
+      "surface": "המה",
+      "gloss": "azok"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:43.677863700Z",
+  "model": "glm-5.3"
+}

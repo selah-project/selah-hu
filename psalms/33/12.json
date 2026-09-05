@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Boldog ⟨az⟩ a nép, amelynek Elohimja Jahve, ⟨az⟩ a nép, amelyet örökségül választott magának.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨az⟩ a nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelynek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨az⟩ a nép"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "választott"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "örökségül"
+    },
+    {
+      "surface": "לו",
+      "gloss": "magának"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:02.429742006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Mert jobb egy nap a te udvaraidban mint ezer máshol; küszöbön állni választottam Elohimom házában, mint lakni a bűnök sátraiban.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "יום",
+      "gloss": "egy nap"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "a te udvaraidban"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "mint ezer"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "választottam"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "küszöbön állni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "mint lakni"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "sátraiban"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bűnök"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:28.859638043Z",
+  "model": "glm-5.3"
+}

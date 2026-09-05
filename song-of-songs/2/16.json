@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Az én szeretőm az enyém, és én az övé vagyok, ⟨aki⟩ a liliomok közt legeltet.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "az én szeretőm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "az enyém"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "legeltet"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "a liliomok közt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:29:56.929904777Z",
+  "model": "glm-5.3"
+}

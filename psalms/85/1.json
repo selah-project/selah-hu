@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "A karnagynak, a Korach fiainak, zsoltár.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:21.235206906Z",
+  "model": "glm-5.3"
+}

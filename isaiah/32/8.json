@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És a nagylelkű nemes dolgokat tervez, és ő a nemes dolgokon megáll.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "És a nagylelkű"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "nemes dolgokat"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "tervez"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ... miatt"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "nemes dolgok"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "megáll"
+    }
+  ],
+  "timestamp": "2026-09-04T20:17:31.451553954Z",
+  "model": "glm-5.3"
+}

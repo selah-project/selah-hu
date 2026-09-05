@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 57,
+  "translation": "Mert nagy egészen ⟨az⟩ egekig a heszeded, és a felhőkig a hűséged.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨az⟩ egekig"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a heszeded"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és a"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "felhőkig"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "hűséged"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:16.293715373Z",
+  "model": "glm-5.3"
+}

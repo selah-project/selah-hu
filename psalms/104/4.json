@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Követeivé teszi a szeleket, szolgáivá a lángoló tüzet.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "teszi"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "követeivé"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "a szeleket"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "szolgáivá"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüzet"
+    },
+    {
+      "surface": "להט",
+      "gloss": "lángoló"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:27.745491562Z",
+  "model": "glm-5.3"
+}

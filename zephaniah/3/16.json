@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Azon a napon mondatik Jerusálájimnak: Ne félj, Cijon, ne ernyedjenek el kezeid!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Azon a napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondatik"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerusálájimnak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "félj"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ernyedjenek el"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "kezeid"
+    }
+  ],
+  "timestamp": "2026-09-04T21:30:05.310196505Z",
+  "model": "glm-5.3"
+}

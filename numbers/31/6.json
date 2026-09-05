@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És elküldte őket Moshe (Mózes), törzsenként ezret a hadba, őket és ⟨את⟩ Pinekhászt, Elázár pap fiát, a hadba, és a szentség edényeit és a riadó trombitáit a kezében.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "elküldte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket (az elküldöttek)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "törzsenként"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "a hadba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Pinekhászt"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinekhászt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázár"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "a hadba"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "és az edényeit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentség(nek)"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "és a trombitáit"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "a riadó(nak)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "a kezében"
+    }
+  ],
+  "timestamp": "2026-09-04T17:46:18.838101785Z",
+  "model": "glm-5.3"
+}

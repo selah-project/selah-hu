@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 13:22",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "és visszatértél, és ettél kenyeret és ittál vizet azon a helyen, amelyről szólt hozzád: ne egyél kenyeret, és ne igyál vizet — nem jut be a tetemed atyáid sírjába.",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "és visszatértél"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ettél"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ittál"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a helyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyről"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "egyél"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "igyál"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "jut be"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "tetemed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sírjába"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atyáid"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:52.254402359Z",
+  "model": "glm-5.3"
+}

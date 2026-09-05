@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Ahogyan megparancsolta Jahve ⟨את⟩ Moshe (Mózes), úgy tették Celofhad leányai",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tették"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leányai"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Celofhad"
+    }
+  ],
+  "timestamp": "2026-09-04T17:48:50.634512516Z",
+  "model": "glm-5.3"
+}

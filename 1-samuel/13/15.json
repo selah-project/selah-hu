@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És felkelt Semuél, és felment a Gilgálból Binjamin Givájára; és megszámlálta Saul ⟨את⟩ a népet, amely vele találtatott, mintegy hatszáz fő.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "és felment"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "a Gilgálból"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givájára"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "és megszámlálta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "amely vele találtatott"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "mintegy hatszáz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "fő"
+    }
+  ],
+  "timestamp": "2026-09-04T19:10:22.571314369Z",
+  "model": "glm-5.3"
+}

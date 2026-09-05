@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És szólt Saul (Sault) a fiához, Jonatánhoz (Jónatán), és az ő minden szolgájához, hogy öljenek meg ⟨את⟩ Davidot (Dávidot); Jonatán pedig, Saul fia, nagyon szerette Davidot.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és hoz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "az ő szolgája"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "hogy megöljék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Jonatán pedig"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "szerette"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davidot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:24.657529529Z",
+  "model": "glm-5.3"
+}

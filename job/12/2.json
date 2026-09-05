@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Bizony, ti vagytok ⟨a⟩ nép, és veletek hal meg a bölcsesség!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨hogy⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨a⟩ nép"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "és veletek"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "a bölcsesség"
+    }
+  ],
+  "timestamp": "2026-09-04T22:20:09.550516941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "és ⟨את⟩ a gólyát, a gémet a maga nemében, és ⟨את⟩ a gyurgyalagot, és ⟨את⟩ a denevért",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a gólyát"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "a gólyát"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "a gémet"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "a maga nemében"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a gyurgyalagot"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "a gyurgyalagot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a denevért"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "a denevért"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:50.803498389Z",
+  "model": "glm-5.3"
+}

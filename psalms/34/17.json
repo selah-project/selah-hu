@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Jahve orcája van a gonoszt cselekvőkön, hogy kipusztítsa emléküket a földről.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "orcája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "a cselekvőkkel"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gonoszt"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kipusztítsa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "emléküket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:37.697203635Z",
+  "model": "glm-5.3"
+}

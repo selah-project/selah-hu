@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Hittem, ⟨mert⟩ szóltam: én, igen nagy nyomorúságban voltam.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Hittem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨mert⟩"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "szóltam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "nyomorúságban voltam"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "igen nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:54.326008706Z",
+  "model": "glm-5.3"
+}

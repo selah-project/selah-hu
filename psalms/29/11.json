@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Jahve erőt ad népének, Jahve megáldja ⟨את⟩ népét békével.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erőt"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "népének"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "megáldja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népét"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "békével"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:46.296230750Z",
+  "model": "glm-5.3"
+}

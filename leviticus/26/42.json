@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És megemlékezem ⟨את⟩ szövetségemről Jaakovkal (Jákob), sőt ⟨את⟩ szövetségemről Jichakkal (Izsák), sőt ⟨את⟩ szövetségemről Avrahámmal (Ábrahám) megemlékezem, és a földről megemlékezem.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "És megemlékezem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemről"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemről"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Jaakovkal (Jákob)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemről"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemről"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichakkal (Izsák)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemről"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemről"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahámmal (Ábrahám)"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "megemlékezem"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "és a földről"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "megemlékezem"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:18.857441986Z",
+  "model": "glm-5.3"
+}

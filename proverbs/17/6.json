@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Az öregek koronája ⟨az⟩ unokák, és a fiak ékessége ⟨az⟩ az ő atyáik.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "koronája"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "az öregek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨az⟩ unokák (fiai)"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "(fiainak)"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "és ékessége"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "a fiak"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "az ő atyáik"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:51.104868115Z",
+  "model": "glm-5.3"
+}

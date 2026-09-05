@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És föléje rendeltek kényszermunka-felügyelőket, hogy terheikkel elnyomják; és épített raktárvárosokat Paró (fáraó) ⟨számára⟩: ⟨את⟩ Pitomot és ⟨את⟩ Raamszeszt.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "És rendeltek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "felügyelőket"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "kényszermunka-"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "elnyomják őt"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "terheikkel"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "és épített"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városokat"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "raktár-"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parónak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitomot"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitomot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Raamszeszt"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamszeszt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:44.879920713Z",
+  "model": "glm-5.3"
+}

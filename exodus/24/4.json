@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És leírta Moshe ⟨את⟩ minden Jahve szavát, és korán reggel felkelt, és oltárt épített a hegy alá, és tizenkét standing-követ állított Izrael tizenkét törzsének.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "És leírta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden Jahve szavát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "és korán felkelt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "és épített"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alá"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegy"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "és tizenkettőt"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…t"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "emelvénykövet"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "…nak"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tizenkettő"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "törzse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:12.206366171Z",
+  "model": "glm-5.3"
+}

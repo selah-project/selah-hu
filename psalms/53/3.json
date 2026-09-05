@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "Elohim a mennyekből letekintett az ember fiaira, hogy lássa, van-e értő, aki keresi ⟨את⟩ az Elohimot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "a mennyekből"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "letekintett"
+    },
+    {
+      "surface": "על",
+      "gloss": "erre:"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaira"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy lássa"
+    },
+    {
+      "surface": "היש",
+      "gloss": "van-e"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "értő"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "keresi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohimot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohimot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:06.677532069Z",
+  "model": "glm-5.3"
+}

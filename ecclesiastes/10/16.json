@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Jaj neked, föld, ha a te királyod ifjú, és a te fejedelmeid reggel esznek.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ha a te királyod"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ifjú"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "és a te fejedelmeid"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "esznek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:24.160659513Z",
+  "model": "glm-5.3"
+}

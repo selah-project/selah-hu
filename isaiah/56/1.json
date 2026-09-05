@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Így szólt Jahve: „Őrizzétek ⟨az⟩ jogot, és tegyetek igazságot, mert közel van az én szabadításom eljönni, és az én igazságom kinyilatkoztatni.”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "Őrizzétek"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jogot"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "és tegyetek"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "közel van"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "szabadításom"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "eljönni"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "és igazságom"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "kinyilatkoztatni"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:47.285533923Z",
+  "model": "glm-5.3"
+}

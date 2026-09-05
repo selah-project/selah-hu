@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ne vess szőlőskertedbe két félét, nehogy el legyen véve a teljessége annak a magvának, amelyet vetsz, meg a szőlőskert termése.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "vess"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "szőlőskertedbe"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "két félét"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "el legyen véve"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "a teljessége"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "annak a magvának"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "vetsz"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "meg a termése"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "a szőlőskertnek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:25:45.060962994Z",
+  "model": "glm-5.3"
+}

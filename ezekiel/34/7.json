@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Azért, pásztorok, halljátok ⟨את⟩ Jahve szavát!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "azért"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pásztorok"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "halljátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szavát"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:12:32.981185953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ne menjetek fel, mert nincs Jahve közöttetek, és ne verettetek el ellenségeitek előtt.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "menjetek fel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "közöttetek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "verettetek el"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ellenségeitek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:34:56.833214334Z",
+  "model": "glm-5.3"
+}

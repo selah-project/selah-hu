@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "heszedem és váram, menedékem és megszabadítóm, pajzsom, benne bíztam, ő, aki népemet hódoltatja alattam.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "heszedem"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "és váram"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "menedékem"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "és megszabadítóm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "pajzsom"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "és benne"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "aki hódoltatja"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "alattam"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:22.935082235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ⟨akik⟩ mellette táboroznak: Jiszáchár (Issachar) törzse, és a Jiszáchár fiainak fejedelme Netanél (Nétánél), Cuár (Cúár) fia.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "és ⟨akik⟩ táboroznak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mellette"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "törzse"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jiszáchár (Issachar)"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "és fejedelme"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jiszáchár"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanél (Nétánél)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Cuárnak (Cúár)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:46.758268753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Selah harminc évet, és nemzette ⟨את⟩ Evert (Éber).",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "És Selah"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élt"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évet"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever (Éber)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:00.709853855Z",
+  "model": "glm-5.3"
+}

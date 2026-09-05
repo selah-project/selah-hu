@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ne lásd testvéred szamarát vagy ökrét úton heverni, és ne rejtőzz el előlük: feltétlenül emeld fel vele együtt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "lassad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szamarát"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "szamara"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "ökre"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "úton heverve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "és rejtőzz el"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "előlük"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "felemelni"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "feltétlenül emeld fel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:54.797337968Z",
+  "model": "glm-5.3"
+}

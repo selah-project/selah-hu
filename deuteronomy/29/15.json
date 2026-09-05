@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Mert ti tudjátok, hogyan laktunk Micrajim földjén, és hogyan vonultunk át ⟨את⟩ a népek közepén, amelyeken átmentetek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "tudjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hogyan laktunk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogyan (amit)"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "laktunk"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "hogyan vonultunk át"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogyan (amit)"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "vonultunk át"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepén"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a népeknek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeken"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "átmentetek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:29:59.192516855Z",
+  "model": "glm-5.3"
+}

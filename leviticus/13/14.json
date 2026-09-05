@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "De amely napon élő test látszik rajta, tisztátalan lesz.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "De amely napon"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "látszik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "test"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tisztátalan lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:25.992455553Z",
+  "model": "glm-5.3"
+}

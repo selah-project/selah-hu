@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 98,
+  "translation": "Zsoltár. Énekeljetek Jahvénak új éneket, mert csodákat tett, szabadítást szerzett ⟨neki⟩ a jobb keze és szent karja.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Zsoltár"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Énekeljetek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "éneket"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "csodákat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "szabadítást szerzett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "a jobb keze"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "és karja"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:06.311843566Z",
+  "model": "glm-5.3"
+}

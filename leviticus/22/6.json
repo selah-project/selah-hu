@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "⟨az⟩ a személy, aki megérinti ⟨azt⟩, tisztátalan lesz estig, és nem ehet a szent dolgokból, hacsak meg nem mossa a testét vízben.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "⟨az⟩ a személy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "megérinti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨azt⟩"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "és tisztátalan lesz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "estig"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨az⟩ estéig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szent dolgokból"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hacsak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nem⟩"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "meg nem mossa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "a testét"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:03.934540749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "A gazdag a szegények fölött uralkodik, és a kölcsönvevő szolgája a kölcsönadó embernek.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "A gazdag"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "a szegények"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "uralkodik"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "és szolgája"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "a kölcsönvevő"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "a kölcsönadónak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:53.138010806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És történt, amikor a levél megérkezett hozzájuk, hogy vették ⟨את⟩ a király fiait, és levágtak hetven férfit, és tették ⟨את⟩ fejeiket kosarakba, és elküldték neki Jizrélbe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "és történt"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "amikor megérkezett"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "a levél"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hogy vették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a király fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "és levágtak"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfit"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "és tették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fejeiket"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "fejeiket"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "kosarakba"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "és elküldték"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Jizrélbe"
+    }
+  ],
+  "timestamp": "2026-09-04T19:56:54.334759258Z",
+  "model": "glm-5.3"
+}

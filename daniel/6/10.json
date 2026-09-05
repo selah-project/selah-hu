@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ennek megfelelően Dárijavés (Dárius) király aláírta az írást és az tilalmat.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ennek megfelelően"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "király"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Dárijavés"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "aláírta"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "az írást"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "és az tilalmat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:54:51.623786310Z",
+  "model": "glm-5.3"
+}

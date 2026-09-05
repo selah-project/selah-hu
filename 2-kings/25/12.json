@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És az ország szegényeiből a mészárosok főnöke szőlőműveseket és földműveseket hagyott hátra.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "és szegényeiből"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hagyott hátra"
+    },
+    {
+      "surface": "רב",
+      "gloss": "főnöke"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mészárosok"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "szőlőműveseket"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "és földműveseket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:36.021791936Z",
+  "model": "glm-5.3"
+}

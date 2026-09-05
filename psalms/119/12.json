@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Áldott vagy te, Jahve; taníts engem rendelkezéseidre.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "taníts engem"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "rendelkezéseidre"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:45.474049973Z",
+  "model": "glm-5.3"
+}

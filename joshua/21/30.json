@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És Áser törzséből ⟨את⟩ Misalt ⟨את⟩ külterületével, ⟨את⟩ Avdont ⟨את⟩ külterületével",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "és … törzséből"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Áser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misalt"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Misalt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "külterületével"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "külterületével"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdont"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "külterületével"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "külterületével"
+    }
+  ],
+  "timestamp": "2026-09-04T18:46:24.817881139Z",
+  "model": "glm-5.3"
+}

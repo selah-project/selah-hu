@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Nem ⟨את⟩ atyáinkkal kötötte Jahve ⟨את⟩ ezt a szövetséget, hanem velünk — mi, ezek, itt, ma, mindnyájan élők.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyáinkkal"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atyáinkkal"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kötötte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a szövetséget"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ezt a szövetséget"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem —"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "פה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élők"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:57.493780314Z",
+  "model": "glm-5.3"
+}

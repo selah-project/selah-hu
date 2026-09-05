@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És Barzillai, a gileádi, lejött Rógelimből, és átvitte ⟨את⟩ a királyt a Jardenen, hogy elkísérje ⟨את⟩ a Jardenen.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "És Barzillai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "a gileádi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "lejött"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "Rógelimből"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "és átvitte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardenen"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "hogy elkísérje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jardenen"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "a Jardenen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:31:35.383031388Z",
+  "model": "glm-5.3"
+}

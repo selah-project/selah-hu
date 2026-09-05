@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "A jószágok közül a tiszta, és a jószágok közül, amely nem tiszta, és a madarak közül, és minden, ami csúszik-mászik a földön.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "a jószág"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "a tiszta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és -ból"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "a jószág"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "nem"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és -ból"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "a madár"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "csúszik-mászik"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:34.536681308Z",
+  "model": "glm-5.3"
+}

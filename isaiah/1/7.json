@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "A földetek puszta, városaitok tűzzel égnek, birtokotokat a szemetek láttára idegenek falják fel ⟨את⟩ ⟨azt⟩, és pusztaság⟨vá válik⟩, mint az idegenek felfordítása.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "a földetek"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "puszta"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "városaitok"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "tűzzel égnek"
+    },
+    {
+      "surface": "אש",
+      "gloss": "(tü)zzel"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "birtokotokat"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "a szemetek láttára"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "idegenek"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "falják fel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨azt⟩ (a birtokot)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "és pusztaság"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "mint a felfordítása"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "az idegeneknek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:52.080273710Z",
+  "model": "glm-5.3"
+}

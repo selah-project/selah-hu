@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Romlás ⟨van⟩ annak belsejében, és el nem múlik annak tereiről zsarnokság és csalás.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "romlás"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "annak bensejében"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "eltávozik"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "tereiről"
+    },
+    {
+      "surface": "תך",
+      "gloss": "zsarnokság"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "és csalás"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:45.552732676Z",
+  "model": "glm-5.3"
+}

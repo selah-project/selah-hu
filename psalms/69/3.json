@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Elsüllyedtem az iszap mélységében, és nincs talaj; a vizek mélységeibe jutottam, és az ár elsodort engem.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "elsüllyedtem"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "az iszap"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "mélységében"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "talaj"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jutottam"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "a mélységeibe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "és az ár"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "elsodort engem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:24.908420737Z",
+  "model": "glm-5.3"
+}

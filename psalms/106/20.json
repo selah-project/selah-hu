@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És elcserélték ⟨את⟩ az ő dicsőségüket egy fűevő ökör képmásával.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "és elcserélték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő dicsőségüket"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "az ő dicsőségüket"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "képmásával"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökör"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "evő"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "fű"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:19.177263669Z",
+  "model": "glm-5.3"
+}

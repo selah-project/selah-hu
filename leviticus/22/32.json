@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És ne gyalázzátok ⟨את⟩ szent nevemet, és megszentelődöm Izrael fiai között: én vagyok Jahve, aki megszentel titeket.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És ne"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "gyalázzátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szent nevemet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevemet"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "szent"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "és megszentelődöm"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "között"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "megszentel titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:23.359652218Z",
+  "model": "glm-5.3"
+}

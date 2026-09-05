@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És mondta: Jer ⟨את⟩ velem, és lásd az én buzgóságomat Jahvéért! És felültették ⟨את⟩ őt a szekerébe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "jer"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és lásd"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "buzgóságomat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéért"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "és felültették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "a szekerébe"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:00.978039429Z",
+  "model": "glm-5.3"
+}

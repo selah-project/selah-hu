@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "És örvendezzenek az igazak, ujjongjanak Elohim ⟨színe⟩ elől, és vigadjanak örömmel.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "És az igazak"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "örvendezzenek"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ujjongjanak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨színe⟩ elől"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "és vigadjanak"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "örömmel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:18.884019357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Emeljetek éneket, és adjátok ⟨a⟩ dobot, a kedves lantot a nábellel!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Emeljetek"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "éneket"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "és adjátok"
+    },
+    {
+      "surface": "תף",
+      "gloss": "⟨a⟩ dobot"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "lantot"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kedves"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a …-vel"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nábel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:01.108331023Z",
+  "model": "glm-5.3"
+}

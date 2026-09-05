@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És ne esküdjetek hamisan az én nevemre, és meggyalálod ⟨את⟩ a te Elohimod nevét: én vagyok Jahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "esküdjetek"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "az én nevemre"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "hamisan"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "és meggyalálod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nevet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimodnak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:10.073063508Z",
+  "model": "glm-5.3"
+}

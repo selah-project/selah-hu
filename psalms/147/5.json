@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Nagy ⟨a⟩ mi Adonájunk, és bőséges erőben; az ő megértéséhez nincs szám.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Nagy"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "mi Adonájunk"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "és bőséges"
+    },
+    {
+      "surface": "כח",
+      "gloss": "erőben"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "az ő megértéséhez"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "szám"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:40.664592274Z",
+  "model": "glm-5.3"
+}

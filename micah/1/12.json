@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert fáj Marót lakójának a jó után ⟨vágyódni⟩, mert leszállt a rossz Jahve ⟨את⟩-től Jerusálajim kapujáig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "fáj"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "a jó után"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "lakójának"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marót"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "leszállt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a rossz"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "kapujáig"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:54.206694763Z",
+  "model": "glm-5.3"
+}

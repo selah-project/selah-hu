@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "A nők bölcsessége felépítette a házát, és a balgaság a saját kezeivel rombolja le ⟨azt⟩.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "bölcsessége"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "a nők"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "felépítette"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "a házát"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "és a balgaság"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "a kezeivel"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "lerombolja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:49.505297783Z",
+  "model": "glm-5.3"
+}

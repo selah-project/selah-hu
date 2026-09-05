@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Ha azt mondtam: elbeszélem így, íme, fiaid nemzedékének hűtlen lettem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "elbeszélem"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "így"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nemzedékének"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaid"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "hűtlen lettem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:49.058282874Z",
+  "model": "glm-5.3"
+}

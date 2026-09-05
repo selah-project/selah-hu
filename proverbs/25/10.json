@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "nehogy megszégyítsen ⟨aki hallja⟩, és rosszhírűséged ne forduljon el.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "megszégyítsen téged"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a halló"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "és rosszhírűséged"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "forduljon el"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:55.101267799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Az igaz eszik ⟨a⟩ lelkének teltségéig, de a bűnösök hasa híjával van.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "teltségéig"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lelkének"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "de a hasa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a bűnösöknek"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "híjával van"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:58.974080717Z",
+  "model": "glm-5.3"
+}

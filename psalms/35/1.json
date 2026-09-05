@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Dávidé. Perelj, Jahve, ⟨את⟩ ellenfeleimmel, harcolj ⟨את⟩ ellenem harcolókkal.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "perelj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellenfeleimmel"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ellenfeleimmel"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "harcolj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellenem harcolókkal"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ellenem harcolókkal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:54.688504151Z",
+  "model": "glm-5.3"
+}

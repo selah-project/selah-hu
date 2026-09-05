@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Így ragadta el Elohim ⟨את⟩ atyátok állományát, és nekem adta ⟨azt⟩.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "Így ragadta el"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyátok állományát"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "állományát"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "atyátok"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:55.502506656Z",
+  "model": "glm-5.3"
+}

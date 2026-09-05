@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Mert ha felnevelik is ⟨את⟩ fiaikat, gyermektelenné teszem őket ⟨az⟩ emberektől — igen, jaj nekik, amikor elfordulok tőlük!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "felnevelik is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaikat"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiaikat"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "gyermektelenné teszem őket"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "⟨az⟩ emberektől"
+    },
+    {
+      "surface": "כי",
+      "gloss": "igen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "jaj"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "amikor elfordulok"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tőlük"
+    }
+  ],
+  "timestamp": "2026-09-05T00:29:49.945284849Z",
+  "model": "glm-5.3"
+}

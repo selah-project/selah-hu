@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És meghalt Sault, és három fia, és egész háza — együtt meghaltak.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "És meghalt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sault"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "és három"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "háza"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "meghaltak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:03:09.964932465Z",
+  "model": "glm-5.3"
+}

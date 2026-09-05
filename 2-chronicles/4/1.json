@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És készített rézből ⟨a⟩ oltárt, húsz könyök ⟨annak⟩ hossza, és húsz könyök ⟨annak⟩ szélessége, és tíz könyök ⟨annak⟩ magassága.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És készített"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rézből"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "⟨annak⟩ hossza"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "⟨annak⟩ szélessége"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "és tíz"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "⟨annak⟩ magassága"
+    }
+  ],
+  "timestamp": "2026-09-04T23:11:52.486118005Z",
+  "model": "glm-5.3"
+}

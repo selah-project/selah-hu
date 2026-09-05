@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Éveinknek napjai azokban hetven év, és ha erő ⟨van bennünk⟩, nyolcvan év, és ⟨azoknak⟩ dicsekvése fáradság és bánat, mert gyorsan elvágatik, és elrepülünk.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "napjai"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "éveinknek"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azokban"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "erő"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "nyolcvan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "és dicsekvésük"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fáradság"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "és bánat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גז",
+      "gloss": "elvágatik"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "gyorsan"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "és elrepülünk"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:46.901098849Z",
+  "model": "glm-5.3"
+}

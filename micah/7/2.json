@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Eltűnt a hűséges a földről, és nincsen egyenes az emberek ⟨között⟩; mindnyájan vérre lesnek, ember az ő testvérét ⟨את⟩ vadásszva hálóval.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "Eltűnt"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "a hűséges"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a földről (-ról)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "és az egyenes"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincsen"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "vérre"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "lesnek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő testvérét"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "az ő testvérét"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "vadássoz"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "hálóval"
+    }
+  ],
+  "timestamp": "2026-09-04T21:28:54.997760473Z",
+  "model": "glm-5.3"
+}

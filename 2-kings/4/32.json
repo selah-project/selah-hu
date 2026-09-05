@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És Elisa bement a házba, és íme, a fiú halott volt, ki feküdt az ő ágyán.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bement"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "a házba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a fiú"
+    },
+    {
+      "surface": "מת",
+      "gloss": "halott volt"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "ki feküdt"
+    },
+    {
+      "surface": "על",
+      "gloss": "-án"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "az ő ágy"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:45.379225999Z",
+  "model": "glm-5.3"
+}

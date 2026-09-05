@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Te felkelsz, irgalmazol Cionnak, mert eljött az idő, hogy kegyelmezz neki, mert megérkezett a rendelt idő.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "felkelsz"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "irgalmazol"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cionnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עת",
+      "gloss": "az idő"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "hogy kegyelmezz neki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בא",
+      "gloss": "megérkezett"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a rendelt idő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:43.715380475Z",
+  "model": "glm-5.3"
+}

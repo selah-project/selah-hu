@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Ahogyan megparancsolta Jahve ⟨את⟩ Moshe-nak, úgy számba vette őket a Színáj pusztájában.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe-nak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "úgy számba vette őket"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pusztájában"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Színáj"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:08.778129997Z",
+  "model": "glm-5.3"
+}

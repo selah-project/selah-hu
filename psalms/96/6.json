@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 96,
+  "translation": "Fény ⟨és⟩ fenség ⟨van⟩ előtte, erő és ékesség az ő szenthelyében.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Fény"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "és fenség"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erő"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "és ékesség"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "az ő szenthelyében"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:48.534770388Z",
+  "model": "glm-5.3"
+}

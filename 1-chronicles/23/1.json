@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Dávid megöregedett és betelt napokkal, és királlyá tette ⟨את⟩ fiát, Selomót (Salamon), Izráél (Izrael) fölött.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "megöregedett"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "és betelt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napokkal"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "királlyá tette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selomót"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomót"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    }
+  ],
+  "timestamp": "2026-09-04T23:07:30.734050838Z",
+  "model": "glm-5.3"
+}

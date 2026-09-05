@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 15:16",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Mennyivel inkább ⟨az⟩, aki utálatos és romlott ⟨az⟩ ember, aki a gaztettet issza, mint ⟨a⟩ vizet!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Mennyivel inkább"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨aki⟩"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "utálatos"
+    },
+    {
+      "surface": "ונאלח",
+      "gloss": "és romlott"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "issza"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "mint vizet"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "a gaztettet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:21:39.957629234Z",
+  "model": "glm-5.3"
+}

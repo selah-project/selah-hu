@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Ha levered az olajfádat, ne szépítgesd utána ⟨aágakat⟩ — a jövevénynek, az árvának és az özvegynek legyen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "levered"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "az olajfádat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "szépítgesd"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "utána"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "a jövevénynek"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "az árvának"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "és az özvegynek"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:14.658910596Z",
+  "model": "glm-5.3"
+}

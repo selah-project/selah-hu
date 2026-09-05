@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És odavitték Aharon (Áron) fiai ⟨את⟩ a vért hozzá, és ujját a vérbe mártotta, és a oltár szarvaira tette, ⟨את⟩ a vért pedig az oltár alapjára öntötte.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "odavitték"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "mártotta"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ujját"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "a vérbe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "tette"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "szarvaira"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "öntötte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "alapjára"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:51.705497308Z",
+  "model": "glm-5.3"
+}

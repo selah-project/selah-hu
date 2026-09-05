@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "És mondta Jószéf: „Adjátok a jószágaitokat, és én adok néktek a jószágaitokért, ha elfogyott az ezüst.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Adjátok"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "a jószágaitokat"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "és én adok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "néktek"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "a jószágaitokért"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "elfogyott"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "az ezüst"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:04.586398567Z",
+  "model": "glm-5.3"
+}

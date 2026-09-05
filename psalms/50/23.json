@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Aki hálaáldozatot áldoz, az megszabadít⟨?⟩ engem dicsőít; és aki rendezi útját, annak megmutatom Elohim szabadítását.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Aki áldoz"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "hálaáldozatot"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "az engem dicsőít"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "és aki rendezi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útját"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "annak megmutatom"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "szabadítását"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:35.688091031Z",
+  "model": "glm-5.3"
+}

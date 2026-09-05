@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És felelt a sátán ⟨את⟩ Jahvét, és mondta: „Bőr a bőrért — és mindazt, amije az embernek van, odaadja az életeért.”",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "és felelt"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "a sátán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bőr"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ért"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bőrt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amije"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "odaadja"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "érte"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "életét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:28.426921148Z",
+  "model": "glm-5.3"
+}

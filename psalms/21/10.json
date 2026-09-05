@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Tüzes kemencévé teszed őket orcád idején — Jahve haragjában elnyeli ⟨את⟩ őket, és tűz emészti meg őket.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "teszed őket"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kemencévé"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüzes"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "idején"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcád"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "haragjában"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "elnyeli őket"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "és emészti meg őket"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.201729798Z",
+  "model": "glm-5.3"
+}

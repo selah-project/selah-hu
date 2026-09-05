@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 1:30",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "A Zvulún (Zebulon) fiai közül: nemzetségük szerint, családjaik szerint, atyáiik háza szerint, neveik száma szerint, húsz éves kortól és fölfelé, mind, aki hadba vonulhat —",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "fiai közül"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zvulún"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "nemzetségük"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "családjaik szerint"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "háza szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáiik"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "száma szerint"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "neveik"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kortól"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "éves"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "és fölfelé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vonulhat"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hadba"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:43.438085079Z",
+  "model": "glm-5.3"
+}

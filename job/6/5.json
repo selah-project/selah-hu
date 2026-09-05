@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Bőg-e a vadszamár a friss fű felett, vagy bőg az ökör a takarmányáért?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "bőg-e"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "a vadszamár"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "felett"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "a friss fű"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "bőg"
+    },
+    {
+      "surface": "שור",
+      "gloss": "az ökör"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "a takarmányáért"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:09.385072078Z",
+  "model": "glm-5.3"
+}

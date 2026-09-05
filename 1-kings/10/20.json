@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És tizenkét oroszlán állt ott a hat fokon, innen és innen; nem készült ilyen egyetlen királyságnak sem.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "És tizenkét"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(két)"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "oroszlán"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "állt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a fokon"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "innen"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "és innen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "készült"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ilyen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "egyetlen"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "királyságnak sem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:35.096038883Z",
+  "model": "glm-5.3"
+}

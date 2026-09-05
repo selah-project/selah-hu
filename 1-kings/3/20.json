@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És felkelt az éjszaka közepén, és elvette ⟨את⟩ az én fiamat mellőlem — és a te szolgálód aludt —, és az ölébe fektette őt, ⟨את⟩ pedig az ő halott fiát az én ölembe fektette.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepén"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "az éjszaka"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "és elvette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az én fiamat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "az én fiamat"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "mellőlem"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "és a te szolgálód"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "aludt"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "és fektette őt"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "az ölébe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő halott fiát"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "המת",
+      "gloss": "a halott"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "fektette"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "az én ölembe"
+    }
+  ],
+  "timestamp": "2026-09-05T00:11:43.594840032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És a pap, aki előhozza ⟨את⟩ egy ember égőáldozatát: az égőáldozat bőre, amelyet előhozott, a papé lesz ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "és a pap"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "aki előhozza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egy ember égőáldozatát"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "égőáldozatát"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bőre"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "előhozott"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨annak⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:09.563551342Z",
+  "model": "glm-5.3"
+}

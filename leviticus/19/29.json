@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne gyalázd le ⟨את⟩ lányodat, hogy paráznává tedd, és ne paráználkodjék a föld, és megteljék a föld fajtalansággal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "gyalázd le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lányodat"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "lányodat"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "hogy paráznává tedd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "paráználkodjék"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "és megteljék"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "fajtalansággal"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:04.372626113Z",
+  "model": "glm-5.3"
+}

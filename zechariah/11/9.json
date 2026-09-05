@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És mondtam: Nem legelgetlek ⟨את⟩ titeket — a haldokló haljon meg, és a kipusztuló pusztuljon ki, és a megmaradtak egyék meg, mindegyik ⟨את⟩ a társa húsát.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És mondtam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "legelgetlek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "a nyáj, amelyet nem legelget"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "a haldokló"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "haljon meg"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "és a kipusztuló"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "pusztuljon ki"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "és a megmaradtak"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "egyék meg"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mindegyik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a társa húsát"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "társáét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:34:37.419861776Z",
+  "model": "glm-5.3"
+}

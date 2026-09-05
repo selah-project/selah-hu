@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 125,
+  "translation": "Tégy jót, Jahve, a jókkal, és azokkal, akik egyenesek szívükben!",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Tégy jót"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "a jókkal"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "és az egyenesekkel"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "szívükben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:03.720388892Z",
+  "model": "glm-5.3"
+}

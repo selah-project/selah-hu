@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És ⟨את⟩ a betöltés kosát vedd, és főzd meg ⟨את⟩ húsát szent helyen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a betöltés kosát"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kos"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a betöltés(é)"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vedd"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "és főzd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "húsát"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:48.533074478Z",
+  "model": "glm-5.3"
+}

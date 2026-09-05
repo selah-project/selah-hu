@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Mert ⟨ő⟩ ismeri alkotásunkat, emlékezik, hogy por ⟨vagyunk⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "alkotásunkat"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "emlékezik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "por"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨vagyunk⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:49.705364131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Felkél a nap, ők összeverődnek, és odúikban heverésznek.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "Felkél"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "összeverődnek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "odúikban"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "heverésznek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:04.044214595Z",
+  "model": "glm-5.3"
+}

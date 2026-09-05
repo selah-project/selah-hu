@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Kelj fel, mert rajtad áll ⟨a⟩ dolog, és mi veled ⟨vagyunk⟩; légy erős, és cselekedj!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "rajtad"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨a⟩ dolog"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "és mi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "légy erős"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és cselekedj"
+    }
+  ],
+  "timestamp": "2026-09-04T22:52:05.431171777Z",
+  "model": "glm-5.3"
+}

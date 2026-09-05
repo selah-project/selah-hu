@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "és érdeklődött számára Jahvénál, és eledelet adott neki, és ⟨את⟩ Golját, a filiszteus kardját is adta neki.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "és érdeklődött"
+    },
+    {
+      "surface": "לו",
+      "gloss": "számára"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvénál"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "és eledelet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kardot"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardját"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golját"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "a filiszteus"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:56.250827576Z",
+  "model": "glm-5.3"
+}

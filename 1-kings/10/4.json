@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És látta Seba királynője ⟨את⟩ Shelomo minden bölcsességét, és ⟨a⟩ házat, amelyet épített.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "És-látta"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "királynője"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Seba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden bölcsességét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bölcsességét"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "és-⟨a⟩-házat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "épített"
+    }
+  ],
+  "timestamp": "2026-09-04T19:43:11.371895085Z",
+  "model": "glm-5.3"
+}

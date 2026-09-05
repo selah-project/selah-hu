@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Legyenek fiai apátlan árvákká, és legyen felesége özvegy.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Legyenek"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "apátlan árvákká"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "és felesége"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "özvegy"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:14.565930749Z",
+  "model": "glm-5.3"
+}

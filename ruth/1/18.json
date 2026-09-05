@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És látta, hogy eltökélten kész ⟨את⟩ vele menni ő, és megszűnt hozzá szólni.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "eltökélten kész"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "menni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "és megszűnt"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "szólni"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hozá"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:08.033367477Z",
+  "model": "glm-5.3"
+}

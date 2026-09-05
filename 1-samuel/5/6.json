@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És nehézzé lett Jahve keze az asdódiakon, és pusztaságossá tette őket, és megverte őket daganatokkal ⟨את⟩ Asdódot és ⟨את⟩ annak határait.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "és nehézzé lett"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-on (ellen)"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "az asdódiakon"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "és pusztaságossá tette"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és megverte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "daganatokkal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asdódot"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asdódot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "határait"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "annak határait"
+    }
+  ],
+  "timestamp": "2026-09-04T19:05:18.778260759Z",
+  "model": "glm-5.3"
+}

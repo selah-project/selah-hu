@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "Testvéreim és barátaim kedvéért szólok-ím: béke legyen benned!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kedvéért"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Testvéreim"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "és barátaim"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "szólok-ím"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ím"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "béke"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:14.635307807Z",
+  "model": "glm-5.3"
+}

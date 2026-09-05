@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Rakj vétket az ő vétkükre, és ne jussanak be a te igazságodba.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Rakj"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vétket"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "az ő vétkükre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "jussanak be"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "a te igazságodba"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:32.369485534Z",
+  "model": "glm-5.3"
+}

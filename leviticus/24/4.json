@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "A tiszta gyertyatartón rendezze ⟨את⟩ a lámpásokat Jahve előtt szüntelen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…n (rajta)"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "a gyertyatartó"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "a tiszta"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "rendezze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lámpásokat"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "a lámpásokat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:19.243163760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Szégyelld meg magad, Cidon, mert így szólt a tenger, a tenger erőssége, mondván: Nem vajúdtam és nem szültem, és nem neveltem ifjakat, ifjú szüzeket nem felügyeltem.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "szégyelld"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Cidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "erőssége"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "vajúdtam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "szültem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "neveltem"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ifjakat"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "felügyeltem"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "szüzek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:48.479744054Z",
+  "model": "glm-5.3"
+}

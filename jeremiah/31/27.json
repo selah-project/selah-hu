@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Íme, napok jönnek, Jahve kijelentése, és elvetem ⟨את⟩ Jiszráél (Izrael) házát és ⟨את⟩ Jehúda (Júda) házát ember maggal és állat maggal.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napok"
+    },
+    {
+      "surface": "באים",
+      "gloss": "jönnek"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "és elvetem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jehúda házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "maggal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "és maggal"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "állat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:45:36.000062379Z",
+  "model": "glm-5.3"
+}

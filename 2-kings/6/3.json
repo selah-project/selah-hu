@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondta az egyik: Légy jó, kérlek, és menj ⟨את⟩ szolgáiddal; és ⟨ő⟩ mondta: Én megyek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Légy jó"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "és menj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáiddal"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáiddal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ⟨ő⟩ mondta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "megyek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:54:44.766184224Z",
+  "model": "glm-5.3"
+}

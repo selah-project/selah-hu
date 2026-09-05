@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Mert veled rohanok ⟨a⟩ csapatra, és az Elohimimmal ugrok át ⟨a⟩ falon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "בך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "rohanok"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "csapatra"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "és az Elohimimmal"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "átugrom"
+    },
+    {
+      "surface": "שור",
+      "gloss": "falat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:40.136407557Z",
+  "model": "glm-5.3"
+}

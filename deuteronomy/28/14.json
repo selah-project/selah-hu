@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "és el ne térj egyetlen igétől sem, amelyeket én parancsolok ⟨את⟩ benneteket ma, jobbra és balra, hogy eljárj más istenek után, szolgálni azokat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "térj el"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "egyetlen …-tól sem"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "igétől"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parancsolok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "benneteket"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobbra"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "és balra"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hogy eljárj"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "istenek"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "szolgálni azokat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:56.062213492Z",
+  "model": "glm-5.3"
+}

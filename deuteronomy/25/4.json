@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Ne kösd be a száját ⟨az⟩ ökörnek, amint × termeli a magját.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ködd be a száját"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökörnek"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "amint termeli a magját"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:12.425306279Z",
+  "model": "glm-5.3"
+}

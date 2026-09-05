@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És elment Natán a házába, és megütötte Jahve ⟨את⟩ a gyermeket, akitUrija felesége szült Dávidnak, és az ↝ halálosan megbetegedett.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-ba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a házába"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "és megütötte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyermeket"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermeket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely(et)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "szült"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "felesége"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijának"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "és halálosan megbetegedett"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:23.805097897Z",
+  "model": "glm-5.3"
+}

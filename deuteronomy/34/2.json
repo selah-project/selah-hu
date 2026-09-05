@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És ⟨את⟩ egész Naftáli, és ⟨את⟩ Efrajim földjét és Menasszét, és ⟨את⟩ egész Jehúda földjét, a végső tengerig.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész Naftáli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftáli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "és Menassze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész Jehúda földjét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–ig"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "végső"
+    }
+  ],
+  "timestamp": "2026-09-04T18:35:05.111359113Z",
+  "model": "glm-5.3"
+}

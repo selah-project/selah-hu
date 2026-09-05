@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Igazságod ⟨olyan⟩, mint El hegyei, ítéleted ⟨nagy⟩ mélység; embert és állatot megmentesz, Jahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Igazságod"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "mint hegyei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "ítéleted"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "mélység"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "embert"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "és állatot"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "megmentesz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:37.035547507Z",
+  "model": "glm-5.3"
+}

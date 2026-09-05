@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Teráh (Terách) hetven esztendőt, és nemzette ⟨את⟩ Avrámot (Ávrám), ⟨את⟩ Náchort és ⟨את⟩ Háránt.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teráh"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrámot"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrámot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Náchort"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Háránt"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Háránt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:07.190997623Z",
+  "model": "glm-5.3"
+}

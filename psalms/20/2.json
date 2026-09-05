@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Feleljen néked Jahve a nyomorúság napján, tegyen téged magasságba Jaakob (Jákob) Elohimjának neve.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "Feleljen néked"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a … napján"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nyomorúság"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "tegyen téged magasságba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "neve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimjának"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:43.999567825Z",
+  "model": "glm-5.3"
+}

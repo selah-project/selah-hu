@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ne rettegj tőlük, mert Jahve, az Elohimod ⟨van⟩ körülötted, nagy El és félelmetes.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "rettegj"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "tőlük"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimod"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "körülötted"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "és félelmetes"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:34.298695776Z",
+  "model": "glm-5.3"
+}

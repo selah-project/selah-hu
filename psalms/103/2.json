@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Áldd, lelkem, ⟨את⟩ Jahvét, és ne feledd el minden jótettét!",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Áldd"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "feledd el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "jótettét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:56.782211132Z",
+  "model": "glm-5.3"
+}

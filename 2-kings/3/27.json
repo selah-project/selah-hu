@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 3:27",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És fogta ⟨את⟩ az ő fiát, az elsőszülöttet, aki helyette uralkodni fog, és feláldozta égőáldozatul a falra. És lett nagy harag Izráel ellen, és elvonultak felőle, és visszatértek ⟨a⟩ földre.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő fiát"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "az elsőszülöttet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "uralkodni fog"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "és feláldozta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "égőáldozatul"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "a falra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "harag"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "és elvonultak"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "felőle"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "és visszatértek"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨a⟩ földre"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:11.861147670Z",
+  "model": "glm-5.3"
+}

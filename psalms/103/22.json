@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Áldjátok Jahvét az ő minden művei minden helyen, ahol az ő uralma áll! Áldjad, lelkem, ⟨את⟩ Jahvét!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Áldjátok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "művei"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "uralma"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Áldjad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:28.305800870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Aki Baasából meghal a városban, megeszik a kutyák, és aki az övéiből meghal a mezőn, megeszik az ég madarai.”",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Aki … meghal"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "Baasából"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "megeszik"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "a kutyák"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "és aki … meghal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övéiből"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "megeszik"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madarai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég …-ei"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:15.083002211Z",
+  "model": "glm-5.3"
+}

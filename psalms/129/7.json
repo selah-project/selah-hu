@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 129,
+  "translation": "Amiből nem telik tele az arató tenyere, sem a kéveket kötő ölé.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "Amiből nem"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "telik tele"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "tenyere"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "az arató"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "sem az öle"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "a kéveket kötő"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:30.172374187Z",
+  "model": "glm-5.3"
+}

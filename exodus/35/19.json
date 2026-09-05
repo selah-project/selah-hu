@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "⟨את⟩ a szolgálat ruháit a szentélyben való szolgálathoz, ⟨את⟩ a szent ruhákat Áhárónnak, a kohanitnak, és ⟨את⟩ fiai ruháit a papi szolgálathoz.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgálat ruháit"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "a szolgálat"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "szolgálathoz"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a szentélyben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szent ruhákat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Áhárónnak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohanit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiai ruháit"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papi szolgálathoz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:28.121435378Z",
+  "model": "glm-5.3"
+}

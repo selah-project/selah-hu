@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Akinek kezében ⟨van⟩ minden élő nefese, és minden húsból-való ember ruacha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Akinek"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "és ruacha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsból-való"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:39.088803561Z",
+  "model": "glm-5.3"
+}

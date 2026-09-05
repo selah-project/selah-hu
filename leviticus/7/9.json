@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És minden ételáldozat, amely kemencében süttetik, és minden, ami lábasban készül, és serpenyőn, a papnak lesz, aki ⟨את⟩ azt felmutatja, neki lesz az.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ételáldozat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "süttetik"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "kemencében"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "készül"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "lábasban"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ⟨…on⟩"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "serpenyőn"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papnak"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "aki felmutatja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:27.062690453Z",
+  "model": "glm-5.3"
+}

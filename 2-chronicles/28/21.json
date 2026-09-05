@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Mert kimetszett Ahách (Aház) ⟨את⟩ Jahve házából, és ⟨את⟩ a király házából és a főemberekből, és adta Assur királyának — de nem lett ⟨neki⟩ segítségül.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "kimetszett"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahách (Aház)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve házából"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király házából"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "és a főemberek"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "segítségül"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T23:21:16.053871813Z",
+  "model": "glm-5.3"
+}

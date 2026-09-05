@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És amikor aratjátok ⟨את⟩ földetek aratását, ne aratod le teljesen meződ szélét, és aratásod lehullott kalászát ne szedd fel.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "és amikor aratjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az aratást"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "aratását"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "földetek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "aratod le teljesen"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "szélét"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "meződnek"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "aratásra"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "és a lehullott kalászt"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "aratásodnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "szedd fel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:10.072084811Z",
+  "model": "glm-5.3"
+}

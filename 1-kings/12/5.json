@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És mondt ⟨nekik⟩: „Menjetek még három napot, és térjetek vissza hozzám.” És elment a nép.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menjetek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napot"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "és térjetek vissza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:52.615182658Z",
+  "model": "glm-5.3"
+}

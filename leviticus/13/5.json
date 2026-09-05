@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 13:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És megnézi őt a kohen a hetedik napon, és íme, a fertőzés ugyanott áll a szemében, nem terjedt szét a fertőzés a bőrön, és elzárja őt a kohen hét napra másodszor.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "és megnézi őt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "hetedik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "a fertőzés"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "állt"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "terjedt szét"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "a fertőzés"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "a bőrön"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "és elzárja őt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napra"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "másodszor"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:32.974186129Z",
+  "model": "glm-5.3"
+}

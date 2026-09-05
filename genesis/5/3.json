@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És élt Ádám harminc és száz esztendőt, és nemzett fiút az ő hasonlatosságára, az ő képére, és hívta ⟨את⟩ nevét Sétnek (Seth).",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ádám"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "és száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzett"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "az ő hasonlatosságára"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "az ő képére"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és hívta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sétnek (Seth)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:58.928614411Z",
+  "model": "glm-5.3"
+}

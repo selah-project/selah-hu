@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 61,
+  "translation": "A király napjaihoz napokat adsz, évei nemzedékről nemzedékre.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "napokat"
+    },
+    {
+      "surface": "על",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "adsz"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "évei"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nemzedék"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "és nemzedék"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:54.336310593Z",
+  "model": "glm-5.3"
+}

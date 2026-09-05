@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "És megette minden füvet az ő földjükön, és megette gyümölcsét az ő termőföldjüknek.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "És megette"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "füvet"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "az ő földjükön"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "és megette"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "gyümölcsét"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "az ő termőföldjüknek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:49.832054334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Te pedig gyűlölted a fenyítést, és szavaimat hátradobtad magad mögé.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Te pedig"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "gyűlölted"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "a fenyítést"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "és hátradobtad"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavaimat"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "magad mögé"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:54.616554748Z",
+  "model": "glm-5.3"
+}

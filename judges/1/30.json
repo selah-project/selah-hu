@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Zvúlún nem űzte ki ⟨את⟩ Kitron lakóit és ⟨את⟩ Nahalol lakóit, és a Kenaán az ő közepében lakott, és adófizetőkké lettek.",
+  "tokens": [
+    {
+      "surface": "זבולון",
+      "gloss": "Zvúlún"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "űzte ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kitron lakóit"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "lakóit"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Nahalol lakóit"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "lakóit"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és lakott"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a Kenaán"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "az ő közepében"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "למס",
+      "gloss": "adófizetőkké"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:16.814343319Z",
+  "model": "glm-5.3"
+}

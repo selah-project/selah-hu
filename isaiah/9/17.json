@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 9:17",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Mert ég, mint a tűz, a gonoszság: tövist és bojtorjánt eszik meg, és fellángol az erdő bozótjaiban, és felfelé gomolyog a füst gomolyaga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ég"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "mint-a-tűz"
+    },
+    {
+      "surface": "רשעה",
+      "gloss": "a-gonoszság"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "tövis"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "és-bojtorján"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eszik-meg"
+    },
+    {
+      "surface": "ותצת",
+      "gloss": "és-fellángol"
+    },
+    {
+      "surface": "בסבכי",
+      "gloss": "bozótjaiban"
+    },
+    {
+      "surface": "היער",
+      "gloss": "az-erdő"
+    },
+    {
+      "surface": "ויתאבכו",
+      "gloss": "és-felfelé-gomolyog"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "gomolyagja"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "füst"
+    }
+  ],
+  "timestamp": "2026-09-04T20:10:38.179273134Z",
+  "model": "glm-5.3"
+}

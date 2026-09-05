@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 8:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Ezért íme, Adonáj felhozza rájuk ⟨את⟩ a folyó vizét, a hatalmasakat és a sokakat — Assur királyát és egész dicsőségét —; és felhág minden medrére, és végigmegy minden partján.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "felhozza"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a folyó vizét"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizét"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "a folyó"
+    },
+    {
+      "surface": "העצומים",
+      "gloss": "a hatalmasakat"
+    },
+    {
+      "surface": "והרבים",
+      "gloss": "és a sokakat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assur királyát"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész dicsőségét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "dicsőségét"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "és felhág"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אפיקיו",
+      "gloss": "medrére"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "és végigmegy"
+    },
+    {
+      "surface": "על",
+      "gloss": "-án"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גדותיו",
+      "gloss": "partján"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:32.853599768Z",
+  "model": "glm-5.3"
+}

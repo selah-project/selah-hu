@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "és elment, és más isteneket szolgált, és leborult előttük, a napnak vagy a holdnak vagy az ég minden seregének, amelyeket nem parancsoltam —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "és szolgált"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "és leborult"
+    },
+    {
+      "surface": "להם",
+      "gloss": "előttük"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "és a napnak"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "a holdnak"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "seregének"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "parancsoltam"
+    }
+  ],
+  "timestamp": "2026-09-04T18:25:24.105335434Z",
+  "model": "glm-5.3"
+}

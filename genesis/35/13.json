@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És fölment mellőle Elohim azon a helyen, amelyen beszélt vele ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "és fölment"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "mellőle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "azon a helyen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "ő — a beszélgetés másik fele, Jaakob"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:21.555357565Z",
+  "model": "glm-5.3"
+}

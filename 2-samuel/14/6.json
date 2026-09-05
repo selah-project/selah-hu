@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És a te szolgálódnak két fia volt, és összeverekedtek ketten a mezőn, és nem volt köztük megmentő, és megütötte az egyik ⟨את⟩ a másikat, és meghalt ⟨את⟩ őt.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "És a te szolgálódnak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fia"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "és összeverekedtek"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ketten"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nem volt"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "megmentő"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "köztük"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és megütötte"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a másikat"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "a másikat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "az egyik fia"
+    }
+  ],
+  "timestamp": "2026-09-04T19:29:11.115243940Z",
+  "model": "glm-5.3"
+}

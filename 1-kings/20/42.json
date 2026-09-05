@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És monda neki: Ezt mondja Jahve: Mivel elbocsátottad ⟨את⟩ az én kiirtásra szánt emberemet a kezedből, lesz a te lelked az ő lelke helyett, és a te néped az ő népe helyett.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és monda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "mivel"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "elbocsátottad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az emberemet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "emberemet"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "kiirtásra szánt"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "a kezedből"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "a te lelked"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "az ő lelke"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "és a te néped"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "az ő népe"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:41.473105525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "Elidegenültek a gonoszok az anyaméhtől, tévelyegnek a méhtől, hazugságot szólók.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Elidegenültek"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "az anyaméhtől"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "tévelyegnek"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "a méhtől"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szólói"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "hazugságnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:51.863399660Z",
+  "model": "glm-5.3"
+}

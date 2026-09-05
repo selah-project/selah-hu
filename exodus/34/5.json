@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És leszállt Jahve ⟨a⟩ felhőben, és ott helytállt vele, és elfohászkodott ⟨az⟩ ⟨a⟩ Jahve nevében",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "És leszállt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "⟨a⟩ felhőben"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "és helytállt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és elfohászkodott"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨a⟩ nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:17.576088077Z",
+  "model": "glm-5.3"
+}

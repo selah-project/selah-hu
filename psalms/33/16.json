@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Nincs király, akit a sereg nagysága megment, sem a vitéz nem szabadul a nagy erő által.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "megmentetik"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nagysága által"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sereg"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "a vitéz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "szabadul"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nagysága által"
+    },
+    {
+      "surface": "כח",
+      "gloss": "erő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:30.281845771Z",
+  "model": "glm-5.3"
+}

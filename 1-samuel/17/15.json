@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És Dávid járt-kelt visszatérve Saúltól, hogy legelőszönője ⟨את⟩ apja juhait Bet-Lechemben.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "és Dávid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "járt"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "hogy legelőszönője"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apja juhait"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juhait"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:36.578046490Z",
+  "model": "glm-5.3"
+}

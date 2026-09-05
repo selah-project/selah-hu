@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És beleegyezett Moshe (Mózes), hogy lakjék ⟨את⟩ az embernél; és adta ⟨את⟩ Cippórát, a lányát, Moshe-nak.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "beleegyezett"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "lakni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embernél"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cippórát"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cippórát"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "a lányát"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe-nak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:17.304698681Z",
+  "model": "glm-5.3"
+}

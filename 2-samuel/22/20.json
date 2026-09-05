@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És kivitt ⟨את⟩ engem a tágas helyre, kimentett engem, mert gyönyörködött bennem.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "és kivitt"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "a tágas helyre"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "kimentett engem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gyönyörködött"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bennem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:34:50.787369563Z",
+  "model": "glm-5.3"
+}

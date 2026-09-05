@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Kicsoda ⟨ez⟩, a dicsőség Királya? Jahve — hatalmas és hős, Jahve, a harc hőse.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kicsoda"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ez⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a Királya"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "a dicsőségnek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "és hős"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hőse"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "a harcnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:36.879347761Z",
+  "model": "glm-5.3"
+}

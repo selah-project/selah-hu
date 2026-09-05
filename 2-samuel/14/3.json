@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És menj be a királyhoz, és szólj hozzá e szavak szerint — és Joáb adta ⟨את⟩ a szavakat a szájába.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "és menj be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "és szólj"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "szavak szerint"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a szavakat"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "a szájába"
+    }
+  ],
+  "timestamp": "2026-09-04T19:29:32.927263988Z",
+  "model": "glm-5.3"
+}

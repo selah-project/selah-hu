@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Az ő bűnei fogják meg ⟨את⟩ a bűnöst, és vétkének kötelein megfogantatik.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "Az ő bűnei"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "fogják meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bűnöst"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "a bűnöst"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "és kötelein"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "vétkének"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "megfogantatik"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:18.212688660Z",
+  "model": "glm-5.3"
+}

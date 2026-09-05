@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "akik gonosz szándékkal beszélnek rólad, a te ellenségeid hiába emelnek ⟨magukat⟩ fel.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "beszélnek rólad"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "gonosz szándékkal"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "emelnek fel"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "hiába"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "a te ellenségeid"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:10.017529575Z",
+  "model": "glm-5.3"
+}

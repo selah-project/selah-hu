@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 13:31",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És történt, miután eltemette ⟨את⟩ őt, hogy szólt az ő fiaihoz, mondván: Ha meghalok, temessetek engem ⟨את⟩ abba a sírba, amelyben az Elohim embere van eltemetve; az ő csontjai mellé helyezzétek ⟨את⟩ az én csontjaimat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "miután"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "eltemette"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt (az Elohim emberét)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hogy szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑hoz"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "az ő fiai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "Ha meghalok"
+    },
+    {
+      "surface": "וקברתם",
+      "gloss": "temessetek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "engem"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "abba a sírba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "קבור",
+      "gloss": "van eltemetve"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abban"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "melé; mellé"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "az ő csontjai"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "helyezzétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az én csontjaimat"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "az én csontjaimat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:44.530628139Z",
+  "model": "glm-5.3"
+}

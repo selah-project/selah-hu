@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "A plistimok meghallották ⟨את⟩ a kiáltás hangját, és mondák: „Mi ez a nagy kiáltás hangja a héberek táborában?” És megtudák, hogy a Jahve ládája érkezett a táborba.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "meghallották"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "A plistimok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kiáltás hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "a kiáltás"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondák"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "a kiáltás"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "táborában"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "a héberek"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "És megtudák"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "érkezett"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a táborba"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a táborba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:24.096266672Z",
+  "model": "glm-5.3"
+}

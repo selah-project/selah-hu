@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Áldjad, lelkem, ⟨את⟩ Jahve! Jahve, az Elohimem, nagyon nagy vagy, fényt és fenséget öltöztél magadra.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Áldjad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "az Elohimem"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "nagy vagy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "fényt"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "és fenséget"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "öltöztél magadra"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:27.744853929Z",
+  "model": "glm-5.3"
+}

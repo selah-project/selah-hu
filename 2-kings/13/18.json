@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És mondta: Vedd ⟨⟨az⟩⟩ a nyilakat, és elvette őket. És ezt mondta Izráél királyának: Üss a földre! És üött háromszor, és megállt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vedd"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "a nyilakat"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és elvette"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Üss"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és üött"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "három"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "alkalommal"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "és megállt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:59:30.364429696Z",
+  "model": "glm-5.3"
+}

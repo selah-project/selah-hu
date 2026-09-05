@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Te ma átléped ⟨את⟩ Móáv határát, ⟨את⟩ Árt:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átléped"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Móáv határát"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "határát"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móáv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Árt"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Árt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:39.223219985Z",
+  "model": "glm-5.3"
+}

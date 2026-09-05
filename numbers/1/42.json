@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Naftali (Naftáli) fiai, nemzetségük szerint, családjaik szerint, atyáik háza szerint, neveik számában, húsz éves kortól és fölfelé, mind, aki seregre kivonulhat:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "nemzetségük"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "családjaik szerint"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "háza szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "számában"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "neveik"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kortól"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "éves"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "és fölfelé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kivonul"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "seregre"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:02.233041037Z",
+  "model": "glm-5.3"
+}

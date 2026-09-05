@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Dávidtól. Jahve ⟨az⟩ világosságom és ⟨az⟩ szabadulásom — kitől féljek? Jahve életem erőssége — kitől rettegjek?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "világosságom"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "és szabadulásom"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kitől"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "féljek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "erőssége"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "életem"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kitől"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "rettegjek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:47.890288236Z",
+  "model": "glm-5.3"
+}

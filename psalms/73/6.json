@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Ezért nyaklánccal ékesíti ⟨őket⟩ a gőg, ruhaként öltözteti el őket az erőszak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "nyaklánccal ékesíti őket"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "gőg"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "öltözteti\/betakarja"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ruhaként"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszak"
+    },
+    {
+      "surface": "למו",
+      "gloss": "őket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:35.931622112Z",
+  "model": "glm-5.3"
+}

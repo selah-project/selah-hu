@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Elohim, ne légy messze tőlem; Elohim, siess az én segítségemre.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "légy messze"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "segítségemre"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "siess"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:46.767690944Z",
+  "model": "glm-5.3"
+}

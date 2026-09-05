@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Elohim, amikor kimentél néped előtt, amikor átvonultál a pusztán — Szela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "amikor kimentél"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "amikor átvonultál"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "a pusztán"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:58.038239314Z",
+  "model": "glm-5.3"
+}

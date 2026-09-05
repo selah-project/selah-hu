@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És nem tértek el a király parancsától a papok és a leviták iránt semmilyen ügyben sem, és a kincstárak iránt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "tértek el"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "a parancsától"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "על",
+      "gloss": "iránt"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "és a leviták"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ügyben"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "és a kincstárakra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:13:08.699911610Z",
+  "model": "glm-5.3"
+}

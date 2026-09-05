@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Boldog ⟨az⟩ ember, ⟨akinek⟩ erőssége ⟨van⟩ benned, országutak ⟨vannak⟩ szívükben.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "erőssége"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨van⟩ neki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "országutak"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "szívükben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:56.292672074Z",
+  "model": "glm-5.3"
+}

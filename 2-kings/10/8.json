@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És jött a hírnök, és megjelentette neki mondván: bevitték a király fiainak fejeit; és ő mondta: tegyétek ⟨את⟩ őket két halomba a kapu bejáratánál reggelig.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "és jött"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "a hírnök"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és megjelentette"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bevitték"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejeit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "tegyétek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "halomba"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "השער",
+      "gloss": "a kapu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "reggel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:56:54.334966145Z",
+  "model": "glm-5.3"
+}

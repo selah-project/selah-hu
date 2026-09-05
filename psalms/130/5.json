@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 130,
+  "translation": "Vártam Jahvét, várt a lelkem, és az ő szaváért várok.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Vártam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "várt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "és az ő szaváért"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "várok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:03.666591189Z",
+  "model": "glm-5.3"
+}

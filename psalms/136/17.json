@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "⟨Annak⟩, aki leverte a nagy királyokat, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "⟨Annak, aki⟩ leverte"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "királyokat"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:40.549580985Z",
+  "model": "glm-5.3"
+}

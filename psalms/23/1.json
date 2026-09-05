@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Dávid zsoltára. Jahve ⟨a⟩ pásztorom — nem lesz hiányom.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltára"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "pásztorom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "lesz hiányom"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:47.589539064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Jahve keze ⟨volt⟩ ellenük, hogy összetörjék őket a tábor kellős közepéből, míg egészen elfogytak.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És ugyanígy"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "hogy összetörjék őket"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "a kellős közepéből"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a tábor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "egészen elfogytak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:00.343219662Z",
+  "model": "glm-5.3"
+}

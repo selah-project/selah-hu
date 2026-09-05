@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 130,
+  "translation": "Ha a vétkeket megőrzi, Jah, Adonáj, ki állhat meg?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "a vétkeket"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "megőrzi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "állhat meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:47.522409613Z",
+  "model": "glm-5.3"
+}

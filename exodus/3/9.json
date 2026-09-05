@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És most íme, Izráel fiai kiáltása eljutott hozzám, és láttam ⟨את⟩ a nyomást is, amivel Micrajim (Egyiptom) nyomja ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kiáltása"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "באה",
+      "gloss": "eljutott"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és…is"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nyomást"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "a nyomást"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amivel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "nyomja"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:37.521147358Z",
+  "model": "glm-5.3"
+}

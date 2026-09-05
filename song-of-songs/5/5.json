@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Fölkeltem én, hogy megnyissam kedvesemnek, és kezeim mirhát csöpögtek, és ujjaim folyékony mirha ⟨volt⟩, átcsepegve a zár fogantyúira.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "Fölkeltem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "hogy megnyissam"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "kedvesemnek"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "és kezeim"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "csöpögtek"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mirhát"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "és ujjaim"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mirha"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átcsepegve"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ira"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "fogantyúira"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "a zár"
+    }
+  ],
+  "timestamp": "2026-09-04T22:31:41.317191316Z",
+  "model": "glm-5.3"
+}

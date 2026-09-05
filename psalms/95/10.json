@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 95,
+  "translation": "Negyven évig irtóztam ettől a nemzedéktől, és mondtam: nép ⟨ez⟩, amely tévelygő szívű ⟨az⟩, és ők nem ismerték útjaimat.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Negyven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évig"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "irtóztam"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ettől a nemzedéktől"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondtam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "tévelygő"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívű"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "והם",
+      "gloss": "és ők"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ismerték"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "útjaimat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:19.794565728Z",
+  "model": "glm-5.3"
+}

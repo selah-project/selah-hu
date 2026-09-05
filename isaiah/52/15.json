@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 52:15",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Úgy permetez sok népet ⟨őt⟩; ellene kulcsolják össze a királyok a szájukat; mert amit nem meséltek el nekik, meglátták, és amit nem hallottak, megértették.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Úgy"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "permetez"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népet"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ellene \/ rá"
+    },
+    {
+      "surface": "יקפצו",
+      "gloss": "kulcsolják össze"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "a királyok"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "a szájukat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "meséltek el"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "meglátták"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hallottak"
+    },
+    {
+      "surface": "התבוננו",
+      "gloss": "megértették"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:15.365277683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És Jahve volt ⟨את⟩ Júda mellett, és birtokba vette ⟨את⟩ a hegyvidéket; mert nem tudta kiűzni ⟨את⟩ a völgy lakóit, mert vasszekerek voltak nekik.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És volt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Júda mellett"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "és birtokba vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hegyvidéket"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegyvidéket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "kiűzni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a völgy lakóit"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakóit"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "a völgy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "szekerek"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "voltak nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:58.463864469Z",
+  "model": "glm-5.3"
+}

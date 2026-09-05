@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Én alkottam a földet, ⟨את⟩ az embert és ⟨את⟩ az állatot, amely a föld színén van, az én nagy erőmmel és kinyújtott karommal; és odaadtam annak, aki az én szemeimben helyes.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Én"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "alkottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az állatot"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "az állatot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színén"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "erőmmel"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "naggyal"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "és karommal"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "kinyújtottal"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "és odaadtam"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "annak, aki"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "helyes"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemeimben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:44:46.505293689Z",
+  "model": "glm-5.3"
+}

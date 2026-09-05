@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Ha megyalázzák rendelkezéseimet, és parancsolataimat nem őrzik:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rendeléseimet"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "megyalázzák"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "és parancsolataimat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "őrzik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:18.666919564Z",
+  "model": "glm-5.3"
+}

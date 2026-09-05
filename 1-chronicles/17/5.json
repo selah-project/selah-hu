@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Mert nem laktam házban attól a naptól, amelyen felhoztam ⟨את⟩ Jiszráélt (Izráel), e napig, hanem sátorból sátorba lettem, és lakóhellyé ⟨lakóhelyből lakóhelybe⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "laktam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házban"
+    },
+    {
+      "surface": "מן",
+      "gloss": "attól"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a naptól"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "felhoztam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e napig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napig"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "hanem lettem"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "sátorból"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sátorba"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátorba"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "és lakóhellyé"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:35.932862488Z",
+  "model": "glm-5.3"
+}

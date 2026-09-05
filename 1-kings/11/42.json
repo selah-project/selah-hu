@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És a napok, amelyeken uralkodott Selomo Jerusálaimben (Jeruzsálem) egész Izráel felett: negyven év.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "És a napok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeken"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uralkodott"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusálaimben (Jeruzsálem)"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    }
+  ],
+  "timestamp": "2026-09-04T19:43:51.458363216Z",
+  "model": "glm-5.3"
+}

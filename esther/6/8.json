@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "hozzanak királyi öltözéket, amelyet a király viselt magán, és lovat, amelyen a király lovagolt, és ⟨amelyre⟩ királyi korona kerül ⟨az⟩ ⟨ő⟩ fejére.",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "hozzanak"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "öltözéket"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "királyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "viselt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "magán"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "és lovat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "lovagolt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "amelyen (rajta)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és ⟨amelyre⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kerül (téve)"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "királyi"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "fejére"
+    }
+  ],
+  "timestamp": "2026-09-04T23:54:51.291470272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Sötét helyeken lakatott, mint az örök rég halottai.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "sötét helyeken"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "lakatott"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "mint a halottai"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örök rég"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:22.586729371Z",
+  "model": "glm-5.3"
+}

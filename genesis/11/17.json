@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Éver (Éber), miután nemzette ⟨את⟩ Peleget, harminc évig és négyszáz évig, és nemzett fiait és leányait.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Éver (Éber)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "miután"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleget"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleget"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évig"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "és négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzett"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "és leányait"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:58.726306874Z",
+  "model": "glm-5.3"
+}

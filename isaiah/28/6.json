@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "és az ítélet lelkének ⟨annak⟩, aki az ítélőszéken ül, és a hősies erőnek, akik a csatát a kapuig visszavetik.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "és lelkének"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ítélet"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "⟨annak⟩, aki ül"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ítélőszéken"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "és a hősi erőnek"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "visszavetik"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "a csatát"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "a kapuig"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:26.873054445Z",
+  "model": "glm-5.3"
+}

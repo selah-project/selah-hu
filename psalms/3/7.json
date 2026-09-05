@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Nem félek tízezernyi néptől, akik köröskörül ellenem táboroztak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "félek"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "tízezernyi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "néptől"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "táboroztak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:14.335316731Z",
+  "model": "glm-5.3"
+}

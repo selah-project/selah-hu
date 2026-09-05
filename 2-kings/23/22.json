@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Mert nem készült olyan peszach, mint ez, a bírák napjai óta, akik bíráskodtak ⟨את⟩ Jiszráel felett, és Jiszráel királyainak minden napjaiban, és Jehúda királyainak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "készült"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "olyan peszach, mint"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "napjai óta"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "a bírák"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "bíráskodtak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráelt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjai"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "és királyainak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    }
+  ],
+  "timestamp": "2026-09-04T20:05:19.956961675Z",
+  "model": "glm-5.3"
+}

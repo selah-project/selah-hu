@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És elkülöníti Jahve Izrael állata és Micrajim (Egyiptom) állata közé, és nem hal meg semmi sem Izrael fiainak állatai közül.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "És elkülöníti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בין",
+      "gloss": "közé"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "állata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és közé"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "állata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "semmi sem"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨állat⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:49.038592286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És felvették a pelistimiek ⟨את⟩ az Elohim ládáját, és bevitték ⟨את⟩ azt Dágón házába, és odahelyezték ⟨את⟩ azt Dágón mellé.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "És felvették"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelistimiek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohim ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "és bevitték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dágón"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "és odahelyezték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "mellé"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dágón"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:32.643475989Z",
+  "model": "glm-5.3"
+}

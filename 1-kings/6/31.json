@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ⟨את⟩ a debír bejáratához olajfából csinált ajtókat ⟨két⟩ szárnyat: a szemöldökfa és az ajtófélfák a fal ötödét ⟨tették ki⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a debír bejáratához"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratához"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "a debírnek"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "csinált"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ajtókat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fájából"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olaj-"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a szemöldökfa"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ajtófélfák"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "ötöd"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:34.033227985Z",
+  "model": "glm-5.3"
+}

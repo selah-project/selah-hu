@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondtak a város férfiai Joáshoz: „Hozd ki ⟨את⟩ a fiadat, és haljon meg, mert lerántotta ⟨את⟩ a Baal oltárát, és mert kivágta az Asérát, amely rajta van.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondtak"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiai"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Joáshoz"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joás"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "Hozd ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiadat"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "a fiadat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és haljon meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "lerántotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Baal oltárát"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárát"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Baal"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "és mert"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kivágta"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "az Asérát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta van"
+    }
+  ],
+  "timestamp": "2026-09-04T18:53:58.823974762Z",
+  "model": "glm-5.3"
+}

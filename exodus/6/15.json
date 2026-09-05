@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És Shimeon (Simeon) fiai: Jemuél és Jámin, és Óhád, és Jáchin, és Cohár, és Saúl, a kánaánita asszony fia — ezek Shimeon nemzetségei.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "És fiai"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon (Simeon)"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Jemuél"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "és Jámin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "és Óhád"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "és Jáchin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "és Cohár"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "és Saúl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "a kánaánita asszonynak"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "nemzetségei"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:18.292229996Z",
+  "model": "glm-5.3"
+}

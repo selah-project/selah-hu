@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Elfelejtette-e az El a kegyes könyörgést? Bezárta-e haragjában az irgalmait? Szela.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Elfelejtette-e"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "a kegyes könyörgést"
+    },
+    {
+      "surface": "אל",
+      "gloss": "az El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha⟨vajon⟩"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "Bezárta-e"
+    },
+    {
+      "surface": "באף",
+      "gloss": "haragjában"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "az irgalmait"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:23.301576452Z",
+  "model": "glm-5.3"
+}

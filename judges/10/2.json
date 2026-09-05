@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És törvénykezett ⟨את⟩ Izrael fölött huszonhárom évig; meghalt, és eltemették Samirban.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "És törvénykezett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "és három"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Samirban"
+    }
+  ],
+  "timestamp": "2026-09-04T18:56:00.372138457Z",
+  "model": "glm-5.3"
+}

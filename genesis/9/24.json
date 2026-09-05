@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És felébredt Noach (Noé) borából, és megtudta ⟨את⟩, amit tett neki kisebbik fia.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "és felébredt"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach (Noé)"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "borából"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "és megtudta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit tett neki kisebbik fia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kisebbik"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:51.543159728Z",
+  "model": "glm-5.3"
+}

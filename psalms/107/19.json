@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "És kiáltottak Jahvéhoz szorultságukban; nyomorúságaikból megmentette ⟨ őket⟩.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "és kiáltottak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "szorultságukban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "az ő"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "nyomorúságaikból"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "megmentette őket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:30.464347088Z",
+  "model": "glm-5.3"
+}

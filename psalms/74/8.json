@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Mondták szívükben: „Nyomjuk el őket mind együtt!” — felégették az El minden gyülekezőhelyét az országban.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Mondták"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "szívükben"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "nyomjuk el őket"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "felégették"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "gyülekezőhelyét"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az országban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:28.668863510Z",
+  "model": "glm-5.3"
+}

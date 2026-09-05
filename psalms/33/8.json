@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Félje Jahvét az egész föld, rettegjen tőle a földkerekség minden lakója!",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Félje"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "rettengjen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakója"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a földkerekség"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:58.657171256Z",
+  "model": "glm-5.3"
+}

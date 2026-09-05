@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 10:23",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És a leviták közül: Józábád, Simí, Kelájá — ő ⟨az⟩ Kelitá —, Petáhja, Jehúda és Eliézer.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "És ... közül"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a leviták"
+    },
+    {
+      "surface": "יוזבד",
+      "gloss": "Józábád"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "és Simí"
+    },
+    {
+      "surface": "וקליה",
+      "gloss": "és Kelájá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Kelitá"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "Petáhja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "és Eliézer"
+    }
+  ],
+  "timestamp": "2026-09-05T00:32:11.060360952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És monda Jiszráél királya az ő szolgáinak: Tudjátok-e, hogy a miénk Ramot-Gilad, és mi hallgatva nem vesszük el ⟨את⟩ őt Arám királyának kezéből?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáinak"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Tudjátok-e"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a miénk"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "és mi"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "hallgatva"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "nem vesszük el"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt (Ramot-Giladot)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    }
+  ],
+  "timestamp": "2026-09-04T19:51:44.144064426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És a jövevényt ne nyomorgasd, mert ti ismeritek ⟨את⟩ a jövevény lelkét, mivelhogy jövevények voltatok Micrajim (Egyiptom) földjén.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "És a jövevényt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "nyomorgasd"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mert ti"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ismeritek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a jövevény lelkét"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lelkét"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "a jövevény"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mivelhogy"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "jövevények"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "voltatok"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:14.854427283Z",
+  "model": "glm-5.3"
+}

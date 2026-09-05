@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Emlékezz irgalmadra, Jahve, és heszed-jeidre, mert öröktől fogva vannak azok.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezz"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "irgalmadra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "és heszed-jeidre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "öröktől fogva"
+    },
+    {
+      "surface": "המה",
+      "gloss": "vannak azok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:58.077629093Z",
+  "model": "glm-5.3"
+}

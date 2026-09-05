@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És egyék meg ⟨את⟩ a húst ezen az éjszakán; tűzön sütve, kovásztalan kenyérrel, keserű füvekkel egyék meg.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "és egyék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a húst"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "a húst"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "éjszakán"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezen"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "sütve"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűzön"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "kovásztalan kenyérrel"
+    },
+    {
+      "surface": "על",
+      "gloss": "-val"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "keserű füvekkel"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "egyék meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:33.443874201Z",
+  "model": "glm-5.3"
+}

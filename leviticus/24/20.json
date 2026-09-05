@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "törés törésért, szem szemért, fog fogért; ahogyan sérlést okoz az emberben, úgy okozzanak ⟨sérlést⟩ benne.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "törés"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "törésért"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "törés"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "szemért"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szem"
+    },
+    {
+      "surface": "שן",
+      "gloss": "fog"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fogért"
+    },
+    {
+      "surface": "שן",
+      "gloss": "fog"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "okoz"
+    },
+    {
+      "surface": "מום",
+      "gloss": "sérlést"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "emberben"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "okozzanak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:59.513942405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 130,
+  "translation": "Reméljen Izráel Jahvéban, mert Jahvével ⟨van⟩ a heszed, és őnála ⟨van⟩ bőséges megváltás.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Reméljen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Jahvével"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvével"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "a heszed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "és bőséges"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "őnála"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "megváltás"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:03.667010132Z",
+  "model": "glm-5.3"
+}

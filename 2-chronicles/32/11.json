@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 32:11",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Nem Jechizkijáhu-e az, aki elhiteti veletek ⟨את⟩ titeket, hogy ⟨את⟩ titeket éhínség és szomjúság adjon a halálba, mondván: Jahve, a mi Elohimunk megszabadít minket Assur királyának markából?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nem-e"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jechizkijáhu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "elhiteti\/rábeszél"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hogy adjon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a halálba"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "éhínség"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "és szomjúság"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunk"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "megszabadít minket"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "markából"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-09-04T23:22:14.509121189Z",
+  "model": "glm-5.3"
+}

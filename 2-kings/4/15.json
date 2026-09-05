@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondta: „Hívd ide őt.” És hívta őt, és ő állt az ajtóban.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Hívd ide"
+    },
+    {
+      "surface": "לה",
+      "gloss": "őt"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "És hívta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "őt"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "és ő állt"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "az ajtóban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:54.915768554Z",
+  "model": "glm-5.3"
+}

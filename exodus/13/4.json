@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Ma mentetek ki, az Ávív hónapjában.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Ma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "mentetek ki"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "hónapjában"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "az Ávív"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:04.542932073Z",
+  "model": "glm-5.3"
+}

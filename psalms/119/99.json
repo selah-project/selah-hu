@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Minden tanítómnál értelmesebb lettem, mert bizonyságaid elmélkedés ⟨nekem⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Minden …-nál"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "tanítómnál"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "értelmesebb lettem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bizonyságaid"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "elmélkedés"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:15.128909048Z",
+  "model": "glm-5.3"
+}

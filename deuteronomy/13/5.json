@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Jahve, a ti Elohimotok után járjatok, ⟨את⟩ őt féljétek, és ⟨את⟩ parancsolatait tartsátok meg, szavára hallgassatok, ⟨את⟩ őt szolgáljátok, és hozzá tapadjatok.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "járjatok"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljétek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parancsolatait"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "parancsolatait"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tartsátok meg"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hallgassatok"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "szolgáljátok"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "tapadjatok"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:29.410648080Z",
+  "model": "glm-5.3"
+}

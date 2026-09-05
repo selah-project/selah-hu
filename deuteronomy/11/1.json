@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És szeresd ⟨את⟩ Jahvét, a te Elohimod, és őrizd az ő őrségét, és az ő rendeléseit, és aző törvényeit, és az ő parancsolatait minden napon.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "És szeresd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "és őrizd"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "őrségét"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "és rendeléseit"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "és törvényeit"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "és parancsolatait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "napon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:24.691203909Z",
+  "model": "glm-5.3"
+}

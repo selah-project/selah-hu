@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 93,
+  "translation": "A hatalmas vizek zúgásánál, a tenger dübörgő hullámainál hatalmasabb ⟨a⟩ magasságban ⟨van⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "zúgásánál"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "dübörgő"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "hullámainál"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "hatalmasabb"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "a magasságban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:06.069349331Z",
+  "model": "glm-5.3"
+}

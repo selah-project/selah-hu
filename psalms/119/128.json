@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Azért minden rendelkezésedet ⟨egyenesnek⟩ tartom — mindet; minden hamis ösvényt gyűlölök.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "rendelkezésedet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindet"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "⟨egyesnek⟩ tartom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "hamis ösvényt"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hamis"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "gyűlölök"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:17.059624278Z",
+  "model": "glm-5.3"
+}

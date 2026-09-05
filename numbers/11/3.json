@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És nevet adott annak a helynek Táverá (Tabera, égés), mert lobogott köztük Jahve tüze.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevet adott"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a hely"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "annak"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Táverá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "lobogott"
+    },
+    {
+      "surface": "בם",
+      "gloss": "köztük"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:39.589836126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És történt, mikor megteltek az edények, hogy így szólt a fiához: „Hozz ide még egy edényt!” Az pedig azt mondta neki: „Nincs több edény.” És megállt az olaj.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "mikor megteltek"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "az edények"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "hogy így szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-hoz"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a fiához"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "„Hozz ide"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ide"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "egy edényt”"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Az pedig azt mondta"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "„Nincs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "több"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edény.”"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "És megállt"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "az olaj"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:58.177992659Z",
+  "model": "glm-5.3"
+}

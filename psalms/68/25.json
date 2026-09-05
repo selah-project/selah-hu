@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Látták menetlépéseidet, Elohim, menetlépéseit az én El-emnek, királyomnak, ⟨a⟩ szentségben.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "látták"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "menetlépéseidet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "menetlépéseit"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "az én El-emnek"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyomnak"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "⟨a⟩ szentségben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:10.137896963Z",
+  "model": "glm-5.3"
+}

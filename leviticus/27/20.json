@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És ha nem váltja meg ⟨את⟩ a mezőt, és ha eladta ⟨את⟩ a mezőt más embernek, nem váltható meg többé.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "váltja meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mezőt"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőt"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "eladta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mezőt"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "… embernek"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "más"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "váltható meg"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:23.206608928Z",
+  "model": "glm-5.3"
+}

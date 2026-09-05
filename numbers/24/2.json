@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És felemelte Bilám ⟨את⟩ az ő szemeit, és látta ⟨את⟩ Izráelt, sátrazva az ő törzsei szerint; és lett rá az Elohim lelke.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "és felemelte"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő szemeit"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "az ő szemeit"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sátrazva"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "az ő törzsei szerint"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:34.876066175Z",
+  "model": "glm-5.3"
+}

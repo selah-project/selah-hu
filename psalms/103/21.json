@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Áldjátok Jahvét az ő egész Cevaótja, az ő szolgái, akik az ő akaratát cselekszik!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Áldjátok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "Cevaótja"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "akik cselekszik"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "akaratát"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:28.305457921Z",
+  "model": "glm-5.3"
+}

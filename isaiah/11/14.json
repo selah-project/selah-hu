@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És rárepülnek a Pelistim vállára nyugat felé, együtt prédálják ⟨את⟩ a Kedem fiait; Edóm és Moáv ⟨lesz⟩ kezük kinyújtására, és Ámmón fiai az ő engedelmességökre.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "és rárepülnek"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "a vállára"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelistim"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "nyugat felé"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "prédálják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Kedem fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedem"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "és Moáv"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "kinyújtására"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kezük"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ámmón"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "engedelmességökre"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:17.504515797Z",
+  "model": "glm-5.3"
+}

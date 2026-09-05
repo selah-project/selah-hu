@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Jaj a vérvárosnak! Teljesen hazugság ⟨és⟩ fosztogatás ⟨van⟩ telve, nem marad el a zsákmány.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városnak"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "vér-"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "teljesen"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "hazugság"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "fosztogatás"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "telve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "marad el"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "zsákmány"
+    }
+  ],
+  "timestamp": "2026-09-04T21:28:55.085570281Z",
+  "model": "glm-5.3"
+}

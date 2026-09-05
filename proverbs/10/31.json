@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Az igaznak szája bocsát ⟨ki⟩ bölcsességet, de a fordított nyelv kimetszetik.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "szája"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaznak"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "bocsát ⟨ki⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcsességet"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "de a nyelv"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "a fordított"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kimetszetik"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:29.415979147Z",
+  "model": "glm-5.3"
+}

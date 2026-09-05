@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Ne legyen zsákodban kő és kő, nagy és kicsi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "zsákodban"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kő"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "és kő"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "és kicsi"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:05.402582103Z",
+  "model": "glm-5.3"
+}

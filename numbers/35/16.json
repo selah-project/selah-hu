@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Ha pedig vasszerszámmal ütötte meg őt, és meghalt: gyilkos ⟨az⟩; gyilkossá hal meg a gyilkos.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha pedig"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "szerszámmal"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vas-"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ütötte meg őt"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "gyilkos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "gyilkossá"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "a gyilkos"
+    }
+  ],
+  "timestamp": "2026-09-04T17:48:19.642254693Z",
+  "model": "glm-5.3"
+}

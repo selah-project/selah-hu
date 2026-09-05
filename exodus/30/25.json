@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És készítsd ⟨את⟩ azt szent kenet-olajul, fűszer-keverékül, kenőcskészítő műveként; szent kenet-olaj lesz.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És készítsd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (az olajat)"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olajul"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "kenet-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "fűszer-"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "keverékül"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "műve"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "kenőcskészítő"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olaj"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "kenet-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:15.270335414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "és a serege és az összeszámoltjai: négy és ötvenezer meg négyszáz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "és a serege"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "és az összeszámoltjai"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "négy"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "és ötven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "és négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:46.758472986Z",
+  "model": "glm-5.3"
+}

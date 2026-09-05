@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Kehát fiai: Amminadáv az ő fia, Korach az ő fia, Asszír az ő fia.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehát"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadáv"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asszír"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:16.041898947Z",
+  "model": "glm-5.3"
+}

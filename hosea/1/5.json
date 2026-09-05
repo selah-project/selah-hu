@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És lesz ama napon: összetöröm ⟨את⟩ Izrael ívét a Jizreel (Jezréel) völgyében.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ama napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "összetöröm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael ívét"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ívét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "völgyében"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:20.232968445Z",
+  "model": "glm-5.3"
+}

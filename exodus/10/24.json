@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És odahívatta Paró Moshét, és ezt mondta: Menjetek, szolgáljatok ⟨את⟩ Jahvét; csak juhaitok és marháitok maradjanak itt; kisdedeitek is menjenek veletek.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És odahívatta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eletlen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menjetek"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgáljatok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "juhaitok"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "és marháitok"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "maradjanak itt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "kisdedeitek"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "menjen"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "veletek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:13.070902135Z",
+  "model": "glm-5.3"
+}

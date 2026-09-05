@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 140,
+  "translation": "Elrejtettek a gőgösek csapdát nekem, és köteleket kifeszítettek hálót az ösvény mellett, tőröket tettek nekem. Szela.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "elrejtettek"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "gőgösek"
+    },
+    {
+      "surface": "פח",
+      "gloss": "csapdát"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "és köteleket"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "kifeszítettek"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "hálót"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ösvény"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "tőröket"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "tettek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:30.541857550Z",
+  "model": "glm-5.3"
+}

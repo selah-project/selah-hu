@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És ha szegényebb ⟨annál⟩, mint a te becslésed, akkor állítsák ⟨את⟩ őt a pap elé, és a pap mérje fel őt; aszerint, amennyit a fogadalmat tevő keze elér, úgy becsülje meg őt a pap.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "מך",
+      "gloss": "szegényebb"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "mint becslésed"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "állítsák"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "és mérje fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "על",
+      "gloss": "aszerint"
+    },
+    {
+      "surface": "פי",
+      "gloss": "…szája"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amennyit"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "elér"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "a fogadalmat tevő"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "úgy becsülje meg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:27.441271140Z",
+  "model": "glm-5.3"
+}

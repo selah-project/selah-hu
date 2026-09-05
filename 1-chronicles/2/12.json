@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Boáz nemzette ⟨את⟩ Ovédet, és Ovéd nemzette ⟨את⟩ Isait (Isai).",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "És Boáz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovédet"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovédet"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "és Ovéd"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isait"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isait"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:53.625599233Z",
+  "model": "glm-5.3"
+}

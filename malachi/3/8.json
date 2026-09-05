@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Rabol-e az ember Elohimot? Hiszen ti ⟨את⟩ engem raboltok. És azt mondtátok: miben raboltunk téged? A tizedben és a terumában.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Rabol-e"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hiszen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "raboltok"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "és mondtátok"
+    },
+    {
+      "surface": "במה",
+      "gloss": "miben"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "raboltunk téged"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "a tizedben"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "és a terumában"
+    }
+  ],
+  "timestamp": "2026-09-04T21:37:14.485323275Z",
+  "model": "glm-5.3"
+}

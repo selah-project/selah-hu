@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És te szent ⟨vagy⟩, Izrael dicséreteiben ⟨trónoló⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "És te"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨trónoló⟩"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "dicséreteiben"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:15.228482655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Mert jóllakatott egy sóvárgó nefest, és az éhező nefest jóval töltötte meg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "jóllakatott"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefest"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "sóvárgó"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "és nefest"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "éhező"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "megtöltötte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jóval"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:53.364599635Z",
+  "model": "glm-5.3"
+}

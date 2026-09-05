@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Csordultak ⟨a⟩ törvénytalanság ellen ⟨az⟩ igaznak ⟨életére⟩, és az ártatlan vért bűnösnek nyilvánították.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "csordultak össze"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨életére⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igaznak"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "és vért"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ártatlan"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "bűnösnek nyilvánították"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:24.764967709Z",
+  "model": "glm-5.3"
+}

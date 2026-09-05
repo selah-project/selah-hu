@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "ha ⟨az⟩ rendreimmel vetemétkedtek, és ha ⟨את⟩ ítéleteimet utálja meg lelketek, úgyhogy nem cselekszitek ⟨את⟩ minden parancsolatomat, megszegve ⟨את⟩ szövetségemet —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "rendreimmel"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "vetemétkedtek"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ítéleteimet"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ítéleteimet"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "megutálja"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "lelketek"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "úgyhogy nem"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "cselekszitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden parancsolatomat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parancsolatomat"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "megszegve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemet"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:21.696398581Z",
+  "model": "glm-5.3"
+}

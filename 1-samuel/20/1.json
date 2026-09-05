@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És megszökött David (Dávid) a najjóti Ramából, és eljött, és ezt mondta Jehonátán (Jónatán) előtt: Mit tettem? Mi a vétkem, és mi a bűnöm apád előtt, hogy ⟨את⟩ az életemet keresi?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "És megszökött"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David (Dávid)"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "a najjóti"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramából"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és eljött"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonátán (Jónatán)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mit"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tettem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "a vétkem"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "és mi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "a bűnöm"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "apádnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "keresi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az életemet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "az életemet"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:26.991760341Z",
+  "model": "glm-5.3"
+}

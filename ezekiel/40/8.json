@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És megmérte ⟨את⟩ a kapu csarnokát a ház felől: egy kána.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "és megmérte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kapu csarnokát"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "csarnokát"
+    },
+    {
+      "surface": "השער",
+      "gloss": "a kapu"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "a ház felől"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kána"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    }
+  ],
+  "timestamp": "2026-09-04T23:42:57.906585814Z",
+  "model": "glm-5.3"
+}

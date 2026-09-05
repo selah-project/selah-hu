@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Rám nehezedett haragod, és minden hullámod megtörött rajtam. Szela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "nehezedett"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "haragod"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "hullámod"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "megtörtél (rajtam)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:50.021689645Z",
+  "model": "glm-5.3"
+}

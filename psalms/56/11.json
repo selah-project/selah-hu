@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Elohimban dicsérem ⟨az⟩ igéjét, Jahvéban dicsérem ⟨az⟩ igéjét.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimban"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "dicsérem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "igéjét"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "dicsérem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "igéjét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:52.794938576Z",
+  "model": "glm-5.3"
+}

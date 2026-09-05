@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És Jahve kegyelmet adott ⟨את⟩ a népnek a Micrajim (Egyiptom) szemében, és azok megadták, amit kértek; és kifosztották ⟨את⟩ Micrajimot.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "És Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kegyelmet"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kegyelmet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "a Micrajim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "és azok megadták, amit kértek"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "és kifosztották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajimot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:24.236780584Z",
+  "model": "glm-5.3"
+}

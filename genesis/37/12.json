@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És elmentek testvérei, hogy legeltessék ⟨את⟩ apjuk juhait Sikemben.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérei"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "hogy legeltessék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a juhokat"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juhait"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "apjuk"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Sikemben"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:42.456736736Z",
+  "model": "glm-5.3"
+}

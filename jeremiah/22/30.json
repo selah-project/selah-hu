@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 22:30",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Így szólt Jahve: Írjátok fel ⟨את⟩ ezt az embert gyermektelennek, férfiúként, aki nem lesz szerencsés a maga napjaiban, mert nem lesz szerencsés az ő magvából férfi, aki ül Dávid (Dávid) trónján, és uralkodik még Jehúdában.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "Írjátok fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt az embert"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ערירי",
+      "gloss": "gyermektelennek"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "férfiúként"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "lesz szerencsés"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "a maga napjaiban"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "lesz szerencsés"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "az ő magvából"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "aki ül"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trónján"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid (Dávid)"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "és uralkodik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehúdában"
+    }
+  ],
+  "timestamp": "2026-09-04T20:40:34.119810645Z",
+  "model": "glm-5.3"
+}

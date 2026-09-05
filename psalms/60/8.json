@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "Elohim szólt az ő szentségében: ujjongani fogok, felosztom Sekemet, és megmérem a Szukkót völgyét.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "az ő szentségében"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ujjongani fogok"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "felosztom"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekemet"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "és a völgyét"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Szukkót"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "megmérem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:36.348496472Z",
+  "model": "glm-5.3"
+}

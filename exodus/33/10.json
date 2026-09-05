@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És látta az egész nép ⟨את⟩ a felhő oszlopát, hogy áll a sátor bejáratánál, és felkelt az egész nép, és meghajolt minden ember a maga sátrának bejáratánál.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a felhő oszlopát"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "oszlopát"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "a felhő"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "áll"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "a sátor"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "és meghajolt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "minden ember"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "a maga sátrának"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:56.717183647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megkeményítette Paró ⟨את⟩ az ő szívét, ebben az esetben is, és nem bocsátotta el ⟨את⟩ a népet.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "és-megkeményítette"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő szívét"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "az-ő-szívét"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "esetben"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ebben"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és-nem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bocsátotta-el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a-népet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:59.187134881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És szólt Jahve Moshe felé: Menj a néphez, és szenteld meg őket ma és holnap, és mossák meg ruháikat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Menj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "és szenteld meg őket"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "és holnap"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "és mossák meg"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ruháikat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:13.464228599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És megteszlek nagy néppé, és megáldalak, és megnevezem ⟨nagyra⟩ a nevedet, és légy áldássá.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "És megteszlek"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "néppé"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "és megáldalak"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "és megnevezem ⟨nagyra⟩"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nevedet"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és légy"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "áldássá"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:46.064857169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Csak ha egy nap vagy két nap ⟨áll⟩, nem lesz megbüntetve, mert az ő ezüstje ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "csak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "egy nap"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "két nap"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨áll⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "lesz megbüntetve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "az ő ezüstje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:59.528132150Z",
+  "model": "glm-5.3"
+}

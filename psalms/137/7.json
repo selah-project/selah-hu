@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Emlékezzél, Jahve, Edóm fiainak ⟨את⟩ a napját — Jerusálajimnak ⟨a napját⟩ — akik mondták: „Romboljátok, romboljátok, annak alapjáig!”",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezzél"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a napját"
+    },
+    {
+      "surface": "יום",
+      "gloss": "a napját"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajimnak"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "akik mondták"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Romboljátok"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "romboljátok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "annak alapjáig"
+    },
+    {
+      "surface": "בה",
+      "gloss": "annak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:33.127157050Z",
+  "model": "glm-5.3"
+}

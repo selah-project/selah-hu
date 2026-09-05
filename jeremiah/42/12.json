@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És irgalmat adok nektek, és megkönyörülök ⟨את⟩ rajtatok, és visszahozlak ⟨את⟩ titeket a földetekre.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "És adok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "irgalmat"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "és megkönyörülök"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ rajtatok",
+      "marks": "megkönyörülök rajtatok"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "és visszahozlak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "visszahozlak titeket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "földetekre"
+    }
+  ],
+  "timestamp": "2026-09-04T23:40:23.511001026Z",
+  "model": "glm-5.3"
+}

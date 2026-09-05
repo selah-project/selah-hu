@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Abból a földből ment ki Assúr, és felépítette ⟨את⟩ Ninivét, és ⟨את⟩ Rehóbot-Írt, és ⟨את⟩ Kalát —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Abból"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földből"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "abból"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ment ki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assúr"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "és felépítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninivét"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninivét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Rehóbot-Írt"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehóbot-Írt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Rehóbot-Írt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Kalát"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:54.433343207Z",
+  "model": "glm-5.3"
+}

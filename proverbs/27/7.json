@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "A jóllakott lép meg mézcseppet, és az éhes lépnek minden keserű édes.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "jóllakott"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "lép meg"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "mézcseppet"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "és lélek"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "éhes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מר",
+      "gloss": "keserű"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "édes"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:50.609721738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És volt Jahve ⟨את⟩ Joszéffel, és lett ⟨ő⟩ sikeres ember, és volt a házában az ő urának, a micraitának.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És volt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joszéffel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszéf"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "sikeres"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és volt"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házában"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "az ő urának"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "a micraitának"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:19.722289509Z",
+  "model": "glm-5.3"
+}

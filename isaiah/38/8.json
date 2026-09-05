@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 38:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Íme, én visszafordítom ⟨את⟩ a lépcsők árnyékát, amely leszállt Áház lépcsőin a nappal, hátrafelé tíz fokot; és visszatért a nap tíz fokot azokon a lépcsőkön, amelyeken leszállt.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "visszafordítom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "árnyékát"
+    },
+    {
+      "surface": "צל",
+      "gloss": "árnyékát"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a lépcsők"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "leszállt"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "lépcsőin"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Áház"
+    },
+    {
+      "surface": "בשמש",
+      "gloss": "a nappal"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "hátrafelé"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "fokot"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "fokot"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "a lépcsőkön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeken"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "leszállt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:19.497575486Z",
+  "model": "glm-5.3"
+}

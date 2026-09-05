@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Jaj a szárnyak zúgásának földjének, amely a Kús (Etiópia) folyamain túl van!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjének"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "zúgásának"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "szárnyak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "túl"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "folyamain"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:12.629599106Z",
+  "model": "glm-5.3"
+}

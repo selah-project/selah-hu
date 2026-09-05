@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 149,
+  "translation": "Dicsérjétek Jah-t, énekeljetek Jahvénak új éneket, ⟨az⟩ ő dicsérete a heszedesek gyülekezetében!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "énekeljetek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "éneket"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "új"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "dicsérete"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "gyülekezetében"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "heszedeseknek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:55.341716421Z",
+  "model": "glm-5.3"
+}

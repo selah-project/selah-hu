@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 9:31",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És amikor Jehú bement a kapun, így szólt: „Béke veled, Zimri, ⟨te⟩ urad gyilkosa?”",
+  "tokens": [
+    {
+      "surface": "v.jetbrains-jehú",
+      "gloss": "és Jehú"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bement"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "a kapun"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és így szólt"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "béke van-e"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "gyilkosa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "urának"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:43.310795306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 14:18",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ha kimegyek a mezőre, íme kard által átdöföttek; és ha bemegyek a városba, íme éhség betegei; mert próféta és pap is idegen földre járt, és nem ismerték ⟨azt⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "kimegyek"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőre"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "átdöföttek"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "bemegyek"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "תחלואי",
+      "gloss": "betegei"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "éhség"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "próféta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "és pap is"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "סחרו",
+      "gloss": "járt(-kelt)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "idegen földre"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ismerték"
+    }
+  ],
+  "timestamp": "2026-09-04T20:38:33.504847169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "A karmesternek, Aijeleth ha-Sachar (a hajnal szarvasünője) szerint, Dávid zsoltára.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "szarvasünője"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "a hajnal"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:15.227683674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ha lisztáldozat ⟨a⟩ mángorlón ⟨az⟩ áldozatod, lisztből legyen, olajjal vegyítve, kovásztalan legyen ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lisztáldozat"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩ mángorlón"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "mángorlón"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "áldozatod"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "lisztből"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "vegyítve"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "kovásztalan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "legyen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:55.435374547Z",
+  "model": "glm-5.3"
+}

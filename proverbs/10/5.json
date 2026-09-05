@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Aki nyáron gyűjt, értelmes fia ⟨van⟩; aki aratáskor alszik, szégyent hozó fia ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "gyűjt"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "nyáron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "értelmes"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "alszik"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "aratáskor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "szégyent hozó"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:05.143383765Z",
+  "model": "glm-5.3"
+}

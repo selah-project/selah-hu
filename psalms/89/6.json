@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "És hirdetik az egek csodáidat, Jahve, és hűségedet a szentek gyülekezetében.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "És hirdetik"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "csodáidat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "és"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "hűségedet"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "a gyülekezetében"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "a szentek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:02.314872658Z",
+  "model": "glm-5.3"
+}

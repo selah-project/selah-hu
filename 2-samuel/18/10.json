@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És meglátta ⟨ezt⟩ egy ember, és megmondta Joavnak, és így szólt: Íme, láttam ⟨את⟩ Avsalomot, felfüggesztve a cserfában.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és meglátta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és megmondta"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Joavnak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és így szólt"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avsalomot"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avsalomot"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "felfüggesztve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "a cserfában"
+    }
+  ],
+  "timestamp": "2026-09-04T19:33:31.053924579Z",
+  "model": "glm-5.3"
+}

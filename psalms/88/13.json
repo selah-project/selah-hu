@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Vajon ismertté válnak-e a sötétségben csodáid, és igazságod a feledés földjén?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "ismertté válnak-e"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "a sötétségben"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "csodáid"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "és igazságod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "a feledés"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:07.914545319Z",
+  "model": "glm-5.3"
+}

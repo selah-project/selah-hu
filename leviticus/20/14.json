@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ⟨a⟩ férfi, aki feleségül veszi ⟨את⟩ ⟨a⟩ nőt és ⟨את⟩ annak anyját — gonoszság az; tűzben égetik el őt és ⟨את⟩ azokat, és ne legyen gonoszság köztetek.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "feleségül veszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nőt"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "a nőt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "annak anyját"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "gonoszság"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "égetik el"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "és ⟨את⟩ azokat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "gonoszság"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "köztetek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:51.693941827Z",
+  "model": "glm-5.3"
+}

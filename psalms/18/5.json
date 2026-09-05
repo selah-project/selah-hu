@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Körülfontak a halál kötelei, és a Bélial patakjai megrémítettek engem.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "körülfontak"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "a halál kötelei"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kötelei"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "és a patakjai"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Bélial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "megrémítettek engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:14.679359765Z",
+  "model": "glm-5.3"
+}

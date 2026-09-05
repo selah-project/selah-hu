@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És látta fegyvereinek hordozója, hogy meghalt Saúl (Saul), és esett ő is a kardjára, és meghalt vele.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hordozója"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fegyvere(i)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "és esett"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "על",
+      "gloss": "reá"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "kardjára"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T19:21:29.418008197Z",
+  "model": "glm-5.3"
+}

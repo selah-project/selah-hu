@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És foglyul vitték ⟨את⟩ az asszonyokat, akik benne voltak, kicsitől naggyal — nem öltek meg egyetlen férfit sem, hanem elhajtották ⟨őket⟩, és elmentek az ő útjukon.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "És foglyul vitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asszonyokat"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "az asszonyokat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne voltak"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "kicsitől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és naggyal"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "naggyal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "öltek meg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egyetlen férfit"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "és elhajtották"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "az ő útjukon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:41.649390582Z",
+  "model": "glm-5.3"
+}

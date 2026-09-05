@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Kezdetben teremtette Elohim ⟨את⟩ az eget és ⟨את⟩ a földet.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Kezdetben"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "teremtette"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az eget"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az eget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:09.799498083Z",
+  "model": "glm-5.3"
+}

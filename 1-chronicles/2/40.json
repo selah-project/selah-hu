@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Elásza nemzette ⟨את⟩ Sziszmát, és Sziszma nemzette ⟨את⟩ Sallúmot;",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Elásza"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sziszmat"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sziszmat"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "és Sziszma"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sallúmot"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sallúmot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:39.955480773Z",
+  "model": "glm-5.3"
+}

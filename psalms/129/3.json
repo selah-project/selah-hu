@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 129,
+  "translation": "Hátamra szántottak az ekeszántók, megnyújtották barázdáikat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "hátam"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "szántottak"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "az ekeszántók"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "megnyújtották"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "barázdáikat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.648529535Z",
+  "model": "glm-5.3"
+}

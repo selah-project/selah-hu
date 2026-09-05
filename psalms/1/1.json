@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Boldog ⟨az⟩ ⟨ember⟩, aki nem járt a számkivetők tanácsában, és a vétkesek útján nem állt meg, és a csúfolódók ülőhelyén nem ült.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨az⟩ ⟨ember⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "járt"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "a … tanácsában"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "számkivetők"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "és … útján"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "vétkesek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "állt meg"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "és … ülőhelyén"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "csúfolódók"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ült"
+    }
+  ],
+  "timestamp": "2026-09-04T21:37:07.727869229Z",
+  "model": "glm-5.3"
+}

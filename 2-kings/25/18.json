@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És fogta a főhóhér ⟨את⟩ Seráját, a főpapot, és ⟨את⟩ Cefanjáhut, a másodpapot, és ⟨את⟩ a küszöb őreinek hármat.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "fő"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "hóhér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seráját"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seráját"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "fő"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Cefanjáhut"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Cefanjáhut"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "másod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a küszöb őreinek hármat"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "hármat"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "őreinek"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "a küszöb"
+    }
+  ],
+  "timestamp": "2026-09-04T20:05:53.340601634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És felelt a nép, és mondta: távol legyen tőlünk ⟨את⟩ Jahvét elhagyni, más isteneket szolgálni!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És felelt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "távol legyen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tőlünk"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "elhagyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "szolgálni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:17.276439236Z",
+  "model": "glm-5.3"
+}

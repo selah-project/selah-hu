@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És én is visszatartottam tőletek ⟨את⟩ az esőt, amikor még három hónap volt az aratásig; és esőt bocsátottam egyik városra, a másik városra pedig nem bocsátottam esőt — egy részre esett, és a rész, amelyre nem esett, kiszáradt.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És is"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "visszatartottam"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "tőletek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az esőt"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "az esőt"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "amikor még"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "hónap"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "az aratásig"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "és esőt bocsátottam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "egyik város"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyre"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "pedig"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városra"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "másik egyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "bocsátottam esőt"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "részt"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyre"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "esett"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "és a részre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "esett"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "arra"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "kiszáradt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:11.848478923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És gonosz volt az Elohim szemében ez a dolog, és megverte ⟨את⟩ Jiszráélt.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "és gonosz volt"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ez a dolog"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és megverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:37.225782983Z",
+  "model": "glm-5.3"
+}

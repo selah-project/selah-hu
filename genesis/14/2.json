@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "háborút csináltak ⟨את⟩ Berával, Szodoma királyával, és ⟨את⟩ Birsával, Amóra királyával, Sinábbal, Admá királyával, és Semébérrel, Cebojim királyával, és Bela királyával — az maga Coar",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "csináltak"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "háborút"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Berával, Szodoma királyával"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Berával"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyával"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Szodoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsával"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyával"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amóra"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Sinábbal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyával"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admá"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "és Semébérrel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyával"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Cebojim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "és királyával"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "az maga"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Coar"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:00.753852401Z",
+  "model": "glm-5.3"
+}

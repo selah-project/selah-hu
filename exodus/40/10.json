@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És kend fel ⟨את⟩ az égőáldozat oltárát és ⟨את⟩ minden edényét, és szenteld ⟨את⟩ az oltárt, és ⟨az⟩ oltár szentségszentje lesz.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "és kend fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozat oltárát"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárát"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden edényét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "és szenteld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨az⟩ oltár"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentségszentje"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "(szentje)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:11.310996388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És történt, mert félték a bábák ⟨את⟩ az Elohimot, hogy készített nekik házakat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "félték"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "a bábák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohimot"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohimot"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "hogy készített"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "házakat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:03.316800579Z",
+  "model": "glm-5.3"
+}

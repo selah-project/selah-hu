@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És készített kecskebakok szőréből kárpitokat ⟨את⟩ a sátorhoz, a lakóhely fölé; tizenegy kárpitot készített ⟨את⟩ azokat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És készített"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kárpitokat"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kecskebakok szőréből"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "a sátorhoz"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ... fölé"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "lakóhely"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "tizen-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "egy"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kárpitot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:10.681200798Z",
+  "model": "glm-5.3"
+}

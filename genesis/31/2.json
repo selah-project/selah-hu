@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És látta Jaakov ⟨את⟩ Lavan arcát, és íme, nem volt ő hozzá úgy, mint azelőtt, tegnap és tegnapelőtt.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcát"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcát"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nem volt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ő hozzá"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "mint tegnap"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "és tegnapelőtt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:35.203359238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "A Kehát fiainak pedig nem adott, mert ⟨az ő ↴szolgálatuk⟩ a szentély ⟨munkája⟩ — vállukon viselik azt.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "pedig a fiainak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehát"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "szolgálatuk"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent(égy)"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "rajtuk"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "vállukon"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "viselik"
+    }
+  ],
+  "timestamp": "2026-09-04T17:29:49.295399901Z",
+  "model": "glm-5.3"
+}

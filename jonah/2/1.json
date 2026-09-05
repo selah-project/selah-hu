@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És rendelt Jahve egy nagy halat, hogy elnyelje ⟨את⟩ Jónát; és volt Jóna a hal gyomrában három napot és három éjjelt.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "és rendelt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "halat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "hogy elnyelje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jónát"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jónát"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és volt"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jóna"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "a gyomrában"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "a hal"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napot"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "és három"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "éjjelt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:44:07.706626386Z",
+  "model": "glm-5.3"
+}

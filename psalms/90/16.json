@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Jelenjék meg szolgáidnak a te műved, és a te fényed ⟨fiamikon⟩ az ő fiaikon.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Jelenjék meg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "szolgáidnak"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáid"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "a te műved"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "és a te fényed"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨fiamikon⟩ rajtuk"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "az ő fiaikon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:44.277083962Z",
+  "model": "glm-5.3"
+}

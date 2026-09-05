@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "tíz hízlalt szarvasmarha, és húsz legelőről való szarvasmarha, és száz juhot — hímszarvas kívül, és zerge, és dámvad, és hízlalt szárnyas.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "szarvasmarha"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "hízlalt"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "szarvasmarha"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "legelőről való"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "és száz"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juhot"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "hímszarvas"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "és zerge"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "és dámvad"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "és szárnyas"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "hízlalt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:40:14.507729988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Oved nemzette ⟨את⟩ Jehút, és Jehú nemzette ⟨את⟩ Azarját;",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehút"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehút"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "és Jehú"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarját"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarját"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:39.955174844Z",
+  "model": "glm-5.3"
+}

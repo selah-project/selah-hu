@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És feláldozta ⟨את⟩ égőáldozatát és ⟨את⟩ ételáldozatát, kiöntötte ⟨את⟩ italáldozatát, és meghintette ⟨את⟩ a vérét a békeaáldozatoknak, amelyek az övéi voltak, az oltárra.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "feláldozta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "égőáldozatát"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "égőáldozatát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "ételáldozatát"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ételáldozatát"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "kiöntötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "italáldozatát"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "italáldozatát"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "meghintette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vérét"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "a békeaáldozatoknak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övéi"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárra"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:20.919791161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 6:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És én, íme, vízözönt vizet hozok ⟨את⟩ a földre, hogy elveszítsek minden testet, amelyben élet lelke van az egek alatt; mind, ami a földön van, kileheli ⟨a⟩ lelkét.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "És én"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "hozok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vízözönt"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "vízözönt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "hogy elveszítsek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "testet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyben"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élet"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "יגוע",
+      "gloss": "kileheli ⟨a⟩ lelkét"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:25.472268229Z",
+  "model": "glm-5.3"
+}

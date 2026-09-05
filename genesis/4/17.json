@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És megismerte Kajin (Káin) ⟨את⟩ feleségét, és ⟨az⟩ fogant, és megszülte ⟨את⟩ Hanokhot (Énókot); és ⟨ő⟩ építője volt egy városnak, és nevének szólította a várost, fia neve szerint, Hanokhnak.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "és megismerte"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségét"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "és ⟨az⟩ fogant"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és megszülte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanokhot"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokhot"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és ⟨ő⟩ volt"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "építője"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "egy városnak"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és nevének szólította"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevének"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "neve szerint"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanokhnak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:16.581462379Z",
+  "model": "glm-5.3"
+}

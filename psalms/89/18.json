@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Mert erejük ékessége te ⟨van⟩, és kedvedben emelkedik fel szarvunk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ékessége"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "erejüknek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te ⟨van⟩"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "és kedvedben"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "emelkedik fel"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "szarvunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:00.935475788Z",
+  "model": "glm-5.3"
+}

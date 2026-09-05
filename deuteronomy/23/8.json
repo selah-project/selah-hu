@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne útáld az edomitát, mert testvéred ⟨az⟩; ne útáld a micrajmit, mert jövevény voltál az ő földjén.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "útáld"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "az edomitát"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "útáld"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "a micrajmit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גר",
+      "gloss": "jövevény"
+    },
+    {
+      "surface": "היית",
+      "gloss": "voltál"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "az ő földjén"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:08.210393197Z",
+  "model": "glm-5.3"
+}

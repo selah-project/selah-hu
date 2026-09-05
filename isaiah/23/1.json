@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Terhe Cornak (Tírusznak). Jajgatjatok, Tarsis (Tarsís) hajói, mert feldúlatott, nincs ház, nincs bemenet; a Kitim (Ciprus) földjéről kinyilatkoztatott nekik.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Terhe"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Cornak"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "jajgatjatok"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "hajói"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "feldúlatott"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "bemenet"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "kinyilatkoztatott"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:48.479133873Z",
+  "model": "glm-5.3"
+}

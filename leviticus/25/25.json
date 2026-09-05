@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Ha elszegényedik a testvéred, és eladja birtokrészét, és eljön az ő váltsággorálója, a hozzá közelvaló, és megváltja ⟨את⟩ a testvére eladottját,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "elszegényedik"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "és eladja"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "birtokrészét"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "és eljön"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "váltsággorálója"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "közelvaló"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "és megváltja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a testvére eladottját"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "eladottját"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvére"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:12.360303491Z",
+  "model": "glm-5.3"
+}

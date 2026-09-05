@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ne csináljatok ⟨את⟩ mellém isteneket ezüstből, és arany isteneket ne csináljatok magatoknak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "csináljatok"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mellém"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüstből"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "és arany"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "csináljatok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatoknak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:43.222026987Z",
+  "model": "glm-5.3"
+}

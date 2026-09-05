@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És felemeltem ⟨את⟩ szemeimet, és láttam, és íme négy szarvat.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "És felemeltem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szemeimet"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemeimet"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "és láttam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "szarvat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:33:00.809856819Z",
+  "model": "glm-5.3"
+}

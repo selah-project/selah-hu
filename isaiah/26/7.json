@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Az igaznak ösvénye ⟨az⟩ egyenesség; az egyenes Ösvényt az igaznak te egyengeted.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ösvénye"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "az igaznak"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "egyenesség"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "az egyenes"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ösvényt"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaznak"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "egyengeted"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:39.463235796Z",
+  "model": "glm-5.3"
+}

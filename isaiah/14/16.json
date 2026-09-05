@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Akik látnak téged, rád merednek, felőled töprengenek: vajon ez ⟨az⟩ ember ⟨az⟩, aki megrángatta a földet, megrendítette a királyságokat?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Akik látnak téged"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "rád"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "merednek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "rád"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "töprengenek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "vajon ez"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "megrángatta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "megrendítette"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "a királyságokat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:47.654372968Z",
+  "model": "glm-5.3"
+}

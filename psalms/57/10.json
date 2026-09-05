@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 57,
+  "translation": "Hálát adok neked a népek között, Adonáj, zengek ⟨rólad⟩ a nemzetek között!",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hálát adok neked"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "a népek között"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "zengek rólad"
+    },
+    {
+      "surface": "בל",
+      "gloss": "között"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "a nemzetek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:09.550270183Z",
+  "model": "glm-5.3"
+}

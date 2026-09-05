@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Mert a heszeded ⟨van⟩ szemeim előtt, és igazságodban járkáltam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a heszeded"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "⟨van⟩ előtt"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemeim"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "és járkáltam"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "igazságodban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:37.818824482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Eltévelyedtem, mint az elveszett juh; keresd meg a te szolgádat, mert a micváidat nem felejtettem el.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "eltévelyedtem"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "mint a juh"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "elveszett"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "keresd meg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a te szolgádat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "a micváidat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "felejtettem el"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:08.242771276Z",
+  "model": "glm-5.3"
+}

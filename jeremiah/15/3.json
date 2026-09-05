@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 15:3",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És meglátogatom őket négy nemzetséggel, mondja Jahve: ⟨את⟩ a kardot megölésre, és ⟨את⟩ a kutyákat elhurcolásra, és ⟨את⟩ az ég madarait és ⟨את⟩ a föld állatait felfalásra és pusztításra.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "És meglátogatom"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "nemzetséggel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kardot"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "megölésre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kutyákat"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "a kutyák"
+    },
+    {
+      "surface": "לסחב",
+      "gloss": "elhurcolásra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ég madarait"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madarait"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a föld állatait"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "állatait"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "felfalásra"
+    },
+    {
+      "surface": "ולהשחית",
+      "gloss": "és pusztításra"
+    }
+  ],
+  "timestamp": "2026-09-04T20:38:44.799344443Z",
+  "model": "glm-5.3"
+}

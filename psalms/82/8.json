@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 82,
+  "translation": "Kelj fel, Elohim, ítélj ⟨את⟩ a földet, mert te öröklöd meg minden népeket!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "kelj fel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ítélj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "öröklöd meg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "népeket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:18.368195938Z",
+  "model": "glm-5.3"
+}

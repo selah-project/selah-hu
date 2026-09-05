@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Kegyes Jahve és igaz, és a mi Elohimunk irgalmazó.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Kegyes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "és igaz"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "és a mi Elohimunk"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "irgalmazó"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:47.645323795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És ⟨את⟩ a nép maradékát, a városban hátrahagyottakat, és ⟨את⟩ az átcsatlakozottakat, akik átpártoltak a bábeli királyhoz, és ⟨את⟩ a sokaság maradékát fogságba vitte Nevuzaradán, a mészárosok főnöke.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nép maradékát"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "maradékát"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "hátrahagyottakat"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az átcsatlakozottakat"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "átcsatlakozottakat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "átpártoltak"
+    },
+    {
+      "surface": "על",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "bábeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a sokaság maradékát"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "maradékát"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "a sokaság"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "fogságba vitte"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradán"
+    },
+    {
+      "surface": "רב",
+      "gloss": "főnöke"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mészárosok"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:36.021552084Z",
+  "model": "glm-5.3"
+}

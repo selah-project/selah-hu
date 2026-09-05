@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És beadja ⟨את⟩ vétekáldozatát Jahvénak, a kijelentés sátorának bejáratához: egy kost a vétekért.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "És beadja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vétekáldozatát"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "vétekáldozatát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—hoz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratához"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátorának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kijelentés"
+    },
+    {
+      "surface": "איל",
+      "gloss": "egy kost"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "a vétekért"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:42.788958645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Ujjongok és örvendezek a heszededben, mert láttad ⟨את⟩ nyomorúságomat, megismerted a szorongattatásaimat, ⟨a⟩ lelkemét.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Ujjongok"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "és örvendezek"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "a heszededben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "láttad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyomorúságomat"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nyomorúságomat"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "megismerted"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "a szorongattatásaimat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:06.433861291Z",
+  "model": "glm-5.3"
+}

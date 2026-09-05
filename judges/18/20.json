@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És jó lett a kohan szíve, és vette ⟨את⟩ az efodot, ⟨את⟩ a terafimokat és ⟨את⟩ a faragott képet, és elment a nép közepébe.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "és jó lett"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohannak"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az efodot"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "az efodot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a terafimokat"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "a terafimokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a faragott képet"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "a faragott kép"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "közepébe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T18:59:06.766695142Z",
+  "model": "glm-5.3"
+}

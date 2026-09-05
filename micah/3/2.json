@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "akik gyűlölik a jót és szeretik a rosszat, akik lenyúzzák bőrüket róluk és húsukat csontjaikról;",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "akik gyűlölik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a jót"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "és szeretik"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "akik lenyúzzák"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "bőrüket"
+    },
+    {
+      "surface": "mעליהם",
+      "gloss": "róluk"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "és húsukat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "róluk"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "csontjaikról"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:38.888405484Z",
+  "model": "glm-5.3"
+}

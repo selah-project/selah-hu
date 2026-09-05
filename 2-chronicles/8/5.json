@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megépítette ⟨את⟩ Bet-Horont, a felsőt, és ⟨את⟩ Bet-Horont, az alsót, megerősített városokat, falakkal, kapukkal és reteszekkel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "és megépítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horont"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "a felső"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Bet-Horont"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "az alsó"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városokat"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "megerősített"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "falakkal"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "kapukkal"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "és reteszekkel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:13:53.219461530Z",
+  "model": "glm-5.3"
+}

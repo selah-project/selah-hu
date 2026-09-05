@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 126,
+  "translation": "Könnyek között vetők ujjongva aratnak.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "vetők"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "könnyek között"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ujjongva"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "aratnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:27.569266146Z",
+  "model": "glm-5.3"
+}

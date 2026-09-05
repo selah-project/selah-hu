@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Bekötözte a szél ⟨את⟩ őt a szárnyaival, és megszégyenülnek az áldozataiktól.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "Bekötözte"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a szél"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "a szárnyaival"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "és megszégyenülnek"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "az áldozataiktól"
+    }
+  ],
+  "timestamp": "2026-09-04T21:18:08.315467403Z",
+  "model": "glm-5.3"
+}

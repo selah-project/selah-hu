@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 96,
+  "translation": "Jahve előtt, mert jön, mert jön, hogy ítéljen ⟨a⟩ földet: ítéli ⟨a⟩ világotakedvességben, és a népeket az ő hűségében.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "hogy ítéljen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ítéli"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a világot"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "igazságban"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "és a népeket"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "az ő hűségében"
+    }
+  ],
+  "timestamp": "2026-09-05T00:47:52.368322194Z",
+  "model": "glm-5.3"
+}

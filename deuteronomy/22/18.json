@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És fogják azon város vénei ⟨את⟩ a férfit, és fenyítik meg ⟨את⟩ őt.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "és fogják"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vénei"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "annak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a férfit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfit"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "és fenyítik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt (a férfit)"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:33.994824361Z",
+  "model": "glm-5.3"
+}

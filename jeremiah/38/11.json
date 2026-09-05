@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 38:11",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És vett Eved-Melech ⟨את⟩ az embereket kezével, és bement a király házába, a raktár (az ocamelő) alá, és vett onnan rongyokat, foszladozó rongyokat és elnyűtt ruhákat, és elküldte azokat Jirmejáhuhoz a gödörbe kötelekkel.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vett"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-Melech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embereket"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az embereket"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezével"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és bement"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alá"
+    },
+    {
+      "surface": "האוצר",
+      "gloss": "a raktárnak"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és vett"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "בלוי",
+      "gloss": "rongyokat"
+    },
+    {
+      "surface": "הסחבות",
+      "gloss": "foszladozó rongyokat"
+    },
+    {
+      "surface": "ובלוי",
+      "gloss": "és elnyűtt"
+    },
+    {
+      "surface": "מלחים",
+      "gloss": "ruhákat"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "és elküldte azokat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejáhuhoz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "a gödörbe"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "kötelekkel"
+    }
+  ],
+  "timestamp": "2026-09-04T20:49:19.103165954Z",
+  "model": "glm-5.3"
+}

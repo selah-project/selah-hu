@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Aki vermet ás, beleesik, és aki kerítést bont, kígyó marja meg.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ász"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "vermet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bele"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "esik"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "és bont"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "kerítést"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "marja meg"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "kígyó"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:36.739767141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ⟨את⟩ a-tengert odaadta a jobb vállrész kelet felé, déllel szemben.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a-tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a-tenger"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "odaadta"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "vállrészről"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "a jobb"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kelet felé"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "szemben"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "a déllei"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:54.852756192Z",
+  "model": "glm-5.3"
+}

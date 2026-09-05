@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És a serege és az ő megszámláltjai öt és negyven ezer és hatszáz és ötven.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "És a serege"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "és az ő megszámláltjai"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "öt"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "és negyven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és hat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "és ötven"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:46.881555613Z",
+  "model": "glm-5.3"
+}

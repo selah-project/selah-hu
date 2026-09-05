@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Csókoljátok meg a Fiút, nehogy megharagudjék, és elveszzetek az úton, mert csakhamar fellángol az ő haragja. Boldogok mind, akik őbenne keresnek menedéket.",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "Csókoljátok meg"
+    },
+    {
+      "surface": "בר",
+      "gloss": "a Fiút"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "megharagudjék"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "és elveszzetek"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "fellángol"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "csakhamar"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Boldogok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "akik keresnek menedéket"
+    },
+    {
+      "surface": "בו",
+      "gloss": "őbenne"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:26.981479354Z",
+  "model": "glm-5.3"
+}

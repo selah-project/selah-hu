@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "és a középső retesz a deszkák közepén menjen át a egyik végtől a másik végeig.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "és a retesz"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "középső"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a közepén"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "a deszkáknak"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "menjen át"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "az egyik végtől"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "a másik végéig"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:24.570270758Z",
+  "model": "glm-5.3"
+}

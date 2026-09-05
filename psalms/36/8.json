@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Milyen drága a heszed, Elohim! Ezért az ember fiai szárnyaid árnyékában oltalmat lelnek.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Milyen"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "drága"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Ezért az ember fiai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "árnyékában"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "szárnyaid"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "oltalmat lelnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:37.035760679Z",
+  "model": "glm-5.3"
+}

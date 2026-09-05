@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Mondta ⟨a⟩ szívében: elfelejtett El, elrejtette ⟨az⟩ orcáját, nem lát soha.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "⟨a⟩ szívében"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "elfelejtett"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "elrejtette"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "⟨az⟩ orcáját"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lát"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "soha"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:27.309096760Z",
+  "model": "glm-5.3"
+}

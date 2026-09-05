@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És megparancsolja a kohen, és levágja ⟨את⟩ az egyik madarat egy agyagedénybe, élő víz fölé.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "és megparancsolja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "és levágja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egyik madarat"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "a madarat"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyiket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "egy...-be"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edény"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "agyag-"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élő"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:58.012347948Z",
+  "model": "glm-5.3"
+}

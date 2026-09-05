@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Mindazon bűneiért Baasának és bűneiért Elának, a fiának, amelyeket elkövettek, és amelyekkel vétkeztették ⟨את⟩ Izráelt, hogy ingereljék ⟨את⟩ Jahvét, Izráel Elohimját, hiú bálványaikkal.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazon"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "bűneiért"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "és bűneiért"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elának"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a fiának"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "elkövettek"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amelyekkel"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "vétkeztették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "hogy ingereljék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimját"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "hiú bálványaikkal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:08.387179802Z",
+  "model": "glm-5.3"
+}

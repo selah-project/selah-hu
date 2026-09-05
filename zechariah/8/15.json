@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "így meggondoltam magam, elszántam e napokban, hogy jót tegyek Jerusálaimmel ⟨את⟩ és ⟨את⟩ Jehúda házával: ne féljetek!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "meggondoltam magam"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "elszántam"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "e napokban"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezekben"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "hogy jót tegyek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusálaimmel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálaimmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jehúda házával"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házával"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljetek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:35:41.089722916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És mondd neki: Jahve, a héberek Elohimja küldött engem hozzád, mondván: Bocsásd el ⟨את⟩ népemet, hogy szolgáljanak nekem a pusztában; és íme, eddig nem hallgattál.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "a héberek"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "küldött engem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bocsásd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "hogy szolgáljanak nekem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hallgattál"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eddig"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ez idáig"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:13.370344233Z",
+  "model": "glm-5.3"
+}

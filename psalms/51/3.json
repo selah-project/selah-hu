@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Könyörülj rajtam, Elohim, heszeded szerint, irgalmaid sokasága szerint: töröld el vétkaimet.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Könyörülj rajtam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "heszeded szerint"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "szerint a sokasága"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "irgalmaid"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "töröld el"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "vétkaimet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:31.071913635Z",
+  "model": "glm-5.3"
+}

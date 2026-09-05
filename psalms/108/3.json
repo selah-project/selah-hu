@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Ébredj, lant és koboz! Én felkeltetem a hajnalt.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ébredj"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "lant"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "és koboz"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "felkeltetem"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "a hajnalt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:13.402272742Z",
+  "model": "glm-5.3"
+}

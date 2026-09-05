@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ötven évtől visszatérjen a szolgálat seregéből, és ne szolgáljon többé.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "És … évtől"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "visszatérjen"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "a seregéből"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "a szolgálat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "szolgáljon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    }
+  ],
+  "timestamp": "2026-09-04T17:30:37.699777324Z",
+  "model": "glm-5.3"
+}

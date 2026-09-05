@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És szült neki fiakat: ⟨את⟩ Jeust és ⟨את⟩ Semarját és ⟨את⟩ Zahamot.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiakat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeust"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Jeust"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Semarját"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Semarját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Zahamot"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahamot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:15:03.052066980Z",
+  "model": "glm-5.3"
+}

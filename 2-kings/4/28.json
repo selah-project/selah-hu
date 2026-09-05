@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ezt mondta: Kértem-e ⟨את⟩ fiat az uramtól? Nem ezt mondtam-e: Ne csald meg ⟨את⟩ engem?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "kértem-e"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "fiat"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uramtól"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nem-e"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "csalj meg"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:53.925720257Z",
+  "model": "glm-5.3"
+}

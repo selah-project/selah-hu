@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Hallgasd meg, Jahve, hangomat, ha kiáltok; légy irgalmas hozzám, és felelj nekem.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hallgasd meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hangomat"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ha kiáltok"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "légy irgalmas hozzám"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "és felelj nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:28.934669585Z",
+  "model": "glm-5.3"
+}

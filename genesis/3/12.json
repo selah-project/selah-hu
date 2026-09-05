@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És monda az ember (Ádám): „Az asszony, akit mellém adtál, ő adott nekem a fáról, és ettem.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember (Ádám)"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Az asszony"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "adtál"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mellém"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "adott"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…-ról"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fáról"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "és ettem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:48.227177418Z",
+  "model": "glm-5.3"
+}

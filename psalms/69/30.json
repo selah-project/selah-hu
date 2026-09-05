@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Én pedig szegény vagyok és gyötrődő; a te szabadításod, Elohim, magasba emel engem.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én pedig"
+    },
+    {
+      "surface": "עני",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "és gyötrődő"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "a te szabadításod"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "magasba emel engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:19.626040778Z",
+  "model": "glm-5.3"
+}

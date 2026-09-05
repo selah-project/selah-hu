@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Összetöretett a kihalt város, bezárult minden ház a bejárástól.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "összetöretett"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "a város"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kihalt"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "bezárult"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "a bejárástól"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:33.775849675Z",
+  "model": "glm-5.3"
+}

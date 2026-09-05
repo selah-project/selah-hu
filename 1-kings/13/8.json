@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És mondta az Elohim embere a királynak: Ha adnál nekem ⟨את⟩ házad felét, sem mennék veled, és nem ennék kenyeret, és nem innék vizet ezen a helyen —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "adnál"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "házad felét"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "felét"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "házad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "mennék"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ennék"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "innék"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:35.864456937Z",
+  "model": "glm-5.3"
+}

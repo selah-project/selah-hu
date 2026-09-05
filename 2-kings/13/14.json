@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 13:14",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És Elisá megbetegedett ⟨את⟩ az ő betegségébe, amelyben meg is halt; és leszállt hozzá Joás, Jiszráél királya, és sírt az ő orcáján, és mondta: „Atyám, atyám, Jiszráél szekere és lovasai!”",
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "És Elisá"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "megbetegedett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő betegségébe"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "az ő betegségébe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyben"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abban"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "és leszállt"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joás"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "és sírt"
+    },
+    {
+      "surface": "על",
+      "gloss": "-án"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "orcáján"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atyám"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "szekere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "és lovasai"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:37.508423191Z",
+  "model": "glm-5.3"
+}

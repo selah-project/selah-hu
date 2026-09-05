@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És csinálj rádakat sittafából, és bevondd ⟨את⟩ őket arannyal.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És csinálj"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "rádakat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fájából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitta"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "és vondd be"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:42.968734029Z",
+  "model": "glm-5.3"
+}

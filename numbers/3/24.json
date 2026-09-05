@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És a gerésuni atyai ház feje Eljászáf, Laél fia.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "és feje"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "אב",
+      "gloss": "atyai"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "a gerésuni"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljászáf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Laél"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:10.745077826Z",
+  "model": "glm-5.3"
+}

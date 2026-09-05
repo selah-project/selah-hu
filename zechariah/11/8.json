@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És kiirtottam ⟨את⟩ a három pásztort egy hónap alatt; és megrövidült lelkem ⟨bennük⟩, és az ő lelkük is irtózott tőlem.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "És kiirtottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a három pásztort"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a három"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pásztort"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "egy hónap"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "és megrövidült"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨bennük⟩"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és is"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "az ő lelkük"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "irtózott"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tőlem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:09.594409603Z",
+  "model": "glm-5.3"
+}

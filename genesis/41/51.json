@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És nevet adott Joszéf ⟨את⟩ a firstbornszülöttnek: Menasé, mert elfelejtette velem Elohim ⟨את⟩ minden fáradságomat és ⟨את⟩ egész atyái házát.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevet adott"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszéf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a firstbornszülöttnek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevet"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "az elsőszülöttnek"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "elfelejtette velem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden fáradságomat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "fáradságomat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész atyám házát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyámnak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:51.239190158Z",
+  "model": "glm-5.3"
+}

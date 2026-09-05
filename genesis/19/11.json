@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És ⟨את⟩ a férfiakat, akik ⟨a⟩ ház bejáratánál voltak, megverték vaksággal, kicsit és nagytól fogva, és megfáradtak, míg megtalálták a bejáratot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a férfiakat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a férfiakat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "megverték"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "vaksággal"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "kicsitől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és fogva"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagytól"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "és megfáradtak"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "megtalálják"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "a bejáratot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:13.028086751Z",
+  "model": "glm-5.3"
+}

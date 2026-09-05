@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Hallgasd meg, leány, és lásd, és hajtsd oda füledet, és feledd el népedet és atyád házát —",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Hallgasd meg"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leány"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "és lásd"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "és hajtsd oda"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "füledet"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "és feledd el"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "és házát"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:40.795659673Z",
+  "model": "glm-5.3"
+}

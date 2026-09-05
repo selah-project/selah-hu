@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Háza a Lévieknek, áldjátok Jahvét; akik félitek Jahvét, áldjátok Jahvét!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Háza"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "a Lévieknek"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "áldjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "akik félitek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "áldjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:41.189996446Z",
+  "model": "glm-5.3"
+}

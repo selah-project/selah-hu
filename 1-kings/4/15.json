@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Achimaac (Ahimáác) Naftaliban; ő is feleségül vette ⟨את⟩ Bszemátot (Bázsemát), Salomo (Salamon) lányát.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaac (Ahimáács)"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "Naftaliban"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bszemátot"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bszemátot (Bázsemát)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lányát"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomónak (Salamon)"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "feleségül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:38:31.499339007Z",
+  "model": "glm-5.3"
+}

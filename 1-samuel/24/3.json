@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És vett Saúl háromezer válogatott férfit egész Izráelből, és elment, hogy megkeresse ⟨את⟩ Dávidot és embereit a vadkecskék szikláinál.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vett"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "válogatott"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelből"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hogy megkeresse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "és embereit"
+    },
+    {
+      "surface": "על",
+      "gloss": "…nál"
+    },
+    {
+      "surface": "פני",
+      "gloss": "felszínén"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "szikláin"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "a vadkecskék"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:59.754288255Z",
+  "model": "glm-5.3"
+}

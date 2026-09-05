@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És mondta az asszony: ⟨את⟩ kit hozzak fel neked? És ő mondta: ⟨את⟩ Semuélt (Sámuel) hozd fel nekem.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kit"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "hozzak fel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Semuélt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuélt"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "hozd fel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:49.220671870Z",
+  "model": "glm-5.3"
+}

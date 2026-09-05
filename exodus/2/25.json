@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És látta ⟨את⟩ Izrael fiait az Elohim, és ismerte az Elohim ⟨az ő állapotukat⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "és ismerte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:49.080689232Z",
+  "model": "glm-5.3"
+}

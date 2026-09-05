@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És történt, amikor hallottátok ⟨את⟩ a hangot a sötétség közepéből — a hegy pedig égett tűzben —, akkor közeledtetek hozzám, törzseitek minden feje és véneitek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "amikor hallottátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hangot"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "a hangot"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "közepéből"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "a sötétség"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "— a hegy pedig"
+    },
+    {
+      "surface": "בער",
+      "gloss": "égett"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "akkor közeledtetek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "feje"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "törzseitek"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "és véneitek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:07.207506454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És felkeltett Elohim neki ⟨את⟩ ellenfélül Rezont, Eljadá fiát, aki elfledek ⟨את⟩ Hadadézertől, Cova királyától, az ő urától.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "felkeltett"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ellenfélül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezont"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezont"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljadá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "elfledek"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ tőle"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézertől"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Covának"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ura"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:30.088244557Z",
+  "model": "glm-5.3"
+}

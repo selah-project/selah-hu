@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És elbocsátotta Moshe ⟨את⟩ apósát, és ⟨az⟩ elment a maga földjére.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és elbocsátotta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apósát"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "apósát"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a maga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "földjére"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:40.781159291Z",
+  "model": "glm-5.3"
+}

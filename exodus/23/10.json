@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És hat esztendeig vessd ⟨את⟩ földedet, és takarítsd be ⟨את⟩ annak termését.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "És hat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendeig"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "vessd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "földedet"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "földedet"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "és takarítsd be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak termését"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "annak termését"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:14.854665391Z",
+  "model": "glm-5.3"
+}

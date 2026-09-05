@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Igazságban ⟨vannak⟩ számnak minden szavai; nincs bennük semmi csavaros és semmi görbe.",
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "Igazságban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "szavai"
+    },
+    {
+      "surface": "פי",
+      "gloss": "számnak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bennük"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "csavaros"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "és görbe"
+    }
+  ],
+  "timestamp": "2026-09-04T22:08:58.150845075Z",
+  "model": "glm-5.3"
+}

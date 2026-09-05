@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És mondta neki Avsalóm: „Lásd, jók és helyénvalók a te szavaid, de ⟨את⟩ a királytól nincs, aki meghallgasson téged.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalóm"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "a te ügyeid"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "jók"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "és helyénvalók"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "és meghallgasson"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "téged"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "a királytól"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T19:29:00.252479059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Semúel (Sámuel) szolgált ⟨את⟩ Jahve színe előtt, ifjú, len-efóddal körülövezve.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "És Semúel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "szolgált"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve színe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ifjú"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "körülövezve"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efóddal"
+    },
+    {
+      "surface": "בד",
+      "gloss": "len(vászon)ból"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:42.009371971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Mert odahajtotta a fülét hozzám, és napjaimon segítségül hívom ⟨őt⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "odahajtotta"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "a fülét"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "és napjaimon"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "segítségül hívom"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:42.013869996Z",
+  "model": "glm-5.3"
+}

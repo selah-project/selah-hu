@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Miért állsz távol, Jahve, miért rejtegeted magad a nyomorúság idejein?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "állsz"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "távol"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "rejtegeted magad"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "az idejein"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "a nyomorúságnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:21.553367278Z",
+  "model": "glm-5.3"
+}

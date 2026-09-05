@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Aki pedig nem fordította ⟨a⟩ szívét Jahve szava felé, az otthagyta ⟨את⟩ szolgáit és ⟨את⟩ jószágát a mezőn.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "aki pedig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "fordította"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "az otthagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "jószágát"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "jószágát"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:25.813312317Z",
+  "model": "glm-5.3"
+}

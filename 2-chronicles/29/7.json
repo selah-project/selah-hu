@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 29:7",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Sőt bezárták a csarnok ajtóit, és kioltották ⟨את⟩ a lámpásokat, és illatáldozatot nem füstölögtettek, és égőáldozatot nem vittek fel a szentélyben Jiszráél Elohimjának.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "bezárták"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ajtóit"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "a csarnok"
+    },
+    {
+      "surface": "ויכבו",
+      "gloss": "és kioltották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lámpásokat"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "a lámpásokat"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "és illatáldozatot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הקטירו",
+      "gloss": "füstölögtettek"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "és égőáldozatot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "vittek fel"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a szentélyben"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimjának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-04T23:21:24.442115124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És születtek neki hét fiú és három leány.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "és születtek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "hét"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiú"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "és három"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leány"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:39.606641734Z",
+  "model": "glm-5.3"
+}

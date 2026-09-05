@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Tenyereken hordanak téged, hogy meg ne üsd lábadat egy kőben.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tenyereken"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "hordanak téged"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "meg ne üsd"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kőben"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lábadat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:38.556473138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ítélni ítélte ⟨את⟩ a szegényt és a nyomorultat — akkor jó volt; nem ez-⟨e⟩ az ismeret, hogy ⟨את⟩ Engem ismerjen? — Jahve kijelentése.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Ítélni"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ítélte"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a szegényt"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és a nyomorultat"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "nemde"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "az ismeret"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Engem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:35.990410138Z",
+  "model": "glm-5.3"
+}

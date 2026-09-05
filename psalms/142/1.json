@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 142,
+  "translation": "Maszkil Davídnak (Dávidnak), amikor ⟨a⟩ barlangban volt: ima.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maszkil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davídnak (Dávidnak)"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "amikor volt"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "a barlangban"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ima"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:54.951821397Z",
+  "model": "glm-5.3"
+}

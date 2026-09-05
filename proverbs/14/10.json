@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "A szív ismeri lelkének keserűségét, és az ő örömébe idegen nem elegyedik.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "a szív"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "keserűségét"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lelkének"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "és örömébe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "elegyedik"
+    },
+    {
+      "surface": "זר",
+      "gloss": "idegen"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:30.563459393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Rám nemzette ⟨את⟩ Amminádávot, és Amminádáv nemzette ⟨את⟩ Nachsont, a Jehúda (Júda) fiainak fejedelmét.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "És Rám"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminádávot"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminádávot"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "és Amminádáv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachsont"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachsont"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "fejedelem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:53.625228067Z",
+  "model": "glm-5.3"
+}

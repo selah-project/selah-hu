@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 19:7",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Azért, mert ⟨את⟩ szereted gyűlölőidet, és gyűlölöd ⟨את⟩ szeretőidet; mert kijelentetted ma, hogy nincsenek neked fejedelmeid és szolgáid; mert tudom ma, hogy ha Avsálom élne, és mi mindnyájan ma holtak volnánk, akkor az helyes volna a szemedben.",
+  "tokens": [
+    {
+      "surface": "לאהבה",
+      "gloss": "szeretni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyűlölőidet"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "gyűlölőidet"
+    },
+    {
+      "surface": "ולשנא",
+      "gloss": "és gyűlölni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szeretőidet"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "szeretőidet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "kijelentetted"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincsenek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "fejedelmeid"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "és szolgáid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsálom"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élne"
+    },
+    {
+      "surface": "וכלנו",
+      "gloss": "és mi mindnyájan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "holtak volnánk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "helyes"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a szemedben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:33:54.873238320Z",
+  "model": "glm-5.3"
+}

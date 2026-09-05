@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És elkészítették ⟨את⟩ a szent korona vértjét tiszta aranyból, és ráírtak feliratot, pecsétvéséssel: „Szentség Jahvénak”.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "És elkészítették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "vért"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyból"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "és írtak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "feliratot"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "véséssel"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "pecsét"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Szentesség"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:30.174797410Z",
+  "model": "glm-5.3"
+}

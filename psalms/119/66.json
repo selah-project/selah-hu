@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Józan belátást és ismeretet taníts nekem, mert parancsolataidban hittem.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "józan"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "belátást"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "és ismeretet"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "taníts nekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "parancsolataidban"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "hittem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:03.569383691Z",
+  "model": "glm-5.3"
+}

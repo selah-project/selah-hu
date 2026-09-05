@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Hosszú élettel elégszeretem meg, és megmutatom neki az én szabadításomat.”",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "élettel (napok hosszával)"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "elégszeretem meg őt"
+    },
+    {
+      "surface": "ואראehו",
+      "gloss": "és megmutatom neki"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "az én szabadításomat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:52.216492468Z",
+  "model": "glm-5.3"
+}

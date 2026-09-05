@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És Athalja (Atália), Achazjáhu (Aházja) anyja, látta, hogy meghalt a fia, és felkelt, és elpusztította ⟨את⟩ a királyság egész magvát.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "És Athalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anyja"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjáhu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "látta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a fia"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "és elpusztította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyság egész magvát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magvát"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "a királyság"
+    }
+  ],
+  "timestamp": "2026-09-04T19:59:43.124268968Z",
+  "model": "glm-5.3"
+}

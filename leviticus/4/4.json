@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És viszi ⟨את⟩ a bikát a találkozás sátrának bejáratához, Jahve elé, és ráteszi ⟨את⟩ kezét a bikának a fejére, és levágja ⟨את⟩ a bikát Jahve előtt.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "És viszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bikát"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bikát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratához"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "a sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozásának"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "és ráteszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "על",
+      "gloss": "…re"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejére"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bikának"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "és levágja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bikát"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bikát"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:54.330688769Z",
+  "model": "glm-5.3"
+}

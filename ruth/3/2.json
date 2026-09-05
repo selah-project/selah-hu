@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És immár: há nem Boáz az ismerősünk, akinek ⟨את⟩ a szolgaleányai mellett voltál? Íme, ő szitálja ⟨את⟩ a szérűt — az árpa szérűjét — ma éjjel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És immár"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "há"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boáz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "az ismerősünk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akinek"
+    },
+    {
+      "surface": "היית",
+      "gloss": "voltál"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgaleányai mellett"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "a szolgaleányai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "szitálja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szérűt"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "a szérűt"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "az árpa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ma éjjel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:42.714136952Z",
+  "model": "glm-5.3"
+}

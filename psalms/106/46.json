@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És adta őket ⟨את⟩ irgalomra minden foglyul ejtőjük előtt.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "irgalomra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "foglyul ejtőjük"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:12.915574416Z",
+  "model": "glm-5.3"
+}

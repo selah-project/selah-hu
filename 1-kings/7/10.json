@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "⟨Az⟩ alapok drága kövekből ⟨álltak⟩, nagy kövekből, tíz könyökű kövekből és nyolc könyökű kövekből.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "⟨Az⟩ alapok"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kövekből"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "drága"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kövekből"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kövekből"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyökű"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "és kövekből"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "nyolc"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyökű"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:52.972544148Z",
+  "model": "glm-5.3"
+}

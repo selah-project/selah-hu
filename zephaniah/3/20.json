@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zephaniah 3:20",
+  "book": "zephaniah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Abban az időben visszahozlak ⟨את⟩ titeket, és amikor összegyűjtölek ⟨את⟩ titeket, mert névvé és dícséretté adlak ⟨את⟩ titeket a föld minden népének, amikor szemetek láttára visszahozom ⟨את⟩ fogságotokat — mondja Jahve.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Abban az időben"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "abban"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "visszahozlak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "visszahozlak"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "és amikor"
+    },
+    {
+      "surface": "קבצי",
+      "gloss": "összegyűjtölek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "összegyűjtölek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adlak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "adlak"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "névvé"
+    },
+    {
+      "surface": "ולתהלה",
+      "gloss": "és dícséretté"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népének"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "amikor visszahozom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fogságotokat"
+    },
+    {
+      "surface": "שבותיכם",
+      "gloss": "fogságotokat"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "szemetek láttára"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:30:54.804940874Z",
+  "model": "glm-5.3"
+}

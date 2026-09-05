@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Én Elohimom, kiáltok nappal, és nem felelsz, és éjjel, és nincs néma csend nékem.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Én Elohimom"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "felelsz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és éjjel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "néma csend"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nékem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:15.228347570Z",
+  "model": "glm-5.3"
+}

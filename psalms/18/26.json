@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "A heszeddel heszedet gyakorolsz, a tökéletes férfival tökéletes leszel.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "heszeddel"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "heszedet gyakorolsz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "férfival"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tökéletes"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "tökéletes leszel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:01.608103280Z",
+  "model": "glm-5.3"
+}

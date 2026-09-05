@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Azon az éjjelen elmenekült a király álma, és mondta ⟨az⟩, hogy hozzák be ⟨את⟩ az emlékkönyvet, a napok krónikáit, és felolvasták ⟨azok⟩ a király színe előtt.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "Azon az éjjelen"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "elmenekült"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "álma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "hogy hozzák be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az emlékkönyvet"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "könyvét"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "emlékek"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dolgait"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "a napoknak"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "felolvasva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:41:08.286862221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Próbálj meg, Jahve, és vizsgálj, finomítsd meg veséimet és szívemet.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Próbálj meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "és vizsgálj"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "finomítsd meg"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "veséimet"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "és szívemet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:37.818631704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Merajót nemzette ⟨את⟩ Amarját, és Amarjá nemzette ⟨את⟩ Achitúbot;",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajót"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarját"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarját"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "és Amarjá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitúbot"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitúbot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:55.029753845Z",
+  "model": "glm-5.3"
+}

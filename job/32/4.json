@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És Elihú várt ⟨את⟩ Ijóv szavakkal, mert ők öregebbek nála napokban.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "És Elihú"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "várt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijóv"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijóv"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "szavakkal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "öregebbek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nála"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "napokban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:26:21.222602123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Mert látja, hogy a bölcsek meghalnak, együtt vesznek el a balga és a buta, és gazdagságukat másoknak hagyják.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "látja"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "a bölcsek"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "meghalnak"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "balga"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "és a buta"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vesznek el"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "és hagyják"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "másoknak"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "gazdagságuk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:54.650978293Z",
+  "model": "glm-5.3"
+}

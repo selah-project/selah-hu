@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És meghallotta Atalja ⟨את⟩ a futók és a nép hangját, és bement a néphez, Jahve házába.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "és meghallotta"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a futók és a nép hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "a futóknak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "és a nép"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "és bement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:37.459034200Z",
+  "model": "glm-5.3"
+}

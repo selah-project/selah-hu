@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És ha a ház kevés lesz arra, hogy ⟨elég legyen⟩ egy bárányból, akkor vegye ⟨az⟩ és az ő szomszédja, aki közel van az ő házához, a lelkek összeszámolása szerint; ember az ő evése szerint számolja ⟨meg⟩ a bárányra.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "kevés lesz"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "arra, hogy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨elég legyen⟩ egy bárányból"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "akkor vegye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "és az ő szomszédja"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "aki közel van"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "az ő házához"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "összeszámolása szerint"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "a lelkek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "az ő evése"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "számolja ⟨meg⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "השה",
+      "gloss": "a bárányra"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:43.357037116Z",
+  "model": "glm-5.3"
+}

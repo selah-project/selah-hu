@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "És felment Jószef, hogy eltemesse ⟨את⟩ az apját, és fel vele ment ⟨את⟩ minden Paró szolgája, házának vénei és Minden Egyiptom földjének vénei.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "És felment"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "hogy eltemesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az apját"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apját"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "és felmentek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgája"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parónak"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vénei"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "házának"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vénei"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjének"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:19.995480990Z",
+  "model": "glm-5.3"
+}

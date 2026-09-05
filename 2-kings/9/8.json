@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És elvész Aháb egész háza, és kiirtom Ahábnak minden falba pislogóját, és ⟨a⟩ bezártat és ⟨az⟩ elhagyottat Izraelben.”",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "és elvész"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháb"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "és kiirtom"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahábnak"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "falba pislogóját"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "a fal"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "bezártat"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "elhagyottat"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izraelben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:36.045270652Z",
+  "model": "glm-5.3"
+}

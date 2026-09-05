@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Töröltessenek ki az élők könyvéből, és az igazakkal együtt ne irattassanak fel.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "töröltessenek ki"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "a könyvéből"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "az élők"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és az igazakkal együtt"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "irattassanak fel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:19.625738550Z",
+  "model": "glm-5.3"
+}

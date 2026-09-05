@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És a négy kerék a keretek alatt ⟨volt⟩, és a kerekek tengelykapocs-karjai az állványzatban ⟨voltak⟩; és az egy kerék magassága egy könyök és fél könyök.",
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "és a négy"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "kerék"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "a keretek(nek)"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "és a tengelykapocs-karjai"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "a kerekek"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "az állványzatban"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "és a magassága"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "a kerék"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egy"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "könyök"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:26.548581980Z",
+  "model": "glm-5.3"
+}

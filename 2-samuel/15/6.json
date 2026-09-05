@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 15:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És ezt tette Avsalom (Absalom) minden Izráel emberével, aki ⟨a⟩ királyhoz járt ítéletért; és Avsalom elcsente az izráeli férfiak szívét ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És ezt tette"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalom"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "e dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "járt"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ítéletért"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויגנב",
+      "gloss": "és elcsente"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:28:19.868854920Z",
+  "model": "glm-5.3"
+}

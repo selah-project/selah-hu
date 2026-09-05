@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 20:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És Jesajáhu (Ézsaiás) ezt mondta: »Vegyetek egy préselt fügepogácsát!« És vettek, és rátették a kelésre, és meggyógyult.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És ezt mondta"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajáhu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Vegyetek"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "egy préselt…át"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "fügepogácsát"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "és vettek"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "és rátették"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "a kelésre"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "és meggyógyult"
+    }
+  ],
+  "timestamp": "2026-09-04T20:03:02.381595177Z",
+  "model": "glm-5.3"
+}

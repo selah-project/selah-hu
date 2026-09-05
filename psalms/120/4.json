@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 120,
+  "translation": "Az erős hegyezett nyilai, Retema-parázsaljaikkal együtt.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "nyilai"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "az erős"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "hegyezett"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "parázsaljaival"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "Retema"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:44.388550066Z",
+  "model": "glm-5.3"
+}

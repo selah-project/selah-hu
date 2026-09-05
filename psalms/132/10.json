@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "Dávidért, a te szolgádért, ne fordítsd el a Te Mashiahod orcáját.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a te szolgád"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "fordítsd el"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az orcáját"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "a Te Mashiahod"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:03.486603873Z",
+  "model": "glm-5.3"
+}

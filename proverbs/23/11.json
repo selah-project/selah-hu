@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Mert a megváltójuk erős, ő megvívi ⟨את⟩ pörüket ⟨את⟩ veled.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "megváltójuk"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "erős"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "megvívi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pörüket"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "pörüket"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:06.347793524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 11:14",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Mert elhagyták a Léviták ⟨את⟩ legelőföldjeiket és birtokukat, és elmentek Jehúdába és Jeruzsálembe, mert Jerobám és fiai eltaszították őket attól, hogy papok legyenek Jahvénak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "elhagyták"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a Léviták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legelőföldjeiket"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "legelőföldjeiket"
+    },
+    {
+      "surface": "ואחזתם",
+      "gloss": "és birtokukat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehúdába"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "és Jeruzsálembe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הזניחם",
+      "gloss": "eltaszította őket"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobám"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "attól, hogy papok legyenek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-05T00:48:47.995046613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És csinálta ⟨את⟩ a deszkákat a Mishkánhoz (lakószentély), sitim-fából, állókat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És csinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a deszkákat"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "a deszkákat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "a Mishkánhoz (lakószentély)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fája"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "állókat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:01.710363558Z",
+  "model": "glm-5.3"
+}

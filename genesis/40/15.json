@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Mert ellopva loptak el a héberek földjéről, és itt sem tettem semmit, amikor a verembe tettek ⟨את⟩ engem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ellopva"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "loptak el"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "a … földjéről"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "héberek"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "פה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tettem"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "semmit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tettek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "a verembe"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:01.381592903Z",
+  "model": "glm-5.3"
+}

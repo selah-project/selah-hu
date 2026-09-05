@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Szorongattatásom napján kerestem Adonájt; kezem éjjel kiömlött ⟨éett⟩, és nem apad el; nem akarta lelkem ⟨את⟩ ⟨a⟩ vigasztalást elfogadni.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "szorongattatásomnak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonájt"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "kerestem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezem"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "kiömlött"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "apad el"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "nem akarta"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "megvigasztalódni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:33.568138823Z",
+  "model": "glm-5.3"
+}

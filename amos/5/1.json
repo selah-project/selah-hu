@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Halljátok ⟨את⟩ e szót, amelyet én kelek fölöttetek, gyászdalt, Izráél háza!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e szót"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a szó"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kelek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fölöttetek"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "gyászdalt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:24:38.618652060Z",
+  "model": "glm-5.3"
+}

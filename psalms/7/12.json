@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Elohim igaz bíró, és El, aki haragra gerjed minden napon.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "bíró"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igaz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "haragra gerjed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:26.050375539Z",
+  "model": "glm-5.3"
+}

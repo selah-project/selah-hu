@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És feleltek ⟨את⟩ Jehosuát (Józsué), mondván: mindent, amit parancsoltál nekünk, megteszünk, és mindenre, ahová küldesz minket, elmegyünk.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "És feleltek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosuát"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosuát"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "parancsoltál nekünk"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "megteszünk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és (od)áig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden(re)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahová"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "küldesz minket"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "elmegyünk"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:36.465524805Z",
+  "model": "glm-5.3"
+}

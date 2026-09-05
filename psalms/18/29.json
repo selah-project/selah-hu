@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 18:29",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Mert te gyújtod meg lámpásomat, Jahve, az Elohimem, megvilágítja sötétemet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "meggyújtod"
+    },
+    {
+      "surface": "נרי",
+      "gloss": "lámpásomat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "az Elohimem"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "megvilágítja"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "sötétemet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:40.136006146Z",
+  "model": "glm-5.3"
+}

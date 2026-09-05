@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És leírta Mordocháj ⟨את⟩ ezeket a dolgokat, és leveleket küldött az összes zsidóhoz, akik Ahaverós király minden tartományában vannak, a közeliekhez és a távoliakhoz.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "és leírta"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordocháj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket a dolgokat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a dolgokat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és küldött"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "leveleket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "zsidóhoz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "tartományában"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahaverós"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "a közeliekhez"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "és a távoliakhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:41:02.103796157Z",
+  "model": "glm-5.3"
+}

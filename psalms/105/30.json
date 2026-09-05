@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Bővelkedett földjük békákkal, a királyaik belső szobáiban.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "Bővelkedett"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "földjük"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "békák"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "szobáiban"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "királyaik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:06.283028387Z",
+  "model": "glm-5.3"
+}

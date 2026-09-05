@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És befejeződtek az egek és a föld, és minden seregük.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "És befejeződtek"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "és a föld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "seregük"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:58.769076786Z",
+  "model": "glm-5.3"
+}

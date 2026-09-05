@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Mert íme, lesben állnak lelkem (nefesem) ellen, gyülekeznek ellenem hatalmasok — nem az én lázadásomért, és nem az én vétememért, Jahve!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "lesben állnak"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "lelkem (nefesem) ellen"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "gyülekeznek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "hatalmasok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "az én lázadásomért"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "az én vétememért"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:26.373784774Z",
+  "model": "glm-5.3"
+}

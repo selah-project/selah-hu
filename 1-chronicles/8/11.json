@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És Ḥusímtól nemzette ⟨את⟩ Avítúbot és ⟨את⟩ Elpált.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "És Ḥusímtól"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avítúbot"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avítúbot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Elpált"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpált"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:04.404880856Z",
+  "model": "glm-5.3"
+}

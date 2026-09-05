@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És megmondatott Saúlnak, hogy David Gátba szökött; és nem folytatta tovább ⟨az ő⟩ keresését.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "És megmondatott"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saúlnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "szökött"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gátba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "folytatta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tovább"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "keresését"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:30.206371155Z",
+  "model": "glm-5.3"
+}

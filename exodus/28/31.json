@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És készítsd el ⟨את⟩ az efód köntösét egészen kék bíborból.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "és készítsed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az efód köntösét"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "köntösét"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "az efód"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "kék bíborból"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:29.856462095Z",
+  "model": "glm-5.3"
+}

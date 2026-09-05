@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És elment Moshe és Aháron, és összegyűjtötték ⟨את⟩ az összes vént Izrael fiai közül",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Aháron"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "és összegyűjtötték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes vént"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vént"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:57.274285519Z",
+  "model": "glm-5.3"
+}

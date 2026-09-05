@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 133,
+  "translation": "A felemelkedések éneke, Davidétól. Íme, milyen jó és milyen gyönyörűséges a testvérek lakozása, éppen együtt!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a felemelkedéseknek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidétól"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "מה",
+      "gloss": "milyen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "és milyen"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "gyönyörűséges"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "lakozása"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "a testvérek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "éppen"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:51.345293843Z",
+  "model": "glm-5.3"
+}

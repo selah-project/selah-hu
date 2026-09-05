@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Szíve kívánságát adtad neki, és ajkai kérését nem vontad meg. Szela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "kívánságát"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "adtad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "és kérését"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ajkai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "vontad meg"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:53.692100935Z",
+  "model": "glm-5.3"
+}

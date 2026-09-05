@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 2:27",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Azt mondják a fának: Atyám vagy te, és a kőnek: te szültél engem. Mert nekem hátat fordítottak, nem orcát; és a nyomorúságuk idején ezt mondják: Kelj fel, és ments meg minket!",
+  "tokens": [
+    {
+      "surface": "אמרים",
+      "gloss": "Azt mondják"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "a fának"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Atyám"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "vagy te"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "és a kőnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "te szültél engem"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "szültél engem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "fordítottak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "hátat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "orcát"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "és a ... idején"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "nyomorúságuk"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ezt mondják"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "והושיענו",
+      "gloss": "és ments meg minket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:32:19.390094120Z",
+  "model": "fable-5-hand"
+}

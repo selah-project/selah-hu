@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "A karnagynak; Ne rontsd el; Dávidtól; miktám ⟨szerzemény⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "rontsd el"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktám ⟨szerzemény⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:51.862784168Z",
+  "model": "glm-5.3"
+}

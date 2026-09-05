@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mártsa be a kohen az ujját a vérből, és hintse hétszer Jahve színe előtt, ⟨את⟩ a paróket felületére.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "és mártsa be"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "az ujját"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a vérből"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vérből"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "és hintse"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hétszer"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "hétszer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a paróket felületét"
+    },
+    {
+      "surface": "פני",
+      "gloss": "a felületét"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "a paróketnak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:17.558179518Z",
+  "model": "glm-5.3"
+}

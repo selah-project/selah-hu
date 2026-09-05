@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Aki embert üt és az meghal, halállal haljon.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Aki... üt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "és az meghal"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:39.405346631Z",
+  "model": "glm-5.3"
+}

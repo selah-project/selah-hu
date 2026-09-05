@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Kiválasztottabb a név, mint a nagy gazdagság; mint az ezüst és az arany ⟨van⟩ a jó kegyelem.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "kiválasztottabb"
+    },
+    {
+      "surface": "שם",
+      "gloss": "név"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "gazdagság"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "és arany"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kegyelem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:31.627312133Z",
+  "model": "glm-5.3"
+}

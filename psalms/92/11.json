@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "És felmagasztaltad szarvamat, mint ⟨a⟩ vadtulkyé, elárasztott engem friss olajjal.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "és felmagasztaltad"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "mint ⟨a⟩ vadtulkoré"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "szarvamat"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "elárasztott engem"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "friss"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:33.154336353Z",
+  "model": "glm-5.3"
+}

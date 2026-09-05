@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És tisztítsa meg ⟨את⟩ a házat a madár vérével és az élő vízzel, és az élő madárral, és a cédrusfával, és az izsóppal, és a skarlát karmazsinnal.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "és tisztítsa meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vérével"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "a madár"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "és vízzel"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az élő"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "és madárral"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "az élő"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "és fával"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "a cédrussal"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "és izsóppal"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "és skarláttal"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "a karmazsinnal"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:51.138107051Z",
+  "model": "glm-5.3"
+}

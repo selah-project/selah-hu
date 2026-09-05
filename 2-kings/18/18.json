@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 18:18",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És kiáltottak a királyhoz, és kiment hozzájuk Eljákím, Hilkijáhu fia, aki a ház felett ⟨áll⟩, és Sebná az írnok, és Jóách, Ászáf fia, a krónikás.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "kiáltottak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "és kiment"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljákím"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkijáhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "ושבנה",
+      "gloss": "és Sebná"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "az írnok"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "és Jóách"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Ászáf"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "a krónikás"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:18.865269257Z",
+  "model": "glm-5.3"
+}

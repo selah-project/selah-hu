@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Kiáltottak, de nem volt mentítőjük; Jahvéhoz ⟨kiáltottak⟩, de nem felelt nekik.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "kiáltottak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "de nincs"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mentítő"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "felelt nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:32.041784651Z",
+  "model": "glm-5.3"
+}

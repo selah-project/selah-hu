@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És körülhordozatta Jahve ládája ⟨את⟩ a várost, egyetlen egyszer körüljárva, és a táborba mentek, és a táborban éjszakáztak.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "körülhordozatta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "körüljárva"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "szer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyetlen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és mentek"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a táborba"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "és éjszakáztak"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a táborban"
+    }
+  ],
+  "timestamp": "2026-09-04T18:38:28.624133218Z",
+  "model": "glm-5.3"
+}

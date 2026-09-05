@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És szólt az egyik asszony: „Kérlek, uram, én és ez az asszony egy házban laktunk, és szültem vele a házban.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Kérlek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "és ez az asszony"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "laktunk"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "egy házban"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "és szültem"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "vele"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:31:58.714316630Z",
+  "model": "glm-5.3"
+}

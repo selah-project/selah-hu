@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És mint a reggel világossága, midőn felkél a nap, reggel felhőtlen ⟨lesz⟩ — a fényességtől, esőtől ⟨nő⟩ a föld fűje.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "És mint a világossága"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "felkél"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "felhőtlen"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "a fényességtől"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "esőtől"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "fűje"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:13.519037224Z",
+  "model": "glm-5.3"
+}

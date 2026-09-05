@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És szólt Semuél (Sámuel) a népnek ⟨את⟩ a királyság jogát, és megírta ⟨a⟩ könyvbe, és letette Jahve elé; és elküldte Semuél ⟨את⟩ az egész népet, ki-ki ⟨a⟩ házába.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyság jogát"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jogát"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "a királyság"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "és megírta"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "könyvbe"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "és letette"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész népet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ki-ki"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "házába"
+    }
+  ],
+  "timestamp": "2026-09-04T19:06:17.598875552Z",
+  "model": "glm-5.3"
+}

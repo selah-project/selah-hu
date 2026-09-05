@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És így tett minden idegen feleségével ⟨együtt⟩, akik illatoztak és áldoztak az ő isteneiknek.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "És így"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "feleségével"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "illatoztak"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "és áldoztak"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "az ő isteneiknek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:44:08.946154394Z",
+  "model": "glm-5.3"
+}

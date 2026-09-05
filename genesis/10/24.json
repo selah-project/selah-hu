@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Arpachsád nemzette ⟨את⟩ Seláchot, és Selách nemzette ⟨את⟩ Ébert.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpachsád"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seláchot"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Seláchot"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "és Selách"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ébert"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ébert"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:46.837330626Z",
+  "model": "glm-5.3"
+}

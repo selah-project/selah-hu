@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Hosszú élet ⟨van⟩ jobb kezében, bal kezében gazdagság és dicsőség.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Hosszú"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "élet"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "jobb kezében"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "bal kezében"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "gazdagság"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "és dicsőség"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:35.267202352Z",
+  "model": "glm-5.3"
+}

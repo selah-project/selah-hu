@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És történt a nyolcadik napon, hogy szólította Moshe (Mózes) Aharont és fiait, és Jiszráél véneit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "a nyolcadik"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "szólította"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonnak"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "és fiainak"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "és a véneinek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:16.592799273Z",
+  "model": "glm-5.3"
+}

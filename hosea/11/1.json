@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Mert gyermekként Jiszráél (Izráel), és szerettem őt, és Micrajimból (Egyiptomból) hívtam a fiamat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "נער",
+      "gloss": "gyermekként"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "és szerettem őt"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "és Micrajimból"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "hívtam"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a fiamat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:10.196121284Z",
+  "model": "glm-5.3"
+}

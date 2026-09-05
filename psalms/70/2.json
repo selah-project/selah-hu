@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 70,
+  "translation": "Elohim, hogy megszabadíts engem, Jahve, segítségemre — siess!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "hogy megszabadíts engem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "segítségemre"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "siess"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:28.081211628Z",
+  "model": "glm-5.3"
+}

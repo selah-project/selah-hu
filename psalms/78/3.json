@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Amiket hallottunk és megismertünk, és atyáink elmesélték nekünk,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Amiket"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "hallottunk"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "és megismertük ⟨azokat⟩"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "és atyáink"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "elmesélték"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:15.110988601Z",
+  "model": "glm-5.3"
+}

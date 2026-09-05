@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És a király, Dávid megvénhedett, napjaira jutott, és ruhákkal betakarták őt, de nem tudott ⟨fel⟩melegedni.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "És a király"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "megvénhedett"
+    },
+    {
+      "surface": "בא",
+      "gloss": "elérkezett"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "napjaira"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "és betakarták őt"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ruhákkal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "melegedett"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T19:37:21.590369255Z",
+  "model": "glm-5.3"
+}

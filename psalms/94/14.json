@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Mert nem elhagyja Jahve ⟨a⟩ népét, és örökségét nem hagyja el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "elhagyja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "és örökségét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "hagyja el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:04.506062240Z",
+  "model": "glm-5.3"
+}

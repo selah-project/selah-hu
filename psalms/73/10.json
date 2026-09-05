@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Ezért fordul vissza ide ⟨az ő⟩ népe, és a teljesség vizeit kifacsarják nekik.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "fordul vissza"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ide"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és vizeit"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a teljesség(nek)"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "kifacsarják"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:18.508551350Z",
+  "model": "glm-5.3"
+}

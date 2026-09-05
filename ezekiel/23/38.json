@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ezenfelül ezt tették nekem: bemocskolták ⟨את⟩ szentélyemet ugyanazon a napon, és ⟨את⟩ szombatjaimat meggyalázták.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Ezenfelül"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tették"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "bemocskolták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szentélyemet"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "szentélyemet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szombatjaimat"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "szombatjaimat"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "meggyalázták"
+    }
+  ],
+  "timestamp": "2026-09-04T21:07:14.187650217Z",
+  "model": "glm-5.3"
+}

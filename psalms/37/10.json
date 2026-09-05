@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És még egy kevés, és nincs ⟨ már ⟩ a gonosz; és odanézel az ő helyére, és nincsen ⟨ ő ⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "És még"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "egy kevés"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "és odanézel"
+    },
+    {
+      "surface": "על",
+      "gloss": "oda"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "az ő helyére"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "és nincsen ⟨ő⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:35.283524639Z",
+  "model": "glm-5.3"
+}

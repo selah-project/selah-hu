@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És Davíd (Dávid) király meghallotta ⟨את⟩ mind ezeket a dolgokat, és nagyon megharagudott.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "És a király"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "meghallotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind ezeket a dolgokat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a dolgokat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "haragudott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:27:01.323004193Z",
+  "model": "glm-5.3"
+}

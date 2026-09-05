@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Sőt, ha ketten fekszenek, melegük van ⟨egymástól⟩; de az egyedül valónak hogyan lenne melege?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Sőt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "fekszenek"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ketten"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "melegük van"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨egymástól⟩"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "de az egyedül valónak"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hogyan"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "lenne melege"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:07.444021488Z",
+  "model": "glm-5.3"
+}

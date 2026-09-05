@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Amikor azok álltak, ezek is álltak, és amikor azok felemelkedtek, ezek is emelkedtek fel velük ⟨את⟩, mert az élőlény lelke ⟨volt⟩ bennük.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "amikor azok álltak"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ezek is álltak"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "és amikor azok felemelkedtek"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ezek is emelkedtek fel"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "velük"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lelke"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "az élőlény"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bennük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:00:35.335667709Z",
+  "model": "glm-5.3"
+}

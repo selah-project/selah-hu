@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Íme, én Jeruzsálemet ⟨את⟩ teszem tántorgás kupájává minden körülötte való népnek; és Júdán is lesz (az ostrom) Jeruzsálem ellen.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzsálemet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálemet"
+    },
+    {
+      "surface": "סף",
+      "gloss": "kupája"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "tántorgás"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "népnek"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körülötte való"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júdán"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "(az ostrom)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:35:56.644825595Z",
+  "model": "glm-5.3"
+}

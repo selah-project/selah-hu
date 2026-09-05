@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Hallja meg ⟨az⟩ El, és feleljen nekik, ⟨aki⟩ ősidőktől trónol. Szela. ⟨Olyanok,⟩ akiknek nincsen változásuk, és nem félik az Elohimot.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "hallja meg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "és feleljen nekik"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és ⟨aki⟩ trónol"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ősidőktől"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincsen"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "változásuk"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "félik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohimot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:00.806978577Z",
+  "model": "glm-5.3"
+}

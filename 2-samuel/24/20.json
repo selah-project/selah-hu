@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És kitekintett Aravna, és meglátta ⟨את⟩ a királyt és ⟨את⟩ szolgáit, amint átvonulnak feléje, és kiment Aravna, és leborult a király előtt, arcával a földig.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "És kitekintett"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és meglátta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szolgáit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "amint átvonulnak"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "feléje"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "és kiment"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "és leborult"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a király előtt"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "arcával"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:36:07.826331991Z",
+  "model": "glm-5.3"
+}

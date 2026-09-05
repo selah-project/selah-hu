@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Mindennemű munkaszolgálatot ne végezzetek, és tűzáldozatot közelítsetek Jahvénak.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mindennemű"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "munka-"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "szolgálatot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "végezzetek"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "és közelítsetek"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozatot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:40.019785281Z",
+  "model": "glm-5.3"
+}

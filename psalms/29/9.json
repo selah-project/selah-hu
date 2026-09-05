@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Jahve hangja vajúdásra készteti a szarvasteheket, és mezítelenné teszi az erdőket, és templomában mindenki dicsőséget mond.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "vajúdásra készteti"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "a szarvasteheket"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "és mezítelenné teszi"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "az erdőket"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "és templomában"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mond"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőséget"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:46.295768153Z",
+  "model": "glm-5.3"
+}

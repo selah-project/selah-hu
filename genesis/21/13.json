@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ⟨את⟩ a szolgáló fiát is néppé teszem, mert a te magod ⟨ő⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgáló fiát"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "a szolgálónak"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "néppé"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "teszem őt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "a te magod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:38.996203295Z",
+  "model": "glm-5.3"
+}

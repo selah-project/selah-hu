@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 28:14",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Boldog az ember, aki szüntelenül fél; de aki megkeményíti a szívét, bajba esik.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "aki fél"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "ומקשה",
+      "gloss": "de aki megkeményíti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "a szívét"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "elesik"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bajba"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:36.392120189Z",
+  "model": "glm-5.3"
+}

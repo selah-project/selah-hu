@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És elment, és elfogta ⟨azokat⟩, és elhozta az anyjának; és készített az anyja finom ételeket, amiket szeretett az apja.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és elfogta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és elhozta"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "az anyjának"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "és készített"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az anyja"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "finom ételeket"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "amiket"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szeretett"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az apja"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:24.456168448Z",
+  "model": "glm-5.3"
+}

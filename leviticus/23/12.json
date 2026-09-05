@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És azon a napon, amikor meglengetitek ⟨את⟩ a kévét, készítsetek ép, egyéves kost égőáldozatul Jahvénak.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "És készítsetek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "amikor meglengetitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kévét"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "a kévét"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kost"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "épet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-éves"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "egy"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "égőáldozatul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:22.360620520Z",
+  "model": "glm-5.3"
+}

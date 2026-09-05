@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 40:25",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Húzod-e elő a Livjátánt horgával, és kötéllel szorítod-e le a nyelvét?",
+  "tokens": [
+    {
+      "surface": "תמשך",
+      "gloss": "húzod-e elő"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "a Livjátán"
+    },
+    {
+      "surface": "בחכה",
+      "gloss": "horgával"
+    },
+    {
+      "surface": "ובחבל",
+      "gloss": "és kötéllel"
+    },
+    {
+      "surface": "תשקיע",
+      "gloss": "szorítod-e le"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "a nyelvét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:28:45.891161212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Nachson nemzette ⟨את⟩ Salmát, és Salma nemzette ⟨את⟩ Boázot.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "És Nachson"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmát"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmát"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "és Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boázot"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boázot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:53.625423149Z",
+  "model": "glm-5.3"
+}

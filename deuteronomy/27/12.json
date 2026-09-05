@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Ezek álljanak áldásra ⟨את⟩ a népnek a Gerizim hegyén, amikor átkeltek ⟨את⟩ a Jardénon: Simon, Levi, Jehúda, Jiszáchár, Jóséf és Binjámín.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "álljanak"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "áldásra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "על",
+      "gloss": "a … hegyén"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegy"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "amikor átkeltek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jardén"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "és Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "és Jehúda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "és Jiszáchár"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "és Jóséf"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "és Binjámín"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:14.787151158Z",
+  "model": "glm-5.3"
+}

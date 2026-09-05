@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És Jahve ezt mondta: Ki csábítja el ⟨את⟩ Ahávot, hogy felmenjen és elesjék Rámót-Giládnál? És az egyik így szólt, a másik amúgy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És… mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "csábítja el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahávot"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahávot"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "hogy felmenjen"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "és elesjék"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "Rámót"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giládnál"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És… szólt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "így"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a másik"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "amúgy"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:01.617519143Z",
+  "model": "glm-5.3"
+}

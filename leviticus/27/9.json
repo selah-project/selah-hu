@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És ha állatról van szó, amelyből áldozatot szoktak közel hozni Jahvénak: minden, amit adnak abból Jahvénak, szent lesz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "állatról van szó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyből"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "szoktak közel hozni"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "abból"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "áldozatot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adnak"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:52.619645743Z",
+  "model": "glm-5.3"
+}

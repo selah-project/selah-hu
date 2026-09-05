@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "És megölte a hatalmas királyokat, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "És megölte"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "királyokat"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:40.549830478Z",
+  "model": "glm-5.3"
+}

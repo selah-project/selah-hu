@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Masszá (terhének igése) Bábelről, amelyet látott Jesájáhu (Ézsaiás), Ámóc fia.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masszá (terhének igése)"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábelről"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "látott"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesájáhu (Ézsaiás)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Ámócnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:18.472232794Z",
+  "model": "glm-5.3"
+}

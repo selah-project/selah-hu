@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És készítsenek ⟨nekem⟩ szentélyt, és lakozom közöttük",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "és készítsenek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "szentélyt"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "és lakozom"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "köztük"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:21.093191514Z",
+  "model": "glm-5.3"
+}

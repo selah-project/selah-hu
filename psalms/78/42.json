@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Nem emlékeztek ⟨את⟩ kezére, a napra, amelyen kiváltotta őket az ellenségből,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "emlékeztek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezére"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezére"
+    },
+    {
+      "surface": "יום",
+      "gloss": "a napra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "kiváltotta"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-ből"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ellenség"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:19.833782157Z",
+  "model": "glm-5.3"
+}

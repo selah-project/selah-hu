@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ⟨volt⟩ Sarai meddő, nem volt neve gyermeke.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "és ⟨volt⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "meddő"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem volt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "gyermeke"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:42.412196553Z",
+  "model": "glm-5.3"
+}

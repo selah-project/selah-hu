@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 20:18",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És mondta neki Jehonátán: „Holnap újhold ⟨van⟩, és hiányozni fogsz, mert ⟨a⟩ helyed megüresedik.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonátán"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "holnap"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "újhold"
+    },
+    {
+      "surface": "ונפקדת",
+      "gloss": "és számba vesznek (hiányozni fogsz)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "számba vesznek"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "ülőhelyed"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:29.929903597Z",
+  "model": "glm-5.3"
+}

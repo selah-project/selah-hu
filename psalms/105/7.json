@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "⟨Ő⟩ Jahve, a mi Elohimunk; az egész földön ⟨vannak⟩ az ő ítéletei.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ő⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "az ő ítéletei"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:36.949386084Z",
+  "model": "glm-5.3"
+}

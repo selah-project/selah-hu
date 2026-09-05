@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Tűz égjen szüntelenül az oltáron, ne olttassék el.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "égjen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ón"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "olttassék el"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:21.511522429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Örömhírt adtam az igazságról a nagy gyülekezetben; íme, ajkaimat nem zárom el, Jahve, te tudod.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "örömhírt adtam"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "az igazságról"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "a gyülekezetben"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ajkaimat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "zárom el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudod"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:06.088221601Z",
+  "model": "glm-5.3"
+}

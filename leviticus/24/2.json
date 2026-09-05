@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Parancsold meg ⟨את⟩ Jiszráél (Izráél) fiainak, hogy vegyenek hozzád tiszta, ütött olívaolajat a világításra, hogy felvigyék a lámpát szüntelen.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Parancsold meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél fiainak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hogy vegyenek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olajat"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olíva-"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ütött"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "a világításra"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "hogy felvigyék"
+    },
+    {
+      "surface": "נר",
+      "gloss": "a lámpát"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:19.242811940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És szólt Jahve a halhoz, és kihányta ⟨את⟩ Jónát a szárazföldre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "a halhoz"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "és kihányta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jónát"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jónát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "szárazföldre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:25:26.960404531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "„Boldogok a te férfiaid, és boldogok ezek a te szolgáid, akik szüntelenül állanak előtted, és hallják ⟨את⟩ a te bölcsességedet!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldogok"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "a te férfiaid"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "és boldogok"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "a te szolgáid"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "akik állanak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "és hallják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te bölcsességedet"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "a te bölcsességedet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:14:39.797482177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Mert én tudom, hogy nagy ⟨a⟩ Jahve, és a mi Adonájunk minden isten fölött ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "és a mi Adonájunk"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden ... fölött"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isten"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:02.630872026Z",
+  "model": "glm-5.3"
+}

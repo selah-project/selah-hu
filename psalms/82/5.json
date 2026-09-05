@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 82,
+  "translation": "Nem tudnak és nem értenek; a sötétségben járkálnak; inognak minden föld alapjai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tudnak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "értenek"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "a sötétségben"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "járkálnak"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "inognak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "alapjai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:18.367570319Z",
+  "model": "glm-5.3"
+}

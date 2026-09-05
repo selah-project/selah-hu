@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Nem rejtetett el a csontom ⟨tőled⟩, amikor titokban készítettem, és hímezve formáltattam a föld mélységeiben.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "rejtetett el"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "a csontom"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨tőled⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "készítettem"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "titokban"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "hímezve formáltattam"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "a mélységeiben"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:13.190684214Z",
+  "model": "glm-5.3"
+}

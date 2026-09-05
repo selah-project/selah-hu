@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És kiment Izrael fiai teljes gyülekezete Moshe színe elől.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "És kiment"
+    },
+    {
+      "surface": "כל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:28.121554746Z",
+  "model": "glm-5.3"
+}

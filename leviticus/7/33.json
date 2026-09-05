@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Az Ahárón (Áron) fiai közül, aki előhozza ⟨את⟩ a békeáldozatok vérét és ⟨את⟩ a zsírt, annak lesz a jobb lábszár részül.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "aki előhozza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a békeáldozatok vérét"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "a békeáldozatok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "fiai közül"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárón"
+    },
+    {
+      "surface": "לו",
+      "gloss": "annak"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lábszár"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "a jobb"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "részül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:15.482389030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Nincs hozzád hasonló az istenek között, Adonáj, és nincsenek tetteidhez hasonló tettek.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Nincs"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hozzád hasonló"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "az istenek között"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincsenek"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "tetteidhez hasonló tettek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:29.619470530Z",
+  "model": "glm-5.3"
+}

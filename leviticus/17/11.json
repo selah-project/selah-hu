@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "mert a test élete ⟨az⟩ vérben van, és én adtam ⟨azt⟩ nektek az oltárra, hogy engesztelés legyen ⟨az⟩ életetekért, mert a vér ⟨az⟩, amely ⟨az⟩ élet miatt engesztel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "élete"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "a test"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vérben"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "van"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "és én"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "adtam ⟨azt⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltár"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "hogy engesztelés legyen"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ért"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "életetek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vér"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "az élet miatt"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "engesztel"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:47.398558825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Terhe a tenger pusztájának: miként forgószelek a Délen szoktak átvonulni, a pusztából jön ⟨⟨az⟩⟩, egy rettenetes földről.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Terhe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztájának"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "forgószelek"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "a Délen"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "átvonulnak"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "a pusztából"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földről"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "rettenetes"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:02.645807019Z",
+  "model": "glm-5.3"
+}

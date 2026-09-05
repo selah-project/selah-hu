@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Amikor Dóég, az edómi eljött, és megjelentette Sáulnak, és ezt mondta neki: „Eljött Dávid Achimélek házába.”",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Amikor eljött"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Dóég"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "az edómi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és megjelentette"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sáulnak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Eljött"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házá"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimélek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:28.725487396Z",
+  "model": "glm-5.3"
+}

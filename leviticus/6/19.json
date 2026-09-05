@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "A pap, aki bemutatja ⟨את⟩⟨azt⟩ bűnért, megeszi ⟨azt⟩; szent helyen eszik ⟨azt⟩, a találkozás sátorának udvarán.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "A pap"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "aki bemutatja bűnért"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨azt⟩ (az áldozat)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "megeszi ⟨azt⟩"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "udvarán"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:25.092805011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 6:29",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ⟨את⟩ a ház minden falát köröskörül faragta: faragott képmásokkal — kerubokkal, pálmákkal és kinyílt virágok díszeivel — belülre és kívülre.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ház minden falát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "falát"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "מסב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "faragta"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "faragványai"
+    },
+    {
+      "surface": "מקלעות",
+      "gloss": "faragott képmásoknak"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerubok"
+    },
+    {
+      "surface": "ותמרת",
+      "gloss": "és pálmák"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "és díszei"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "kinyílt virágoknak"
+    },
+    {
+      "surface": "מלפנים",
+      "gloss": "belülre"
+    },
+    {
+      "surface": "ו לחיצון",
+      "gloss": "és kívülre"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:34.032765387Z",
+  "model": "glm-5.3"
+}

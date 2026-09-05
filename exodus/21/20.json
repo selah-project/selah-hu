@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha egy férfi megüti ⟨את⟩ szolgáját vagy ⟨את⟩ szolgálóját bottal, és meghal a keze alatt, büntetéssel büntettessék.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "megüti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáját"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgáját"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgálóját"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "szolgálóját"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bottal"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "és meghal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a keze"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "büntetéssel"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "büntettessék"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:29.666217032Z",
+  "model": "glm-5.3"
+}

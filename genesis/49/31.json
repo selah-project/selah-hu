@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Ott temették ⟨את⟩ Avrahamot (Ábrahámot) és ⟨את⟩ Sárát, feleségét; ott temették ⟨את⟩ Jichakot (Izsákot) és ⟨את⟩ Rivkát, feleségét; és ott temettem ⟨את⟩ Leát.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "temették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamot"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Sárát"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sárát"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ott"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "temették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jichakot"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichakot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Rivkát"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkát"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "és ott"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "temettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leát"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:47.799065687Z",
+  "model": "glm-5.3"
+}

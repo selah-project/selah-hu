@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És megtartsátok parancsolataimat, és cselekedjétek ⟨את⟩ azokat: én vagyok Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "És megtartsátok"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parancsolataimat"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "és cselekedjétek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:23.359533548Z",
+  "model": "glm-5.3"
+}

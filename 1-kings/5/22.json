@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És elküldte Hírám ⟨a⟩ Selomóhoz, mondván: Hallottam ⟨את⟩ ⟨azt⟩, amit küldtél hozzám; én megcselekszem ⟨את⟩ minden kívánságodat cédrusfákkal és ciprusfákkal.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hírám"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨a⟩ …hoz"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Hallottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit küldtél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "küldtél"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "megcselekszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden kívánságodat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "kívánságodat"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "fákkal"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cédrus"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "és fákkal"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ciprus"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:45.579360473Z",
+  "model": "glm-5.3"
+}

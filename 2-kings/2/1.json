@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És történt, mikor Jahve felvitte ⟨את⟩ Eliahut (Illést) a szélviharban az égbe, hogy Eliahu elment Élisával (Elizeussal) a Gilgálból.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "mikor felvitetett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliahut"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahut"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "a szélviharban"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az égbe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "elment"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "és Élisával"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "a Gilgál"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:52.577193098Z",
+  "model": "glm-5.3"
+}

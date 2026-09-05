@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És összegyűjtötte David (Dávid) ⟨את⟩ egész Izráelt, a micrajimi Sichor folyótól (Egyiptom) egészen Hamat bejáratáig, hogy elhozzák ⟨את⟩ az Elohim ládáját Kirjat-Jeárimból (Kirjat-Jeárim).",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "összegyűjtötte"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Izráelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Sichor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bejáratáig"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "hogy elhozzák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohim ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jeárimból"
+    }
+  ],
+  "timestamp": "2026-09-04T23:05:12.074051389Z",
+  "model": "glm-5.3"
+}

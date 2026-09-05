@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És szólt hozzám: emberfia, állj a lábaidra, és ⟨את⟩veled beszélek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "állj"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "lábaid"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "és beszélek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩veled",
+      "marks": "veled"
+    }
+  ],
+  "timestamp": "2026-09-04T20:59:02.950258657Z",
+  "model": "glm-5.3"
+}

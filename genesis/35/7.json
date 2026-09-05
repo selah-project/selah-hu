@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 35:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És épített ott oltárt, és annak a helynek ezt a nevet adta: El-Beit-El, mert ott jelent meg neki az Elohim, amikor testvére elől menekült.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "És épített"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és nevezte"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "a helynek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "נגלו",
+      "gloss": "jelent meg"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "amikor menekült"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvére"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:08.061726556Z",
+  "model": "glm-5.3"
+}

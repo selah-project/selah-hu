@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "bármely állat képmását, amely ⟨a⟩ földön ⟨van⟩, bármely szárnyas madár képmását, amely ⟨az⟩ égen repül —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "képmását"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bármely"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "állat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨a⟩ földön"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "képmását"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bármely"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "madár"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "szárnyas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "repül"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨az⟩ égen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:52:38.850452987Z",
+  "model": "glm-5.3"
+}

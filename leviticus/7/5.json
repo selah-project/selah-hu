@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És elfüstösíti ⟨את⟩ azok ⟨tárgyát⟩ a pap ⟨az⟩ oltáron, tűzáldozatul Jahvénak; vétekáldozat ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "és elfüstösíti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "azok ⟨tárgyát⟩ — a fenti részeket"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨az⟩ oltáron"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozatul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "vétekáldozat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:09.563010517Z",
+  "model": "glm-5.3"
+}

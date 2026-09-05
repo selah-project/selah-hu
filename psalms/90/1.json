@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Imádság Moshe-tól (Mózes), az Elohim emberétől. Adonáj, menedéked voltál nekünk nemzedékről nemzedékre.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Imádság"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe-tól (Mózes)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "menedéked"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "היית",
+      "gloss": "voltál"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:49.668162674Z",
+  "model": "glm-5.3"
+}

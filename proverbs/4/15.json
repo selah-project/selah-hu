@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Kerüld el ⟨azt⟩, ne kelj át rajta, térj le róla és menj tovább!",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Kerüld el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "kelj át"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "térj le"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "róla"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "és menj tovább"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:42.060423006Z",
+  "model": "glm-5.3"
+}

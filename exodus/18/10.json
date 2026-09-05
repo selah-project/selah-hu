@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És monda Jitró: Áldott legyen Jahve, aki megszabadított ⟨את⟩titeket Micrajim kezéből és Paró kezéből; ⟨ő⟩ az, aki megszabadította ⟨את⟩ a népet Micrajim keze alól.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és monda"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitró"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott legyen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "megszabadított"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "és kezéből"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "megszabadította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alól"
+    },
+    {
+      "surface": "יד",
+      "gloss": "keze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:39.310934580Z",
+  "model": "glm-5.3"
+}

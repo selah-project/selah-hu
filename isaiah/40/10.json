@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Íme, Adonáj Jahve erővel jön, és a karja uralkodik ⟨őérte⟩; íme, a jutalma ⟨את⟩ vele van, és a műve az ő orcája előtt.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "erővel"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "és a karja"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "uralkodik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨őérte⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "a jutalma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "és a műve"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "az ő orcája előtt"
+    }
+  ],
+  "timestamp": "2026-09-04T20:20:31.558992012Z",
+  "model": "glm-5.3"
+}

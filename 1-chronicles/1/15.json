@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és ⟨את⟩ a hivvit, és ⟨את⟩ az arkit, és ⟨את⟩ a szinit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hivvit"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "a hivvit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az arkit"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "az arkit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szinit"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "a szinit"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:39.978841559Z",
+  "model": "glm-5.3"
+}

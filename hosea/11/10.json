@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Jahve után járnak; mint oroszlán ⟨ő⟩ ordít — amikor ⟨ő⟩ ordít, remegnek a fiai a tenger mellől.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "járnak"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "mint oroszlán"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ordít"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ordít"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "és remegnek"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a tenger mellől"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:05.749782881Z",
+  "model": "glm-5.3"
+}

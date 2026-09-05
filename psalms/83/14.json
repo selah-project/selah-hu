@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Elohim (az én Istenem), tedd őket olyanokká, mint a forgó gally, mint a pelyvát a szél előtt!",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim (az én Istenem)"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "tedd őket"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "mint a forgó gally"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "mint a pelyvát"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a szél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:30.978617611Z",
+  "model": "glm-5.3"
+}

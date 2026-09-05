@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És elbocsátották Rivkát, az ő nővérüket, és ⟨את⟩ a dajkáját, és ⟨את⟩ Avraham ( Ábrahám ) szolgáját és ⟨את⟩ az ő embereit.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "És elbocsátották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkát"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkát"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "az ő nővérüket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a dajkáját"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "a dajkáját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Avraham szolgáját"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolgáját"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham (Ábrahám)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő embereit"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "az ő embereit"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:42.181220998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Az ő kardjuk belép az ő szívükbe, és íjaik eltörnek.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Az ő kardjuk"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "belép"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "az ő szívükbe"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "és íjaik"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "eltörnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:46.755956203Z",
+  "model": "glm-5.3"
+}

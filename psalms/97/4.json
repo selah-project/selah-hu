@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "Villámai fölvilágosították a földkerekséget, látta és megremegett a föld.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "fölvilágosították"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "villámai"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a földkerekséget"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "látta"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "és megremegett"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:43.099162234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És beszélt Aháron ⟨את⟩ az összes szót, amelyeket szólt Jahve Moshe elé, és elvégezte a jeleket a nép szemei előtt",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "És beszélt"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aháron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes szót"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "szót"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és elvégezte"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "a jeleket"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "a szemei előtt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:57.274534943Z",
+  "model": "glm-5.3"
+}

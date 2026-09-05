@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És e hónap tizenötödik napján ⟨van⟩ a mácót ünnepe Jahvénak; hét napon át mácót ehettek.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "és tizenötödikén"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tizen"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "a hónap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "חג",
+      "gloss": "az ünnepe"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "a mácót"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mácót"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehettek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:48.161384933Z",
+  "model": "glm-5.3"
+}

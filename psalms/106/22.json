@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "csodálatos dolgok Hám földjén, félelmetes dolgok a Szúf-tenger felett",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "csodálatos dolgok"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Hám"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "félelmetes dolgok"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tenger"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Szúf"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:07.923928930Z",
+  "model": "glm-5.3"
+}

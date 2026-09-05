@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Az ő megszámláltjaik a Menassze nemzetségéből: negyvenezer és ötszáz.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "az ő megszámláltjaik"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "a nemzetségéből"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "és öt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:48.388789993Z",
+  "model": "glm-5.3"
+}

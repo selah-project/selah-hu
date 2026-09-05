@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És eljöttek Izrael (Jákob) fiai, hogy gabonát vegyenek a jövők között, mert éhínség volt Kenaan földjén.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "és eljöttek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael (Jákob)"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "hogy gabonát vegyenek"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "között"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "a jövők"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "éhínség"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:40.942213230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Ám te, Jahve, Adonáj, cselekedj ⟨את⟩ velem a nevedért, mert jó a heszed, szabadíts meg.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ám te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekedj"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem",
+      "marks": "velem"
+    },
+    {
+      "surface": "למען",
+      "gloss": "érdekében"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a nevedért"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a heszed"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "szabadíts meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:18.413714632Z",
+  "model": "glm-5.3"
+}

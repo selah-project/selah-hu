@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 120,
+  "translation": "Jahve, szabadítsd meg lelkemet a hazug ajkaktól, a csalárd nyelvtől!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "szabadítsd meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "az ajkaktól"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazug"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "a nyelvtől"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "csalárd"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:44.388255311Z",
+  "model": "glm-5.3"
+}

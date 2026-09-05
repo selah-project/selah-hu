@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "A karmesternek. Dávidé. Azt mondta a balga a szívében: „Nincs Elohim.” Elrontották, utálatossá tettek tettet; nincs jótevő.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "a karmesternek"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "azt mondta"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "a balga"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "a szívében"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "elrontották"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "utálatossá tettek"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "tettet"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tevő"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:05.161261510Z",
+  "model": "glm-5.3"
+}

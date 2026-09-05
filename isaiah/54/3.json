@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 54,
+  "translation": "Mert jobbra és balra kitörsz, és magod örökölni fogja a népeket, és az elhagyatott városokat meglakítják.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobbra"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "és balra"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "kitörsz"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "és magod"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a népeket"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "örökölni fogja"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "és városokat"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "elhagyatott"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "meglakítják"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:48.907539956Z",
+  "model": "glm-5.3"
+}

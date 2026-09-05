@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És megtartották ⟨את⟩ a sátoros ünnepet, ahogyan meg van írva, és ⟨את⟩ a napi égőáldozatot napra nap, megszámolt módon, a rendtartás szerint, minden nap dolgát a maga napján.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "és megtartották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sátoros ünnepet"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ünnep"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "a sátoros ünnep"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ahogyan meg van írva"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "és az égőáldozat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napra"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "megszámolt módon"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "a rendtartás szerint"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dolgát"
+    },
+    {
+      "surface": "יום",
+      "gloss": "minden nap"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "a maga napján"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:35.284718826Z",
+  "model": "glm-5.3"
+}

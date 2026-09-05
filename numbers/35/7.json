@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Összesen a városok, amelyeket adtok a Lévieknek, negyvennyolc város: ⟨את⟩ azokat, és ⟨את⟩ azok környékeit ⟨adjátok⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "összesen"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "a városok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "adtok"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "a Lévieknek"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "nyolc"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ azokat",
+      "marks": "a negyvennyolc várost"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "azok környékeit"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "környékeiket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:48:53.943363055Z",
+  "model": "glm-5.3"
+}

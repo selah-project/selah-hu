@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És a csarnokot ⟨azt⟩, ahol a trónus ⟨áll⟩, amelyen ott ítélkezik — az ítélet csarnokát — megcsinálta, és cédrussal ⟨van⟩ fedve a padlótól a padlóig.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "És a csarnokot"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "a trónust"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ítélkezik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "csarnokát"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "az ítélet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "megcsinálta"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "és fedve ⟨van⟩"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "cédrussal"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "a padlótól"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "a padlóig"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:51.072725832Z",
+  "model": "glm-5.3"
+}

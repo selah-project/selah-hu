@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Hét napig engeszteljék ⟨את⟩ az oltárt, és tisztítsák meg ⟨את⟩ azt, és töltsék meg ⟨az ő⟩ kezét.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "engeszteljék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárt"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "és tisztítsák meg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (az oltárt)"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "és töltsék meg"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    }
+  ],
+  "timestamp": "2026-09-04T23:43:37.675018244Z",
+  "model": "glm-5.3"
+}

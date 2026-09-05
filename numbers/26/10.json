@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És megnyitotta a föld ⟨את⟩ a száját, és elnyelte ⟨את⟩ őket és ⟨את⟩ Korach-ot a gyülekezet halálakor, amikor a tűz megemésztette ⟨את⟩ ötven és kétszáz embert; és jellé lettek.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "És megnyitotta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a száját"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "a száját"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "és elnyelte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Korach-ot"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach-ot"
+    },
+    {
+      "surface": "במות",
+      "gloss": "halálakor"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gyülekezet"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "amikor megemésztett"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ötven és kétszáz embert"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötven"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "és kétszáz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "jellé"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:45.132766860Z",
+  "model": "glm-5.3"
+}

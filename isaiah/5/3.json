@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És most, Jerusáaláim lakói és Jehúda férfiai: ítéljetek, kérlek, köztem és az én szőlőskertem között!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusáaláimnak"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és férfiai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdának"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ítéljetek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "köztem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "szőlőskertem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:09:14.917269658Z",
+  "model": "glm-5.3"
+}

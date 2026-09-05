@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ha rosszal fizettem annak, aki békében volt velem, és üresen szabadítottam ki ellenfelemet ok nélkül —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "fizettem"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "annak, aki békében volt velem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rosszal"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "és szabadítottam ki"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ellenfelemet"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "üresen, ok nélkül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:23.161028453Z",
+  "model": "glm-5.3"
+}

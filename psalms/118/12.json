@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Körülfogtak engem, mint méhek — kialudtak, mint a tövis lángja — Jahve nevében, igen, elpusztítom ⟨azokat⟩.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Körülfogtak engem"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "mint méhek"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "kialudtak"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "mint a lángja"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "tövis"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "igen"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "elpusztítom ⟨azokat⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:10.667178587Z",
+  "model": "glm-5.3"
+}

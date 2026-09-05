@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 95,
+  "translation": "amikor próbára tettek engem atyáitok, megvizsgáltak engem, noha látták a tetteimet.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "próbára tettek engem"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "atyáitok"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "megvizsgáltak engem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noha"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "látták"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "a tetteimet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:19.794311834Z",
+  "model": "glm-5.3"
+}

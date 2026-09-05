@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Nem laknak ⟨a⟩ Jahve földjén, és visszatér Efrajim Micrajimba, és Asurbán [Asszíriában] tisztátalan [ételt] esznek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "laknak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "és visszatér"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimba"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "és Asurban"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "esznek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:45:05.214377426Z",
+  "model": "glm-5.3"
+}

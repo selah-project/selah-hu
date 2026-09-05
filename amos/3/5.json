@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Hull-e madár a földi csapdára, amikor nincs neki csalétek? Felpattan-e a csapda a földről, és nem fog-e semmit?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Hull-e"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "madár"
+    },
+    {
+      "surface": "על",
+      "gloss": "arra"
+    },
+    {
+      "surface": "פח",
+      "gloss": "csapdára"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földi"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "és csalétek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "felpattan-e"
+    },
+    {
+      "surface": "פח",
+      "gloss": "csapda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a földről"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "és fogni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "fog"
+    }
+  ],
+  "timestamp": "2026-09-04T21:24:31.031930726Z",
+  "model": "glm-5.3"
+}

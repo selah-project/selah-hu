@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Mert most, hogy eljött hozzád, kifáradsz; hozzád ér, és megriad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "eljött"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "kifáradsz"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "hozzáér"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "és megriad"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:55.297307063Z",
+  "model": "glm-5.3"
+}

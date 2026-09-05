@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Arcról arcra szólt Jahve veletek a hegyen, a tűz közepéből.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Arcról"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "arcra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyen"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "a közepéből"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:57.493912534Z",
+  "model": "glm-5.3"
+}

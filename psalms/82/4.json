@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 82,
+  "translation": "Segítsetek szökni ⟨a⟩ gyengének és szűkölködőnek, a gonoszok kezéből ragadjátok ki ⟨őket⟩!",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Segítsetek szökni"
+    },
+    {
+      "surface": "דל",
+      "gloss": "gyengének"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és szűkölködőnek"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gonoszoknak"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ragadjátok ki"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:21.292346496Z",
+  "model": "glm-5.3"
+}

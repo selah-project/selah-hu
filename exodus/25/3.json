@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És ez ⟨az⟩ enumomás, amelyet elvegyetek tőlük: arany, és ezüst, és réz.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "És ez"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "⟨az⟩ enumomás"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "elvegyetek"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩-től (tőlük)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "és ezüst"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "és réz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:07.834387759Z",
+  "model": "glm-5.3"
+}

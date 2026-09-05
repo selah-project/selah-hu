@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "A jövevény és a napszámos ne egyék abból.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "a jövevény"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "és a napszámos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "egyék"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abból"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:56.125418452Z",
+  "model": "glm-5.3"
+}

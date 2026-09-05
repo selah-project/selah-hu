@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Még a veréb is házat talált, és a fecske fészket magának, ahová fiókáit helyezi: ⟨את⟩ oltáraid mellett, Jahve Cevaót, királyom és Elohimom.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "még"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "veréb"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "talált"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házat"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "és fecske"
+    },
+    {
+      "surface": "קן",
+      "gloss": "fészket"
+    },
+    {
+      "surface": "לה",
+      "gloss": "magának"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahová"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "helyezi"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "fiókáit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltáraid"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "oltáraid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyom"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "és Elohimom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:42.775639555Z",
+  "model": "glm-5.3"
+}

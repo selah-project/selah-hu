@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És felismerte Jószéf ⟨את⟩ testvéreit, de ők nem ismerték fel őt.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "és felismerte"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreit"
+    },
+    {
+      "surface": "והם",
+      "gloss": "de ők"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "ismerték fel őt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:40.947773402Z",
+  "model": "glm-5.3"
+}

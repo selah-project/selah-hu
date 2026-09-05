@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 121,
+  "translation": "Jahve megőriz téged minden rossztól, ő megőrzi ⟨את⟩ a te lelkedet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "megőriz téged"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden…tól"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossztól"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "megőrzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te lelkedet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "a te lelkedet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:27.845459657Z",
+  "model": "glm-5.3"
+}

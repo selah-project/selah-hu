@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "Embert ültettél a fejünkre; tűzbe és vízbe mentünk be, de kihoztál minket a bőségbe.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "ültettél"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "a fejünkre"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "mentünk be"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzbe"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "és vízbe"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "de kihoztál minket"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "a bőségbe"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:24.863040624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 45:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Így szólt Jahve az ő felkentjéhez, Kóreshez (Círusz), akinek jobb kezét megragadtam, hogy megalázzam előtte a népeket, és a királyok ágyékát kioldjam, hogy kitáruljanak előtte a kapuk, és a kapuszárnyak be ne záruljanak.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "az ő felkentjéhez"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Kóreshez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akinek"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "megragadtam"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "jobb kezét"
+    },
+    {
+      "surface": "לרד",
+      "gloss": "hogy megalázzam"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "a népeket"
+    },
+    {
+      "surface": "ומתני",
+      "gloss": "és az ágyékát"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "a királyoknak"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "kioldom"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "hogy kitáruljanak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "a kapuk"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "és a kapuszárnyak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "záruljanak be"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:01.161599683Z",
+  "model": "glm-5.3"
+}

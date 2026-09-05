@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Tarsis és a szigetek királyai ajándékot hozzanak, Sebá és Szebá királyai drága adományt nyújtsanak.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsisnak"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "és a szigetek"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ajándékot"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "hozzanak"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sebá"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "és Szebá"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "drága adományt"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "nyújtsanak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:16.486631885Z",
+  "model": "glm-5.3"
+}

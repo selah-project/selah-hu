@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "A karnagynak, oktató ének, Dávidtól.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "oktató ének"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:28.725237973Z",
+  "model": "glm-5.3"
+}

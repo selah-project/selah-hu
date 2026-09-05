@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Aki Jeroboáméból a városban meghal, megeszik a kutyák, és aki a mezőn hal meg, megeszi az ég madara; mert Jahve szólt.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "aki meghal"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Jeroboáméból"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "megeszik"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "a kutyák"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "és aki hal meg"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "megeszi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "madara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:33.535479778Z",
+  "model": "glm-5.3"
+}

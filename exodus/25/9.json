@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Mindenben, amit én mutatok ⟨את⟩ neked — ⟨את⟩ a lakósátor mintáját és ⟨את⟩ minden edényének mintáját — úgy készítsetek ⟨ azt ⟩.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Mindenben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "mutatok"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lakósátor mintáját"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "a mintáját"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakósátornak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden edényének mintáját"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "a mintáját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényének"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "készítsetek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:29.613466671Z",
+  "model": "glm-5.3"
+}

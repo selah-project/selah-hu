@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És vetkőzze le ⟨את⟩ ruháit, és öltsön fel más ruhákat, és vigye ki ⟨את⟩ a hamut a táboron kívülre, tiszta helyre.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "És vetkőzze le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "és öltsön fel"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ruhákat"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "és vigye ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hamut"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "a hamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…re"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "a táboron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helyre"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:06.887229586Z",
+  "model": "glm-5.3"
+}

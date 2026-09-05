@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ne kívánd felebarátodnak ⟨את⟩ a házát, ne kívánd felebarátodnak ⟨את⟩ a feleségét, se ⟨את⟩ a szolgáját, se ⟨את⟩ a szolgálóját, se ⟨את⟩ az ökrét, se ⟨את⟩ a szamarát, és semmit, ami a felebarátodé.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "kívánd"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a házát"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "felebarátodnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "kívánd"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "a feleségét"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "felebarátodnak"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "se a szolgáját"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "se a szolgálóját"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "se az ökrét"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "se a szamarát"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és semmit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "a felebarátodé"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:43.639425728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És szóltam a fogsághoz ⟨את⟩ mind Jahve szavait, amelyeket megmutatott nekem.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "És szóltam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "a fogsághoz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind Jahve szavait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "megmutatott nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:59:18.987544138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És a föld felel ⟨את⟩ a gabonának és ⟨את⟩ az újbornak és ⟨את⟩ az olajnak, és azok felelnek ⟨את⟩ Jizreelnek (Jezreel).",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "És a föld"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "felel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gabonának"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "a gabonának"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az újbornak"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "az újbornak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az olajnak"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "az olajnak"
+    },
+    {
+      "surface": "והם",
+      "gloss": "és azok"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "felelnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreelnek"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelnek (Jezreel)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:18:52.473074691Z",
+  "model": "glm-5.3"
+}

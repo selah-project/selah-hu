@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Mert elenyésztünk haragodban, és heves haragodban megrettentünk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "elenyésztünk"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "haragodban"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "és heves haragodban"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "megrettentünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:03.956289600Z",
+  "model": "glm-5.3"
+}

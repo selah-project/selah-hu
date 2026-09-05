@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És elküldte Jahve ⟨את⟩ Nátánt (Nátán) Dávidhoz (Dávid), és eljött hozzá, és mondta neki: „Két ember volt egy városban, egyik gazdag és egyik szegény.”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nátánt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátánt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és eljött"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ember"
+    },
+    {
+      "surface": "היו",
+      "gloss": "volt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "egy városban"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyik"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "gazdag"
+    },
+    {
+      "surface": "ו אחד",
+      "gloss": "és egyik"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "szegény"
+    }
+  ],
+  "timestamp": "2026-09-04T19:27:04.580844806Z",
+  "model": "glm-5.3"
+}

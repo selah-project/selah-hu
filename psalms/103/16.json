@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Mert szél suhan át rajta, és ⟨nincs⟩ többé, és helye nem ismeri fel ⟨őt⟩ többé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szél"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "suhan át"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "és ⟨nincs⟩ többé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ismeri fel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "helye"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:49.705697022Z",
+  "model": "glm-5.3"
+}

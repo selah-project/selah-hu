@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És fegyelmezte Dávid ⟨את⟩ az embereit szavakkal, és nem engedte ⟨őket⟩ felkelni Saul (Saul) ellen; és Saul felkelt a barlangból, és elment az úton.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "És fegyelmezte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embereit"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "az embereit"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "szavakkal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "engedte őket"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "felkelni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "és Saul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "felkelt"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "a barlangból"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:59.588571510Z",
+  "model": "glm-5.3"
+}

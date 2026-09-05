@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Aki szereti a fegyelmezést, szereti a tudást, de aki gyűlöli a megrovást, az állatias.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "a fegyelmezést"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "a tudást"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "de gyűlöli"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "a megrovást"
+    },
+    {
+      "surface": "בער",
+      "gloss": "állatias"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:07.057140344Z",
+  "model": "glm-5.3"
+}

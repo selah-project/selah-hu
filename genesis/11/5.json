@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És leszállt Jahve, hogy megnézze ⟨את⟩ a várost és ⟨את⟩ a tornyot, amelyet építettek az ember fiai.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "és leszállt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "hogy megnézze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a tornyot"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "a tornyot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "építettek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:15.697396015Z",
+  "model": "glm-5.3"
+}

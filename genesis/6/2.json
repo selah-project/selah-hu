@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "hogy az Elohim fiai látták ⟨את⟩ az ember leányait, hogy jók ⟨azok⟩, és feleségeket vettek maguknak mindenek közül, akiket kiválasztottak.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "hogy látták"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ember leányait"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leányait"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "jók"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨azok⟩"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "és vettek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maguknak"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "feleségeket"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mindenek közül"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "kiválasztottak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:34.225718909Z",
+  "model": "glm-5.3"
+}

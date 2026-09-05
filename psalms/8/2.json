@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Jahve, a mi Adonájunk, milyen hatalmas a neved az egész földön, ⟨aki⟩ feladtad dicsődzőteredet az egekre.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "a mi Adonájunk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "milyen"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a neved"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨aki⟩"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "feladtad"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "dicsődzőteredet"
+    },
+    {
+      "surface": "על",
+      "gloss": "az"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "egekre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:03.416128199Z",
+  "model": "glm-5.3"
+}

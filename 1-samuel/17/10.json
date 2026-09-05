@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És mondta a filiszteus: Én gyaláztam ⟨את⟩ Jisraél (Izrael) csatasorait ezen a napon; adjatok nekem egy embert, és harcoljunk együtt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "a filiszteus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "gyaláztam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraél csatasorait"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "csatasorait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ezen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "adjatok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy embert"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "és harcoljunk"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:18.001613519Z",
+  "model": "glm-5.3"
+}

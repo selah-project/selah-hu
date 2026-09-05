@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Dávid zsoltára. Adjatok Jahvénak, égi lények ⟨fiai⟩, adjatok Jahvénak dicsőséget és erőt.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "adjatok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "égi lényeké"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "adjatok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőséget"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "és erőt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:20.573878125Z",
+  "model": "glm-5.3"
+}

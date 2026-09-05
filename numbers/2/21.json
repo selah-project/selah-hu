@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "és az ő serege, és az ő megszámláltjai: két és harminc ezer, és kétszáz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "és az ő serege"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "és az ő megszámláltjai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "és kétszáz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:46.004726109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Szichónra, az emori királyra, és Ógra, Básán királyára, és Kenaan (Kánaán) minden királyságára —",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Szichónra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyra"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "és Ógra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyra"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Básán"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "királyságára"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:10.745700720Z",
+  "model": "glm-5.3"
+}

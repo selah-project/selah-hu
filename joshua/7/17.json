@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És előhozatta ⟨את⟩ Jehúda családjait, és kisorsoltatott ⟨את⟩ a Zarchi család; és előhozatta ⟨את⟩ a Zarchi családot férfianként, és megfogatatott Zavdi (Zábdi).",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "előhozatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúda családjait"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "családjait"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "kisorsoltatott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Zarchi család"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "család"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "a Zarchi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "és előhozatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Zarchi családot"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "családot"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "a Zarchi"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "férfianként"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "megfogatatott"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zavdi"
+    }
+  ],
+  "timestamp": "2026-09-04T18:39:36.157856577Z",
+  "model": "glm-5.3"
+}

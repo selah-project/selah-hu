@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És megalázom ⟨את⟩ David magvait ezért; csakhogy nem minden napig.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "És megalázom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David magvait"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magvait"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "אך",
+      "gloss": "csakhogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "napig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:03.528088278Z",
+  "model": "glm-5.3"
+}

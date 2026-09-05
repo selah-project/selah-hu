@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Igazságot és jogosságot cselekedtem; ne hagyj el a szipolyaimnak!",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jogosságot"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "és igazságot"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "hagyj el"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "sipolyaimnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:34.101711249Z",
+  "model": "glm-5.3"
+}

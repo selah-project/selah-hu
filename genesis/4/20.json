@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És Ada megszülte ⟨את⟩ Jábált; ⟨ő⟩ ⟨volt⟩ atyja a sátorban lakóknak és a jószágnak.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "és megszülte"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jábált"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jábált"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨volt⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyja"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lakóknak"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "a sátorban"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "és a jószágnak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:16.585525380Z",
+  "model": "glm-5.3"
+}

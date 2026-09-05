@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És felvette őt, és elvitte őt az anyjához, és ült az ő térdein délig, és meghalt.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "és felvette őt"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "és elvitte őt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az anyjá"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és ült"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "térdeire"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dek"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "déli"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    }
+  ],
+  "timestamp": "2026-09-05T00:12:45.976993285Z",
+  "model": "glm-5.3"
+}

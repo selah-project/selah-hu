@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Vágja el Jahve mind a sima ajkakat, ⟨az⟩ nyelvet, amely nagyokat beszél.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Vágja el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "az ajkakat"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "sima(k)"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "a nyelvet"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "beszélő"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nagyokat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:25.401921749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És vettük abban az időben ⟨את⟩ a földet a két emori király kezéből, akik a Jordánon túl ⟨voltak⟩, az Arnon patakjától a Chermon hegyéig.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "és vettük"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "a kezéből"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "király"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "túl"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jordánon"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "a patakjától"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eddig"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyéig"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "a Chermon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:36.030394812Z",
+  "model": "glm-5.3"
+}

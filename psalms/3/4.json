@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "De ⟨te⟩, Jahve, pajzsom ⟨vagy⟩ köröttem, dicsőségem, és aki fejemet felemeli.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "De ⟨te⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "pajzsom"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "köröttem"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "dicsőségem"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "és aki felemeli"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejemet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:43.014059583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ a melleket és ⟨את⟩ a jobb lábszárat lengette Áharon (Áron) felajánlásul lengetéssel Jahve színe előtt, ahogparancsolta Moshe (Mózes).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a melleket"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "a melleket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a jobb lábszárat"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lábszár"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "a jobb"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "lengette"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áharon"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "lengetésül"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:29.505856595Z",
+  "model": "glm-5.3"
+}

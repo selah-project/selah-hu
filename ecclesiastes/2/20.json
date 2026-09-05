@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És elfordultam én, hogy elkeserítsem ⟨את⟩ a szívemet minden fáradozás fölött, amelyet a nap alatt végeztem.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "És elfordultam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "hogy elkeserítsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szívemet"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "a szívemet"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "fáradozás"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "amelyet végeztem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:47.945294880Z",
+  "model": "glm-5.3"
+}

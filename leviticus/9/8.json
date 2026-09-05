@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És odalépett Aharon (Áron) az oltárhoz, és levágta ⟨את⟩ a vétekáldozat-borjút, amely az övé volt.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "És odalépett"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárhoz"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "és levágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vétekáldozat-borjút"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "borjú"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "vétekáldozat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé volt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:54.331987012Z",
+  "model": "glm-5.3"
+}

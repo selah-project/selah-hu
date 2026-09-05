@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Mert nap és pajzs ⟨az⟩ Jahve Elohim; kegyelmet és dicsőséget ad Jahve; nem von meg jót azoktól, akik feddhetetlenül járnak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "és pajzs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kegyelmet"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "és dicsőséget"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "von meg"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "azoktól, akik járnak"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "feddhetetlenül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:28.859818319Z",
+  "model": "glm-5.3"
+}

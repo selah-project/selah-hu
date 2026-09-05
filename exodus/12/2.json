@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ez a hónap nektek a hónapok ⟨feje⟩, első ⟨az⟩ nektek az év hónapjai ⟨közt⟩.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Ez a hónap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨feje⟩"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "a hónapok"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "első"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "hónapjai"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "az év"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:43.356679081Z",
+  "model": "glm-5.3"
+}

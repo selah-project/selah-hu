@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Abban az időben — így szól Jahve — kihozzák ⟨את⟩ Júda királyainak csontjait, és ⟨את⟩ főembereinek csontjait, és ⟨את⟩ a papok csontjait, és ⟨את⟩ a próféták csontjait, és ⟨את⟩ Jerusálajim lakóinak csontjait sírjaikból.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Abban az időben"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "abban"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "így szól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "kihozzák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Júda királyainak csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyainak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "főembereinek csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "főembereinek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a papok csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a próféták csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a próféták"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jerusálajim lakóinak csontjait"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontjait"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "lakóinak"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "sírjaikból"
+    }
+  ],
+  "timestamp": "2026-09-04T20:36:17.454122941Z",
+  "model": "glm-5.3"
+}

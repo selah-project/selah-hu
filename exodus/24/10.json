@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És látták ⟨את⟩ Izrael Elohimját, és lába alatt ⟨volt⟩ mint a megmentett szappír köveinek munkája, és maga az ég tisztaságához ⟨hasonló⟩.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "És látták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael Elohimját"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "és lába alatt"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "⟨lába⟩"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "mint a munkája"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "fehér\/tiszta"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "a szappíré"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "és magához ⟨hasonlóan⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "tisztaság"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:12.842764440Z",
+  "model": "glm-5.3"
+}

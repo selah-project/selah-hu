@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "A mező szerzeménye és a barlang, amely benne van, ⟨את⟩ a Chet fiaitól ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "szerzeménye"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "és a barlang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "…tól ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:47.799248057Z",
+  "model": "glm-5.3"
+}

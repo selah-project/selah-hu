@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Én ⟨vagyok⟩ Jahve, a ti Szentetek, Jiszráél teremtője, a ti királyotok.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "a ti Szentetek"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "teremtője"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "a ti királyotok"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:12.193039671Z",
+  "model": "glm-5.3"
+}

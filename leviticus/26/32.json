@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És feldúlatom én ⟨את⟩ az országot, és elámulnak rajta ellenségeitek, akik lakoznak benne.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "és feldúlatom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az országot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az országot"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "és elámulnak"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ellenségeitek"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "akik lakoznak"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:09.129242644Z",
+  "model": "glm-5.3"
+}

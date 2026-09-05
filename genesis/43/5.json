@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "De ha nem küldöd el, nem megyünk le, mert az ember mondta nekünk: nem láttok az arcomat, hacsak nincs veletek ⟨את⟩ a testvéretek.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "de ha"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nem"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "küldöd el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "megyünk le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "láttok"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az arcomat"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "hacsak nem"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "a testvéretek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "veletek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:07.394452498Z",
+  "model": "glm-5.3"
+}

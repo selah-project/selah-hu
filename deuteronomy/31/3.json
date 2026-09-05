@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Jahve, a te Elohimod, ⟨ő⟩ vonul át előtted; ⟨ő⟩ pusztítja el ⟨את⟩ ezeket a népeket előled, és te öröklöd azokat; Jehosua (Józsué), ⟨ő⟩ vonul át előtted, ahogyan Jahve beszélt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "vonul át"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "pusztítja el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket a népeket"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a népeket"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "előled"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "és öröklöd azokat"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "vonul át"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T18:33:16.290250489Z",
+  "model": "glm-5.3"
+}

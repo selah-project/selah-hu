@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És elbocsátja ⟨את⟩ az élő madarat a városon kívülre, a mező színére, és engesztelést szerez a házért, és megtisztul.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "elbocsátja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az élő madarat"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "a madarat"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "élő"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ide"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívülre"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "a városon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színére"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mező"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "engesztelést szerez"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "megtisztul"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:16.203522798Z",
+  "model": "glm-5.3"
+}

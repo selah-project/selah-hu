@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És Jojáda nemzette ⟨את⟩ Jónatánt, és Jónatán nemzette ⟨את⟩ Jaddúát.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "És Jojáda"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jónatánt"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatánt"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "és Jónatán"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaddúát"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jaddúát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:57:11.510802080Z",
+  "model": "glm-5.3"
+}

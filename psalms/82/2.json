@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 82,
+  "translation": "Meddig ítéltek jogtalansággal, és a gonoszok arcát emelitek fel? Szela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Meddig"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "ítéltek"
+    },
+    {
+      "surface": "עול",
+      "gloss": "jogtalansággal"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "és arcát"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gonoszoknak"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "emelitek fel"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:21.292060054Z",
+  "model": "glm-5.3"
+}

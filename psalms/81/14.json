@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Ó, ha népem hallgatna rám, Izrael az én utaimon járna!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ó, ha"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel (Izrael)"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "útjaimon"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "járna"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:31.247602474Z",
+  "model": "glm-5.3"
+}

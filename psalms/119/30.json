@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A hűség útját választottam, ítéleteidet elémben tettem.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "útját"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "hűség"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "választottam"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ítéleteidet"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "elémben tettem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:50.758291514Z",
+  "model": "glm-5.3"
+}

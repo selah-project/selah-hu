@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És eljutottak Kidon szérűjéig, és Uzza kinyújtotta ⟨את⟩ a kezét, hogy megragadja ⟨את⟩ a ládát, mert megtántorodtak az ökrök.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "és eljutottak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "szérűjé"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és kinyújtotta"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "hogy megragadja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ládát"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "a ládát"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "megtántorodtak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "az ökrök"
+    }
+  ],
+  "timestamp": "2026-09-04T23:04:11.389165840Z",
+  "model": "glm-5.3"
+}

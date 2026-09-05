@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Egy pillanat — és szólok egy nemzetről és egy királyságról, hogy kitépjem, lerontsam és elpusztítsam ⟨azt⟩;",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "Egy pillanat"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "szólok"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nemzetről"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és -ról"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "királyságról"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "hogy kitépjem"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "és lerontsam"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "és elpusztítsam"
+    }
+  ],
+  "timestamp": "2026-09-04T20:39:36.917608408Z",
+  "model": "glm-5.3"
+}

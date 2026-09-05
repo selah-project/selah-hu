@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És összegyűltek Salomo királyhoz Izráel minden férfia az Etanim hónapban, az ünnepen — ez a hetedik hónap.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "és összegyűltek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "hónapban"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "az Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "az ünnepen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "a hónap"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "a hetedik"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:20.012281339Z",
+  "model": "glm-5.3"
+}

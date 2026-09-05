@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ezek Gád fiai közül valók, a sereg fejei: a legkisebb ⟨egy⟩ a százra, és a legnagyobb az ezerre.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "a fiai közül"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejei"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "a sereg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨egy⟩"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "százra"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "a legkisebb"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "és a legnagyobb"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ezerre"
+    }
+  ],
+  "timestamp": "2026-09-04T23:04:38.077864095Z",
+  "model": "glm-5.3"
+}

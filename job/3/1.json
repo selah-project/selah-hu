@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ezután felnyitotta Ijov (Jób) ⟨את⟩ a száját, és elátkozta ⟨את⟩ a napját.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Ezután"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ezután⟩"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "felnyitotta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov (Jób)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a száját"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "a száját"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "és elátkozta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a napját"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "a napját"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:59.629539620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Én megmegyek előtted, és ⟨a⟩ görbe útakat egyenessé teszem, rézkapukat zúzok össze, és vaspántokat vágok ketté.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "megmegyek"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "és a görbéket"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "egyenessé teszem"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "kapukat"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "réz"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "zúzok össze"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "és pántokat"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vas"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "vágok ketté"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:01.162052430Z",
+  "model": "glm-5.3"
+}

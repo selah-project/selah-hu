@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Pedig összetörtél minket a sakálok helyén, és beborítottál minket halálárnyékkal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pedig"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "összetörtél minket"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "a ... helyén"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "sakálok"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "és beborítottál"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "minket"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "halálárnyékkal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:46.453115266Z",
+  "model": "glm-5.3"
+}

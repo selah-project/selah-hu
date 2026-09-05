@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Amikor közeledtek felém a gonosztevők, hogy felfalják ⟨את⟩ testemet — szorongatóim és ellenségeim —, ⟨azok⟩ megbotlottak és elestek.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Amikor közeledtek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "felém"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "a gonosztevők"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hogy felfalják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testemet"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "testemet"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "szorongatóim"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "és ellenségeim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨azok⟩"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "megbotlottak"
+    },
+    {
+      "surface": "וינפלו",
+      "gloss": "és elestek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:47.890561827Z",
+  "model": "glm-5.3"
+}

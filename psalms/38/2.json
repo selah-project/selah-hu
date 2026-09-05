@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Jahve, haragodban ne feddj engem, és búsakodásodban ne fenyíts meg engem!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "haragodban"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "feddj engem"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "és búsakodásodban"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ne fenyíts meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:52.692448622Z",
+  "model": "glm-5.3"
+}

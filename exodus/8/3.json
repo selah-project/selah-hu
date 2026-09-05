@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ugyanígy tettek a varázslók az ő titkaikkal, és felhozták ⟨את⟩ a békákat Micrajim földjére.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "És tették"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ugyanígy"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "a varázslók"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "titkaikkal"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "és felhozták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a békákat"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "a békákat"
+    },
+    {
+      "surface": "על",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:57.195522492Z",
+  "model": "glm-5.3"
+}

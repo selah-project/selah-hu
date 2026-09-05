@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Igazságot, igazságot kövess, hogy élj és birtokold ⟨את⟩ a földet, amelyet Jahve, a te Elohimod ad neked.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Igazságot"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "kövess"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "élj"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "és birtokold"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:36.336099215Z",
+  "model": "glm-5.3"
+}

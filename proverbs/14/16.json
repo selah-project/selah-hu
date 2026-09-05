@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "A bölcs fél, és elfordul a rossztól, de a bolond haragra lobban, és bizakodik.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "A bölcs"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "fél"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "és elfordul"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "a rossztól"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "de a bolond"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "haragra lobban"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "és bizakodik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:46.914006742Z",
+  "model": "glm-5.3"
+}

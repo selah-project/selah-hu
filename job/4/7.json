@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 4:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Emlékezzél kérlek: ki ⟨az⟩, ⟨aki⟩ ártatlan elveszett? És hol lettek az egyenesek eltörölve?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezzél"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ártatlan"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "elveszett"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "és hol"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "az egyenesek"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "lettek eltörölve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:46.547080643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És Nadav fiai: Szeled és Appajim; és meghalt Szeled, nem voltak fiai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Szeled"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "és Appajim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Szeled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiai"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:03.418624386Z",
+  "model": "glm-5.3"
+}

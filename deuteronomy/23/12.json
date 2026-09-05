@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És történjék: az est beálltakor mosakodjék vízben, és a nap lenyugvásakor jöjjön be a tábor közepébe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "és történjék"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "beálltakor"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "est"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mosakodjék"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "és lenyugvásakor"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jöjjön be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "be"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "közepébe"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a tábor"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:29.246722817Z",
+  "model": "glm-5.3"
+}

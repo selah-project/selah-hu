@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "hogy elűzze ⟨את⟩ minden ellenségedet orcádtól, ahogyan megbeszélte Jahve.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "hogy elűzze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden ellenségedet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségedet"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "orcádtól"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "megbeszélte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:52:01.850336450Z",
+  "model": "glm-5.3"
+}

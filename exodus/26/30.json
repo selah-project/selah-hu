@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És ⟨את⟩ a lakószentélyt állítsd fel a maga rendje szerint, amelyet ⟨a⟩ hegyen mutattak neked.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "és állítsd fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lakószentélyt"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakószentélyt"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "a maga rendje szerint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "mutattak neked"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:51.167700033Z",
+  "model": "glm-5.3"
+}

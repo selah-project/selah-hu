@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "Jerusalajim, ⟨az⟩ épített ⟨város⟩, mint egy város, amely egyben forrt össze önmagával.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalajim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "az épített"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "mint egy város"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "amely összeforrt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "önmagával"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:54.126429488Z",
+  "model": "glm-5.3"
+}

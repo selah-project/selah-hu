@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 63,
+  "translation": "Elohim, Elohim⟨ vagyok a tiéd⟩ — te vagy az Enyém —, hajnalban kereslek téged; szomjazott rád a lelkem (nefsim), sóvárog utánad a testem egy száraz és kimerült földön, víz nélkül.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Enyém"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "hajnalban kereslek"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "szomjazott"
+    },
+    {
+      "surface": "לך",
+      "gloss": "rád"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "sóvárog"
+    },
+    {
+      "surface": "לך",
+      "gloss": "utánad"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "testem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földön"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "száraz"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "és kimerült"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:03.904352319Z",
+  "model": "glm-5.3"
+}

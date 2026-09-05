@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "sohám-köveket és foglalat-köveket ⟨az⟩ éfódhoz és ⟨a⟩ hósenhez",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "köveket"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "sohám"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "és köveket"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "foglalatosakat"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "az éfódhoz"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "és a hósenhez"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:21.093090585Z",
+  "model": "glm-5.3"
+}

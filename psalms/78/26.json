@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Felkeltette az keleti szelet az égben, és erejével vezette a déli szelet.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Felkeltette"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "keleti szel"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "az égben"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "és vezette"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "erejével"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "a déli szelet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:54.654569739Z",
+  "model": "glm-5.3"
+}

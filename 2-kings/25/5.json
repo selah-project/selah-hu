@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És üldözte a kaszdimok serege a királyt, és utolérték őt ⟨את⟩ a Jérihó síkságán, és egész serege szétszóródott róla.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "és üldözte"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "serege"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "a kaszdimoknak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "…után"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "és utolérték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "a síkságán"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jérihónak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "serege"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "szétszóródott"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "róla"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:36.667777822Z",
+  "model": "glm-5.3"
+}

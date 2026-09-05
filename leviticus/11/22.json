@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "⟨את⟩ Ezeket ehetitek közülük: ⟨את⟩ a sáskát a maga fajtája szerint, és ⟨את⟩ a szolámot a maga fajtája szerint, és ⟨את⟩ a hargolt a maga fajtája szerint, és ⟨את⟩ a szöcskét a maga fajtája szerint.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ezeket"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ezeket"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "közülük"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehetitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sáskát"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "sáskát"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "a maga fajtája szerint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szolámot"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "szolámot"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "a maga fajtája szerint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hargolt"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargolt"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "a maga fajtája szerint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szöcskét"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "szöcskét"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "a maga fajtája szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:19.281591576Z",
+  "model": "glm-5.3"
+}

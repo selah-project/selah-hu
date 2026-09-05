@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És szedegetett a mezőn egészen estig, és kicsépelte ⟨את⟩ azt, amit szedett, és lett az mintegy egy éfa árpa.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "és szedegetett"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "estig"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "és kicsépelte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit szedett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "sedett"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "mintegy egy éfa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "árpa"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:17.257376609Z",
+  "model": "glm-5.3"
+}

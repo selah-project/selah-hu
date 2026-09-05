@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És pirosra festett kosbőröket, és tachas-bőröket, és sittim-fát.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "és bőröket"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "kos-"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "pirosra festett"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "és bőröket"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachas-"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "és fát"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim-"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:32.275606122Z",
+  "model": "glm-5.3"
+}

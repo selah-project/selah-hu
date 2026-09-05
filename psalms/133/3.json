@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 133,
+  "translation": "Mint a harmat Chermont, amely alászáll Cijon hegyeire, mert ott parancsolta Jahve ⟨את⟩ az áldást: életet örökké.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Mint a harmat"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermont"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "amely alászáll"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "hegyeire"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az áldást"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "az áldást"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "életet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "örökké"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:51.345808895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Ha rendeléseimben jártok, és ⟨את⟩ parancsolataimat megtartjátok, és megcselekszitek ⟨את⟩ ⟨azokat⟩;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "rendeléseimben"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "jártok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "parancsolataimat"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parancsolataimat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "megtartjátok"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "és megcselekszitek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨azokat⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:24.083784860Z",
+  "model": "glm-5.3"
+}

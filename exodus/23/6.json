@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne fordítsd el a szegényed igazságát a perében.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "fordítsd el"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "igazságát"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "a szegényed"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "a perében"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:57.848702222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Jahve, hajtsd le ⟨az⟩ egeidet, és szállj alá; érintsd meg a hegyeket, és füstölögni fognak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "hajtsd le"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "egeidet"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "és szállj alá"
+    },
+    {
+      "surface": "גע",
+      "gloss": "érintsd meg"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "a hegyeket"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "és füstölögni fognak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:29.094272691Z",
+  "model": "glm-5.3"
+}

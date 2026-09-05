@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "2-samuel 22:45",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Az idegen fiai színlelnek engedelmet ⟨nekem⟩; mihelyt fülük hallja ⟨⟨azt⟩⟩, engedelmeskednek nékem.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "az idegen(nek)"
+    },
+    {
+      "surface": "יתכחשו",
+      "gloss": "színlelnek engedelmet"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "mihelyt hallja"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "fülük"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "engedelmeskednek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nékem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:34:22.865367563Z",
+  "model": "glm-5.3"
+}

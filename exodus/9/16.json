@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "de éppen ezért tartottalak fenn, hogy megmutathassam neked ⟨את⟩ az erőmet, és hogy nevem hirdettessék az egész földön.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "de éppen"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "tartottalak fenn"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "megmutathassam neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az erőmet"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "erőmet"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "és hogy"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "hirdettessék"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nevem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:51.829154884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Minden özvegyet és árvát ne sanyargassatok.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "özvegyet"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "és árvát"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "sanyargassatok"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:57.523566235Z",
+  "model": "glm-5.3"
+}

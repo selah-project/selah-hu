@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Nem zsarolja őt az ellenség, és a hamisság fia nem nyomorgatja őt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zsarolja"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    },
+    {
+      "surface": "בו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "és a ... fia"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "hamisság"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "nyomorgatja őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:11.810424628Z",
+  "model": "glm-5.3"
+}

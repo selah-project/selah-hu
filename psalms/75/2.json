@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "Hálát adtunk neked, Elohim, hálát adtunk, mert közel ⟨az⟩ neved; csodáidat beszélik el.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Hálát adtunk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "hálát adtunk"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "mert közel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neved"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "beszélik el"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "csodáidat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.928558272Z",
+  "model": "glm-5.3"
+}

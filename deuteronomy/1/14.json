@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És feleltetek ⟨את⟩ nekem, és mondátok: jó az a dolog, amelyet szóltál, megcselekedni.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "és feleltetek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "és mondátok"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az a dolog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "szóltál"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "megcselekedni"
+    }
+  ],
+  "timestamp": "2026-09-04T17:50:16.422070481Z",
+  "model": "glm-5.3"
+}

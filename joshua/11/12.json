@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ⟨את⟩ minden e királyok városait és ⟨את⟩ minden királyaikat elfogalta Jehosua, és kard szájáig ütötte meg őket — victimságra szentelte ⟨את⟩ őket, ahogyan megparancsolta Mose (Mózes), Jahve szolgája.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden e királyok városait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városait"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "királyok"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden királyaikat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "királyaikat"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "elfogalta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "ütötte meg"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "kard szájáig"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "victimságra szentelte"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsolta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mose"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolgája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T18:41:03.074749665Z",
+  "model": "glm-5.3"
+}

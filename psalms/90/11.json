@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Ki tudja ⟨a⟩ haragod erejét? ⟦És⟧ a félelmed szerint ⟨áll⟩ a dúla.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tudja"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erejét"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "haragod"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "és a félelmed szerint"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "a dúla"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:19.990163350Z",
+  "model": "glm-5.3"
+}

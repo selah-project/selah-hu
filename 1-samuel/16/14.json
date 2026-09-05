@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És a Jahve lelke elfordult Saultól, és megrettentette őt egy rossz lélek ⟨את⟩ Jahvétól.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "És a…lelke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "elfordult"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "tól"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "és megrettentette őt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ Jahvétól",
+      "marks": "Jahvétól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:08.300632044Z",
+  "model": "glm-5.3"
+}

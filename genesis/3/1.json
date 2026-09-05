@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 3:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "A kígyó pedig ravaszabb volt minden mezei vadnál, amelyet Jahve Elohim alkotott; és ezt mondta a nőnek: „Ugyan mondta-e az Elohim: ne egyetek a kert minden fájáról?”",
+  "tokens": [
+    {
+      "surface": "והנחש",
+      "gloss": "a kígyó pedig"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ravaszabb"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden(…nál)"
+    },
+    {
+      "surface": "חית",
+      "gloss": "vad(nál)"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely(et)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alkotott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–nak"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "a nő"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ugyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vajon…-e"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egetek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fájáról"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "a kert"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:55.454554967Z",
+  "model": "glm-5.3"
+}

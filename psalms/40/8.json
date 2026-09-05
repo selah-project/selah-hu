@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Akkor mondtam: Íme, jöttem — a könyv tekercsében meg van írva rólam.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Akkor"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "jöttem"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "a tekercsben"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "a könyv"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "meg van írva"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rólam"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:21.081793230Z",
+  "model": "glm-5.3"
+}

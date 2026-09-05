@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És elmozdította őt Micrajim (Egyiptom) királya Jerusálaimban, és megbüntette ⟨את⟩ az országot száz talentum ezüsttel és egy talentum arannyal.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "És elmozdította őt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusálaimban"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "és megbüntette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az országot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talentum"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüsttel"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "és egy talentum"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:24:29.727609783Z",
+  "model": "glm-5.3"
+}

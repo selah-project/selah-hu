@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Áldott Jahve, Elohim, Izrael Elohima, aki csodákat tesz egyedül.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tesz"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "csodákat"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egyedül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:51.810907740Z",
+  "model": "glm-5.3"
+}

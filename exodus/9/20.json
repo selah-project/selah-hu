@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Aki Jahve szavát féltette ⟨את⟩ — Paro (Fáraó) szolgái közül az —, elmenekítette ⟨את⟩ szolgáit és ⟨את⟩ marháit a házakba.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Aki féltette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szavát"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "szolgái közül"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (Fáraó)"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "az elmenekítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "marháit"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "marháit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "házakba"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:02.173032862Z",
+  "model": "glm-5.3"
+}

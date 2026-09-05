@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Csak a nép áldozott a magaslatokon, mert nem épült ház Jahve nevének egészen ama napokig.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "áldozott"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "a magaslatokon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "épült"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nevének"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ama napokig"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "azok"
+    }
+  ],
+  "timestamp": "2026-09-04T19:38:22.624721542Z",
+  "model": "glm-5.3"
+}

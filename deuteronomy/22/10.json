@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ne szánts ökörrel és szamárral együtt.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "szánts"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ökörrel"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "és szamárral"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:25:45.061258936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 146,
+  "translation": "Uralkodik Jahve mindörökké, a te Elohimod, Cijjon (Sion), nemzedékről nemzedékre. Dicsérjétek Jah-t (Halleluja)!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "Uralkodik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mindörökké"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijjon (Sion)"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:30.754269084Z",
+  "model": "glm-5.3"
+}

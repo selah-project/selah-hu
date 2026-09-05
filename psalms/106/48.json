@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Áldott ⟨legyen⟩ Jahve, Jiszraél (Izráel) Elohimja, öröktől örökké; és mondja minden nép: Ámen. Halélú Jah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott ⟨legyen⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszraél (Izráel)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…től"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "öröktől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és …ig"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halélú"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:12.915859182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "és nővéréért, a szűzért, a hozzá közel-levőért, aki nem volt férfié — érette tisztátalaníthatja magát.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "és nővéréért"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "a szűz"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "a közel-levő"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "férfié"
+    },
+    {
+      "surface": "לה",
+      "gloss": "érette"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tisztátalaníthatja magát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:19.052580471Z",
+  "model": "glm-5.3"
+}

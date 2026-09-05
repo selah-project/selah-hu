@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha széttépve széttépett, hozza el azt tanúul — a széttépettet nem téríti meg.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "széttépve"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "széttépett"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "hozza el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanúul"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "a széttépettet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "téríti meg"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:56.153103341Z",
+  "model": "glm-5.3"
+}

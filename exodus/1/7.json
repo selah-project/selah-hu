@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És Izrael fiai gyümölcsöztek, és elnyüzsögtek, és megsokasodtak, és megerősödtek nagyon-nagyon; és megtelt ⟨את⟩ ⟨általuk⟩ a föld.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "És fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelnek"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "gyümölcsöztek"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "és elnyüzsögtek"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "és megsokasodtak"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "és megerősödtek"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "és megtelt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨általuk⟩",
+      "marks": "a föld megtelt velük — az אתם az את + -őket\/velük névmásos tárgyjel"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:19.679845342Z",
+  "model": "glm-5.3"
+}

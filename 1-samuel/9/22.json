@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 9:22",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És vette Semuél (Sámuel) ⟨את⟩ Sáult és ⟨את⟩ szolgáját, és bevitte őket a terembe, és helyet adott nekik a meghívottak élén; ők pedig mintegy harmincan voltak.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sáult"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sáult"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szolgáját"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "szolgáját"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "és bevitte őket"
+    },
+    {
+      "surface": "לשכתה",
+      "gloss": "a terembe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helyet"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "az élén"
+    },
+    {
+      "surface": "הקרואים",
+      "gloss": "a meghívottaknak"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ők pedig"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "mintegy harmincan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    }
+  ],
+  "timestamp": "2026-09-04T19:06:43.888407073Z",
+  "model": "glm-5.3"
+}

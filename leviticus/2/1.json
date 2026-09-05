@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ha egy lélek lisztáldozatot áldozatként Jahvénak közelít, lisztből legyen az áldozata, és öntsön rá olajat, és tegyen rá lebónát.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "És ha egy lélek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "közelít (áldozatként)"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "áldozatként"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lisztáldozatot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "lisztből"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "az áldozata"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "és öntsön"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rá"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olajat"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és tegyen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rá"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "lebónát (tömjént)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:32.393610594Z",
+  "model": "glm-5.3"
+}

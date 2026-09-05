@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Ávant sző ⟨a⟩ maga ágyán; odaáll egy útra, amely nem jó; a rosszat nem utasítja el.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "Ávant"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "sző"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨a⟩ maga"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ágyán"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "odaáll"
+    },
+    {
+      "surface": "על",
+      "gloss": "egy útra"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "utasítja el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:37.035008079Z",
+  "model": "glm-5.3"
+}

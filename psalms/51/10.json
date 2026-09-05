@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Hallasd velem ⟨az⟩ örvendezést és ⟨az⟩ örömet; ujjongjanak ⟨azok⟩ ⟨a⟩ csontok, amelyeket összetörtél.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "hallasd velem"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "örvendezést"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "és örömet"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ujjongjanak"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "csontok"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "összetörtél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:25.341711993Z",
+  "model": "glm-5.3"
+}

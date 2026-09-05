@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "és ⟨את⟩ Evált és ⟨את⟩ Avimaelt és ⟨את⟩ Sevát",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Evált"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Evált"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Avimaelt"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaelt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Sevát"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sevát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:58:12.343243062Z",
+  "model": "glm-5.3"
+}

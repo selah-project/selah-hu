@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 110,
+  "translation": "Ítél ⟨a⟩ népek között, megtölti ⟨a⟩ mezőt holttestekkel, összezúzza ⟨a⟩ fej⟨ét⟩ a hatalmas föld ⟩föl⟨ött.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ítél"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "népek között"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "megtölti"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "holttestekkel"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "összezúzza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fej"
+    },
+    {
+      "surface": "על",
+      "gloss": "föl(ött)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hatalmas"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:31.060955337Z",
+  "model": "glm-5.3"
+}

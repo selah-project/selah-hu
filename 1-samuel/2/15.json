@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 2:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Sőt, mielőtt elfüstölték ⟨את⟩ a zsírt, a pap legénye odajött, és mondta az áldozó embernek: „Adj húst sütésre a papnak, mert nem vesz el tőled főtt húst, hanem csak nyerset.”",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "elfüstölik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "a zsírt"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "és jött"
+    },
+    {
+      "surface": "נער",
+      "gloss": "legénye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "az áldozó"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "adj"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húst"
+    },
+    {
+      "surface": "לצלות",
+      "gloss": "sütésre"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papnak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vesz"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "tőled"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húst"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "főtt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "csak"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nyerset"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:01.847577018Z",
+  "model": "glm-5.3"
+}

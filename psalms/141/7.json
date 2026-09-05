@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Mint amikor szánt és hasít a földben, úgy szétszórattak az én csontjaink a Seol szájánál.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "szánt"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "és hasít"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földben"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "szétszórattak"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "csontjaink"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "szájánál"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a Seol"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:34.982488100Z",
+  "model": "glm-5.3"
+}

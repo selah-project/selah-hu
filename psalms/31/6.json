@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Kezedbe teszem lelkemet; megváltottál ⟨את⟩ engem, Jahve, igazságnak El-e.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Kezedbe"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "leteszem"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "megváltottál"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "igazságnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:31.452583565Z",
+  "model": "glm-5.3"
+}

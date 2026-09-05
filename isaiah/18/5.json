@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Mert az aratás előtt, amikor a virág beteljesedik, és az éretlen szőlő érik a bimbóban, ő levágja az indákat metszőkéssekkel, és ⟨את⟩ a hajtásokat eltávolítja, lemetszi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "az aratásnak"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "beteljesedik"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "a virág"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "és az éretlen szőlő"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "érik"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "a bimbóban"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "és levágja"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "az indákat"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "metszőkéssekkel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a hajtásokat"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "a hajtásokat"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "eltávolítja"
+    },
+    {
+      "surface": "התז",
+      "gloss": "lemetszi"
+    }
+  ],
+  "timestamp": "2026-09-04T20:13:32.077206072Z",
+  "model": "glm-5.3"
+}

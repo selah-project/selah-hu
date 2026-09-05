@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "mivel azt tette David ⟨את⟩ az egyenest Jahve szemében, és nem tért el mindattól, amit parancsolt neki élete minden napján, kivéve csak Urijá (Uriás) lakhita ügyében",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mivel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egyenest"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "az egyenest"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "סר",
+      "gloss": "eltért"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mindattól"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "parancsolt neki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "élete"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kivéve csak"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ügyében"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijá"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "lakhita"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:57.557131373Z",
+  "model": "glm-5.3"
+}

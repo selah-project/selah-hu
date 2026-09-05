@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "A te szolgád és szolgálód, akik nálad lesznek, ⟨את⟩ a népek közül ⟨veendők⟩, akik körülöttetek vannak — tőlük vegyetek szolgát és szolgálót.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "és szolgád"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "és szolgálód"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesznek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nálad"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "a népek közül"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "körülöttetek"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tőlük"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "vegyetek"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolgát"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és szolgálót"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:04.741663447Z",
+  "model": "glm-5.3"
+}

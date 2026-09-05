@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És megesküdött neki Saúl Jahvéval, mondván: Élő Jahve — ha bűn ér ezért téged e dolog miatt!",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "és megesküdött"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéval"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "ér téged"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bűn"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "e dolog miatt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:49.220497392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 130,
+  "translation": "Mert nálad ⟨van⟩ a megbocsátás, hogy félettlek ⟨téged⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nálad"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "a megbocsátás"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "félettlek ⟨téged⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:47.522520879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A te rendeleteidtől nem tértem el, mert te tanítottál engem.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "rendeleteidtől"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "tértem el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "tanítottál engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:35.585832546Z",
+  "model": "glm-5.3"
+}

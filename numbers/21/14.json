@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Ezért mondatik Jahve háborúinak könyvében: ⟨את⟩ Váheb Szufa mellett, és ⟨את⟩ a folyómedreket, az Arnont.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondattatik"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "a könyvben"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "háborúi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Váheb"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Váheb"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "Szufa mellett"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a folyómedreket"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "a folyómedrek"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "az Arnont"
+    }
+  ],
+  "timestamp": "2026-09-04T17:38:48.698787133Z",
+  "model": "glm-5.3"
+}

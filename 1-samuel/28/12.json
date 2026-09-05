@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És látta az asszony ⟨את⟩ Semuélt, és felkiáltott nagy hangon, és mondta az asszony Saúlhoz, mondván: Miért csaljál meg engem — és te vagy Saúl!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Semuélt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuélt"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "és felkiáltott"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hangon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "csaljál meg engem"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "és te"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:49.220872261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És lakozni fogok a Jisraél (Izrael) fiai között, és nem hagyom el ⟨את⟩ népemet, Jisraélt.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "és lakozni fogok"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "között"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "hagyom el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraélt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:40:09.599231125Z",
+  "model": "glm-5.3"
+}

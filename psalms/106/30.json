@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És felállt Pinehas (Pinḥás), és közbenjárt, és a csapás megállt.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "és felállt"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinehas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "és közbenjárt"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "és megállt"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "a csapás"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:37.256427516Z",
+  "model": "glm-5.3"
+}

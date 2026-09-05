@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "És elküldte a király, és összegyűjtötte ⟨את⟩ mind a véneit Jehúdának (Júda) és Jerusálajimnek (Jeruzsálem).",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "és összegyűjtötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "a véneit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúdának (Júda)"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "és Jerusálajimnek (Jeruzsálem)"
+    }
+  ],
+  "timestamp": "2026-09-04T23:24:56.786991569Z",
+  "model": "glm-5.3"
+}

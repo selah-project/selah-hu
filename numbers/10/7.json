@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ha összegyűjtitek ⟨את⟩ a gyülekezetet, kürtjellel fújjatok, és riadót ne fújjatok.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "és ha összegyűjtitek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyülekezetet"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "a gyülekezetet"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "kürtjellel fújjatok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "riadót fújjatok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:31:56.311381162Z",
+  "model": "glm-5.3"
+}

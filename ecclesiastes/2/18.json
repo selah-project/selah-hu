@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És gyűlöltem én ⟨את⟩ minden fáradozásomat, amellyel fáradoztam a nap alatt, mert annak hagynom kell ⟨את⟩ az embernek, aki utánam lesz.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "És gyűlöltem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden fáradozásomat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "fáradozásomat"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "amelyet én"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fáradoztam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "hogy hagynom kell azt"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "aki lesz"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "utánam"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:47.944873842Z",
+  "model": "glm-5.3"
+}

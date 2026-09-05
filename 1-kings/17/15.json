@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És elment, és megcselekedte Elijáhu szava szerint; és evett ⟨ő⟩, és ⟨az asszony⟩, és annak háza népe, számos napig.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "és megcselekedte"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "szava szerint"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáhu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és evett"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "és ⟨az asszony⟩"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "és annak háza népe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "számos napig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:13.004484270Z",
+  "model": "glm-5.3"
+}

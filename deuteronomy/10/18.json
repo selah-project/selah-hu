@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Igazságot tesz az árvának és az özvegynek, és szereti a jövevényt, hogy adjon neki kenyeret és ruhát.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Tesz"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "árvának"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "és özvegynek"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "és szereti"
+    },
+    {
+      "surface": "גר",
+      "gloss": "a jövevényt"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hogy adjon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "és ruhát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:11.841327332Z",
+  "model": "glm-5.3"
+}

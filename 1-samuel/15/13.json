@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És megérkezett Smuél (Sámuel) Saulhoz, és Saul így szólt hozzá: Áldott vagy Jahvénak, végrehajtottam ⟨את⟩ Jahve szavát.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És megérkezett"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és így szólt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "végrehajtottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szavát"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:10:55.273712374Z",
+  "model": "glm-5.3"
+}

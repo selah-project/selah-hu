@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Őrizz engem a csapdák kezétől, amelyeket ⟨nekem⟩ vetettek, és a gonosztevők hálótól.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Őrizz engem"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "a kezétől"
+    },
+    {
+      "surface": "פח",
+      "gloss": "csapda"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "amelyeket vetettek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "és hálótól"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tevői"
+    },
+    {
+      "surface": "און",
+      "gloss": "gonosznak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:26.852577231Z",
+  "model": "glm-5.3"
+}

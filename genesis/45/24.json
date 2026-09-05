@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "És elküldte ⟨את⟩ testvéreit, és elmentek; és mondta nekik: ne veszkedjetek az úton.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreit"
+    },
+    {
+      "surface": "וללכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "veszkessetek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:38.654015124Z",
+  "model": "glm-5.3"
+}

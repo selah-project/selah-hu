@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Esőt zúdít a gonoszokra: hálót, tüzet és ként, és perzselő szelet — osztályrészül a kelyhüknek.",
+  "tokens": [
+    {
+      "surface": "ייטר",
+      "gloss": "Esőt zúdít"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszokra"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "hálót"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüzet"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "és ként"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "és szelet"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "perzselőt"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "osztályrészül"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "a kelyhüknek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:46.359037995Z",
+  "model": "glm-5.3"
+}

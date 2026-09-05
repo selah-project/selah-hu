@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Zengjen nyelvem igédről, mert minden parancsolatod ⟨a⟩ igazság.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "Zengjen"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "nyelvem"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "igédről"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parancsolatod"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:13.788372761Z",
+  "model": "glm-5.3"
+}

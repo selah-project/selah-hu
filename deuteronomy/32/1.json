@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Figyeljetek, egek, és szólok, és hallja a föld szájam beszédeit.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Figyeljetek"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "egek"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "és szólok"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "és hallja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "beszédeit"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szájam"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:21.156742833Z",
+  "model": "glm-5.3"
+}

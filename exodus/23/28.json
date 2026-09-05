@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És küldöm ⟨את⟩ a darázsat előtted, és az kiűzi ⟨את⟩ a hivit, ⟨את⟩ a kánaánit és ⟨את⟩ a hettitát előled.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "és küldöm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a darázsat"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "a darázsat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "és kiűzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hivit"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "a hivit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kánaánit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a kánaánit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hettitát"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "a hettitát"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "előled"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:40.348710157Z",
+  "model": "glm-5.3"
+}

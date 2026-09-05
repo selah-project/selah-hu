@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És bevonatta ⟨את⟩ a kerubokat arannyal.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "És bevonatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kerubokat"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "a kerubokat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:50.342277064Z",
+  "model": "glm-5.3"
+}

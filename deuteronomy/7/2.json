@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "és megadja őket Jahve, a te Elohimod, eléd, és levered őket: végképp pusztítsd el ⟨את⟩ őket; ne köss velük szövetséget, és ne kegyelmezz nekik.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "és megadja őket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eléd"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "és levered őket"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "végképp pusztítsd"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "pusztítsd el"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "köss"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "kegyelmezz nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:39.207853176Z",
+  "model": "glm-5.3"
+}

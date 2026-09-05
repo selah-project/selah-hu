@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 129,
+  "translation": "Ének a lépcsőkhez. Sokszor szorongattak engem ifjúságomtól — mondja el immár Izrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ének"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a lépcsőkhez"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Sokszor"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "szorongattak engem"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ifjúságomtól"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja el"
+    },
+    {
+      "surface": "נא",
+      "gloss": "immár"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.648143840Z",
+  "model": "glm-5.3"
+}

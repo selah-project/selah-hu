@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Rettenetes tetteid hatalmát mondják, és nagyságodat elbeszélem.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "és hatalmát"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "rettenetes tetteidnek"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mondják"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "és nagyságodat"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "elbeszélem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:58.502025442Z",
+  "model": "glm-5.3"
+}

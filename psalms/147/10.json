@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "Nem ⟨abban⟩ gyönyörködik a ló erejében, nem ⟨abban⟩ telik kedve az ember lábaiban.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "erejében"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "a ló"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "gyönyörködik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "lábaiban"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "telik kedve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:44.625342712Z",
+  "model": "glm-5.3"
+}

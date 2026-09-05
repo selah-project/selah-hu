@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És csinált a háznak leszűkített nyílású, zárt ablakokat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És csinált"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "ablakokat"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "leszűkített nyílású"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "zárt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:49.351745573Z",
+  "model": "glm-5.3"
+}

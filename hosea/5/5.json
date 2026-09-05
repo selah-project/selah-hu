@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És felel Izráél gőgje az ő orcájára, és Izráél és Efrájim megbotlik az ő bűnükben, botlott meg Júdával együtt ⟨azokkal⟩ is.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "és felel"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gőgje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "az ő orcájára"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "és Izráél"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "és Efrájim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "megbotlik"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "az ő bűnükben"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "botlott meg"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "⟨azokkal⟩ együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:00.964193996Z",
+  "model": "glm-5.3"
+}

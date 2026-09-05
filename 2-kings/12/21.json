@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És felkeltek az ő szolgái, és összeesküdtek összeesküvést, és megütötték ⟨את⟩ Joást a Millo házában, amely lekászálódik Szillához.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "és felkeltek"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "az ő szolgái"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "és összeesküdtek"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "összeesküvést"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és megütötték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joást"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joást"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "amely lemegy"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Szillába"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:44.700866519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "Erős kézzel és kinyújtott karral, mert örökké tart az ő heszedje.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "kézzel"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "Erős"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "és karral"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "kinyújtott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "az ő heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:32.418133085Z",
+  "model": "glm-5.3"
+}

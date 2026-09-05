@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Legyen táboruk elpusztult, sátraikban pedig ne legyen lakó.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "táboruk"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "elpusztult"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "sátraikban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lakó"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:07.781916304Z",
+  "model": "glm-5.3"
+}

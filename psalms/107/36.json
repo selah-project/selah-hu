@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "És ott leltatja ⟨lakik⟩ az éhezőket, és várost építenek lakóhelyül.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "leltatja"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "az éhezőket"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "és építenek"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "várost"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "lakóhelyül"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:04.926659171Z",
+  "model": "glm-5.3"
+}

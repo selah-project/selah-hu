@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "és ⟨את⟩ a hivvita, és ⟨את⟩ a arkkita, és ⟨את⟩ a szinita",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hivvita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "a hivvita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a arkkita"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "a arkkita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szinita"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "a szinita"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:49.356106238Z",
+  "model": "glm-5.3"
+}

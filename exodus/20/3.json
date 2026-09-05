@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ne legyenek neked más isteneid az én orcám felett.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isteneid"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "פני",
+      "gloss": "az én orcám"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:20.948674056Z",
+  "model": "glm-5.3"
+}

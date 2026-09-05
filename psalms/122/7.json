@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 122,
+  "translation": "Legyen béke ⟨a⟩ erődítményeiden, csendes nyugalom ⟨a⟩ palotáidban!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "béke"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "erődítményeiden"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "csendes nyugalom"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "palotáidban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:14.635164202Z",
+  "model": "glm-5.3"
+}

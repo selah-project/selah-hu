@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És etetem őket ⟨את⟩ fiuk húsával és ⟨את⟩ leányaik húsával, és mindenki a maga felebarátjának húsát eszi majd, ostromban és szorongattatásban, amellyel ellenségeik és életüket keresők szorongatják őket.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "és etetem őket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiuk húsával"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hús"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "leányaik húsával"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hús"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "leányaik"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és mindenki"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátjának"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "eszi majd"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ostromban"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "és szorongattatásban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amellyel"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "szorongatják"
+    },
+    {
+      "surface": "להם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ellenségeik"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "és keresői"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "életüknek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:39:40.293498152Z",
+  "model": "glm-5.3"
+}

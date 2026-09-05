@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És felment Jehúda, és Jahve kezeikbe adta ⟨את⟩ a kánaánitát és a perizzit, és megverték őket Bezekben, tízezer embert.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "És felment"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kánaánitát"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a kánaánitát"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "és a perizzit"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "kezeikbe"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "és megverték"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekben"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    }
+  ],
+  "timestamp": "2026-09-04T18:48:37.272298116Z",
+  "model": "glm-5.3"
+}

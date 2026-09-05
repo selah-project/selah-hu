@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Van, aki meggazdagodik, és nincs semmije; van, aki elszegényedik, és nagy vagyona van.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Van"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "aki meggazdagodik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmije"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "aki elszegényedik"
+    },
+    {
+      "surface": "והון",
+      "gloss": "és vagyona"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:05.621550085Z",
+  "model": "glm-5.3"
+}

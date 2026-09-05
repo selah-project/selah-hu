@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "⟨את⟩ az áldást, ha hallgattok Jahve, a ti Elohimotok parancsolataira, amelyeket én parancsolok ⟨את⟩ nektek ma —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az áldást"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "az áldást"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hallgattok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ra"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsolataira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parancsolok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nektek"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:29.204199434Z",
+  "model": "glm-5.3"
+}

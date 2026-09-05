@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Fülelj, Jahve, az én imádságomra, és figyelj könyörgésem szavára.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Fülelj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "az én imádságomra"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "és figyelj"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "könyörgésem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:29.619186602Z",
+  "model": "glm-5.3"
+}

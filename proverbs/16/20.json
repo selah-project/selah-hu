@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Az ügyes a dologban jót talál, és aki Jahvéban bízik, boldog ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ügyes"
+    },
+    {
+      "surface": "על",
+      "gloss": "a dologban"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a dologban"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "talál"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "és bízik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "boldog ⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:56.611562814Z",
+  "model": "glm-5.3"
+}

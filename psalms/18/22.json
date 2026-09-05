@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Mert megőriztem Jahve útjait, és nem gonoszkodtam Elohimom ellen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "megőriztem"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "útjait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "gonoszkodtam"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohimom ellen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:10.637810370Z",
+  "model": "glm-5.3"
+}

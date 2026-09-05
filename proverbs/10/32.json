@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Az igaznak ajkai ismerik az elfogadhatót, de a gonoszok szája romlottság ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ajkai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaznak"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ismerik"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "az elfogadhatót"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "de szája"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszoknak"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "romlottság"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:29.416205801Z",
+  "model": "glm-5.3"
+}

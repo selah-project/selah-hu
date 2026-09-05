@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Dávidé. Oktató ének. Boldog ⟨az⟩, akinek ⟨a⟩ lázadása elhordatott, akinek ⟨a⟩ vétke betakartatott.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Oktató ének"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "elhordatott"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "lázadása"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "betakartatott"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "vétke"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:47.064737836Z",
+  "model": "glm-5.3"
+}

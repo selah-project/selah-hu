@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Gonosz ember meghalásakor elpusztul ⟨a⟩ reménysége, és a hamisság várakozása odalett.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "meghalásakor"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "elpusztul"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "reménysége"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "és várakozása"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "a hamisságnak"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "odalett"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:20.144350677Z",
+  "model": "glm-5.3"
+}

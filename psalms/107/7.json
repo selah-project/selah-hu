@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "És egyenes úton vezette ⟨őket⟩, hogy elmenjenek egy lakóvárosba.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "És vezette"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "úton"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "egyenes"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hogy elmenjenek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városba"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "lakóváros"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:01.423039644Z",
+  "model": "glm-5.3"
+}

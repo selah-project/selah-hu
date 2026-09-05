@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 54,
+  "translation": "Íme, az Elohim ⟨a⟩ segítőm; Adonáj ⟨van⟩ azokkal, akik hordozzák a lelkemet.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "segítő"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "amelyek hordozzák"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkemet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:07.388701487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És szólt Jehósáfát (Jósafát) Izráél királyához: Kérdezd meg kérlek még ma ⟨את⟩ Jahve szavát.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehósáfát (Jósafát)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahhoz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyához"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Kérdezd meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "még ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szavát"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:51:44.987623086Z",
+  "model": "glm-5.3"
+}

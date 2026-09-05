@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Dávidtól. Bírálj el, Jahve, mert én feddhetetlenségemben jártam, és Jahvéban bíztam, nem tántorodom el.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Bírálj el"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "feddhetetlenségemben"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "jártam"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "és Jahvéban"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "tántorodom el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:37.818336251Z",
+  "model": "glm-5.3"
+}

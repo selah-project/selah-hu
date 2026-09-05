@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "⟨את⟩ Az asztalt, ⟨את⟩ minden edényét, és ⟨את⟩ az arcok kenyereit.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asztalt"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "az asztalt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kenyereket"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyereit"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "az arcok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:04:58.864084408Z",
+  "model": "glm-5.3"
+}

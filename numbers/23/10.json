@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ki számlálja meg Jaakov (Jákob) porát, és ⟨את⟩ Jiszráél negyedrészének számát? Haljon meg lelkem az igazak halálával, és legyen a végem olyan, mint az övé!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "számlálja meg"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "porát"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "és a számát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél negyedrészét"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "negyedrészét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "haljon meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a halálával"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "az igazaknak"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és legyen"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "a végem"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "mint az övé"
+    }
+  ],
+  "timestamp": "2026-09-04T17:41:37.099336186Z",
+  "model": "glm-5.3"
+}

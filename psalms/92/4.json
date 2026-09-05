@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "Tízhúroson és nábelán, higgajon mellett lanttal",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "-on"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "Tízhúroson"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "és -on"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nábelán"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higgajon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "lanttal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:08.854824089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És összehívták magukat kiáltással az egész nép, amely ⟨volt⟩ a városban, hogy üldözzék őket; és üldözték Jehosuát (Józsuét), és elszakadtak a várostól.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "összehívták magukat kiáltással"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "hogy üldözzék"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "őket"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "és üldözték"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosuát"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "és elszakadtak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várostól"
+    }
+  ],
+  "timestamp": "2026-09-05T00:27:33.778272913Z",
+  "model": "glm-5.3"
+}

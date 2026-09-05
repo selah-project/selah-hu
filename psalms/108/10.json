@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Moáv mosomedencém ⟨van⟩, Edómra dobom sarumat, Peleset (Filisztea) fölött diadalkiáltást ⟨ütök⟩.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moáv"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "mosomedencém"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mosásomnak"
+    },
+    {
+      "surface": "על",
+      "gloss": "Edómra"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edómra"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "dobom"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sarumat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "diadalkiáltást ⟨ütök⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:00.561087872Z",
+  "model": "glm-5.3"
+}

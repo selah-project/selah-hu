@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Mielőtt a hegyek megszülettek, és te vajúdtad ⟨את⟩ a földet és ⟨את⟩ a világot, öröktől örökké te vagy ⟨a⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Mielőtt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "megszülettek"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "és vajúdtad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "és a világot"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "öröktől"
+    },
+    {
+      "surface": "עד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "…"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:49.668425508Z",
+  "model": "glm-5.3"
+}

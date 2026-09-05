@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És ha eladást adtok el felebarátotoknak, vagy vesztek felebarátotok kezéből, ne nyomorgasson kiki ⟨את⟩ testvérét.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "eladtok"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "eladást"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "felebarátodnak"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "veszel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "felebarátod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "nyomorgassatok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvérét"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérét"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:44.922817712Z",
+  "model": "glm-5.3"
+}

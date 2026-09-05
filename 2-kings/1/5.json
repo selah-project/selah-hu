@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És visszatértek hozzá a követek, és ezt mondta nekik: Mi ez, hogy visszatértetek?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "És visszatértek"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "a követek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "hogy visszatértetek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:41.905749042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "A karnagynak, a nechilót szerint, zsoltár, Dawidnak (Dávid).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "a nechilót"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidnak (Dávid)"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:20.885982595Z",
+  "model": "glm-5.3"
+}

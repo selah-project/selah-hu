@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És ⟨a⟩ férfi, aki elveszi ⟨את⟩ testvére feleségét — tisztátalanság ⟨az⟩; testvére meztelenségét leplezte le; gyermektelenek lesznek.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "és ⟨a⟩ férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "elveszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvére feleségét"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvére"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "tisztátalanság"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "meztelenségét"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvére"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "leplezte le"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "gyermektelenek"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesznek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:19.359231166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Te látattál, hogy tudd: Jahve ⟨⟨az⟩⟩ Elohim, nincs más rajta kívül.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "látattál"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hogy tudd"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨az⟩ Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "más"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "rajta kívül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:52:35.451453970Z",
+  "model": "glm-5.3"
+}

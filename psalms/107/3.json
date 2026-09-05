@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "és országokból gyűjtötte össze ⟨őket⟩, keletről és nyugatról, északról és a tenger felől.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "és országokból"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "összegyűjtötte őket"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "keletről"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "és nyugatról"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "északról"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "és a tenger felől"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:29.777358701Z",
+  "model": "glm-5.3"
+}

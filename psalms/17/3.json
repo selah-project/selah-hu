@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Próbáltad szívemet, meglátogattál éjjel, kipróbáltál — ⟨de⟩ nem találsz ⟨semmit⟩; tervem nem lépi át ⟨az⟩ számat.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Próbáltad"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemet"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "meglátogattál"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "kipróbáltál"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "találsz"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "tervem"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lépi át"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:13.773938717Z",
+  "model": "glm-5.3"
+}

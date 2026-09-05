@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Nem ⟨ez⟩-e ⟨az⟩, amiből uram iszik, és amivel ⟨ő⟩ jósolni szokott? Gonoszul cselekedtétek, amit tettetek.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amiből"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "iszik"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨abból⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ⟨ő⟩"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "jósolni"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "szokott"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨azzal⟩"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "Gonoszul cselekedtétek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "tettetek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:51.641303666Z",
+  "model": "glm-5.3"
+}

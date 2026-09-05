@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És borotválkozzék meg, de ⟨את⟩ a neteket ne borotválja; és zárja el a kohen ⟨את⟩ a neteket hét napra másodszor.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "és borotválkozzék meg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a neteket"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "a neteket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "borotválja"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "és zárja el"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a neteket"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "a neteket"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napra"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "másodszor"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:42.542411933Z",
+  "model": "glm-5.3"
+}

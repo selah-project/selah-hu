@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Sőt én elsőszülötté teszem őt, a föld királyai közül a legmagasabbat.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Sőt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "elsőszülötté"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "teszem őt"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "a legmagasabbat"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "a királyai közül"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:16.037451216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Láttam fejem látomásaiban ágyamon, és íme, egy őrködő és szenti szállt le az égből.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "voltam (látó)"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "látomásaiban"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejem"
+    },
+    {
+      "surface": "על",
+      "gloss": "azon"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ágyamon"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "egy őrködő"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "és szenti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "leszállt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:41:52.986713586Z",
+  "model": "glm-5.3"
+}

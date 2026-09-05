@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Rám törtek veszedelem napján, és Jahve lett támaszomul nekem.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "Rám törtek"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "veszedelem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "támaszomul"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:31.704771332Z",
+  "model": "glm-5.3"
+}

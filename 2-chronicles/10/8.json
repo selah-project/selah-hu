@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És elhagyta ⟨את⟩ a vének tanácsát, amelyet tanácsoltak neki, és tanácskozott ⟨את⟩ a fiatalokkal, akik vele nőttek fel, akik állnak színe előtt.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "És elhagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vének tanácsát"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "tanácsát"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "a vének"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely(et)"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "tanácsoltak neki"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "és tanácskozott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiatalokkal"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "a fiatalokkal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nőttek fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "akik állnak"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "színe előtt"
+    }
+  ],
+  "timestamp": "2026-09-05T00:14:01.257978132Z",
+  "model": "glm-5.3"
+}

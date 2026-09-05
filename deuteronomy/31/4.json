@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És Jahve azt teszi velük, ahogyan tette Szichónnal és Oggal, az emori királyokkal, és az ő földjükkel, akiket elpusztított ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "és tesz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tette"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Szichónnal"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "és Oggal"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyok"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "és földjükkel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "elpusztított"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket (Szichont és Ogot)"
+    }
+  ],
+  "timestamp": "2026-09-04T18:33:16.290418052Z",
+  "model": "glm-5.3"
+}

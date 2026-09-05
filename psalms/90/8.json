@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Eléd tetted vétkeinket, rejtett dolgainkat orcád világosságába.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "tetted"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "vétkeinket"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "eléd"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "rejtett dolgainkat"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "világosságába"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcád"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:03.956435651Z",
+  "model": "glm-5.3"
+}

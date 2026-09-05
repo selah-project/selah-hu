@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Megmondattatik-e a sírban a te heszed, a te hűséged az Abaddonban?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "megmondattatik-e"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "a sírban"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a te heszed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "a te hűséged"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "az Abaddonban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:09.388764884Z",
+  "model": "glm-5.3"
+}

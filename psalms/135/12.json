@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "és adta földjüket örökségül, örökségül Jisraélnek (Izráel), az ő népének.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "földjüket"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "örökségül"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "örökségül"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraélnek"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "az ő népének"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:10.745905790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Emlékezzék az ő atyáinak végtelensége Jahve előtt, és az ő anyjának vétke ne legyen törölve.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Emlékezzék"
+    },
+    {
+      "surface": "עון",
+      "gloss": "végtelenség"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "az ő atyáinak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "és vétke"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az ő anyjának"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "legyen törölve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:50.502618352Z",
+  "model": "glm-5.3"
+}

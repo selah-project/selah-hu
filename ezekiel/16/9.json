@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És megfürösztettelek vízben, és lemostam rólad a véredet, és megkentelek olajjal.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "megfürösztettelek"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízben"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "lemostam"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "a véredet"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "rólad"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "megkentelek"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:02:28.671681056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ő mondta: „Melyik úton vonuljunk fel?” És az mondta: „Edóm pusztájának útján.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hol"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "az út"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "vonuljunk fel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És az mondta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztájának"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:21.622411311Z",
+  "model": "glm-5.3"
+}

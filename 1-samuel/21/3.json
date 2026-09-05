@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És mondta Dávid Achiméleknek, a kohénnak: „A király meghagyott nekem egy dolgot, és mondta nekem: ember ne tudjon semmit ⟨את⟩ az ügyről, amely miatt elküldlek téged, és amit megparancsoltam neked; ⟨את⟩ a legényeket pedig tudtomra juttattam, egy ilyen-olyan helyre.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Achiméleknek"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohénnak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "meghagyott nekem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "egy dolgot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudjon"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "semmit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ügyet"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az ügyet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "elküldlek téged"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és amit"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "megparancsoltam neked"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a legényeket"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "a legényeket"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "tudtomra juttattam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-re"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "helyre"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ilyen-"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "olyan"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:57.729836307Z",
+  "model": "glm-5.3"
+}

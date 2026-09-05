@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ki adná, hogy tudjam és megtaláljam őt, elmenjek ⟨az⟩ ő lakhelyéig!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adná"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "hogy tudjam"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "és megtaláljam őt"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "elmenjek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "⟨az⟩ ő lakhelye"
+    }
+  ],
+  "timestamp": "2026-09-04T22:24:20.372448455Z",
+  "model": "glm-5.3"
+}

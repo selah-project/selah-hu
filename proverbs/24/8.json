@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Aki rosszat tervez, annak a gonosz tervek urát hívják.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "tervez"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "annak"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ura"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "gonosz tervek"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "hívják"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:56.532916086Z",
+  "model": "glm-5.3"
+}

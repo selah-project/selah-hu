@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És rátette ⟨את⟩ a hósént, és tett a hósénbe ⟨את⟩ az Urimot és ⟨את⟩ a Tumimot.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "és tett"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hósént"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a hósént"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebbe"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a hósénbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Urimot"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "az Urimot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Tumimot"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "a Tumimot"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:08.226144418Z",
+  "model": "glm-5.3"
+}

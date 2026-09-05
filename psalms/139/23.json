@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Vizsgálj meg, El, és tudd meg szívemet; próbálj meg, és tudd meg gondolataimat,",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "vizsgálj meg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "és tudd meg"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "szívemet"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "próbálj meg"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "és tudd meg"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "gondolataimat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:11.218847020Z",
+  "model": "glm-5.3"
+}

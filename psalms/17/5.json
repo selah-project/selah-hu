@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Tartsd meg lépteimet ösvényeiden, ne inogjanak meg lábaim.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Tartsd meg"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "lépteimet"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "ösvényeiden"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "inogjanak meg"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "lábam"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:06.944289828Z",
+  "model": "glm-5.3"
+}

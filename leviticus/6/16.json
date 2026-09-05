@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És minden papi ételáldozat egészen legyen ⟨elégetve⟩; meg ne egyék.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ételáldozata"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "egyék meg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:45.130396310Z",
+  "model": "glm-5.3"
+}

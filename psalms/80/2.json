@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Izráel pásztora, hallgass meg, aki Józsefet mint nyájat vezeted, a kerubokon trónoló, jelenj meg!",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "pásztora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "hallgass meg"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "aki vezeted"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "mint nyájat"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Józsefet"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "aki trónolsz"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "a kerubokon"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "jelenj meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:39.792144897Z",
+  "model": "glm-5.3"
+}

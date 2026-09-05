@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Tizenkét éven át szolgálták ⟨את⟩ Kedórlaomert, és a tizenharmadik évben lázadtak",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "tizen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "két"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedórlaomert"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedórlaomert"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "és tizen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "három"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "év"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "lázadtak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:00.754263590Z",
+  "model": "glm-5.3"
+}

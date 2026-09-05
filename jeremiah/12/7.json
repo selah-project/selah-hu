@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Elhagytam ⟨את⟩ házamat, eltaszítottam ⟨את⟩ örökségemet, odaadtam ⟨את⟩ lelkem szeretettjét ellenségeinek tenyerébe.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Elhagytam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "házamat"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "házamat"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "eltaszítottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örökségemet"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "örökségemet"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "odaadtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelkem szeretettjét"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "szeretettjét"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "tenyerébe"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "ellenségeinek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:38:17.647899375Z",
+  "model": "glm-5.3"
+}

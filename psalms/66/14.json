@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "amelyeket ajkaim nyitottak meg, és szám beszélt ⟨nekem⟩ szorongatásomban —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "nyitottak meg"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ajkaim"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "és beszélt"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szám"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "szorongatásomban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:23.166994140Z",
+  "model": "glm-5.3"
+}

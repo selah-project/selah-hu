@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Mindenki, aki lát ⟨engem⟩, gúnyol engem; kinyújtja ajkát, integet a fejével —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Mindenki"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "aki lát ⟨engem⟩"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "gúnyol engem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "engem"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "kinyújtja"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ajkát"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "integet"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejével"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:04.203961411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És történt, miközben az egyik a gerendát döntötte, ⟨את⟩ a vas a vízbe esett, és kiáltott, és mondta: Jaj, uram! Hisz az kölcsönkért!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "döntötte"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "a gerendát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a vas"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "a vas"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "esett"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bele"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vízbe"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "és kiáltott"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "hisz az"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kölcsönkért"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:28.422725991Z",
+  "model": "glm-5.3"
+}

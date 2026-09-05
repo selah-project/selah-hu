@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 96,
+  "translation": "Mondjátok a népek között: „Jahve uralkodik!” Bizony megszilárdult a világ, nem inog meg; ítélni fog népeket egyenességben.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Mondjátok"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a népek között"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uralkodik"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "megszilárdult"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a világ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "inog meg"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ítélni fog"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "népeket"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "egyenességben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:38.607579181Z",
+  "model": "glm-5.3"
+}

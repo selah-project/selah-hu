@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És történt, mikor felmentünk a te szolgádhoz, az én atyámhoz, és megmondtuk neki ⟨את⟩ az én uram beszédeit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mikor"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "felmentünk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a te szolgád"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "az én atyám"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "és megmondtunk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az én uram beszédeit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "beszédeit"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "az én uram"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:18.044773787Z",
+  "model": "glm-5.3"
+}

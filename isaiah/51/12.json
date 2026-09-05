@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Én, én ⟨van⟩ az, aki megvigasztal titeket! Ki vagy te, hogy félsz egy halandó embertől, és az ember fiától, akit fűnek adnak?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Én"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨van⟩ az"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "aki megvigasztal titeket"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "te"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "hogy félsz"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "egy halandó embertől"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "halandó (meghal)"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "és ... fiától"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "fűnek"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "adtatnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:25:41.750241718Z",
+  "model": "glm-5.3"
+}

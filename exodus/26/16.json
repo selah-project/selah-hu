@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Tíz könyök ⟨legyen⟩ a deszka hossza, és könyök és fél könyök az egy deszka szélessége.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hossza"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "a deszkának"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélessége"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "a deszkának"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:03.662839219Z",
+  "model": "glm-5.3"
+}

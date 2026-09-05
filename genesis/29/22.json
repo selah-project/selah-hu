@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És egybehívta Laván ⟨את⟩ mind a hely férfiait, és lakomát készített.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "És egybehívta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laván"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind a hely férfiait"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "a ... férfiait"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a hely"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és készített"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "lakomát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:01.490077887Z",
+  "model": "glm-5.3"
+}

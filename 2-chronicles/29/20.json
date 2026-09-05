@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És korán felkelt Hizkijjáhu király, és összegyűjtötte ⟨את⟩ a város fejedelmeit, és felment a Jahve házába.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "korán felkelt"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkijjáhu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "és összegyűjtötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a város fejedelmeit"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmeit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "és felment"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:21:15.002027504Z",
+  "model": "glm-5.3"
+}

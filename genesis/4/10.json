@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondta ⟨Ő⟩: Mit tettél? A hangja testvéred vérének kiált felém a földből.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mit"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tettél"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "vérének"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "kiált"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "felém"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a földből"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:30.902024482Z",
+  "model": "glm-5.3"
+}

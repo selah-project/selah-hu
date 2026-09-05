@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Milyen jók a te sátraid, Jaakov (Jákob), a te lakóhelyeid, Jiszráél (Izrael)!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "milyen"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "jók"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "a te sátraid"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov (Jákob)"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "a te lakóhelyeid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél (Izrael)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:41:50.289737140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És történt ezek után, hogy Dávid megverte ⟨את⟩ a pelistieket, és meghódította őket; és Dávid elvette ⟨את⟩ a Metheg-Ammát a pelistiek kezéből.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "כן",
+      "gloss": "után"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "megverte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a pelistieket"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelistieket"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "és meghódította őket"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és elvette"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Metheg-Ammát"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Metheg (gyeplő)"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "Ammá"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistiek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:04.005163209Z",
+  "model": "glm-5.3"
+}

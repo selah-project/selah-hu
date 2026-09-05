@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Ember ember a Jiszráél háza ⟨ából⟩, aki levág ökröt vagy bárányt vagy kecskét a táborban, vagy aki levág ⟨a⟩ táboron kívül ⟨a⟩ tábor ⟨tól⟩,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ember"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "a háza ⟨ából⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "levág"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ökröt"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "bárányt"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kecskét"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a táborban"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "levág"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "⟨a⟩ tábor ⟨tól⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:16:56.777515926Z",
+  "model": "glm-5.3"
+}

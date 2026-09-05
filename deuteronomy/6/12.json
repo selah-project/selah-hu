@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Vigyázz magadra, nehogy elfelejtsd ⟨את⟩ Jahvét, aki kivitt Micrajimból (Egyiptomból), a szolgák házából.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Vigyázz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadra"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "elfelejtsd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "kivitt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimnak"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgák"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:59.452430880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És lengeti meg a pap ⟨את⟩ azokat az elsőtermések kenyerével együtt, meglengetésül Jahve színe előtt, a két bárányon felül; szentségben legyenek Jahvénak, a papnak.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "és lengeti meg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat (a kenyeret és a bárányokat)"
+    },
+    {
+      "surface": "על",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyerével"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "az elsőtermések"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "meglengetésül"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "felül"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "bárányon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentségben"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papnak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:21:26.400234480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És égesse el ⟨את⟩ a tehenet annak szeme láttára; ⟨את⟩ annak bőrét és ⟨את⟩ annak húsát és ⟨את⟩ annak vérét, annak ürülékével együtt égesse el.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "és égesse el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tehenet"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "a tehenet"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "annak szeme láttára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bőrét"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "bőrét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "húsát"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "vérét"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "vérét"
+    },
+    {
+      "surface": "על",
+      "gloss": "vele együtt"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "ürülékével"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "égessen el"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:44.987759274Z",
+  "model": "glm-5.3"
+}

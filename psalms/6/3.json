@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Könyörülj rajtam, Jahve, mert elestem én; gyógyíts meg, Jahve, mert megrendültek csontjaim.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Könyörülj rajtam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "elestem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "gyógyíts meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "megrendültek"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "csontjaim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:50.833606158Z",
+  "model": "glm-5.3"
+}

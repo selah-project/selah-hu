@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És elhagyta ⟨את⟩ az ökröket, és futott Eljáhu után, és ezt mondta: „Csókoljam meg, kérlek, az apámat és az anyámat, és akkor megyek utánad.” És ő azt mondta neki: „Menj, térj vissza, mert mit tettem én neked?”",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "és elhagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ökröket"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "az ökröket"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "és futott"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eljáhu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "csókoljam meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "az apámat"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "és az anyámat"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "és akkor megyek"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "utánad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "térj vissza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tettem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:31.654393993Z",
+  "model": "glm-5.3"
+}

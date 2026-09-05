@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "És látta Izrael ⟨את⟩ József fiait, és mondta: „Kik ezek?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "József fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "József"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kik"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:41:31.228998747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Te pedig, Jahve, örökké trónolsz, és emlékezeted nemzedékről nemzedékre.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Te pedig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "trónolsz"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "és emlékezeted"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:43.715132309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Nem egy napig esztek, és nem két napig, és nem öt napig, és nem tíz napig, és nem húsz napig —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יום",
+      "gloss": "egy napig"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "esztek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "két napig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "öt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napig"
+    }
+  ],
+  "timestamp": "2026-09-04T17:35:07.811846795Z",
+  "model": "glm-5.3"
+}

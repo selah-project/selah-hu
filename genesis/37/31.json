@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És vették ⟨את⟩ Jóséf köntösét, és levágtak egy kecskebakot, és belemerítették ⟨את⟩ a köntöst a vérbe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "És vették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóséf köntösét"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "köntösét"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jóséf"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "és levágtak"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "egy bakot"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kecske-"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "és belemerítették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a köntöst"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "a köntöst"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "a vérbe"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:48.909237230Z",
+  "model": "glm-5.3"
+}

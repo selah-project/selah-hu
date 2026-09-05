@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Tanácsot tanácskozzatok, és meghiúsul; szót szóljatok, és nem áll meg, mert velünk ⟨van⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "tanácskozzatok"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tanácsot"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "és meghiúsul"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "szóljatok"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szót"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "áll meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T20:09:57.714688892Z",
+  "model": "glm-5.3"
+}

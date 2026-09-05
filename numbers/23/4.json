@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És eljött Elohim Bilámhoz, és ő mondta neki: ⟨את⟩ a hét oltárt elrendeztem, és feláldoztam bikát és kost oltáronként.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "És eljött"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilám"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hét oltárt"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a hét"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "elrendeztem"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "és feláldoztam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bikát"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "és kost"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "oltáronként"
+    }
+  ],
+  "timestamp": "2026-09-04T17:41:54.728350469Z",
+  "model": "glm-5.3"
+}

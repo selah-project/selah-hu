@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És felkelt Ijov (Jób), és megszaggatta ⟨את⟩ köpenyét, és leborotválta ⟨את⟩ fejét, és a földre esett, és hódolt.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "és megszaggatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köpenyét"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "köpenyét"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "és leborotválta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fejét"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "fejét"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "és esett"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "és hódolt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:42.675223688Z",
+  "model": "glm-5.3"
+}

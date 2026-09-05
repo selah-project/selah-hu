@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Emlékezz rám, Jahve, néped jókedvében, gondolkodj rám szabadításodban!",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Emlékezz rám"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "jókedvében"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "gondolkodj rám"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "szabadításodban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:40.320665507Z",
+  "model": "glm-5.3"
+}

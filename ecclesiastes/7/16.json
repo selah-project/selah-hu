@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ne légy igaz túl sokat, és ne tedd magad túl bölcssé — miért legyél pusztasággá?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "légy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igaz"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "túl sokat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "tedd magad … bölcssé"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "túl"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "legyél pusztasággá"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:17.396233795Z",
+  "model": "glm-5.3"
+}

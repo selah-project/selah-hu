@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Ti pedig tudjátok, hogy teljes erőmből szolgáltam ⟨את⟩ a ti atyatoknak.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ti pedig"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "tudjátok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "erőmből"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "szolgáltam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ti atyatoknak"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "a ti atyatoknak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:01.850107368Z",
+  "model": "glm-5.3"
+}

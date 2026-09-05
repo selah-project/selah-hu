@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Nyomorúságban kiáltottál, és megszabadítottalak; megválaszoltalak a mennydörgés rejtekében; megpróbáltalak a Mérivá vizeinél. Szela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Nyomorúságban"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "kiáltottál"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "és megszabadítottalak"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "megválaszoltalak"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "rejtekében"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "mennydörgés"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "megpróbáltalak"
+    },
+    {
+      "surface": "על",
+      "gloss": "-nél"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizeinél"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Mérivá"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:54.813590639Z",
+  "model": "glm-5.3"
+}

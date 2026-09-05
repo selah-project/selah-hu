@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Mert te, Adonáj, jó és megbocsátó vagy, és nagy a heszed mindenkihez, aki hozzád kiált.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "és megbocsátó"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "és nagy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "a heszed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindenkihez"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "aki hozzád kiált"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:29.618939833Z",
+  "model": "glm-5.3"
+}

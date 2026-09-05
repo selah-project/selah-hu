@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És a király, Slomó (Salamon) szeretett sok idegen asszonyt, és ⟨את⟩ Paró (a fáraó) leányát: móábi asszonyokat, ammoniakat, edomiakat, cidóniakat, hettiakat.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "És a király"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Slomó"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szeretett"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "asszonyokat"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "sok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Paró leányát"
+    },
+    {
+      "surface": "בת",
+      "gloss": "leányát"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "móábi asszonyokat"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ammoniakat"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "edomiakat"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "cidóniakat"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hettiakat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:46:02.803280939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Nagy béke ⟨van⟩ a Tórád szeretőknek, és nincs nékik botorkálás.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "béke"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "a Tórád szeretőknek"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "a Tórád"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nékik"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "botorkálás"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:17.088762988Z",
+  "model": "glm-5.3"
+}

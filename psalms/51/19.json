@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Elohim áldozatai: a megtört lélek; a megtört és összezúzott szívet, Elohim, nem veted meg.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "áldozatai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "megtört"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívet"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "megtört"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "és összezúzott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "veted meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:46.919334989Z",
+  "model": "glm-5.3"
+}

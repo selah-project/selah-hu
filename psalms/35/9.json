@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És gyövelkedik az én lelkem Jahvéban, ujjong ⟨az⟩ ő szabadításában.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "És gyövelkedik az én lelkem"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "gyövelkedik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ujjong"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "⟨az⟩ ő szabadításában"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:17.606186103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Ha pedig marad a fölszentelés húsából vagy a kenyérből reggelig, égesd el ⟨את⟩ a maradékot tűzben; ne egyék meg, mert szentség ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ha pedig"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "marad"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "a húsából"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "a fölszentelés"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "vagy a kenyérből"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "a kenyérből"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reggelig"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "reggelig"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "égesd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a maradékot"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "a maradékot"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "egyék meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentség"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:56:54.838328612Z",
+  "model": "glm-5.3"
+}

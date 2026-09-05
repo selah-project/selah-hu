@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És mondta Semuél a szakácsnak: Add ide ⟨את⟩ az adagot, amelyet adtam neked, amelyről mondtam neked: tedd ⟨את⟩ azt magad mellé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "a szakácsnak"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "add"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az adagot"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "az adagot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyről"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "שים",
+      "gloss": "tedd"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "magad mellé"
+    }
+  ],
+  "timestamp": "2026-09-04T19:06:43.888598175Z",
+  "model": "glm-5.3"
+}

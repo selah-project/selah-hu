@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Mert nem beszéltem ⟨את⟩ atyáitokkal, és nem parancsoltam nekik a napon, amelyen kihoztam ⟨את⟩ őket Micrajim (Egyiptom) földjéről, az égőáldozat és az áldozat dolgairól.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "beszéltem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atyáitokkal"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "atyáitokkal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "parancsoltam nekik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "kihoztam"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dolgairól"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "égőáldozat"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "és áldozat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:35:46.536492101Z",
+  "model": "glm-5.3"
+}

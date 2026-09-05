@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "Áldott Elohim, aki nem távolította el imádságomat, sem az ő heszed-jét ⟨את⟩ ⟨tőlem⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "távolította el"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "imádságomat"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "sem az ő heszed-jét"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ⟨tőlem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:23.670588295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Tudtod szerint, hogy nem vagyok bűnös, és a te kezedből nincs, aki kimentsen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "tudtod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "vagyok-bűnös"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és-nincs"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "a-te-kezedből"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "aki-kimentsen"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:54.385276151Z",
+  "model": "glm-5.3"
+}

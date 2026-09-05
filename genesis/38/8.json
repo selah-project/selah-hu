@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És mondta Jehúda Onánnak: menj be a te testvéred feleségéhez, és végezd el a sógor kötelességét ⟨את⟩ vele, és támassz magot a te testvérednek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onánnak"
+    },
+    {
+      "surface": "בא",
+      "gloss": "menj be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségéhez"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "és végezd a sógor kötelességét"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "vele (a feleségre)"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "és támassz"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magot"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "testvérednek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:56.829121775Z",
+  "model": "glm-5.3"
+}

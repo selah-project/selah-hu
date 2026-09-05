@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Mert ki hasonlítható a magas égben ⟨a⟩ Jahvéhoz? Ki hasonló Jahvéhoz az El fiái között?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "a magas égben"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "hasonlítható"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "hasonló"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "fiái között"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "az El"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:02.315148274Z",
+  "model": "glm-5.3"
+}

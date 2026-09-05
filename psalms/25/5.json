@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Vezess engem a te igazságodban, és taníts engem, mert te vagy szabadításom Elohimja, ⟨את⟩ téged várlak minden nap.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Vezess engem"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "a te igazságodban"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "és taníts engem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "szabadításomnak"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "téged — a קויתי várásának tárgya"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "várlak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:58.077360322Z",
+  "model": "fable-5-hand"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ezek szekerekkel, és ezek lovakkal — de mi Jahve, a mi Elohimunk nevét emlegetjük.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "szekerekkel"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "és ezek"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "lovakkal"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "de mi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunk"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "emlegetjük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:04.362102592Z",
+  "model": "glm-5.3"
+}

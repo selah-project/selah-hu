@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Nem-e gyűlölöm azokat, akik téged gyűlölnek, Jahve, és nem-e fordulok ellenük, akik ellenem támadnak?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "nem-e"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "akik téged gyűlölnek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "gyűlölöm"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "és akik ellened támadnak"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "vitatkozom velük"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:11.218467331Z",
+  "model": "glm-5.3"
+}

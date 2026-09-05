@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És lett Jahve ládája a pelistiiek mezején hét hónapig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És lett"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezején"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelistiieknek"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "hét"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "hónapig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:05:08.873500957Z",
+  "model": "glm-5.3"
+}

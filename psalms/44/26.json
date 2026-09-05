@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Mert lelkünk a porba sülylyedt, testünk a földhöz tapadt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "sülylyedt"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "a porba"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "lelkünk"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "tapadt"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földhöz"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "testünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:27.662753010Z",
+  "model": "glm-5.3"
+}

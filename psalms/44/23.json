@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Mert érted ölnek meg bennünket egész nap, juhokként számíttatunk a vágásra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "érted"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "ölnek meg bennünket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "számíttatunk"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "juhokként"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "a vágásra"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:40.825694348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megcsinálta Elohim ⟨את⟩ a föld vadállatát fajta szerint, és ⟨את⟩ a barmot fajta szerint, és ⟨את⟩ minden földi csúszó-mászót fajta szerint; és látta Elohim, hogy jó.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "és megcsinálta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld vadállatát"
+    },
+    {
+      "surface": "חית",
+      "gloss": "vadállatát"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "fajta szerint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a barmot"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "a barmot"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "fajta szerint"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden földi csúszó-mászót"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "csúszó-mászót"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a földi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "fajta szerint"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:57.455368193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Nincs emlékezés az elsőkkel ⟨kapcsolatban⟩, sőt az utóbbiakkal sem, akik lesznek — nem lesz emlékezetük azokkal, akik ezután lesznek.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "emlékezés"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "az elsőkkel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "az utóbbiakkal sem"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "akik lesznek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "emlékezet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "azokkal"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "akik lesznek"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "ezután"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:52.861617073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "hanem az én földemre és az én rokonságomra mégy, és veszel feleséget a fiamnak, Jichaknak (Izsáknak).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "földemre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "rokonságomra"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mégy"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "és veszel"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "feleséget"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a fiamnak"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jichaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:19.628332473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Ezek a férfiak nevei, akik örökösül adnak nektek ⟨את⟩ a földet: Elazár a pap, és Jehosúa (Józsué), Nún fia.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nevei"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a férfiak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "örökösül adnak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazár"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "és Jehosúa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nún"
+    }
+  ],
+  "timestamp": "2026-09-04T17:47:42.978510151Z",
+  "model": "glm-5.3"
+}

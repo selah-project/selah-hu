@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Akik ínyencségeket ettek, elpusztultak az utcákon; akik karmazsinba öltözve nevelkedtek, a szemétdombokat ölelték.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "akik ettek"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "ínyencségeket"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "elpusztultak"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "az utcákon"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "akik nevelkedtek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "karmazsinra"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "karmazsinban"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "ölelték"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "a szemétdombokat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:21.884734427Z",
+  "model": "glm-5.3"
+}

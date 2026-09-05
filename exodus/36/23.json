@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És megcsinálta ⟨את⟩ a deszkákat a lakó sátoralapúra: húsz deszkát a déli oldalhoz, délre.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És megcsinálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a deszkákat"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "a deszkákat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "a lakó sátoralapúra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "deszkát"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "az oldalhoz"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "déli"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "délre"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:58.147240339Z",
+  "model": "glm-5.3"
+}

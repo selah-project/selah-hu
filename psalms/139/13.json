@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Mert te alkottad veséimet, befontál engem anyám méhében.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "alkottad"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "veséimet"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "befontál"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "méhében"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anyám"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:29.589252916Z",
+  "model": "glm-5.3"
+}

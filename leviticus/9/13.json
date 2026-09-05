@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ az égőáldozatot odavitték hozzá darabjaira szedve, és ⟨את⟩ a fejet, és füstölővé tette ⟨azokat⟩ az oltáron.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatot"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "odavitték"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "darabjaira szedve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fejet"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "a fejet"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "és füstölővé tette"
+    },
+    {
+      "surface": "על",
+      "gloss": "azon"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltáron"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:48.118349318Z",
+  "model": "glm-5.3"
+}

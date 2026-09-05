@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Fénybe burkolózol, mint köntösbe, kifeszíted az egeket, mint a sátorponyvát.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "burkolózol"
+    },
+    {
+      "surface": "אור",
+      "gloss": "fénybe"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "mint köntösbe"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "kifeszíted"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egeket"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "mint a sátorponyvát"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:27.745139394Z",
+  "model": "glm-5.3"
+}

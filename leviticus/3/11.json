@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És a kohen füstölögve égeti az oltáron, tűzáldozat kenyeréül Jahvénak.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "és füstölögve égeti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "az oltáron"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeréül"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tűzáldozat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:47.961660125Z",
+  "model": "glm-5.3"
+}

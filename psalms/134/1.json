@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 134,
+  "translation": "A ma'lálokok éneke. Ímé, áldjátok ⟨את⟩ Jahvét mindnyájan, Jahve szolgái, akik éjjelente állnak Jahve házában!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a ma'alálokok (a feljáratok)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ímé"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "áldjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "akik állnak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "éjjelente"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:32.806536938Z",
+  "model": "glm-5.3"
+}

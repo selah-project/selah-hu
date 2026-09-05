@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Trónod, Elohim, ⟨áll⟩ örökkön-örökké, az egyenesség vesszeje ⟨a⟩ királyságodnak vesszeje.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "trónod"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökkön"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "vesszeje"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "az egyenességnek"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "⟨a⟩ vesszeje"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "királyságodnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:32.806977333Z",
+  "model": "glm-5.3"
+}

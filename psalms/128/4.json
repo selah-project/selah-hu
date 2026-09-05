@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 128,
+  "translation": "Ímé, mert így áldatott meg a férfi, aki féli Jahvét.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ímé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "áldatott meg"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "a férfi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "aki féli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:22.353170278Z",
+  "model": "glm-5.3"
+}

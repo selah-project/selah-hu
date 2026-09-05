@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Ítélj meg, Elohim, és pereld ⟨את⟩ peremet ⟨az⟩ nem kegyes néptől; a csalás és jogtalanság ⟨emberétől⟩ szabadíts meg.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ítélj meg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "és pereld"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "peremet"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "nem kegyes néptől"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kegyes"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "a csalás emberétől"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "csalás"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "és jogtalanság"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "szabadíts meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:31.324604845Z",
+  "model": "glm-5.3"
+}

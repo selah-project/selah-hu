@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Jaj annak, aki vérekben épít várost, és hamisságban alapít várost!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "épít"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "várost"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "vérekben"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "és alapít"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "várost"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "hamisságban"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:14.272495563Z",
+  "model": "glm-5.3"
+}

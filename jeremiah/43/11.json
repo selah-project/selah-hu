@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "És eljön, és megveri ⟨את⟩ Micrajim földjét: aki halálra való, halálra, és aki fogságra való, fogságra, és aki kardra való, kardra.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "És eljön"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "és megveri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "למות",
+      "gloss": "halálra való"
+    },
+    {
+      "surface": "למות",
+      "gloss": "halálra"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és aki"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "fogságra való"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "fogságra"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és aki"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kardra való"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kardra"
+    }
+  ],
+  "timestamp": "2026-09-04T20:52:14.351541390Z",
+  "model": "glm-5.3"
+}

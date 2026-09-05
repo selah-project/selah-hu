@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És nézzétek meg ⟨את⟩ a földet, micsoda ⟨az⟩, és ⟨את⟩ a népet, amely lakik rajta: erős-⟨e⟩, gyenge-⟨e⟩; kevés-⟨e⟩, vagy sok?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "És nézzétek meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "micsoda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "amely lakik"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "erős"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "gyenge"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨e⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:34:02.654484119Z",
+  "model": "glm-5.3"
+}

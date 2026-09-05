@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És korán felkelt Jehosua hajnalban, és számba vette ⟨את⟩ a népet, és felvonult ő meg Izrael vénei a nép előtt, Ai-ig.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "korán-felkelt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hajnalban"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "számba-vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "felvonult"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "vénei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai(-ig)"
+    }
+  ],
+  "timestamp": "2026-09-04T18:38:23.654941155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 79,
+  "translation": "Kiontották vérüket, mint vizet, Jerusaláim körül, és nincs, aki eltemesse.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Kiontották"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "vérüket"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "mint vizet"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "körül"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusaláim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "aki eltemesse"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:48.153390842Z",
+  "model": "glm-5.3"
+}

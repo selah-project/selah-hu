@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Járok Jahve színe előtt az élők földjén.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Járok"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az élők"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:54.325680914Z",
+  "model": "glm-5.3"
+}

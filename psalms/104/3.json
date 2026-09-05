@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Aki a vizekre gerendázza felső termeit, a felhőket teszi szekerévé, aki a szél szárnyain jár.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Aki gerendázza"
+    },
+    {
+      "surface": "במים",
+      "gloss": "a vizekre"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "felső termeit"
+    },
+    {
+      "surface": "השם",
+      "gloss": "teszi"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "a felhőket"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "szekerévé"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "aki jár"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "szárnyain"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:27.745343696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És vigyázzatok megtenni ⟨את⟩ minden rendelkezést és ⟨את⟩ a végzéseket, amelyeket én adok szemetek elé ma.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "És vigyázzatok"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "megtenni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden rendelkezést"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "rendelkezést"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a végzéseket"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "a végzéseket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adok"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "szemetek elé"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-04T17:55:00.257669860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És elvettem ⟨את⟩ törzseitek fejeit, férfiakat, bölcseket és ismerteket, és adtam ⟨את⟩ őket fejekként fölétek: ezrek vezérei és százak vezérei és ötvenek vezérei és tízesek vezérei, és felügyelők a ti törzseitekhez.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "és elvettem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "törzseitek fejeit"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejeit"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "törzseitek"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "férfiakat"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bölcseket"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "és ismerteket"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "és adtam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "fejeket"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fölétek"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vezérei"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ezrek"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "és vezérei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "százak"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "és vezérei"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötvenek"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "és vezérei"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tízesek"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "és felügyelők"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "a ti törzseitekhez"
+    }
+  ],
+  "timestamp": "2026-09-04T17:50:16.422233574Z",
+  "model": "glm-5.3"
+}

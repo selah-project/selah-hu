@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És Mésa, Móáb királya juhtartó volt, és visszajuttatott Izráel királyának százezer bárányt és százezer kost, gyapjúval.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "És Mésa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móábnak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "juhtartó"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "és visszajuttatott"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "…királyának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "százezer"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "(száz-ezer)"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "bárányt"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "és százezer"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "(száz-ezer)"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "kost"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "gyapjúval"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:47.100600524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És bement Hatakh (Hatak), és megmondta Esternek (Eszter) ⟨את⟩ Mordechai (Mordekái) szavait.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "És bement"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és megmondta"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esternek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    }
+  ],
+  "timestamp": "2026-09-04T23:54:36.983544237Z",
+  "model": "glm-5.3"
+}

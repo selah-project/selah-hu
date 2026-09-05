@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Élek én — mondja Adonáj Jahve —, ha úgy cselekedett Szedom, a nővéred, ő és leányai, ahogyan cselekedted, te és leányaid!",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Élek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "cselekedett"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Szedom"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "nővéred"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "és leányai"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "cselekedted"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "te és leányaid"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "és leányaid"
+    }
+  ],
+  "timestamp": "2026-09-04T21:03:17.112193007Z",
+  "model": "fable-5-hand"
+}

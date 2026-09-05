@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Mert a kardok elől menekültek, a kivont kard, a feszített íj és a csata súlya elől.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "a kardok"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "menekültek"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "kivont"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "és elől"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "az íj"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "feszített"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "és elől"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "súlya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "a csata"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:13.454693477Z",
+  "model": "glm-5.3"
+}

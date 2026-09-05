@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "Kinek hitt ⟨az⟩ a mi hallásunk, és a Jahve karja kinek jelent meg?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinek"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "hitt"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "⟨az⟩ a mi hallásunk"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "és karja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨vonatkozásában⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinek"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "jelent meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:38.010929839Z",
+  "model": "glm-5.3"
+}

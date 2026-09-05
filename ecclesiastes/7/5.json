@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Jobb a bölcs feddését hallgatni, mint egy ember ⟨a⟩ bolondok énekét hallgatni.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hallgatni"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "feddés"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mint egy ember"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatni"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "énekét"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "bolondok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:13.141237533Z",
+  "model": "glm-5.3"
+}

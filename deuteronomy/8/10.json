@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És eszel, és jóllaksz, és áldod ⟨את⟩ Jahvét, a te Elohimodat, a jó földért, amelyet neked adott.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "és eszel"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "és jóllaksz"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "és áldod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodat"
+    },
+    {
+      "surface": "על",
+      "gloss": "—ért"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "a jó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:23.133522236Z",
+  "model": "glm-5.3"
+}

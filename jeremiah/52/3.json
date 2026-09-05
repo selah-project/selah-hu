@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Mert Jahve haragja miatt ⟨ez⟩ történt Jerusálajimmal és Jehúdával, míg ki nem vetette ⟨את⟩ őket az ő orcája elől; és fellázadt Cidkijáhu Bábel királya ellen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "történt"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusálajimmal"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "és Jehúdával"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "ki nem vetette"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "őket (Jerusálajim és Jehúda)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "elől"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "az ő orcája"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "és fellázadt"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáhu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "királya ellen"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábel"
+    }
+  ],
+  "timestamp": "2026-09-04T20:57:33.352672895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Ki adná ⟨nekem⟩ a pusztában szállást az utazóknak, és elhagyhatnám ⟨את⟩ népemet, és elmenhetnék ⟨את⟩ tőlük? Mert mindnyájan házasságtörők, csalók gyülekezete.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "adná nekem"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "szállás"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "az utazóknak"
+    },
+    {
+      "surface": "וְאֶעְזָבָה",
+      "gloss": "és elhagyhatnám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "és elmenhetnék"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ tőlük"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "házasságtörők"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "gyülekezete"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "csalóké"
+    }
+  ],
+  "timestamp": "2026-09-04T20:36:41.058252771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Dicsérjék őt az egek és a föld, a tengerek és minden, ami mozog azokban.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "Dicsérjék őt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "és a föld"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a tengerek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ami mozog"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azokban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:35.164228095Z",
+  "model": "glm-5.3"
+}

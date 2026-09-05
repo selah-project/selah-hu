@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Bízzatok Jahvéban örökkön-örökké, mert Jah Jahve ⟨a⟩ kőszikla örök korokon át.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Bízzatok"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "örökkön"
+    },
+    {
+      "surface": "עד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kőszikla"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "örök korokon át"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:05.945959502Z",
+  "model": "glm-5.3"
+}

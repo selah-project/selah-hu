@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És tartsd ⟨את⟩ Jahve, a te Elohimod parancsolatait, hogy járj az ő útjain, és hogy féld őt.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "És tartsd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parancsolatait"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsolatait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hogy járj"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "az ő útjain"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "és hogy féld"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:53.085736358Z",
+  "model": "glm-5.3"
+}

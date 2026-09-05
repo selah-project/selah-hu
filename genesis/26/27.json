@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És mondta nekik Jichak: Miért jöttetek hozzám, amikor ti gyűlöltetek ⟨את⟩ engem, és elzavartatok engem magatoktól?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miért"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "jöttetek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "gyűlöltetek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "és elzavartatok engem"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ magatoktól"
+    }
+  ],
+  "timestamp": "2026-09-04T16:31:01.031004831Z",
+  "model": "glm-5.3"
+}

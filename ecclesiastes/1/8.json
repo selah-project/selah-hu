@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Minden dolgok fárasztók: nem bírja ⟨az⟩ ember kimondani; nem lakik jól a szem a látásra, és nem telik meg a fül a hallásra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dolgok"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "fárasztók"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bírja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kimondani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "lakik jól"
+    },
+    {
+      "surface": "עין",
+      "gloss": "a szem"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "a látásra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "telik meg"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "a fül"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "a hallásra"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:02.147643551Z",
+  "model": "glm-5.3"
+}

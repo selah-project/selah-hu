@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Szégyente terveztél házadnak, népek sokaságának kiirtásával, és vétkeztél ⟨a te⟩ lelked ellen.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "terveztél"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Szégyent"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "házadnak"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kiirtásával"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "népeknek"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sokaságának"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "és vétkeztél"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lelked"
+    }
+  ],
+  "timestamp": "2026-09-04T23:45:56.177304668Z",
+  "model": "glm-5.3"
+}

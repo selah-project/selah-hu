@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Én pedig benned bíztam, Jahve; ezt mondtam: Elohimom ⟨te⟩ vagy.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ezt mondtam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:35.309755468Z",
+  "model": "glm-5.3"
+}

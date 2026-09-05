@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Essenek a saját rejtett hálójukba a wickedok, míg ⟨én⟩ egyszersmind átvonulok.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Essenek"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "saját rejtett hálójukba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a wickedok"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "egyszersmind"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨én⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "átvonulok"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:26.852909284Z",
+  "model": "glm-5.3"
+}

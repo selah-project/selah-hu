@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "És a mészárosok feje fogta ⟨את⟩ Seraját, a főpapot, és ⟨את⟩ Cefanját, a másodpapot, és ⟨את⟩ a küszöb őrzőinek hármat.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "feje"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "a mészárosoknak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraját"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraját"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "a fő-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Cefanját"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Cefanját"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "a másod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a küszöb őrzőinek hármat"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a háromnak"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "őrzői"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "a küszöbnek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:56:42.189901977Z",
+  "model": "glm-5.3"
+}

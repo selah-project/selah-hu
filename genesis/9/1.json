@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És megáldotta Elohim ⟨את⟩ Noachot (Noét) és ⟨את⟩ fiait, és szólt nekik: Szaporodjatok és sokasodjatok, és töltsétek be ⟨את⟩ a földet.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldotta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noachot"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachot (Noét)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "szaporodjatok"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "és sokasodjatok"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "és töltsétek be"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:17.167969198Z",
+  "model": "glm-5.3"
+}

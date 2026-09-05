@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 3:18",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ⟨az⟩ mondta: „Ülj meg, leányom, amíg megtudod, hogyan dől el az ügy; mert az ember nem nyugszik, míg ma be nem fejezi az ügyet.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "És ⟨az⟩ mondta"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "Ülj meg"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "leányom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "תדעין",
+      "gloss": "megtudod"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hogyan"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "dől el"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "az ügy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישקט",
+      "gloss": "nyugszik"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "míg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "csak ha"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "be nem fejezi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "az ügyet"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-04T22:30:50.241771017Z",
+  "model": "glm-5.3"
+}

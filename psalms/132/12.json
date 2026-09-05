@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "Ha fiaid megtartják szövetségemet és tanúságomat, ezt tanítom nekik, az ő fiaik is örökre ülnek majd trónt a neved alá.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "megtartják"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaid"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "és tanúságomat"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "tanítom nekik"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "fiaik"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ülnek majd"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "trónt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a neved alá"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:45.675953611Z",
+  "model": "glm-5.3"
+}

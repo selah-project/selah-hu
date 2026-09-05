@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És történt ezután, hogy meghalt az Ammon fiainak királya, és uralkodott Hanun, az ő fia, helyette.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ez"
+    },
+    {
+      "surface": "כן",
+      "gloss": "után"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fia"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "uralkodott"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    }
+  ],
+  "timestamp": "2026-09-04T19:27:11.269133858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 19:4",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "mivel elhagytak engem, és idegenné tették ⟨את⟩ e helyet, és ideigáztak rajta más isteneknek, akiket nem ismertek sem ők, sem atyáik, sem Jehúda királyai, és ⟨את⟩ e helyet ártatlan vérrel töltötték meg; —",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "mivel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "elhagytak engem"
+    },
+    {
+      "surface": "וינכרו",
+      "gloss": "és idegenné tették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e helyet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "helyet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "és ideigáztak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "isteneknek"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akiket"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ismertek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "ואבותיהם",
+      "gloss": "sem atyáik"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "sem királyai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "és töltötték meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e helyet"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "helyet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vérrel"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "ártatlan"
+    }
+  ],
+  "timestamp": "2026-09-04T20:40:29.042319107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 7:22",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És lészen a tej bőségétől: vajat eszik, mert vajat és mézet eszik mindenki, aki megmarad az ország belsejében.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "És lészen"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "a … bőségétől"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "⟨termelésének⟩"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tej"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "vajat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "vajat"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "és mézet"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "aki megmarad"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "a belsejében"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    }
+  ],
+  "timestamp": "2026-09-04T20:07:57.578851671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "Csak Elohim felé csendes a lelkem; tőle ⟨van⟩ szabadításom.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "csendes"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "szabadításom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:59.262648179Z",
+  "model": "glm-5.3"
+}

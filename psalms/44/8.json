@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Mert te szabadítottál meg minket szorongatóinktól, és gyűlölőinket szégyenítetted meg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "szabadítottál meg minket"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "szorongatóinktól"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "és gyűlölőinket"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "szégyenítetted meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:37.096334746Z",
+  "model": "glm-5.3"
+}

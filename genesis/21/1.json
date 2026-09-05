@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És Jahve megemlékezett Sáráról (Sára), ahogyan mondta, és tett Jahve Sárának, ahogyan beszélt.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "És Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "megemlékezett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sárát"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sárát"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és tett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sárának"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    }
+  ],
+  "timestamp": "2026-09-05T00:24:22.424620371Z",
+  "model": "glm-5.3"
+}

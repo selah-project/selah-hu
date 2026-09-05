@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És ⟨את⟩ a Horitákat a Széír-hegyükön, Él-Paránig (El-Paran), amely ⟨a⟩ pusztánál van.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Horitákat"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "a Horitákat"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "a hegyükön"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Széír"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eddig"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Él-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paránig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "a pusztánál"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:26.925704318Z",
+  "model": "glm-5.3"
+}

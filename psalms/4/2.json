@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Hívásomkor válaszolj nekem, igazságom Elohimja; szorongatásban tágasságot adtál nekem; légy kegyes hozzám, és hallgasd meg az én imádságomat.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Hívásomkor"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "válaszolj nekem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "igazságom"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "szorongatásban"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "tágasságot adtál"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "légy kegyes hozzám"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "és hallgasd meg"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "imádságomat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:59.956924981Z",
+  "model": "glm-5.3"
+}

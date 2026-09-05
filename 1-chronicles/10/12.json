@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És felkelt minden vitéz ember, és elvitték ⟨את⟩ Saúl holttestét és ⟨את⟩ fiai holttesteit, és bevitték azokat Javesbe, és eltemették ⟨את⟩ csontjaikat a terebintfa alatt Javesben, és bőjtöltek hét napig.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "és elvitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "holttestét"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "holttestét"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "holttesteit"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "holttesteit"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "és bevitték azokat"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "Javesbe"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "csontjaikat"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "csontjaikat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a terebintfa"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "Javesben"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "és bőjtöltek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:32.858023059Z",
+  "model": "glm-5.3"
+}

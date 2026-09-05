@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 1:12",
+  "book": "zephaniah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És lesz abban az időben: fáklyákkal átkutatom ⟨את⟩ Jerusalaimot, és megfenyítem az embereket, akik megdermedtek üledékükön, akik így szólnak szívükben: „Nem tesz jót Jahve, és nem tesz rosszat.”",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "időben"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "abban az"
+    },
+    {
+      "surface": "אחפש",
+      "gloss": "átkutatom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusalaimot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalaimot"
+    },
+    {
+      "surface": "בנרות",
+      "gloss": "fáklyákkal"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "és megfenyítem"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az embereket"
+    },
+    {
+      "surface": "הקפאים",
+      "gloss": "akik megdermedtek"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "שמריהם",
+      "gloss": "üledékükön"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "akik szólnak"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "szívükben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "tesz jót"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "tesz rosszat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:30:36.129554102Z",
+  "model": "glm-5.3"
+}

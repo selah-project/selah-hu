@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És megint szült fiat, és Selának nevezte ⟨את⟩ a nevét; és Kezivben volt, amikor megszülte ⟨את⟩ őt.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "megint"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "(ezt)"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "szült"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiat"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "és nevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Selát"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és volt"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "Kezivben"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "szülésekor"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:56.828600576Z",
+  "model": "glm-5.3"
+}

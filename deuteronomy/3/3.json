@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És kezünkbe adta Jahve, a mi Elohimunk, ⟨את⟩ Ógot is, Básán királyát, és ⟨את⟩ egész népét, és megvertük őt, míg nem hagyott neki túlélőt.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És adta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "kezünkbe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ógot"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ógot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Básán"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész népét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "és megvertük őt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nem"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hagyott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "túlélőt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:16.419539687Z",
+  "model": "glm-5.3"
+}

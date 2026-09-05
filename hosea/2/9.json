@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 2:9",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Utánuk ered ⟨את⟩ szerelmeinek, de nem éri el ⟨את⟩ őket; keresni fogja őket, de nem találja meg. Azt mondja majd: „Elmegyek, és visszatérek első férjemhez, mert jobb volt nekem akkor, mint most.”",
+  "tokens": [
+    {
+      "surface": "ורדפה",
+      "gloss": "Utánuk ered"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szerelmeinek"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "szerelmeinek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "érik el"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őt (a szerelmeket)"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "keresni fogja őket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "találja meg"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "azt mondja majd"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "Elmegyek"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "és visszatérek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hez"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "férjemhez"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "első"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mint most"
+    }
+  ],
+  "timestamp": "2026-09-04T21:18:46.565994424Z",
+  "model": "glm-5.3"
+}

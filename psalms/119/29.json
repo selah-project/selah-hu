@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "A hazugság útját távolítsd el tőlem, és a Tóráddal (Tora) kegyelmezz meg engem.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "útját"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugság"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "távolítsd el"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "és a Tóráddal"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kegyelmezz meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:50.758059692Z",
+  "model": "glm-5.3"
+}

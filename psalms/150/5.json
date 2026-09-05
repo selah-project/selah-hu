@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 150,
+  "translation": "Dicsérjétek őt csattogó cintányérokkel, dicsérjétek őt ujjongó cintányérokkal!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Dicsérjétek őt"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "csattogó cintányérokkal"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hangos"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dicsérjétek őt"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ujjongó cintányérokkal"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "koszontras"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:21.405508398Z",
+  "model": "glm-5.3"
+}

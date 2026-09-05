@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "Mert próbába vetettél minket, Elohim; finomítottál minket, mint finomítják az ezüstöt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "próbába vetettél minket"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "finomítottál minket"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "mint finomítják"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "az ezüstöt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:24.862739444Z",
+  "model": "glm-5.3"
+}

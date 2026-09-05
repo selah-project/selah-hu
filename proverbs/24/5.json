@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Erős ⟨a⟩ hatalomban ⟨a⟩ bölcs ember, és a tudás embere növeli az erőt.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ember"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "hatalomban"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és ember"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tudás"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "növeli"
+    },
+    {
+      "surface": "כח",
+      "gloss": "erőt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:56.532440567Z",
+  "model": "glm-5.3"
+}

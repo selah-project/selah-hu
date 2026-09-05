@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Legyen a te heszeded, Jahve, rajtunk, ahogyan reméltünk téged!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a te heszeded"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "rajtunk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "reméltünk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "téged"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:47.369178961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És lesz: a ki vétekkel tetetik, a héremmel, égessen el őt tűzben ⟨את⟩ és ⟨את⟩ mindazt, ami az övé, mert áthágta ⟨את⟩ Jahve szövetségét, és mert gyalázatot cselekedett Izráélben.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "És lesz"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "a ki vétekkel tetetik"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "a héremmel"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "égessen el"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mindazt, ami az övé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "áthágta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szövetségét"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetségét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "és mert"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekedett"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "gyalázatot"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráélben"
+    }
+  ],
+  "timestamp": "2026-09-04T18:39:00.881674441Z",
+  "model": "glm-5.3"
+}

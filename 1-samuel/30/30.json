@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "és ⟨azoknak⟩, akik Hormában, és ⟨azoknak⟩, akik Kor-Asanban, és ⟨azoknak⟩, akik Atakban [voltak]",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "és ⟨azoknak⟩, akik"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Hormában"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "és ⟨azoknak⟩, akik"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Kor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Asanban"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "és ⟨azoknak⟩, akik"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atakban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:07.467018049Z",
+  "model": "glm-5.3"
+}

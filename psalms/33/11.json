@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Jahve tanácsa örökké megáll, szívének gondolatai nemzedékről nemzedékre.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "…tanácsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "megáll"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "gondolatai"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szívének"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:02.429474841Z",
+  "model": "glm-5.3"
+}

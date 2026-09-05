@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És ⟨את⟩ titeket szétszórok a népek között, és kivonom utánatok a kardot, és lesz a földetek pusztasággá, és városaitok rommá.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "az ELŐTÁRGY: titeket"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "szétszórok"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a népek között"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "és kivonom"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "utánatok"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardot"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "a földetek"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pusztasággá"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "és városaitok"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "lesznek"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "rommá"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:52.194713226Z",
+  "model": "glm-5.3"
+}

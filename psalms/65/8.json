@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "Megfékezi a tengerek zaját, hullámaik zaját és a népek zsivaját.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Megfékezi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "zaját"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "a tengerek"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "zaját"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "hullámaik"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "és a zsivaját"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "a népek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:52.983665278Z",
+  "model": "glm-5.3"
+}

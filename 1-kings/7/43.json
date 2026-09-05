@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "és ⟨את⟩ a talpazatokat tízet, és ⟨את⟩ a medencéket tízet a talpazatokon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a talpazatokat"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "a talpazatokat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tízet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a medencéket"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "a medencéket"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tízet"
+    },
+    {
+      "surface": "על",
+      "gloss": "-n"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "a talpazatokon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:25.688579976Z",
+  "model": "glm-5.3"
+}

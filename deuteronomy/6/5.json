@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És szeresd ⟨את⟩ Jahve, a te Elohimod, teljes szívedből, teljes lelkedből és teljes erődből.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "És szeresd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "teljes"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "szívedből"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és teljes"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lelkedből"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és teljes"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "erődből"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:05.467567551Z",
+  "model": "glm-5.3"
+}

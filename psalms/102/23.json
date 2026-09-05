@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Amikor összegyűlnek a népek együtt, és a királyságok, hogy szolgálják ⟨את⟩ Jahvét.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "amikor összegyűlnek"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "és a királyságok"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hogy szolgálják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:29.614354159Z",
+  "model": "glm-5.3"
+}

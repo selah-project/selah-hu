@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És bevezetett minket erre a helyre, és adott nekünk ⟨את⟩ ezt a földet, földet, amely tejjel és mézzel folyik.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "és bevezetett minket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "erre"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a helyre"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földet"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "amely folyik"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tejjel"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "és mézzel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:28:42.703545859Z",
+  "model": "glm-5.3"
+}

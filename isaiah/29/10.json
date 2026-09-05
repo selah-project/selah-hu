@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Mert kiontotta rátok Jahve a mély álom lelkét, és lezárta ⟨את⟩ a szemeteket — ⟨את⟩ a prófétákat, és ⟨את⟩ a fejeiteket, a látókat befedte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "kiontotta"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ratok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lelkét"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "a mély álom"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "és lezárta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szemeteket"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "a szemeteket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a prófétákat"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "a prófétákat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fejeiteket"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "a fejeiteket"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "a látókat"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "befedte"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:57.153596685Z",
+  "model": "glm-5.3"
+}

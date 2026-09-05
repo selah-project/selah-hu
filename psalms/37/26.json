@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Egész nap kegyelmez és kölcsönöz, és ⟨az ő⟩ magja áldásra ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "kegyelmez"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "és kölcsönöz"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "és ⟨az ő⟩ magja"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "áldásra"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:58.440331823Z",
+  "model": "glm-5.3"
+}

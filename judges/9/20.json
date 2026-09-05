@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "és ha nem, menjen ki tűz Avímelechből, és égesse meg ⟨את⟩ Sékem urait és ⟨את⟩ a Miló házát; és menjen ki tűz a Sékem uraitól és a Miló házától, és égesse meg ⟨את⟩ Avímelechet.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "menjen ki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Avímelechből"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és égesse meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sékem urait"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "urai"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sékem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Miló házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Miló"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "és menjen ki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "uraitól"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sékem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "és házától"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Miló"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és égesse meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avímelechet"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avímelechet"
+    }
+  ],
+  "timestamp": "2026-09-04T18:54:24.593867295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És megírta Moshe (Mózes) ⟨את⟩ e Tora-t (Tórát), és odaadta azt a kohanitáknak, a Lévi fiainak, akik hordozzák ⟨את⟩ Jahve szövetségének ládáját, és Izrael összes véneinek.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "és megírta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e Tora-t"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "e Tora-t"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "és odaadta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "annak: "
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohanitáknak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "akik hordozzák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szövetségének ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetségének"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és "
+    },
+    {
+      "surface": "כל",
+      "gloss": "összes"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "véneinek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T18:31:57.141423601Z",
+  "model": "glm-5.3"
+}

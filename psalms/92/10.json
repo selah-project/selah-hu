@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "Mert íme, ellenségeid, Jahve, mert íme, ellenségeid elvesznek, szétszóródnak mind az álnokság cselekvői.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeid"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "elvesznek"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "szétszóródnak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "cselekvői"
+    },
+    {
+      "surface": "און",
+      "gloss": "álnokság"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:33.154173609Z",
+  "model": "glm-5.3"
+}

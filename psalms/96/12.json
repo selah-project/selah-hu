@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 96,
+  "translation": "Ujjongjon a mező és minden, ami benne van; akkor vígan énekelnek az erdő minden fái.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Ujjongjon"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne van"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "vígán énekelnek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fái"
+    },
+    {
+      "surface": "יער",
+      "gloss": "az erdő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:38.607940849Z",
+  "model": "glm-5.3"
+}

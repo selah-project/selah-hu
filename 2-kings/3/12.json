@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta Jehósafát: „Van ⟨את⟩ vele Jahve szava.” És leszálltak hozzá Izráel királya és Jehósafát és Edóm királya.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehósafát"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Van"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "vele"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "és leszálltak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "és Jehósafát"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "és királya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:52.047189739Z",
+  "model": "glm-5.3"
+}

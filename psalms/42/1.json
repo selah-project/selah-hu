@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "A karnagynak, maszkil (oktató ének) a Korach-fiaknak.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karnagynak"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maszkil (oktató ének)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a Korach-fiainak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:42.683495752Z",
+  "model": "glm-5.3"
+}

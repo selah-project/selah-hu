@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Átokkal átkozottak vagytok ti, és ⟨את⟩ engem csáltok — a nép, az egésze.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "Átokkal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "átkozottak vagytok"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "és ⟨את⟩ engem",
+      "marks": "engem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "csáltok"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "az egésze"
+    }
+  ],
+  "timestamp": "2026-09-04T21:37:21.885459156Z",
+  "model": "glm-5.3"
+}

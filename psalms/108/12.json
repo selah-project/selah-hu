@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Nemde elvetettél minket, Elohim? És nem vonulsz ki, Elohim, seregeinkkel!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Nemde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "elvetettél minket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vonulsz ki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "seregeinkkel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:00.561335829Z",
+  "model": "glm-5.3"
+}

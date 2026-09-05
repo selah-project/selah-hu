@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Megütvön meg Jahve téged őrültséggel, vaksággal és szívzavarral.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "megütvön meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "őrültséggel"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "vaksággal"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "szívzavarral"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szív-"
+    }
+  ],
+  "timestamp": "2026-09-04T18:29:20.121328540Z",
+  "model": "glm-5.3"
+}

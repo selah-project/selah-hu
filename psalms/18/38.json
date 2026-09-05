@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Üldözöm ellenségeimet, és utolérem őket, és nem térek vissza, míg el nem pusztulnak.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Üldözöm"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ellenségeimet"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "és utolérem őket"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "térek vissza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "el nem pusztulnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:46:25.478776862Z",
+  "model": "glm-5.3"
+}

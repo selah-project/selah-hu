@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És hozatott az asszír király Babilóniából és Kútából, és Avvából, és Hamátból és Szeferávimból, és letelepítette őket Szomron városaiba Jiszráél fiai helyett; és birtokba vették ⟨את⟩ Szomront, és laktak városaiban.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hozatott"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "asszír"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babilóniából"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "és Kútából"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "és Avvából"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "és Hamátból"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "és Szeferávimból"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "telepítette"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "városaiba"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szomron"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "birtokba vették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szomront"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szomront"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "laktak"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "városaiban"
+    }
+  ],
+  "timestamp": "2026-09-04T20:00:44.732698554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "⟨את⟩ Szabbataimat őrizzenitek, és szenthelyemtől féljetek: én Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szabbataimat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Szabbataimat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "őrizzenitek"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "és szenthelyemtől"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:24.083609823Z",
+  "model": "glm-5.3"
+}

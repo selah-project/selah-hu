@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És tartsák meg ⟨את⟩ őrségemet, és ne vegyenek fel rajta bűnt, és haljanak meg általa, mert meggyalázzák ⟨azt⟩; én Jahve vagyok, a ki megszenteli őket.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "És tartsák meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "őrségemet"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "őrségemet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "vegyenek fel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "bűnt"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "és haljanak meg"
+    },
+    {
+      "surface": "בו",
+      "gloss": "általa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "meggyalázzák ⟨azt⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "megszenteli őket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:11.793273061Z",
+  "model": "glm-5.3"
+}

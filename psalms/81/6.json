@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Bizonysággá tette ⟨azt⟩ Jószéfben (József), amikor kiment Micrajim (Egyiptom) földjére: ajkat, amelyet nem ismertem, hallottam.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Bizonysággá"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Jószéfben"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tette"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "amikor kiment"
+    },
+    {
+      "surface": "על",
+      "gloss": "-re"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ajkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismertem"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hallottam"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:54.813163106Z",
+  "model": "glm-5.3"
+}

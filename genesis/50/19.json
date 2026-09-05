@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "És mondta nekik Jószéf: Ne féljetek, hiszen ⟨én⟩ az Elohim ⟨helyett⟩ ⟨állok⟩-e?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hiszen"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "⟨helyett⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨én⟩…-e"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:05.888570317Z",
+  "model": "glm-5.3"
+}

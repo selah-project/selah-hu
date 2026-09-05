@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Náchor kilenc és húsz esztendőt, és nemzette ⟨את⟩ Teráchot.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "kilenc"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "és húsz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teráchot"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teráchot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:46.190314043Z",
+  "model": "glm-5.3"
+}

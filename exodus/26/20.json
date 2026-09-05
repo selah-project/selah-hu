@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És a lakósátor második oldalára, északi oldalra, húsz deszkát.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "És ... oldalára"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakósátor"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "második"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "oldalra"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "északi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "deszkát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:37.386974657Z",
+  "model": "glm-5.3"
+}

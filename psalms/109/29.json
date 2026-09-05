@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Öltsék magukra vádlóim a gyalázatot, és borítsák be magukat szégyenükkel, mint ⟨a⟩ köntössel.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "öltsék magukra"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "vádlóim"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "a gyalázatot"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "és borítsák be magukat"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "mint köntössel"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "szégyenükkel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:30.947649735Z",
+  "model": "glm-5.3"
+}

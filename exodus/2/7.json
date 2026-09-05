@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És mondta az ő nővére Paroh lányának: Menjek-e, és hívjak neked szoptató asszonyt a héber asszonyok közül, és szoptassa neked ⟨את⟩ a gyermeket?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "az ő nővére"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–nak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "menjek-e"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "és hívjak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asszonyt"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "szoptató"
+    },
+    {
+      "surface": "מן",
+      "gloss": "közül"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "a héber asszonyoknak"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "és szoptassa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyermeket"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermeket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:15.288318925Z",
+  "model": "glm-5.3"
+}

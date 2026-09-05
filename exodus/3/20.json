@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És kinyújtom ⟨את⟩ kezem, és megverem ⟨את⟩ Micrajimot minden csodámmal, amelyeket elkövetek annak közepében, és ezek után elbocsát ⟨את⟩ titeket.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "És kinyújtom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezem"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezem"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "és megverem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajimot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "csodámmal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "elkövetek"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "annak közepében"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "és ezek után"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "elbocsát"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:26.105649263Z",
+  "model": "glm-5.3"
+}

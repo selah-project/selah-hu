@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Íme, áldásra kaptam ⟨parancsot⟩, és megáldta ⟨ő⟩, és nem vonhatom vissza.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "áldásra"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "kaptam"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "és megáldta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "vonhatom vissza"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:13.460621535Z",
+  "model": "glm-5.3"
+}

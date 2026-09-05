@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Mert angyalainak parancsol felőled, hogy őrizzenek minden utadon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "angyalai"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "parancsol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "felőled"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "hogy őrizzenek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "utadon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:38.556336099Z",
+  "model": "glm-5.3"
+}

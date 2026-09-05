@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És mondta neki Dawid (Dávid): ha átjársz velem ⟨את⟩, akkor leszel rám teherre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "átjársz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem",
+      "marks": "velem"
+    },
+    {
+      "surface": "והית",
+      "gloss": "akkor leszel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rám"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "teherre"
+    }
+  ],
+  "timestamp": "2026-09-04T23:31:28.765730296Z",
+  "model": "glm-5.3"
+}

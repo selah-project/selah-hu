@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És elfordította ⟨את⟩ orcáját a király, és megáldotta ⟨את⟩ Jiszráél egész gyülekezetét — és Jiszráél egész gyülekezete állt.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "És elfordította"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orcáját"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "orcáját"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráél egész gyülekezetét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "gyülekezetét"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és Jiszráél"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "gyülekezete"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "állt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:12:25.165720733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Örökké haragszol-é ⟨ránk⟩? Haragod nemzedékről nemzedékre nyújtod-é?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "örökké-é"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "haragszol"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ránk"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "nyújtod-é"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "haragod"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:36.702705120Z",
+  "model": "glm-5.3"
+}

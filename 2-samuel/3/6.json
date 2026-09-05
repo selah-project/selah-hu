@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 3:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És történt, miközben a háború volt Saul háza és Dávid háza között, Avnér (Abnér) erősödött Saul házában.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "miközben…volt"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "a háború"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "Avnér"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨volt⟩"
+    },
+    {
+      "surface": "מתחזק",
+      "gloss": "erősödött"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-09-04T19:22:00.508835350Z",
+  "model": "glm-5.3"
+}

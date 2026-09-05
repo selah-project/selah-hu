@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "⟨Aki⟩ széttépi ⟨az⟩ ő lelkét az ő haragjában — érted hagyná el ⟨a⟩ földet, és elmozdulna a szikla a helyéből?",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "széttépi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a lelkét"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "az ő haragjában"
+    },
+    {
+      "surface": "הלמענך",
+      "gloss": "érted"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hagyná el"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "ויעתק",
+      "gloss": "és elmozdulna"
+    },
+    {
+      "surface": "צור",
+      "gloss": "a szikla"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "a helyéből"
+    }
+  ],
+  "timestamp": "2026-09-04T23:52:34.882913373Z",
+  "model": "glm-5.3"
+}

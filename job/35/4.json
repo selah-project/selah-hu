@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Én szavakkal felelek néked, és ⟨את⟩ társaidat veled együtt.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "felelek néked"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "szavakkal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "társaidat"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "társaidat"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:27:09.939336794Z",
+  "model": "glm-5.3"
+}

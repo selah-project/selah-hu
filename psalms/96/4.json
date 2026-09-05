@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 96,
+  "translation": "Mert nagy ⟨a⟩ Jahve, és nagyon dicsérendő; rettenetes ⟨ő⟩ minden istenek felett.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "és dicsérendő"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "rettenetes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "istenek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:40.155675975Z",
+  "model": "glm-5.3"
+}

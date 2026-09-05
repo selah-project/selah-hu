@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És kiment Jiszráel (Izráel) királya, és megverte ⟨את⟩ a lovakat és ⟨את⟩ a harci szekereket, és Arámra mért nagy csapást.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "És kiment"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és megverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lovakat"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "a lovakat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a harci szekereket"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "a harci szekereket"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "és mért"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Arámra"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "csapást"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagyot"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:59.350091498Z",
+  "model": "glm-5.3"
+}

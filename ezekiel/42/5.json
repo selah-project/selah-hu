@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És a felső szárnyak rövidebbek ⟨voltak⟩, mert a galériák ⟨elvettek⟩ ezekből — az alsókból és a középsőkből — az épületben.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "És a szárnyak"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "felső"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "rövidebbek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "elvettek"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "a galériák"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ezekből"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "az alsókból"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "és a középsőkből"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "az épületben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:15:16.424284650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Küldte Moshét (Mózes), az ő szolgáját, Aharont, akit kiválasztott.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Küldte"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshét (Mózes)"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "az ő szolgáját"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "kiválasztott"
+    },
+    {
+      "surface": "בו",
+      "gloss": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:55.273872820Z",
+  "model": "glm-5.3"
+}

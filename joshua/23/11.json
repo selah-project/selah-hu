@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És vigyázzátok magatokat nagyon a lelketekre, hogy szeressétek ⟨את⟩ Jahvét, a ti Elohimotokat.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "És vigyázzátok"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "a lelketekre"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "hogy szeressétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotokat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:47:13.055847624Z",
+  "model": "glm-5.3"
+}

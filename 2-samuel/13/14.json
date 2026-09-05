@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "De nem akart hallgatni az ő szavára, és erősebb volt nála, és megalázta őt, és ⟨את⟩ elhálta vele.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "De nem"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "akart"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hallgatni"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "az ő szavára"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "és erősebb volt"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "nála"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "és megalázta"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "és elhálta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:27:13.364635799Z",
+  "model": "glm-5.3"
+}

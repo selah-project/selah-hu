@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Megesküdtem, és ⟨meg⟩állítom ⟨ezt⟩, hogy megtartom a te igaz végzéseidet.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "Megesküdtem"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "és ⟨meg⟩állítom ⟨ezt⟩"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hogy megtartom"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "végzéseidet"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "a te igaz ⟨végzéseidet⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:02.618042522Z",
+  "model": "glm-5.3"
+}

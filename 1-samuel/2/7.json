@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Jahve szegénnyé tesz és meggazdagít, megaláz, sőt felmagasztal.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "szegénnyé tesz"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "és meggazdagít"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "megaláz"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "felmagasztal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:02:32.149123156Z",
+  "model": "glm-5.3"
+}

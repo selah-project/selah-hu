@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És annak a városnak minden véne, akik a megölt közelében vannak, mossák meg ⟨את⟩ kezeiket a borjú fölött, amelynek a nyakát törték, a völgyben.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "véne"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városnak"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "annak"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "akik közelében vannak"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "החלל",
+      "gloss": "a megölt"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "mossák meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezeiket"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kezeiket"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "a borjú"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "amelynek a nyakát törték"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "a völgyben"
+    }
+  ],
+  "timestamp": "2026-09-04T18:25:41.231335560Z",
+  "model": "glm-5.3"
+}

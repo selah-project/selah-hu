@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És keserűséget látsz lakóhelyemen, mindenen, amit jót tesz ⟨את⟩ Izraellel; és nem lesz öreg a te házadban soha, minden napon.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "És látsz"
+    },
+    {
+      "surface": "צר",
+      "gloss": "keserűséget"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "lakóhelyemen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mindenen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "jót tesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraellel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraellel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "öreg"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "a te házadban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "napon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:18.648187602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És azóta, hogy bementem Paroh-hoz, hogy a nevedben szóljak, elrontotta ⟨az⟩ ⟨a⟩ népet, és megmenteni nem mentetted meg ⟨את⟩ népedet.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "És azóta"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "hogy bementem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Paroh-hoz"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh-hoz"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "hogy szóljak"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "a nevedben"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "elrontotta"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨az⟩ ⟨a⟩ népet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨a⟩ népet"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "és megmenteni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "mentetted meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népedet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:48.637880662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ezért megesküdtem Éli házának: hogy nem engedtetik megváltani Éli házának bűne se áldozattal, se ételáldozattal, mindörökké.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "És ezért"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "megesküdtem"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hogy nem"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "engedtetik megváltani"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bűne"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "áldozattal"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "sem ételáldozattal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mind"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:53.949630606Z",
+  "model": "glm-5.3"
+}

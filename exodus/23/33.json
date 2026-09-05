@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne lakjanak a földeden, mert megvétkeztetnek ⟨את⟩ téged ellenem, ha szolgálod ⟨את⟩ isteneiket, mert csapdává lesznek neked.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "lakjanak"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "a földeden"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mert (hogy ne)"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "megvétkeztetnek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ téged",
+      "marks": "téged"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "szolgálod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteneiket"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "isteneiket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "csapdává"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:26.389251683Z",
+  "model": "glm-5.3"
+}

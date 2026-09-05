@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És levette a király ⟨את⟩ gyűrűjét a kezéről, és odaadta Hámánnak, Hamdátá fiának, az Agágínak, a zsidók ellenségének.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "és levette"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyűrűjét"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "gyűrűjét"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "le a kezéről"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezéről"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "és odaadta"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hámánnak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdátá"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "az Agági"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ellensége"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "a zsidóknak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:45.971578773Z",
+  "model": "glm-5.3"
+}

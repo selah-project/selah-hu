@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És monda Jehosafátnak: Eljössz-e velem hadba, Ramot-Giladra? És monda Jehosafát Jiszráél királyának: Amint én, úgy te; amint az én népem, úgy a te néped; amint az én lovaim, úgy a te lovaid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosafátnak"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Eljössz-e"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem",
+      "marks": "Jehosafát (a kísérő)"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hadba"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosafát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Amint én"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "úgy te"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "amint az én népem"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "úgy a te néped"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "amint az én lovaim"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "úgy a te lovaid"
+    }
+  ],
+  "timestamp": "2026-09-04T19:51:44.144260137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És Saul elhajította ⟨את⟩ a lándzsát, és azt mondta: „Átdöföm Dávidot, sőt a falig.” És Dávid elfordult a színe elől kétszer.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "elhajította"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lándzsát"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "a lándzsát"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és azt mondta"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "átdöföm"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "sőt a falig"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "és elfordult"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "a színe elől"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kétszer"
+    }
+  ],
+  "timestamp": "2026-09-04T23:30:11.725427794Z",
+  "model": "glm-5.3"
+}

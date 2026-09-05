@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Vajon a halandó napjai-e a te napjaid, és a te éveid mint egy vitéz ember napjai?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "mint-a-napjai"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "halandó"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "napjaid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "éveid"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "mint-a-napjai"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "vitéz-ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:54.384958767Z",
+  "model": "glm-5.3"
+}

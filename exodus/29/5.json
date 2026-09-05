@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És vedd ⟨את⟩ a ruhákat, és öltöztesd Aharont (Áront) ⟨את⟩ a köntösbe, és ⟨את⟩ az éfód köpönyegébe, és ⟨את⟩ az éfódba, és ⟨את⟩ a hósenbe, és övezd őt az éfód csatos övével.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "és vedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ruhákat"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "a ruhákat"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "és öltöztesd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a köntösbe"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "a köntösbe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az éfód köpönyegébe"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "köpönyeg"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "az éfód"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az éfódba"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "az éfódba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a hósenbe"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "a hósenbe"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "és övezd"
+    },
+    {
+      "surface": "לו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "a csatos övével"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "az éfód"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:22.492304450Z",
+  "model": "glm-5.3"
+}

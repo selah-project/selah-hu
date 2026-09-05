@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És lefeküdt Smuél (Sámuel) reggelig, és kinyitotta ⟨את⟩ Jahve házának ajtóit; Smuél pedig félt ⟨את⟩ a látomást megjelenteni Élinek.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "És lefeküdt"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuél (Sámuel)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a reggel"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "és kinyitotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ajtókat"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "az ajtókat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Smuél pedig"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "félt"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "megjelenteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a látomást"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "a látomást"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    }
+  ],
+  "timestamp": "2026-09-04T19:03:53.949801801Z",
+  "model": "glm-5.3"
+}

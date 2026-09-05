@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Aki formálja ⟨együtt⟩ a szívüket, az érti minden tettüket.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "a formáló"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "szívüket"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "az értő"
+    },
+    {
+      "surface": "אל",
+      "gloss": "re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "tettüket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:30.281610457Z",
+  "model": "glm-5.3"
+}

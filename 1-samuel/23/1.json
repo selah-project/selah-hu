@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És megjelenték Davidnak (Dávidnak), mondván: Íme, a Pelistim harcolnak Keila ellen, és ők fosztogatják ⟨את⟩ a szérűket.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "És megjelenték"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidnak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Pelistim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "harcolnak"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "Keila ellen"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "és ők"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "fosztogatják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szérűket"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "a szérűket"
+    }
+  ],
+  "timestamp": "2026-09-04T19:16:13.557414319Z",
+  "model": "glm-5.3"
+}

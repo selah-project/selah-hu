@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És öntött néki négy arany karikát, és odaillesztette ⟨את⟩ a karikákat a négy szegletre, amely a négy lábánál van.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "öntött"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "karikát"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arany"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "odaillesztette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a karikákat"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "a karikákat"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "szegletre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "lábánál"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:35.808143741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És őrizzék a Jisraél fiai ⟨את⟩ a szombatot, ⟨את⟩ a szombat megtartására nemzedékeik szerint, örök szövetségül.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "És őrizzék"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szombatot"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "a szombatot"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "megtartására"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szombatot"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "a szombatot"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "nemzedékeik szerint"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetség"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örök"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:18.526875798Z",
+  "model": "glm-5.3"
+}

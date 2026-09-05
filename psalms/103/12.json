@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Amilyen távol van a kelet a nyugattól, annyira távolította el tőlünk ⟨את⟩ vétkünket.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "Amilyen távol"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "a kelet"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "a nyugattól"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "távolította el"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőlünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vétkünket"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "vétkünket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:36.301161615Z",
+  "model": "glm-5.3"
+}

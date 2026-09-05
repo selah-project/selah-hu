@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És utoléri ⟨a⟩ nyomtatás ⟨את⟩ a szüretet, és a szüret utoléri ⟨את⟩ a vetést, és egyétek kenyereteket jóllakásig, és lakjatok biztonságban a földeteken.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "és utoléri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "a nyomtatás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szüretet"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "a szüretet"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "és a szüret"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "utoléri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vetést"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "a vetést"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "és egyétek"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "kenyereteket"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "jóllakásig"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "és lakjatok"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "biztonságban"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "a földeteken"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:09.650343755Z",
+  "model": "glm-5.3"
+}

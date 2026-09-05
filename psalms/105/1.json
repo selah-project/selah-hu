@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Adjatok hálát Jahvénak, hívjátok ⟨az⟩ ő nevét, tudtára adjátok a népeknek ⟨az⟩ ő tetteit!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Adjatok hálát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hívjátok"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "⟨az⟩ ő nevét"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "tudtára adjátok"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "a népeknek"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "⟨az⟩ ő tetteit"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:03.652779072Z",
+  "model": "glm-5.3"
+}

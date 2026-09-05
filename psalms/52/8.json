@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "És látják ⟨ezt⟩ az igazak, és félnek, és nevetnek rajta.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "és látják"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazak"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "és félnek"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "és rajta"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "nevetnek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:14.696748171Z",
+  "model": "glm-5.3"
+}

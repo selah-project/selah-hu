@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Mert a te házad iránti buzgóság emésztett fel engem, és a gyalázkodásaid gyalázói rám hullottak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "buzgóság"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "a te házad"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "emésztett fel engem"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "és a gyalázkodás"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "gyalázói"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "hullottak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "rám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:23.371216710Z",
+  "model": "glm-5.3"
+}

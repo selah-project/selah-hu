@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És fordult ide és oda, és látta, hogy nincs ember, és megütötte ⟨את⟩ a micraimit, és elrejtette őt a homokban.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "És fordult"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ide"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "és oda"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és megütötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a micraimit"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "a micraimit"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "és elrejtette őt"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "a homokban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:42:59.561997520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Sötétséget teszel, és lesz éjszaka; abban az erdő minden vadja kúszik elő.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "teszel"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "Sötétséget"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjszaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abban"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "kúszik elő"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "vadja"
+    },
+    {
+      "surface": "יער",
+      "gloss": "az erdő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:32.122057004Z",
+  "model": "glm-5.3"
+}

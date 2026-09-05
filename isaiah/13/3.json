@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Én parancsoltam ⟨az⟩ ⟨a⟩ megszenteltjeimnek, sőt hívtam hőseimet ⟨az⟩ haragomra, akik ujjonganak gőgömön.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "parancsoltam"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "megszenteltjeimnek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "hívtam"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "hőseimet"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "haragomra"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "akik ujjonganak"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "gőgömön"
+    }
+  ],
+  "timestamp": "2026-09-04T20:11:18.473015006Z",
+  "model": "glm-5.3"
+}

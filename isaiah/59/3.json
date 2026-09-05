@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Mert kezeitek vértől szennyesek, és ujjaitok vétektől; ajkaitok hazugságot szóltak, nyelvetek hamisságot mormol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "kezeitek"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "vértől szennyesek"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vértől"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "és ujjaitok"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "vétektől"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "ajkaitok"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "szóltak"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugságot"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "nyelvetek"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "hamisságot"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mormol"
+    }
+  ],
+  "timestamp": "2026-09-04T20:28:48.469149477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Csapdát ⟨nekem⟩ ástak a gonoszok, de a Te parancsolataidról nem tévedtem el.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ásott\/állítottak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gonoszok"
+    },
+    {
+      "surface": "פח",
+      "gloss": "csapdát"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "de parancsolataidról"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "tévedtem el"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:43.470489013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "Ismeri Jahve a tökéletesek napjait, és örökségük örökké meglesz.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Ismeri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjait"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "a tökéleteseknek"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "és örökségük"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "meglesz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:01.863513360Z",
+  "model": "glm-5.3"
+}

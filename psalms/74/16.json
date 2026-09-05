@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Tiéd a nap, sőt Tiéd az éjszaka is, Te készítetted a világítót és a napot.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tiéd"
+    },
+    {
+      "surface": "יום",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tiéd"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "az éjszaka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "készítetted"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "a világítót"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "és a napot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:44.384508374Z",
+  "model": "glm-5.3"
+}

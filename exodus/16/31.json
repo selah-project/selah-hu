@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És Izrael háza ⟨את⟩ a nevét Mánnak nevezte; ⟨ez⟩ olyan, mint a gad-koriander magja, fehér, és az íze, mint a mézes lepény.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "És nevezte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Mán"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ⟨ez⟩"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "mint a magja"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gad-koriander"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fehér"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "és az íze"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "mint a lepény"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "mézes"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:23.150271008Z",
+  "model": "glm-5.3"
+}

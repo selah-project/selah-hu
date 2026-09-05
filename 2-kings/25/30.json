@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "és élelmadagja — napi adag szüntelen — adatott néki ⟨את⟩-ről ⟨a⟩ királytól, naponként a maga napján, életének minden napjaira.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "és élelmadagja"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "adag"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelen"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "adatott"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-ről"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨a⟩ királytól"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "naponként"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "a maga napján"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjaira"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "életének"
+    }
+  ],
+  "timestamp": "2026-09-04T20:04:27.362211872Z",
+  "model": "glm-5.3"
+}

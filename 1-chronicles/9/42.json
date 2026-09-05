@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És Aház nemzette ⟨את⟩ Jáarát, és Jáara nemzette ⟨את⟩ Álemetet és ⟨את⟩ Azmávetet és ⟨את⟩ Zimrit, és Zimri nemzette ⟨את⟩ Mócát.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "És Aház"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jáarát"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Jáarát"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "és Jáara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Álemetet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Álemetet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Azmávetet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmávetet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Zimrit"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimrit"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "és Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mócát"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Mócát"
+    }
+  ],
+  "timestamp": "2026-09-05T00:32:26.321782068Z",
+  "model": "glm-5.3"
+}

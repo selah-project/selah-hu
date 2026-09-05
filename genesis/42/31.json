@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "és mondtunk neki: becsületesek ⟨vagyunk⟩ mi; nem kémmé ⟨voltunk⟩.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "és mondtunk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "becsületesek"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "voltunk"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "kémmé"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:12.729609826Z",
+  "model": "glm-5.3"
+}

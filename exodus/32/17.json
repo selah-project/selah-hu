@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És hallotta Jehosua (Józsué) ⟨את⟩ a hangját a népnek a zajongásban, és szólt Moshe-hoz (Mózes): „⟨A⟩ háború hangja ⟨van⟩ a táborban!”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "és hallotta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "a hangját"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "a zajongásban"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "háború"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "a táborban"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:08.215642116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Így találsz kedvességet és jó belátást az Elohim és az ember szemeiben.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Így találsz"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kedvességet"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "és belátást"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemeiben"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "és az ember"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:48.597816722Z",
+  "model": "glm-5.3"
+}

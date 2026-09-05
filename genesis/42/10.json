@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És mondtak neki: nem, uram, hanem a te szolgáid élelmiszert vásárolni jöttek.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "És mondtak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "hanem szolgáid"
+    },
+    {
+      "surface": "באו",
+      "gloss": "jöttek"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "vásárolni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "élelmet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:54.775054205Z",
+  "model": "glm-5.3"
+}

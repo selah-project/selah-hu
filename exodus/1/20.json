@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És jót tett Elohim a bábákkal, és megsokasodott a nép, és megerősödött nagyon.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "és jót tett"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "a bábákkal"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "és megsokasodott"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "és megerősödtek"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:26.109200691Z",
+  "model": "glm-5.3"
+}

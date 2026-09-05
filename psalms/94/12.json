@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Boldog ⟨a⟩ férfi, akit megfenyítesz, Jah, és a Tórádból (Törvény) tanítod őt!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨a⟩ férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "megfenyítesz"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "és a Tórádból"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "tanítod őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:44.222483306Z",
+  "model": "glm-5.3"
+}

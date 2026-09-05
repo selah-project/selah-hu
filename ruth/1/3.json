@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És meghalt Eliméleh, Naomí férje, és megmaradt ⟨ő⟩ és két fia.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "És meghalt"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Eliméleh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férje"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomí"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "és megmaradt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "és két"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "fia"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:37.828464736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Jót cselekedtél szolgáddal, Jahve, a te igéd szerint.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "cselekedtél"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgáddal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "a te igéd szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:03.568546365Z",
+  "model": "glm-5.3"
+}

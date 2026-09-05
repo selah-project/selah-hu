@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És ⟨az⟩ bejött Micrajim tábora és Izráel tábora közé; és lett ⟨ott⟩ a felhő és a sötétség, és ⟨⟨az⟩⟩ megvilágította ⟨את⟩ az éjszakát, és nem közeledett ez ahhoz egész éjszaka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bejött"
+    },
+    {
+      "surface": "בין",
+      "gloss": "közé"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és közé"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "a felhő"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "és a sötétség"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "és megvilágította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az éjszakát"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "az éjszakát"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "közeledett"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahhoz"
+    },
+    {
+      "surface": "זה",
+      "gloss": "annak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "éjszaka"
+    }
+  ],
+  "timestamp": "2026-09-04T16:48:18.013747305Z",
+  "model": "glm-5.3"
+}

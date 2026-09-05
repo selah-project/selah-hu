@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 7:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És Adonáj meghallatta ⟨את⟩ Arám táborával ⟨את⟩ a szekerek hangját, a lovak hangját, egy nagy sereg hangját, és egymáshoz szóltak: íme, Izráel királya felbérelt ellenünk ⟨את⟩ a hettiták királyait és ⟨את⟩ Micrajim királyait, hogy ránk jöjjenek.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "és Adonáj"
+    },
+    {
+      "surface": "השמיע",
+      "gloss": "meghallatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arám tábora"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "táborát"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "szekerek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "lovak"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sereg"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ember a testvéréhez — -hez"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéréhez"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "felbérelt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ellenünk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hettiták királyait"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyait"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "a hettiták"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Micrajim királyait"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyait"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hogy jöjjenek"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ránk"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:20.971924979Z",
+  "model": "glm-5.3"
+}

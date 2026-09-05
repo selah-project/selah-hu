@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Nem bűneink szerint cselekedett velünk, és nem vétkeink szerint viszonozott rajtunk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "bűneink szerint"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekedett"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "velünk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "vétkeink szerint"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "viszonozott"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "rajtunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:36.300826838Z",
+  "model": "glm-5.3"
+}

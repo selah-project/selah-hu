@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ami megmarad a lisztáldozatból, Áháronnak (Áronnak) és az ő fiainak ⟨jelent⟩ — a szentek szentje ⟨az⟩, a Jahve tűzáldozatai közül.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "És ami megmarad"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "a lisztáldozat"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Áháronnak"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "és az ő fiainak"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "a szentek"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "a tűzáldozataiból"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:13.031396599Z",
+  "model": "glm-5.3"
+}

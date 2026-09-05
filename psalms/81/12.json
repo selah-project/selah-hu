@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Ám népem nem hallgatott szómra, és Jiszráél nem volt hajlandó rám.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ám nem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatott"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "szómra"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "és Jiszráél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "volt hajlandó"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:53.644817369Z",
+  "model": "glm-5.3"
+}

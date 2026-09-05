@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És Jesua nemzette ⟨את⟩ Jojakimot, és Jojakim nemzette ⟨את⟩ Eljásibot, és Eljásib ⟨nemzette⟩ ⟨את⟩ Jojádát.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "És Jesua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojakimot"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jojakimot"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "és Jojakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljásibot"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljásibot"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "és Eljásib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jojádát"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojádát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:57:11.510637033Z",
+  "model": "glm-5.3"
+}

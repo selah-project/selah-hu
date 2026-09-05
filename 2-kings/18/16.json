@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Abban az időben levágta Hizkijá ⟨את⟩ Jahve templumának ajtóit és ⟨את⟩ az ajtófélfákat, amelyeket Hizkijá, Jehúda királya, bevonatolt, és odaadta ⟨azokat⟩ Assur királyának.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Abban az időben"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "levágta"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkijá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ajtókat"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ajtóit"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templomának"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ajtófélfákat"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "az ajtófélfákat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "bevonatolt"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkijá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "és odaadta őket"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:34.196512846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Nézz rám, válaszolj nekem, Jahve, Elohimom! Gyújtsd fel szemeim világát, hogy el ne aludjam ⟨a⟩ halál álmát,",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "nézz rám"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "válaszolj nekem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "gyújtsd fel"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemeim világát"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy… ne"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "el ne aludjam"
+    },
+    {
+      "surface": "המות",
+      "gloss": "⟨a⟩ halál"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:52.635819049Z",
+  "model": "glm-5.3"
+}

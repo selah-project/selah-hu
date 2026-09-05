@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És elküldte a király hivatni ⟨את⟩ Achimélecset, Achitúb fiát, a papot, és ⟨את⟩ apja házának egészét, a papokat, akik Nóbban ⟨voltak⟩; és mind eljöttek a királyhoz.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "hivatni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimélecset"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimélecset"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitúbnak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egészét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egészét"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apja"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "Nóbban"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és eljöttek"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyhoz"
+    }
+  ],
+  "timestamp": "2026-09-04T23:30:02.627496986Z",
+  "model": "glm-5.3"
+}

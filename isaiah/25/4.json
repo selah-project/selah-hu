@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 25:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Mert erőssége voltál a szegénynek, erőssége a nyomorultnak nyomorúságában, oltalom a vihartól, árnyék a hőségtől, mert a zsarnokok szele úgy söpör, mint vihar a falat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היית",
+      "gloss": "voltál"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "erőssége"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "a szegénynek"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "erőssége"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "a nyomorultnak"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nyomorúságában"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "oltalom"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "a vihartól"
+    },
+    {
+      "surface": "צל",
+      "gloss": "árnyék"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "a hőségtől"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "szele"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "a zsarnokok"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "mint vihar"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "a falat"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:22.936207851Z",
+  "model": "glm-5.3"
+}

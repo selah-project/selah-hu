@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 23:6",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Hallgass meg minket, uram: Elohim fejedelme vagy ⟨te⟩ közöttünk, sírboltjaink legjobbjában temesd el ⟨את⟩ halottadat; ember közülünk ⟨את⟩ sírját nem zárja el tőled a halottad eltemetésében.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "hallgass meg minket"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "fejedelme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "közöttünk"
+    },
+    {
+      "surface": "במבחר",
+      "gloss": "a legjobbjában"
+    },
+    {
+      "surface": "קברינו",
+      "gloss": "sírboltjaink"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "temesd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halottadat"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "halottadat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "közülünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sírját"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sírját"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "zárja el"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "tőled"
+    },
+    {
+      "surface": "מקבר",
+      "gloss": "eltemetésében"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "halottad"
+    }
+  ],
+  "timestamp": "2026-09-04T16:30:03.678196767Z",
+  "model": "glm-5.3"
+}

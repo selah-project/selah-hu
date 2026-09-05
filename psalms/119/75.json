@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Tudom, Jahve, hogy igazságosak ⟨a⟩ jogod ítéletei, és hűségedben gyötörtél ⟨engem⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságosak"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jogod ítéletei"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "és hűséged(ben)"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "gyötörtél (engem)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:22.271212199Z",
+  "model": "glm-5.3"
+}

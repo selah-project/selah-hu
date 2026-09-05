@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És mondta Paroh: Én elbocsátlak ⟨את⟩ titeket, és áldoztok Jahvénak, a ti Elohimotoknak a pusztában; csak messze menjetek nagyon el, ne távozzatok messzire menni; esküdjetek érettem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Én"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "elbocsátlak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "elbocsátlak titeket"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "és áldoztok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotoknak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "messze menjetek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "távozzatok messzire"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "menni"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "esküdjetek"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "érettem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:24.761101517Z",
+  "model": "glm-5.3"
+}

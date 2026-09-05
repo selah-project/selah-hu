@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És Izrael fiai gyülekezetétől ⟨את⟩-től vegyen két kecskebakot bűnáldozatra, és egy kost égőáldozatra.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a gyülekezettől"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezetétől"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vegyen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "bakot"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kecske"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bűnáldozatra"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "és kost"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyet"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "égőáldozatra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:38.656164944Z",
+  "model": "glm-5.3"
+}

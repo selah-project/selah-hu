@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Íme, nemde a Jahve Cevaót-tól ⟨את⟩ van, hogy a népek tűzért fáradoznak, és a nemzetek hiába fáradnak ki?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "nemde"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Cevaót"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "hogy fáradoznak"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "…ért"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "és a nemzetek"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "…ért"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "hiába"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "kifáradnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:30:58.966579867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Dávid zsoltára. Jahvéé a föld és annak teljessége, a világ és lakói annak.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltára"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvéé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "és teljessége"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a világ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "és lakói"
+    },
+    {
+      "surface": "בה",
+      "gloss": "annak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:31.776077127Z",
+  "model": "glm-5.3"
+}

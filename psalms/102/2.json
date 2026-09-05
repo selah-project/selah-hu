@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Jahve, hallgasd meg imádságomat, és kiáltásom érkezzen hozzád!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hallgasd meg"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "imádságomat"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "és kiáltásom"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "érkezzen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:01.358921234Z",
+  "model": "glm-5.3"
+}

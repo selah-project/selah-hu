@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És fia, az elsőszülött Avdon, és Cur, és Kis, és Baal, és Nádáv.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "És fia"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "az elsőszülött"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "és Cur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "és Kis"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "és Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "és Nádáv"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:01.013062409Z",
+  "model": "glm-5.3"
+}

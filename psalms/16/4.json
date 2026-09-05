@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Sokasodjanak fájdalmaik, akik más ⟨után⟩ sietnek: nem öntöm ki italáldozataikat vérből, és nem viszem ⟨את⟩ neveiket az ajkamra.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "sokasodjanak"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "fájdalmaik"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "más"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "sietnek"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "öntöm ki"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "italáldozataikat"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "vérből"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "viszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neveiket"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "neveiket"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ajkam"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:34.026609634Z",
+  "model": "glm-5.3"
+}

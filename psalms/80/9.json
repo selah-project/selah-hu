@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Tőkét kivitetted Micrajimból (Egyiptomból), kiűztél népeket, és elültetted azt.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "tőkét"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "kivitetted"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "kiűztél"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népeket"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "és elültetted azt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:05.951540159Z",
+  "model": "glm-5.3"
+}

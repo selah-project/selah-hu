@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És ⟨את⟩ e királyokat mind, és ⟨את⟩ az ő földjüket elfogta Jehosua egyetlen egyszerre, mert Jahve, Izrael Elohimja, harcolt Izraelért.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "e királyokat mind"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "e királyokat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ez(eket)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő földjüket"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "az ő földjüket"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "elfogta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "egyszerre"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egyetlen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "harcolt"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izraelért"
+    }
+  ],
+  "timestamp": "2026-09-04T18:40:29.993417310Z",
+  "model": "glm-5.3"
+}

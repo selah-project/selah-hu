@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "És adatott ⟨את⟩ sírja a gonoszoknak, és ⟨את⟩ a gazdagnak halálában; mert nem erőszakot cselekedett, és csalás nem volt a szájában.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "adatott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sírja a gonoszoknak"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszoknak"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sírja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a gazdagnak"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "a gazdagnak"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "halálában"
+    },
+    {
+      "surface": "על",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszakot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekedett"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "csalás"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "a szájában"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:19.221066661Z",
+  "model": "glm-5.3"
+}

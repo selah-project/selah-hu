@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Templomodból, amely Jeruzsálemre ⟨van⟩: hozzanak neked a királyok ajándékot.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Templomodból"
+    },
+    {
+      "surface": "על",
+      "gloss": "amely … ⟨van⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálemre"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "hozzanak"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "a királyok"
+    },
+    {
+      "surface": "שי",
+      "gloss": "ajándékot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:46.036516932Z",
+  "model": "glm-5.3"
+}

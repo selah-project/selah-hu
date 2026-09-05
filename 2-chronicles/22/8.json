@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 22:8",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És történt, mikor Jehú ítéletet tartott Aháb háza felett, hogy megtalálta ⟨את⟩ Jehúda (Júda) fejedelmeit és Ahazjáhu testvéreinek fiait, Ahazjáhu szolgálatában állókat, és megölte őket.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כהשפט",
+      "gloss": "amikor ítéletet tartott"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "עם",
+      "gloss": "felett"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháb"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "hogy megtalálta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúda fejedelmeit"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "fejedelmeit"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és fiait"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvére(i)"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazjáhu"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "szolgálatában állókat"
+    },
+    {
+      "surface": "לאחזיהו",
+      "gloss": "Ahazjáhu (számára)"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "és megölte őket"
+    }
+  ],
+  "timestamp": "2026-09-05T00:02:00.062129807Z",
+  "model": "glm-5.3"
+}

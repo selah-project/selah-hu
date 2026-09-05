@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És nem akartam hallgatni Bilámra, és áldással áldott meg ⟨את⟩ titeket, és megszabadítottalak ⟨את⟩ titeket az ő kezéből.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "akartam"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hallgatni"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilámra"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "és megáldott"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "áldással"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "és megszabadítottalak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "az ő kezéből"
+    }
+  ],
+  "timestamp": "2026-09-04T18:46:57.533882076Z",
+  "model": "glm-5.3"
+}

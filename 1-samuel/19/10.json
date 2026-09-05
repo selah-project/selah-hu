@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És törekedett Shaúl lesújtani ⟨a⟩ lándzsával Dávidon át ⟨a⟩ falba; de kicsúszott Shaúl ⟨színe⟩ elől, és Shaúl ütötte ⟨את⟩ a lándzsát ⟨a⟩ falba; Dávid pedig megszökött és megmenekült azon az éjjel.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "törekedett"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "lesújtani"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "lándzsával"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dávidon át"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "és a falba"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "kicsúszott"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "(színe) elől"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ütötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lándzsát"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "a lándzsát"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "a falba"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "és Dávid"
+    },
+    {
+      "surface": "נס",
+      "gloss": "megszökött"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "megmenekült"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "azon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:51.460846226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És meghallgatta ⟨őt⟩ Assur királya, és felvonult Assur királya Damashek ellen, és elfogta ⟨azt⟩, és fogságba vitte ⟨lakóit⟩ Kirba, és ⟨את⟩ Recint megölette.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "és meghallgatta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨őt⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "és felvonult"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "és elfogta ⟨azt⟩"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "és fogságba vitte"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kirba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Recint"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "megölette"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:07.251409664Z",
+  "model": "glm-5.3"
+}

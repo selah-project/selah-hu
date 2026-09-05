@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Legyen az útjuk sötétség és csúszóság, és a Jahve angyala üldözze ⟨őket⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "útjuk"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sötétség"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "és csúszóság"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "és az angyala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "üldözi őket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:48.058603726Z",
+  "model": "glm-5.3"
+}

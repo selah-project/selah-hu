@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "és ⟨את⟩ Ovált és ⟨את⟩ Avimaelt és ⟨את⟩ Sevát.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ovált"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ovált"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Avimaelt"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimaelt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Sevát"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sevát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:48.671960184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "A bűnös csalárd munkát végez, de aki igazságot vet, valóságos jutalmat ⟨kap⟩.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "a bűnös"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "végez"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "csalárd"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "de aki vet"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "jutalmat"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "valóságos"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:25.573677977Z",
+  "model": "glm-5.3"
+}

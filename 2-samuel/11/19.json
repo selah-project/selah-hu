@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És meghagyta a követnek ⟨את⟩, mondván: amikor befejezed ⟨את⟩ a harc összes dolgainak elmondását a királynak,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "és meghagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a követ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "a követ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "amikor befejezed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a harc összes dolgainak elmondását"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dolgának"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "a harc"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "elmondását"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T19:25:42.995694345Z",
+  "model": "glm-5.3"
+}

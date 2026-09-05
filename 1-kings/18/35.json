@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És a víz körbefolyta az oltárt, és ⟨את⟩ az árkokat is megtöltötte vízzel.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "és körbefolyta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a víz"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körbe"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "az oltárt"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és…is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az árkokat"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "az árkokat"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "megtöltötte"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vízzel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:07.226924268Z",
+  "model": "glm-5.3"
+}

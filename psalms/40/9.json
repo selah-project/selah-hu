@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Akaratod megcselekvését, Elohimom, kívántam, és Torád ⟨van⟩ a bensőm mélyén.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "megcselekvését"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "akaratod"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kívántam"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "és Torád"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a mélyén"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "bensőm"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:06.087923006Z",
+  "model": "glm-5.3"
+}

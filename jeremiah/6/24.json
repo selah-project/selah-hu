@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Hallottuk ⟨את⟩ hírét — elerőtlenedtek kezeink; szorongás fogott meg, fájdalom, mint a szülőasszonyé.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "hallottuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hírét"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hírét"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "elerőtlenedtek"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "kezeink"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "szorongás"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "fogott meg"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "fájdalom"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "mint a szülőasszonyé"
+    }
+  ],
+  "timestamp": "2026-09-04T20:34:29.600473918Z",
+  "model": "glm-5.3"
+}

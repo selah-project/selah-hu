@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Izrael egész gyülekezete készítse ⟨את⟩ azt.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "gyülekezete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "készítse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt (a peszáchot)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:56.125836067Z",
+  "model": "glm-5.3"
+}

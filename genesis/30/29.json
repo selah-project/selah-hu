@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És monda neki: Te tudod ⟨את⟩, ahogyan szolgáltam neked, és ⟨את⟩, amivé lett az állományad ⟨את⟩ nálam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "szolgáltam neked"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "amivé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amivé"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "állományad"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nálam"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:03.378391180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "akik Jahve házában állnak, a mi Elohimunk házának udvarain!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "akik állnak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "udvarain"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:16.349477097Z",
+  "model": "glm-5.3"
+}

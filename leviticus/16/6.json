@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És előhozza Aharón (Áron) ⟨את⟩ a bűnáldozati bikát, amely az övé, és engesztelést végez ⟨את⟩ magáért és háza népéért.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "és előhozza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bikát"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bikát"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a bűnáldozati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztelést végez"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "magáért"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "és...ért"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "háza népéért"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:38.656384963Z",
+  "model": "glm-5.3"
+}

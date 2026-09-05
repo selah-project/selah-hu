@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "⟨את⟩ a kihívás sátrát, és ⟨את⟩ a bizonyság ládáját, és ⟨את⟩ a fedőzetet, amely rajta van, és ⟨את⟩ a sátornak minden edényét —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kihívás sátrát"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a kihívás"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bizonyság ládáját"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "láda"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "a bizonyságnak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a fedőzetet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "fedőzet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rajta van"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a sátornak minden edényét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "a sátornak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:42.019545191Z",
+  "model": "glm-5.3"
+}

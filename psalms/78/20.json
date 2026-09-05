@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Íme, megütötte a sziklát, és folytak a vizek, patakok áradtak el; vajon kenyeret is tud-e adni, vagy húst készít népének?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "megütötte"
+    },
+    {
+      "surface": "צור",
+      "gloss": "a sziklát"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "és folytak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "és patakok"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "áradtak el"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "vajon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "tud-e"
+    },
+    {
+      "surface": "תת",
+      "gloss": "adni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "készít"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "húst"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "népének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:21.335740847Z",
+  "model": "glm-5.3"
+}

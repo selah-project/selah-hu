@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Együtt suttognak ellenem gyűlölőim mind; ellenem szőnek rosszat ⟨ellenem⟩.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Együtt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "suttognak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "gyűlölőim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "szőnek"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ellenem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:17.229351873Z",
+  "model": "glm-5.3"
+}

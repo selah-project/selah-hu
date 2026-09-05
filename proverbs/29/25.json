@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Az ember félelme csapdát ad, de aki Jahvéban bízik, az biztonságba kerül.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "félelme"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "csapdát"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "de aki bízik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "biztonságba kerül"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:36.154874813Z",
+  "model": "glm-5.3"
+}

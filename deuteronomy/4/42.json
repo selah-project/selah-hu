@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 4:42",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "hogy oda meneküljön a gyilkos, aki ⟨את⟩ felebarátját tudtán kívül öl meg — és nem gyűlölte őt azelőtt, tegnap és tegnapelőtt —, és meneküljön e városok egyikébe, és éljen.",
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "hogy meneküljön"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "a gyilkos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "öl meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátját"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátját"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "tudtán kívül"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tudtán kívül"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ⟨ő⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "gyűlölte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "azelőtt, tegnap"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "és tegnapelőtt"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "és meneküljön"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "egykéhez"
+    },
+    {
+      "surface": "מן",
+      "gloss": "... közül"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "e városok"
+    },
+    {
+      "surface": "האל",
+      "gloss": "e városok"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "és éljen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:46.368855100Z",
+  "model": "glm-5.3"
+}

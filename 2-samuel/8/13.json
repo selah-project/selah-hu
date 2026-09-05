@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Dávid (Dávid) pedig nevet szerzett magának, amikor visszatért Arám megverése után a Sós-völgyben — tizennyolcezer ⟨את⟩ Arámot.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "szerzett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevet"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "amikor visszatért"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "megverése után"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramot"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramot"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "a völgyben"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "só-"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "nyolc"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tizen"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "-ezer"
+    }
+  ],
+  "timestamp": "2026-09-04T19:23:21.420686007Z",
+  "model": "glm-5.3"
+}

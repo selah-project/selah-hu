@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Mert nem kívánsz áldozatot, különben adnám ⟨azt⟩; égőáldozatot nem kedveled.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "kívánsz"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozatot"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "különben adnám"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "égőáldozatot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "kedveled"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:38.233697058Z",
+  "model": "glm-5.3"
+}

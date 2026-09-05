@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 94,
+  "translation": "Értsétek meg, ti balgák ⟨a⟩ nép között, és ti korlátolok, meddig ⟨fogtok még⟩ okosak lenni?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "értsétek meg"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ti balgák"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "a nép között"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "és ti korlátolok"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "meddig"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "okosak lesztek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:07.083971092Z",
+  "model": "glm-5.3"
+}

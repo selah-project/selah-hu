@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Örömmel és ujjongással vezettetnek; bemennek a király palotájába.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "vezettetnek"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "örömmel"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "és ujjongással"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "bemennek"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "a palotájába"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a királynak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:04.356107801Z",
+  "model": "glm-5.3"
+}

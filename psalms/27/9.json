@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Ne rejtsd el orcádat előlem, ne fordítsd el haragban szolgádat; segítségem voltál ⟨te⟩; ne dobj el engem, és ne hagyj el engem, szabadításomnak Elohimja.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "rejtsd el"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "előlem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "fordítsd el"
+    },
+    {
+      "surface": "באף",
+      "gloss": "haragban"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádat"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "segítségem"
+    },
+    {
+      "surface": "היית",
+      "gloss": "voltál"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "dobj el engem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "hagyj el engem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim(ja)"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "szabadításom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:26.498363986Z",
+  "model": "glm-5.3"
+}

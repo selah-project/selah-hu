@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És kivágták ⟨את⟩ minden lényt, aki benne volt, a kard szájáig — victimságnak szentelták ki, nem maradt semmi lélegző, és ⟨את⟩ Hácort elégették tűzben.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "kivágták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden lényt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "lényt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "a szájáig"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kard"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "victimságnak szentelték ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "maradt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "semmi"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "lélegző"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hácort"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hácort"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "elégették"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    }
+  ],
+  "timestamp": "2026-09-04T18:41:03.074578051Z",
+  "model": "glm-5.3"
+}

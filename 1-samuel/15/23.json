@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Mert ⟨a⟩ jövendölés bűne ⟨a⟩ lázadás, és ⟨a⟩ hamisság és a terafimok ⟨a⟩ makacsság; mert elvetetted ⟨את⟩ Jahve szavát, és elvetett téged, hogy ne légy király.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bűne"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "a jövendölésnek"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "a lázadás"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "és a hamisság"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "és a terafimok"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "a makacsság"
+    },
+    {
+      "surface": "יען",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "elvetetted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szavát"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "és elvetett téged"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "a királyságból"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:54.483184531Z",
+  "model": "glm-5.3"
+}

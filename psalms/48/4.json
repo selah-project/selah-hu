@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Elohim ⟨ismeretessé vált⟩ az ő palotáiban ⟨mint⟩ menedékül.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "az ő palotáiban"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "⟨ismeretessé vált⟩"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "⟨mint⟩ menedékül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:12.480228170Z",
+  "model": "glm-5.3"
+}

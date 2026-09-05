@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "És eltartalak ⟨את⟩ téged ott, mert még öt esztendő éhség ⟨van⟩, hogy ne szegényedj el te, a te házad és minden, amid van.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "És eltartalak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "téged"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "öt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "éhség"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "szegényedj el"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "és a te házad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a tiéd"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:51.617672132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És elküldte Hiram (Hírám), Czor (Tírusz) királya ⟨את⟩ az ő szolgáit Selomóhoz, mert hallotta, hogy ⟨את⟩ őt kirollyá kenték az ő apja helyett, mert szerető volt Hiram Davidnak (Dávid) minden napokban.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Czornak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő szolgáit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgáit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Selomóhoz"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallotta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt — kirollyá kenték"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "kenték"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kirollyá"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "az ő apjának"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szerető"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidnak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "napokban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:31.328281153Z",
+  "model": "glm-5.3"
+}

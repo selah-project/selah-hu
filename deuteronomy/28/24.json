@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Adja Jahve ⟨את⟩ földed esőjét porrá és finom porróvá; az égből szálljon le rád, amíg el nem pusztulsz.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Adja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "földed esőjét"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "esőjét"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "földed"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "porrá"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "és finom porróvá"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az égből"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "szálljon le"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "rád"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "el nem pusztulsz"
+    }
+  ],
+  "timestamp": "2026-09-04T18:30:08.331035687Z",
+  "model": "glm-5.3"
+}

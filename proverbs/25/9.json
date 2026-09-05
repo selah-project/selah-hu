@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Pereld ⟨את⟩ a pered társaddal, és más titkát ne fedd fel.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "a pered"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pereld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "társaddal"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "társaddal"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "és titkát"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "más"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "fedd fel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:55.101015721Z",
+  "model": "glm-5.3"
+}

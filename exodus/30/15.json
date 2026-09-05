@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "A gazdag ne adjon többet, és a szegény ne adjon kevesebbet a fél sékelnél, hogy adják ⟨את⟩ Jahve felajánlását, engesztelésül lelkeitekért.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "A gazdag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "adjon többet"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "és a szegény"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "adjon kevesebbet"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "a fél"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sékelnél"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hogy adják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve felajánlását"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "felajánlását"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "engesztelésül"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨…⟩ért"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "lelkeitekért"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:18.245137492Z",
+  "model": "glm-5.3"
+}

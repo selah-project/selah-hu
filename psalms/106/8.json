@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "És megmentette őket nevéért, hogy megismertesse ⟨את⟩ hatalmát.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "És megmentette őket"
+    },
+    {
+      "surface": "למען",
+      "gloss": "névért"
+    },
+    {
+      "surface": "שמו",
+      "gloss": ""
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "hogy megismertesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatalmát"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "hatalmát"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:04.122593968Z",
+  "model": "glm-5.3"
+}

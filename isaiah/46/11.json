@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Szólítok keletről ⟨egy⟩ ragadozó madarat, távoli földről ⟨egy⟩ embert, ⟨aki⟩ tanácsomat végrehajtja; igen, megmondtam, igen, el is hozom; megalkottam, igen, meg is cselekszem.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Szólítok"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "keletről"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "⟨egy⟩ ragadozó madarat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földről"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "távoli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨egy⟩ embert"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "tanácsomat"
+    },
+    {
+      "surface": "אף",
+      "gloss": "igen"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "megmondtam"
+    },
+    {
+      "surface": "אף",
+      "gloss": "igen"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "el is hozom"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "megalkottam"
+    },
+    {
+      "surface": "אף",
+      "gloss": "igen"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "meg is cselekszem"
+    }
+  ],
+  "timestamp": "2026-09-04T20:23:01.270109027Z",
+  "model": "glm-5.3"
+}

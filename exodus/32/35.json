@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És megverte Jahve ⟨את⟩ a népet, mert megcsinálták ⟨את⟩ a borjút, amelyet Áhárón (Áron) csinált.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "És megverte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "על",
+      "gloss": "mert\/amitől"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely(et)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "megcsinálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a borjút"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "a borjút"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely(et)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "csinált"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áhárón"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:34.986198149Z",
+  "model": "glm-5.3"
+}

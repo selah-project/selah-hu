@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Építsetek házakat, és lakjatok ⟨bennük⟩; és ültessetek kerteket, és egyétek ⟨את⟩ gyümölcsüket;",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Építsetek"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "házakat"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "és lakjatok"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "és ültessetek"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "kerteket"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "és egyétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyümölcsüket"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "gyümölcsüket"
+    }
+  ],
+  "timestamp": "2026-09-04T20:45:04.019699055Z",
+  "model": "glm-5.3"
+}

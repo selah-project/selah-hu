@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "De az én testvéreim, akik velem mentek fel, megolvasztották ⟨את⟩ a nép szívét, én pedig egészen eltettem ⟨utánna⟩ ⟨a⟩ Jahve után, az én Elohimom után.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "de testvéreim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "mentek fel"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "velem"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "megolvasztották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nép szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "elteltem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "az én Elohimom"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:27.604732383Z",
+  "model": "glm-5.3"
+}

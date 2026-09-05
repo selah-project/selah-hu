@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És csinált magának Cidkijá, Kenanána fia, vasból való szarvakat, és mondta: Ezt mondja Jahve: Ezekkel fogod ⟨את⟩ Arámot megöklelni, míg véget nem érnek.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "csinált"
+    },
+    {
+      "surface": "לו",
+      "gloss": "magának"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Cidkijá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenanána"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "szarvakat"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vasból való"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ezt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "Ezekkel"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "fogod megöklelni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arámot"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arámot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "véget nem érnek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:51:36.930789129Z",
+  "model": "glm-5.3"
+}

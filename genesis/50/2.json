@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "És megparancsolta Jóséf ⟨את⟩ a szolgáit, ⟨את⟩ az orvosokat, hogy balzsamozzák ⟨את⟩ az apját; és balzsamozták az orvosok ⟨את⟩ Izráélt.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jóséf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szolgáit"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "a szolgáit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az orvosokat"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "az orvosokat"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "hogy balzsamozzák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az apját"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az apját"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "és balzsamozták"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "az orvosok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráélt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:01.621961731Z",
+  "model": "glm-5.3"
+}

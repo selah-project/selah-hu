@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 87,
+  "translation": "Szereti Jahve Cijon kapuit mindennél, ami Jaakov lakóhelye.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "kapuit"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mindennél"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "lakóhelye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:49.524942214Z",
+  "model": "glm-5.3"
+}

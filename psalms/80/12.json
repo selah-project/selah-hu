@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Kinyújtotta ágait egészen a tengerig, és a Folyóig csemetéit.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "kinyújtotta"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ágait"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "ים",
+      "gloss": "a tengerig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és a"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Folyóhoz"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "csemetéit"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:05.952138119Z",
+  "model": "glm-5.3"
+}

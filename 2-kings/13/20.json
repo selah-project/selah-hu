@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És Elisha meghalt, és eltemették. És Móáb portyázói betörtek az országba, az esztendő beköszöntekor.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "és eltemették őt"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "és portyázói"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móáb"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "jöttek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az országba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "beköszöntekor"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "az esztendő"
+    }
+  ],
+  "timestamp": "2026-09-04T19:59:30.364794577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És látta Jószéf ⟨את⟩ testvéreit, és felismerte ⟨őket⟩, de idegennek mutatta magát előttük, és keményen szólt ⟨את⟩ ⟨veledük⟩, és mondta nekik: „Honnan jöttetek?” És ⟨azok⟩ mondták: „Kenaan földjéről, hogy élelmet vegyünk.”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéreit"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvéreit"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "és felismerte ⟨őket⟩"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "de idegennek mutatta magát"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "előttük"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨veledük⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "keményen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "honnan"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "jöttetek"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és ⟨azok⟩ mondták"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "hogy vegyünk"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "élelmet"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:40.947001313Z",
+  "model": "glm-5.3"
+}

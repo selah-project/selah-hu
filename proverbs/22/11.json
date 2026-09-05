@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Aki tiszta szívet szeret, kegyes ajkai miatt a király ⟨a⟩ barátja.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "szeret"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívet"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kegyes"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ajkai"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "barátja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:43.867375518Z",
+  "model": "glm-5.3"
+}

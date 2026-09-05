@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És feleségül vették ⟨את⟩ az ő lányaikat maguknak, és ⟨את⟩ az ő lányaikat adták az ő fiaiknak, és szolgáltak az ő isteneiket.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "És vették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő lányaikat"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "lányaikat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "maguknak"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "feleségül"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő lányaikat"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "lányaikat"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "adták"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "fiaiknak"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "és szolgálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő isteneiket"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "istenüket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:50:21.414786187Z",
+  "model": "glm-5.3"
+}

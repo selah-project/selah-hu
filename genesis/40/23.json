@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És nem emlékezett meg a pohárnokok fejedelme ⟨את⟩ Jószéfre, hanem elfelejtette őt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "emlékezett meg"
+    },
+    {
+      "surface": "שר",
+      "gloss": "fejedelme"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "a pohárnokok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jószéfre"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószéfra"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "hanem elfelejtette őt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:43.540375796Z",
+  "model": "glm-5.3"
+}

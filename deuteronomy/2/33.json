@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És adta őt Jahve, a mi Elohimunk, kezünkbe, és megvertük őt ⟨את⟩, és ⟨את⟩ fiait, és ⟨את⟩ egész népét.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "És adta őt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "kezünkbe"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "és megvertük"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "egész népét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "népét"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:03.619300688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "akkor vágd le ⟨את⟩ a kezét — a szemed ne kimélje őt.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "akkor vágd le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "kimélje"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "a szemed"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:05.551353444Z",
+  "model": "glm-5.3"
+}

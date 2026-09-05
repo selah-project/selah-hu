@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És szólt Dávid a ifjúhoz, aki megmondta neki: Honnan jöttél? És ⟨az⟩ ezt mondta: Egy jövevény, egy amáléki ember fia vagyok én.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—hoz"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a ifjú"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "aki megmondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אי",
+      "gloss": "honnan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "jöttél"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "גר",
+      "gloss": "jövevény"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amáléki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én vagyok"
+    }
+  ],
+  "timestamp": "2026-09-04T19:21:00.689863406Z",
+  "model": "glm-5.3"
+}

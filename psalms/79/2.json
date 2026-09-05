@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 79,
+  "translation": "Odavették ⟨את⟩ szolgáid holttestét eledelül az ég madarainak, kegyeseid húsát a föld vadállatának.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "odavették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáid holttestét"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "holttestét"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáid"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "eledelül"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "madarainak"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húsát"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "kegyeseid"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "vadállatának"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:48.153220625Z",
+  "model": "glm-5.3"
+}

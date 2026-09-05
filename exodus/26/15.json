@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És készítsd ⟨את⟩ a deszkákat a lakó-szentélynek, sittim-fából, álló helyzetben.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "és készítsd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a deszkákat"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "a deszkákat"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "a lakó-szentélynek"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "álló helyzetben"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:03.662693588Z",
+  "model": "glm-5.3"
+}

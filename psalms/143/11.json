@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 143,
+  "translation": "Nevedért, Jahve, élessz engem; igazságodban hozd ki nyomorúságból lelkemet.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Nevedért"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neved"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "élessz engem"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "igazságodban"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "hozd ki"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "nyomorúságból"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:58.286730133Z",
+  "model": "glm-5.3"
+}

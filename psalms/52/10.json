@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Én pedig zöldellő olajfa ⟨vagyok⟩ ⟨az⟩ Elohim házában; bíztam ⟨az⟩ Elohim heszedjében örökkön-örökké.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Én pedig"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "mint olajfa"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "zöldellő"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨a⟩ házában"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "heszedjében"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökkön"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és örökké"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:37.989513093Z",
+  "model": "glm-5.3"
+}

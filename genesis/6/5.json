@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És látta Jahve, hogy nagy az ember rosszasága a földön, és szíve gondolatainak minden alkotása csak rossz egész nap.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "rosszasága"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "alkotása"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "gondolatainak"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "csak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:16.073362916Z",
+  "model": "glm-5.3"
+}

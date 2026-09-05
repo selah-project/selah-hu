@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Kelj fel, Jahve, elébe állj, kényszerítsd térdre; szabadítsd ki nefesemet a gonosztól — a te kardoddal",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "elébe állj"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "az ő orcáját"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "kényszerítsd térdre"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "szabadítsd ki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesemet"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "a gonosztól"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "a te kardoddal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:51.950675170Z",
+  "model": "glm-5.3"
+}

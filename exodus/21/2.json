@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Ha héber szolgát veszel, hat éven át szolgál, és a hetediken ingyen megy ki szabadon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "veszel"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "szolgát"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "héber"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "éven át"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "szolgál"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "és a hetediken"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "megy ki"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "szabadon"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ingyen"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:41.850718675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Játsz kezeségért szolgád javára, a gőgösek ne szipolykodjanak ellenem!",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Játsz kezeségért"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgád"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "javára"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "sipolykodjanak ellenem"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "a gőgösek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:34.102004815Z",
+  "model": "glm-5.3"
+}

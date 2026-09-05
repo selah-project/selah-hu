@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 114,
+  "translation": "Izrael kimenetelekor Micrajimból (Egyiptomból), Jaakov (Jákob) háza idegen nyelvű nép közül —",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "kimenelekor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nép közül"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "idegen nyelvű"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:33.016638870Z",
+  "model": "glm-5.3"
+}

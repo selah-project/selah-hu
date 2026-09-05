@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Minden beszédre is, amelyet mondanak, ne add a szívedet, hogy ne halljad, mikor szolgád ⟨את⟩ átkoz téged.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden…re"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "beszédet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mondanak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "add"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "szívedet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "halljad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgád"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgád"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "átkoz téged"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:18.020107524Z",
+  "model": "glm-5.3"
+}

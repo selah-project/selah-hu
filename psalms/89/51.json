@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Emlékezzél, Adonáj, szolgáid gyalázatára; hordozom keblemben mind a hatalmas népek ⟨gyalázatát⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezzél"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "gyalázatát"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáid"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "hordozom"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "keblemben"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hatalmas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "népek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:28.466035963Z",
+  "model": "glm-5.3"
+}

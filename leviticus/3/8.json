@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És fektesse ⟨את⟩ a kezét az ő áldozata fejére, és vágja le ⟨את⟩ azt a gyülekezet sátra előtt; és hintsék Ahárón fiai ⟨את⟩ a vérét az oltárra köröskörül.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "És fektesse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejére"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "az ő áldozata"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "és vágja le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a gyülekezet (találkozás)"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "és hintsék"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vérét"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "a vérét"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:38.946899741Z",
+  "model": "glm-5.3"
+}

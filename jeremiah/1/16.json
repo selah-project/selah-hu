@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És kimondom ítéleteimet ⟨את⟩ őket illetően minden gonoszságukért, hogy elhagytak engem, és más isteneknek füstöltek, és kezeik munkáinak borultak.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "És kimondom"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ítéleteimet"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őt\/őket — Jahve ítéleteinek tárgya"
+    },
+    {
+      "surface": "על",
+      "gloss": "iletően"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "gonoszságukért"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "elhagytak engem"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "és füstöltek"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "isteneknek"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "más"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "és borultak"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "munkáinak"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "kezeik"
+    }
+  ],
+  "timestamp": "2026-09-04T20:31:39.100306929Z",
+  "model": "glm-5.3"
+}

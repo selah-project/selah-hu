@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Én Jahve, ez ⟨a⟩ nevem, és a dicsőségemet másnak nem adom, és a dicséretemet faragott képeknek ⟨sem⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nevem"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "és a dicsőségemet"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "másnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adom"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "és a dicséretemet"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "faragott képeknek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:09.964564660Z",
+  "model": "glm-5.3"
+}

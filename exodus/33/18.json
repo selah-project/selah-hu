@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És monda ⟨ő⟩: „Mutasd meg kérlek nékem ⟨את⟩ a te dicsőségedet!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Mutasd meg nékem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te dicsőségedet"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "a te dicsőségedet"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:28.824652947Z",
+  "model": "glm-5.3"
+}

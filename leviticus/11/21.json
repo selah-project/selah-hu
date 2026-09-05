@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Csak ⟨את⟩ ezt ehetitek a szárnyas csúszó-mászók közül, amely négy lábon jár: amelynek ugrólábai vannak a lába fölött, hogy azokkal ugorjék a földön.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehetitek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "a ... közül"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "csúszó-mászó"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "szárnyas"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "amely jár"
+    },
+    {
+      "surface": "על",
+      "gloss": "lábon"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelynek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨neki van⟩"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "ugrólábai"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "a lába"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "ugorjék"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "azokkal"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ... -on"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:19.281180387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "Mérgük olyan, mint a kígyó mérge: mint a süket vipera, amely betapasztja a fülét,",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "mérgük"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "mint"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "méreg"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "kígyó"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "vipera"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "süket"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "betapasztja"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "a fülét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:39.838742687Z",
+  "model": "glm-5.3"
+}

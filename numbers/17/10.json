@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "„Emeljetek fel magatokat ebből a gyülekezetből, és eltörlöm ⟨את⟩ őket egy szempillantás alatt.” És arcukra hullottak.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Emeljetek fel"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ebből"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gyülekezetből"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "és eltörlöm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "egy szempillantás alatt"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "és hullottak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "arcukra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:37:26.958631934Z",
+  "model": "glm-5.3"
+}

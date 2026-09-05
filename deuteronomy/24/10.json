@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Ha adósoddé teszed felebarátodat bármilyen kölcsönnel, ne menj be a házába, hogy a zálogát elvedd.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "adósoddé teszed"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "felebarátodat"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "kölcsönnel"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "bármilyen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "menj be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oda"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "a házába"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "hogy a"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "zálogát elvedd"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:18.096149831Z",
+  "model": "glm-5.3"
+}

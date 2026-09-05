@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Gilad az enyém, az enyém Menashe (Manassé), Efrajim fejem erőssége, Jehúda (Júda) a megszabóm.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "az enyém"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "az enyém"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "erőssége"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "a megszabóm"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:00.560874001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És bejárták Jehudát, és összegyűjtötték ⟨את⟩ a levitákat Jehuda minden városából és Izrael atyáinak fejeit, és bementek Jeruzsálembe.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "és bejárták"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Jehudát"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "és összegyűjtötték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a levitákat"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a levitákat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városából"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "és fejeit"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "az atyáknak"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és bementek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-be"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzsálem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:17:57.320707894Z",
+  "model": "glm-5.3"
+}

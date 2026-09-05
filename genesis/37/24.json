@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És felvették őt, és bedobták ⟨את⟩ a verembe; a verem pedig üres ⟨volt⟩, nem ⟨volt⟩ benne víz.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "És felvették őt"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "és bedobták"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "a verembe"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "a verembe"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "a verem pedig"
+    },
+    {
+      "surface": "רק",
+      "gloss": "üres"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem ⟨volt⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    }
+  ],
+  "timestamp": "2026-09-04T16:38:17.971175102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Szemeim elhalnak a nyomorúságtól, hozzád kiáltottam, Jahve, minden nap, kiterjesztettem feléd tenyeremet.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "szemeim"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "elhalnak"
+    },
+    {
+      "surface": "מני",
+      "gloss": "a nyomorúságtól"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorúság"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "kiáltottam hozzád"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "kiterjesztettem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "feléd"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tenyeremet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:09.388465310Z",
+  "model": "glm-5.3"
+}

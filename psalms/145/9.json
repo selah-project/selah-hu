@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Jó ⟨a⟩ Jahve mindenhez, és irgalmai minden tette fölött vannak.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Jó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindenhez"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "és irgalmai"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "tette"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:53.169190881Z",
+  "model": "glm-5.3"
+}

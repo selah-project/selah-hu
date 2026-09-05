@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És szólt Elohim Noáchnak (Noénak) és az ő fiaival ⟨את⟩ vele, mondván:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑hoz (Noáchoz)"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noáchnak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ‑hoz"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiaival"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:35.071426863Z",
+  "model": "glm-5.3"
+}

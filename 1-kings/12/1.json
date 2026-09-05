@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És elment Rechavám (Roboám) Sekembe (Sikémbe), mert Sekembe jött az egész Izrael, hogy őt ⟨את⟩ királyává tegye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavám (Roboám)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekembe (Sikémbe)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sekembe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "hogy királyává tegye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:36.249113202Z",
+  "model": "glm-5.3"
+}

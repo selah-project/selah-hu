@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 86,
+  "translation": "Őrizd meg lelkemet, mert hűséges vagyok én; mentsd meg szolgádat, te, Elohimem, ⟨aki⟩ benned bízik.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Őrizd meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hűséges"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "mentsd meg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgádat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "bízik"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "benned"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:31.633244606Z",
+  "model": "glm-5.3"
+}

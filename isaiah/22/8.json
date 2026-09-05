@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És leleplezték ⟨את⟩ Jehúda takaróját, és te ama napon a fegyverekre néztél, az Erdő házában ⟨levőkre⟩.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "És leleplezték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúda takaróját"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "takaróját"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "és te néztél"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "a fegyverekre"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "היער",
+      "gloss": "az Erdő"
+    }
+  ],
+  "timestamp": "2026-09-04T20:14:51.192923686Z",
+  "model": "glm-5.3"
+}

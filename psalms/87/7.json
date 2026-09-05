@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 87,
+  "translation": "És énekesek, akárcsak a táncolók ⟨mondják⟩: „minden forrásom benned van.”",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "És énekesek"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "akárcsak a táncolók"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "forrásom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:20.687753289Z",
+  "model": "glm-5.3"
+}

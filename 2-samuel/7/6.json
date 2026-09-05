@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Mert nem laktam házban attól a naptól fogva, hogy felhoztam ⟨את⟩ Izrael fiait Micrajimból, egészen e napig, hanem jöttem-mentem sátorban és lakossátorban.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "laktam"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házban"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "attól a naptól"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "felhoztam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micrajimból"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napig (a nap)"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואההיה",
+      "gloss": "hanem voltam"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "járva-kélve"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sátorban"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "és lakossátorban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:30:48.672706381Z",
+  "model": "glm-5.3"
+}

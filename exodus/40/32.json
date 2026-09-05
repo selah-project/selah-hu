@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Amikor bementek a gyülekezés sátrába, és amikor az oltárhoz közeledtek, mosakodtak, ahogyan parancsolta Jahve ⟨את⟩ Moshénak.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "amikor bementek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑ba"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "gyülekezés"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "és amikor közeledtek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑hoz"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárhoz"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "mosakodtak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshénak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:30.426822873Z",
+  "model": "glm-5.3"
+}

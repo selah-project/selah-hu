@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "aki mannával táplált téged a pusztában — amelyet nem ismertek atyáid —, hogy megalázzon téged, és hogy próbára tegyen téged, hogy jót tegyen veled a te jövődben",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "aki táplált téged"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mannával"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ismertek"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "atyáid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "megalázzon téged"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "és hogy"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "próbára tegyen téged"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "jót tegyen veled"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "a te jövődben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:10.902782713Z",
+  "model": "glm-5.3"
+}

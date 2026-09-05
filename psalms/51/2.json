@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Amikor eléje jött Nátán (Nátán) próféta, miután bement Bat-Sábához (Betsábé).",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Amikor jött"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "eléje"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátán"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "próféta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "miután"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sábához"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:31.071757247Z",
+  "model": "glm-5.3"
+}

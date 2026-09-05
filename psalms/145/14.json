@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Jahve megtámogat ⟨a⟩ mindent, aki elesik, és felegyenesíti ⟨a⟩ mindent, aki görnyedt.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "megtámogat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "elesőt"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "és felegyenesíti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "görnyedtet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:04.666141343Z",
+  "model": "glm-5.3"
+}

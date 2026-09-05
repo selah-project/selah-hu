@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Mindezek ellenére még vétkeztek, és nem hittek csodáiban.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ellenére"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "vétkeztek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "hittek"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "csodáiban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:59.848276189Z",
+  "model": "glm-5.3"
+}

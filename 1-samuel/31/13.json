@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És vették ⟨את⟩ csontjaikat, és eltemették őket a hársegyfa alatt Javesben (Jábes), és böjtöltek hét napot.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "és vették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "csontjaikat"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "csontjaikat"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "a hársegyfa"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Javesben (Jábes)"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "és böjtöltek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napot"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:01.417680125Z",
+  "model": "glm-5.3"
+}

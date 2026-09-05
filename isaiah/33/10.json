@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "Most felkelek — mondja Jahve —, most felemelkedem, most felmagasztaltatom.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "felkelek"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "felemelkedem"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "felmagasztaltatom"
+    }
+  ],
+  "timestamp": "2026-09-04T20:18:33.987264466Z",
+  "model": "glm-5.3"
+}

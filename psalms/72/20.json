@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Vége a imádságoknak, Dávidéi, Jisáj fiáéi.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Vége"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "a imádságoknak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisáj"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:51.811211784Z",
+  "model": "glm-5.3"
+}

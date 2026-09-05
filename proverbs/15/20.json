@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Bölcs fiú örvendezteti az apát, és a balga ember megveti az anyját.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Fiú"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvendezteti"
+    },
+    {
+      "surface": "אב",
+      "gloss": "az apát"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "és a balga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "megveti"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az anyját"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:55.724018556Z",
+  "model": "glm-5.3"
+}

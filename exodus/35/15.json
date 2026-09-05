@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "és ⟨את⟩ a füstölőáldozat oltárát és ⟨את⟩ rúdjait, és ⟨את⟩ a felkenés olaját, és ⟨את⟩ a fűszerek füstölőáldozatát, és ⟨את⟩ a lakósátor bejáratának függönyét a bejáratnál;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "oltárát"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárát"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "a füstölőáldozat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "rúdjait"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "rúdjait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "olaját"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olaját"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a felkenés"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "füstölőáldozatát"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "füstölőáldozatát"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "a fűszerek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "függönyét"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "függönyét"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "a bejáratnak"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "a bejáratnál"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a lakósátor"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:30.915309134Z",
+  "model": "glm-5.3"
+}

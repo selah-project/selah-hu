@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondta Moshe: Elfordulok ⟨kérlek⟩, és meglátom ⟨את⟩ a nagy látványt, miért nem ég el a csipkebokor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Elfordulok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kérlek⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "és meglátom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nagy látványt"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "a látványt"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miért"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ég el"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "a csipkebokor"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:33.865079082Z",
+  "model": "glm-5.3"
+}

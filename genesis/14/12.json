@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És vitték ⟨את⟩ Lótot, Avram testvérének a fiát, és ⟨את⟩ az ő vagyonát — és elmentek; ő pedig Szodomában lakott.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "és vitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lótot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lótot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő vagyonát"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "vagyonát"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvérének"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ő pedig"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lakott"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Szodomában"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:29.094604429Z",
+  "model": "glm-5.3"
+}

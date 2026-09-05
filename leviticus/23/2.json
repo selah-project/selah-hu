@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Szólj Izráél fiaihoz, és mondd nekik: Jahve kijelölt idejei — amelyeket gyülekezőképpen hívtok ki, szent összehívások — ezek az ő kijelölt idejei: ⟨az enyém⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Szólj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaihoz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "kijelölt idejei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "k hívtok"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kijelölt idejei"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "szent összehívások"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨azok⟩"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "kijelölt idejeim"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:00.822449217Z",
+  "model": "glm-5.3"
+}

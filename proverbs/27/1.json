@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Ne dicsekedjél a holnap napján, mert nem tudod, mit szül ⟨a⟩ nap.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "dicsekedjél"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "a holnap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "szül"
+    },
+    {
+      "surface": "יום",
+      "gloss": "⟨a⟩ nap"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:35.902857842Z",
+  "model": "glm-5.3"
+}

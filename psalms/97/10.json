@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "Ti, akik szeretitek Jahvét, gyűlöljétek a rosszat! ⟨Ő⟩ őrzi hívei lelkét, a gonoszok kezéből menti ki őket.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "akik szeretitek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "gyűlöljétek"
+    },
+    {
+      "surface": "רע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "⟨Ő⟩ őrzi"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "lelkét"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hívei"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "menti ki őket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:29.008787939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Visszatérnek a gonoszok a Seolba, minden nemzetek, akik megfeledkeznek Elohimról.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Visszatérnek"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "a Seolba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nemzetek"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "akik megfeledkeznek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimról"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:48.369013450Z",
+  "model": "glm-5.3"
+}

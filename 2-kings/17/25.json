@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És történt lakásuk kezdetén ott, hogy nem félték ⟨את⟩ Jahvét, és Jahve küldött közöttük ⟨את⟩ az oroszlánokat, és ezek öldöstek közöttük.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "kezdetén"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "lakásuknak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "félték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és küldött"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "közöttük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oroszlánokat"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "az oroszlánokat"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "ölőkké"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "köztük"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:13.152794598Z",
+  "model": "glm-5.3"
+}

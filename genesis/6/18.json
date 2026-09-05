@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És felállok szövetségem ⟨את⟩ veled ⟨את⟩; és bemész a bárkába: te, fiaid és feleséged és fiaid feleségei veled ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "És felállok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségem"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségem"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "veled ⟨את⟩"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "és bemész"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ba"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "a bárkába"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "fiaid"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "és feleséged"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "feleségei"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "fiaid"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "veled ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:25.472507385Z",
+  "model": "glm-5.3"
+}

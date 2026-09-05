@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Szájuk van, de nem beszélnek; szemük van, de nem látnak.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "szájuk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "van"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "beszélnek"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "szemük"
+    },
+    {
+      "surface": "להם",
+      "gloss": "van"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "látnak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:19.451305111Z",
+  "model": "glm-5.3"
+}

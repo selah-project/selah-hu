@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Vitává tettél minket szomszédjainknak, és ellenségeink gúnyolódnak rajtunk.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "tettél minket"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Vitává"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "szomszédjainknak"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "és ellenségeink"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "gúnyolódnak"
+    },
+    {
+      "surface": "למו",
+      "gloss": "rajtunk ⟨maguk közt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:22.122091547Z",
+  "model": "glm-5.3"
+}

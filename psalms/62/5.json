@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 62,
+  "translation": "Csak fenségéből tanácskoznak, hogy letaszítsák; a hazugságban lelik kedvüket, szájukkal áldják, és belsőjükben átkozzák. Szela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "fenségéből"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "tanácskoznak"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "hogy letaszítsák"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "lelik kedvüket"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "hazugságban"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "szájukkal"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "áldják"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "és belsőjükben"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "átkozzák"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela."
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:01.975207315Z",
+  "model": "glm-5.3"
+}

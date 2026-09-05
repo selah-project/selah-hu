@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 66,
+  "translation": "Áldjátok, népek, a mi Elohimunkat, és hangzóvá tegyétek ⟨az⟩ ő dicséretének hangját.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Áldjátok"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunkat"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "és hangzóvá tegyétek"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "az ő dicséretének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:21.090187766Z",
+  "model": "glm-5.3"
+}

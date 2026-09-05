@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 19:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Mielőtt lefeküdtek, a város férfiai — Szedom férfiai — körülvették a házat, fiatalól öregig, az egész nép minden végéről ⟨mind⟩.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "lefeküdtek"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "a férfiai"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városnak"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiai"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Szedomnak"
+    },
+    {
+      "surface": "נסבו",
+      "gloss": "körülvették"
+    },
+    {
+      "surface": "על",
+      "gloss": "körül"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "fiatalól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "öreg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "minden végéről"
+    }
+  ],
+  "timestamp": "2026-09-04T16:28:19.493503851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És történt, mikor meghallotta a király ⟨את⟩ az asszony szavait, hogy megszaggatta ⟨את⟩ ruháit — ő éppen a falon ment át —, és látta ⟨a⟩ nép, és íme, a zsák ⟨volt⟩ a testén belül.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "mikor meghallotta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asszony szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "megszaggatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ment át"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezen"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "a falon"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "השק",
+      "gloss": "a zsák"
+    },
+    {
+      "surface": "על",
+      "gloss": "volt"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "a testén"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "belül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:56.701741536Z",
+  "model": "glm-5.3"
+}

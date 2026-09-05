@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Mert ezer esztendő a szemeidben olyan, mint a tegnap napja, amikor elmúlt, és mint egy őrváltás éjjel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendő"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "a szemeidben"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "mint a nap"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "a tegnap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "elmúlt"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "és egy őrváltás"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "éjjel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:49.668748620Z",
+  "model": "glm-5.3"
+}

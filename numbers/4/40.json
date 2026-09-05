@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "és lettek a megszámláltjaik családjaik szerint, atyáik háza szerint: kétezer-hatszáz-harminc.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "és lettek"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "a megszámláltjaik"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "családjaik szerint"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "háza szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "kétezer"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és hat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:33.697973696Z",
+  "model": "glm-5.3"
+}

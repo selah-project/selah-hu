@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És vágja le ⟨את⟩ a marhaborjút Jahve színe előtt, és Aharon (Áron) fiai, a papok, őrizetlenül: előhozzák ⟨את⟩ a vért, és meghintik ⟨את⟩ a vért az oltárra köröskörül, amely a gyülekezet sátorának bejáratánál ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "és vágja le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a marhaborjút"
+    },
+    {
+      "surface": "בן",
+      "gloss": "a borjú"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a marha(-ju)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "és előhozzák"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Áron)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vér"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "és meghintik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vért"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vér"
+    },
+    {
+      "surface": "על",
+      "gloss": "arra"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratánál"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátorának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a gyülekezet"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:07.328274331Z",
+  "model": "glm-5.3"
+}

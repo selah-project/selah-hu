@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Mondta szívében: »Nem tántorodom, nemzedékről nemzedékre, hogy nem leszek bajban.«",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mondta"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "szívében"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tántorodom"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nemzedékre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "leszek bajban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:28.256268983Z",
+  "model": "glm-5.3"
+}

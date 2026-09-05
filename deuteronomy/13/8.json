@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "a körülötted lévő népek istenei közül — a hozzád közel lévők vagy a tőled távol lévők, a föld egyik szélétől a föld másik széléig —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "istenei közül"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "körülötted"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "közel lévők"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "távol lévők"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "tőled"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "szélétől"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és eddig"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "széléig"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:29.411630129Z",
+  "model": "glm-5.3"
+}

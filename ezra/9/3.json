@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És mikor meghallottam ⟨את⟩ e dolgot, megszaggattam ⟨את⟩ ruhámat és köntösömet, és kitéptem fejem hajából és szakállamból, és leültem döbbenten.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "És mikor meghallottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "e"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "megszaggattam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhámat"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ruhámat"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "és köntösömet"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "és kitéptem"
+    },
+    {
+      "surface": "משער",
+      "gloss": "hajából"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fejem"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "és szakállamból"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "és leültem"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "döbbenten"
+    }
+  ],
+  "timestamp": "2026-09-04T22:52:06.484102076Z",
+  "model": "glm-5.3"
+}

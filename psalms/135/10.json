@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "aki megverte a sok népet, és megölte a hatalmas királyokat,",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "aki megverte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népet"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "és megölte"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "királyokat"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "hatalmas"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:10.745509129Z",
+  "model": "glm-5.3"
+}

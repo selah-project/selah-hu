@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Tiéd ⟨az⟩ ég, sőt tiéd ⟨a⟩ föld; a világ és teljese te alapítottad.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tiéd"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tiéd"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "a világ"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "és teljese"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "alapítottad"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:48.887347128Z",
+  "model": "glm-5.3"
+}

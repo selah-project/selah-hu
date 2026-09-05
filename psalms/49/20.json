@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Eljut ősei nemzedékéig, örökre nem látják ⟨a⟩ világosságot.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Eljut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nemzedékéig"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ősei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "látják"
+    },
+    {
+      "surface": "אור",
+      "gloss": "⟨a⟩ világosságot"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:59.610263573Z",
+  "model": "glm-5.3"
+}

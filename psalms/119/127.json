@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Azért szeretem a te parancsolataidat — az aranynál, sőt a színtiszta aranynál is.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "szeretem"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "a te parancsolataidat"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "az aranynál"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "sőt a színtiszta aranynál"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:17.059430313Z",
+  "model": "glm-5.3"
+}

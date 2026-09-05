@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És felvette a nép ⟨את⟩ tésztáját, mielőtt megkelt, gyúróteknőik ⟨voltak⟩ bekötve ruháikban a vállaikon.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "És felvette"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tésztáját"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "tésztáját"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "megkelt"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "gyúróteknőik"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "bekötve"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "ruháikban"
+    },
+    {
+      "surface": "על",
+      "gloss": "a"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "vállaikon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:24.236501405Z",
+  "model": "glm-5.3"
+}

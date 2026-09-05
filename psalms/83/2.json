@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Elohim, ne legyen csended, ne hallgass, és ne nyugodj, El!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "legyen csended"
+    },
+    {
+      "surface": "לך",
+      "gloss": "(te)néked"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "hallgass"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "nyugodj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:35.288129719Z",
+  "model": "glm-5.3"
+}

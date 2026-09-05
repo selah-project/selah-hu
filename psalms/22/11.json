@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Rádre vetettek engem a méhtől; anyám méhétől te vagy én El-em.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Rádre"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "vetettek engem"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "a méhtől"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "méhétől"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anyám"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "én El-em"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:41.167527522Z",
+  "model": "glm-5.3"
+}

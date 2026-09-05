@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ⟨את⟩ Ahárónt és ⟨את⟩ az ő fiait számba véndet el, és őrizzék ⟨את⟩ papságukat; az idegen, aki közelít, ölettessék meg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Ahárónt"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárónt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "számba véndet el"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "és őrizzék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papságukat"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "papságukat"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "és az idegen"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "aki közelít"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ölettessék meg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:37.833460470Z",
+  "model": "glm-5.3"
+}

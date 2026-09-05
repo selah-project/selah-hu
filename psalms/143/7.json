@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 143,
+  "translation": "Siess, válaszolj nekem, Jahve, elfogyott szellemem; ne rejtsd el orcádat előlem, hogy ne hasonlítsak a verembe leszállókhoz!",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Siess"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "válaszolj nekem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "elfogyott"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "szellemem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "rejtsd el"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "orcádat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "előlem"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "hogy ne hasonlítsak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…hoz"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "a leszállók"
+    },
+    {
+      "surface": "בור",
+      "gloss": "verembe"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:46.324280579Z",
+  "model": "glm-5.3"
+}

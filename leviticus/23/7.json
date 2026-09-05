@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Az első napon szent gyülekezet lesz nektek; minden szolgamunkát ne végezzetek.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "első"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "munkát"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "szolgálati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "végezzetek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:48.161565907Z",
+  "model": "glm-5.3"
+}

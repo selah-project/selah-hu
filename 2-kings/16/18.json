@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És ⟨את⟩ a szombati csarnokot, amelyet a házban építettek, és ⟨את⟩ a király külső bejáratát elmozdította a Jahve házától, az Asur királya miatt.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a szombati csarnokot"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "a szombati"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "csarnokot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "építettek"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király külső bejáratát"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "a bejáratát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "külső"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "elmozdította"
+    },
+    {
+      "surface": "בית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asurnak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:02.032108801Z",
+  "model": "glm-5.3"
+}

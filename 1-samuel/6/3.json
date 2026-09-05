@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És mondták: ha elkülditek ⟨את⟩ Izrael Elohimjának a ládáját, ne küldjétek el ⟨את⟩ üresen, mert visszaadva visszaadjátok neki a vétek-áldozatot; akkor meggyógyultok, és tudtotokra lesz, miért nem fordul el a keze tőletek.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondták"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "elkülditek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael Elohimjának a ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "a ládát"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimjának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "küldjétek el"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "üresen (a ládát)"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "üresen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "השב",
+      "gloss": "visszaadva"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "adjátok vissza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "vétek-áldozatot"
+    },
+    {
+      "surface": "אז",
+      "gloss": "akkor"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "meggyógyultok"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "és tudtotkra lesz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "fordul el"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "keze"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "tőletek"
+    }
+  ],
+  "timestamp": "2026-09-05T00:27:40.294568907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "De a nép megtagadta, hogy hallgasson Semuél (Sámuel) szavára, és mondta: „Nem, hanem király legyen fölöttünk!",
+  "tokens": [
+    {
+      "surface": "וימאנו",
+      "gloss": "megtagadta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hallgasson"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Semuél"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨hanem⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fölöttünk"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:12.219742988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És odateszem ⟨את⟩ a magodat, mint a föld porát; ha meg tudná számolni egy ember ⟨את⟩ a föld porát, a magod is megszámláltatik.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "És odateszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a magodat"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "a magodat"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "mint a porát"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amiért"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "meg tudná"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy ember"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "számolni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a föld porát"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "a porát"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "a magod"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "megszámláltatik"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:12.113963689Z",
+  "model": "glm-5.3"
+}

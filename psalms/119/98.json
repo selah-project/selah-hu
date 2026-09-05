@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Ellenfeleitől okosabbá tesz engem parancsolatod, mert örökre ⟨ő⟩ az enyém.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "Ellenfeleitől"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "okosabbá tesz engem"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "parancsolatod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "az enyém"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:15.128706142Z",
+  "model": "glm-5.3"
+}

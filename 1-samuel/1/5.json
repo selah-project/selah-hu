@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Channának pedig adott egy adagot — orrlyuknyi kettőst —, mert Channát ⟨את⟩ szerette, és Jahve bezárta a méhét.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Channának"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "egy adagot"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨egy⟩"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "orrlyuknyi kettőst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channát"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channát"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szerette"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "és Jahve"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "bezárta"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "a méhét"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:24.923564386Z",
+  "model": "glm-5.3"
+}

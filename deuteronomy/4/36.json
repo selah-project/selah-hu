@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Az égből meghallatta veled ⟨את⟩ hangját, hogy fegyelmezzen téged, és a földön megmutatta neked ⟨את⟩ nagy tűzét, és szavait hallottad a tűz közepéből.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Az ég"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "meghallatta veled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hangját"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "hogy fegyelmezzen téged"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és -on"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "megmutatta neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagy tűzét"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "tűzét"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "és szavait"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hallottad"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "közepéből"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:52:35.451593525Z",
+  "model": "glm-5.3"
+}

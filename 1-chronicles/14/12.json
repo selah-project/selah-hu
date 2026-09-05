@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És ott hagyták ⟨את⟩ isteneiket, és Dávid szólt, és elégettették azokkat tűzben.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "És ott hagyták"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isteneiket"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "isteneiket"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "és elégettették"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:58:16.937182641Z",
+  "model": "glm-5.3"
+}

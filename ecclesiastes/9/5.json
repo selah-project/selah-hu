@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Mert az élők tudják, hogy meghalnak, de a halottak nem tudnak semmit, és nincs többé bérük, mert emlékükről megfeledkeztek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az élők"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "tudják"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "hogy meghalnak"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "de a halottak"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "tudnak"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "semmit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "többé"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "bérük"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "megfeledkeztek"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "emlékükről"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:55.468034445Z",
+  "model": "glm-5.3"
+}

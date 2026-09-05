@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Bizony, csak ne legyen benned szegény, mert megáld téged Jahve a földön, amelyet Jahve, a te Elohimod, ad neked örökségül, hogy bírhasd azt.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "csak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "áldva"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "megáld téged"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "örökségül"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "hogy bírhasd azt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:34.058048412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Zengjetek Jahvénak, Cion lakójának; hirdessétek a népek között tetteit!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Zengjetek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lakójának"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "hirdessétek"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "a népek között"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "tetteit"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:24.511273593Z",
+  "model": "glm-5.3"
+}

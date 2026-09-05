@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És megüté Jahve ⟨את⟩ Paróhot nagy csapásokkal, és ⟨את⟩ az ő házát, Saráj, Avrám (Ábrahám) feleségének dolga miatt.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "és megüté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paróhot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróhot"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "csapásokkal"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő házát"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "az ő házát"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dolgának"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saráj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségének"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrám (Ábrahám)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:26.874242664Z",
+  "model": "glm-5.3"
+}

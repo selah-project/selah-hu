@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És meggyógyították ⟨את⟩ népem törését megkönnyítve, mondván: „Salom, salom!” — és nincs salom.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "És meggyógyították"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népem törését"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "törését"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "על",
+      "gloss": "megkönnyítve"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "felszínesen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "— és nincs"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    }
+  ],
+  "timestamp": "2026-09-04T20:33:24.851649786Z",
+  "model": "glm-5.3"
+}

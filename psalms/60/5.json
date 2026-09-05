@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "Láttattad népeddel a keményt, tántorogtató bort itattál velünk.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Láttattad"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népeddel"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "a keményt"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "itattál velünk"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bort"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "tántorogtató"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:36.347770552Z",
+  "model": "glm-5.3"
+}

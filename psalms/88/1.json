@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Ének, zsoltár a Korach-fiaknak (Kóráh-fiaknak), a karmesternek, Mahalat szerint, antifonára; tanító költemény Hémán (Hémán) ezrahita részére.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ének"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "a ...-fiaknak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "a karmesternek"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "antifonára"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "tanító költemény"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "Hémán"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ezrahita"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:22.883902320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "Ne haragudj igen nagyon, Jahve, és ne emlékezz örökre a bűnre! Íme, nézz meg, kérlek: a te néped mindannyian.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "haragudj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "igen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "emlékezz"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bűnre"
+    },
+    {
+      "surface": "הן",
+      "gloss": "íme"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "nézz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "a te néped"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "mindannyian"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:43.169361376Z",
+  "model": "glm-5.3"
+}

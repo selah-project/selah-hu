@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ha meghatározottak ⟨את⟩ napjai, hónapjainak száma nálad, határt szabtál neki, és nem lépi túl.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "meghatározottak"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "napjai"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "száma"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "hónapjainak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nálad",
+      "marks": "hónapjainak száma"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "határát"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "szabtad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "lépje túl"
+    }
+  ],
+  "timestamp": "2026-09-04T22:21:04.640539565Z",
+  "model": "glm-5.3"
+}

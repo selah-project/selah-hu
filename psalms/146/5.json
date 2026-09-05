@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 146,
+  "translation": "Boldog, aki segítséget ⟨kap⟩ Jaakob Elohimjától, akinek reménysége Jahvéban, az ő Elohimjában ⟨van⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "segítségében"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "reménysége"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "az ő Elohimja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:44.308590336Z",
+  "model": "glm-5.3"
+}

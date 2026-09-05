@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "és Oved nemzette ⟨את⟩ Isájt, és Isáj nemzette ⟨את⟩ Dávidot",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "és Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isájt"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isájt"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "és Isáj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:10.328516251Z",
+  "model": "glm-5.3"
+}

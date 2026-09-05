@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Mert elrejt engem szukkjában a gonosz napon, elrejt engem sátrának rejtekében, sziklára emel fel engem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "elrejt engem"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "szukkjában"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "elrejt engem"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "rejtekében"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sátrának"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sziklára"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "emel fel engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:28.934207687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És megparancsolta ⟨את⟩ ⟨őket⟩, mondván: Így szóljatok az én uramnak, Ézsauhoz: Így szól a te szolgád, Jaakob (Jákob): Lábánnal vendégeskedtem, és időztem mind mostanáig.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "és megparancsolta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mondván"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "szóljatok"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "az én uramnak"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Ézsauhoz"
+    },
+    {
+      "surface": "כה",
+      "gloss": "így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "a te szolgád"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vele"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lábán"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "vendégeskedtem"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "és időztem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mind"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "mostanáig"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:00.668502692Z",
+  "model": "glm-5.3"
+}

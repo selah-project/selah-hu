@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Íme, megfeddem értetek ⟨את⟩ a magot, és hintek trágyát az arcotokra — ünnepségeitek trágyáját —, és ⟨את⟩ titeket is elviszi magával.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "גער",
+      "gloss": "megfeddem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "értetek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a magot"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "a magot"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "és hintek"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "trágyát"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "arcotokra"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "trágyáját"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "ünnepségeitek"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "és elviszi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "magával"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "magával"
+    }
+  ],
+  "timestamp": "2026-09-04T21:37:47.333400195Z",
+  "model": "glm-5.3"
+}

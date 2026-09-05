@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És legelni fognak a szegények elsőszülöttei, és a nélkülözők biztonságban hevernek majd; de én éhínségben pusztítom el gyökeredet, és maradékodat megöli.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "És legelni fognak"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "elsőszülöttei"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "a szegények"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "és a nélkülözők"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "biztonságban"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "hevernek majd"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "de én pusztítom el"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "éhínségben"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "gyökeredet"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "és maradékodat"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "megöli"
+    }
+  ],
+  "timestamp": "2026-09-04T20:13:14.554163830Z",
+  "model": "glm-5.3"
+}

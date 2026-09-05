@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Jahve Lelke szólt bennem, és az ő beszéde ⟨volt⟩ az én nyelvemen.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Lelke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "és az ő beszéde"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨volt⟩"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "az én nyelvemen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:35:13.518648106Z",
+  "model": "glm-5.3"
+}

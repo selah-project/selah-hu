@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És ha egy férfi eladja ⟨את⟩ a leányát szolgálólánynak, ne menjen ki ő, ahogyan a szolga férfiak kimennek.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "eladja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a leányát"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "a leányát"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "szolgálólánynak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "menjen ki"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "ahogyan kimennek"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "a szolga férfiak"
+    }
+  ],
+  "timestamp": "2026-09-04T23:25:59.060434336Z",
+  "model": "glm-5.3"
+}

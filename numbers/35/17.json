@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És ha kézben ⟨fogott⟩ kővel ütötte őt — amelytől meghalhat —, és meghalt: gyilkos ⟨az⟩; halállal hal a gyilkos.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kővel"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kézben ⟨fogott⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelytől"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "meghalhat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "attól"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ütötte őt"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "gyilkos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hal"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "a gyilkos"
+    }
+  ],
+  "timestamp": "2026-09-04T17:47:47.971478802Z",
+  "model": "glm-5.3"
+}

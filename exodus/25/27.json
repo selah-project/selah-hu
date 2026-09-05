@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "A szegéllyel szemben legyenek a gyűrűk, ⟨mint⟩ foglalatok a rudaknak, hogy ⟨את⟩ az asztalt hordozzák velük.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "A szegéllyel szemben"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "szegéllyel"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "a gyűrűk"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "foglalatok"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "a rudaknak"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hogy hordozzák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az asztalt"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "az asztalt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:54:29.462839021Z",
+  "model": "glm-5.3"
+}

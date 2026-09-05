@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "és ⟨את⟩ ruhámat gyászvászonná tettem, és példabeszéddé lettem nekik",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "és tettem"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "ruhámat"
+    },
+    {
+      "surface": "שק",
+      "gloss": "gyászvászon"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "és lettem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "példabeszéddé"
+    }
+  ],
+  "timestamp": "2026-09-05T00:47:48.967616723Z",
+  "model": "glm-5.3"
+}

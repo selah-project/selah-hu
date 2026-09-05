@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "és pusztává teszem ⟨את⟩ Patroszt, és tüzet adok Coanba, és ítéleteket végzek Nóban.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "és pusztává teszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patroszt"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patrosz(t)"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "és adok"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tüzet"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Coanba"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "és végzek"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ítéleteket"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "Nóban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:10:27.185865571Z",
+  "model": "glm-5.3"
+}

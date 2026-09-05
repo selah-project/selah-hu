@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 5:15",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ha egy nefes hűtlenül jár el, és vétkezik tévedésből Jahve szentségei ellen, akkor vigye ⟨את⟩ az ő áldozatát Jahvénak: hibátlan kost a juhból, a te becslésed szerint ezüst siklusokban, a szentély siklusa szerint, vétekáldozatul.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefes (egy személy)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תמעל",
+      "gloss": "hűtlenül eljár"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hűtlenséget"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "és vétkezik"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "tévedésből"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "szentségei ellen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "akkor vigye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő áldozatát"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "az ő áldozatát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kost"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hibátlan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a juhból"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "a te becslésed szerint"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "siklusokban"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "a siklusa szerint"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentély"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "vétekáldozatul"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:27.457357684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És Jóáb követeket küldött Dávidhoz (Dávid), és mondta: „Harcoltam Rabbá-val, sőt elfoglaltam ⟨את⟩ a vizek városát.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és küldött"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóáb"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "követeket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "harcoltam"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "Rabbá ellen"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "elfoglaltam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vizek városát"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:13.055425502Z",
+  "model": "glm-5.3"
+}

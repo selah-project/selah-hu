@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És metéljétek körül ⟨את⟩ szívetek előbőrét, és nyakatokat ne keményítsétek többé.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "És metéljétek körül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szívetek előbőrét"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "előbőrét"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "szívetek"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "és nyakatokat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "keményítsétek"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "továbbá"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:33.661119770Z",
+  "model": "glm-5.3"
+}

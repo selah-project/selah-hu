@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És gyalázta ⟨את⟩ Jiszráelt, de leverte őt Jehonátán, Simi (Simea) fia, Dávid testvére.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "gyalázta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráelt"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "leverte őt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonátán"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Simi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvére"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    }
+  ],
+  "timestamp": "2026-09-04T19:34:08.242905904Z",
+  "model": "glm-5.3"
+}

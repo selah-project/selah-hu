@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 75,
+  "translation": "Mert Elohim ⟨az⟩ ⟨bírája⟩: ezt megalázza és azt felmagasztalja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "⟨bírája⟩ ítél"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "megalázza"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "és azt"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "felmagasztalja"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:03.206467937Z",
+  "model": "glm-5.3"
+}

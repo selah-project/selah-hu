@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És beszélt velük ⟨את⟩ a király, és nem találtatott közülük senki olyan, mint Daniel, Hananjá, Misael és Azarjá, és megálltak a király előtt.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "és beszélt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "velük"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "találtatott"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "közülük"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "mint Daniel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananjá"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Misael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "és Azarjá"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "és megálltak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:12.171641743Z",
+  "model": "glm-5.3"
+}

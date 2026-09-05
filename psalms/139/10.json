@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "még ott is a te kezed vezet engem, és jobbod fog meg engem.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "még"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vezet engem"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "és fog meg engem"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jobbod"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:53.680036802Z",
+  "model": "glm-5.3"
+}

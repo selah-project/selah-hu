@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Vétkezett Jiszráél (Izráel), és sőt áthágták ⟨את⟩ szövetségemet, amelyet megparancsoltam ⟨את⟩ nekik; és sőt vettek a heremből (az ítélet alá rendelt dologból), sőt loptak is, sőt tagadókká lettek is, és az edényeik közé tették.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "Vétkezett"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és sőt"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "áthágták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szövetségemet"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "megparancsoltam"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nekik (Jiszráél fiai)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és sőt"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vették"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ből"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "a heremből"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "loptak"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "sót"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "tagadókká lettek"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "és"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tették"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "edényeik közé"
+    }
+  ],
+  "timestamp": "2026-09-04T23:26:14.009259016Z",
+  "model": "glm-5.3"
+}

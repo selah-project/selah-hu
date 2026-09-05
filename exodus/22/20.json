@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És ⟨a⟩ jövevényt ne nyomorgasd, és ne zsákmalmold őt, mert jövevények voltatok Micrajim (Egyiptom) földjén.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "és ⟨a⟩ jövevényt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "nyomorgasd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "zsákmalmold őt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "jövevények"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "voltatok"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:23.464562304Z",
+  "model": "glm-5.3"
+}

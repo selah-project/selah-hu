@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És történt reggel, a minhá felajánlásakor, és íme, víz jött Edóm útján, és megtelte az ország ⟨את⟩ a vizet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "a felajánlásakor"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "a minhá"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "באים",
+      "gloss": "jött"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "útján"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "és megtelve"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vizet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizet"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:51.208642733Z",
+  "model": "glm-5.3"
+}

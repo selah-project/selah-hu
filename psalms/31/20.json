@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Milyen nagy a te jóságod, amelyet elrejtettél a téged félőknek, amelyet cselekedtél a benned bízókért, az emberek fiai színe előtt!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Milyen"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "a te jóságod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "elrejtettél"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "a téged félőknek"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "cselekedtél"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "a benned bízóknak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az emberek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:45.444006848Z",
+  "model": "glm-5.3"
+}

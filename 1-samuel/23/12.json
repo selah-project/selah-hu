@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És mondta Dávid: „Átadnak-e a kelái urak ⟨את⟩ engem és ⟨את⟩ az embereimet Saul kezébe?” És mondta Jahve: „Átadnak.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Átadnak-e"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "az urai"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kelának"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az embereimet"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "az embereimet"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Átadnak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:52.360983458Z",
+  "model": "glm-5.3"
+}

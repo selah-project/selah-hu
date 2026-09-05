@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Mondván: Elohim elhagyta őt; üldözzétek és fogjátok meg, mert nincs megmentő.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Mondván"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "elhagyta"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "üldözzétek"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "és fogjátok meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mentgető"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:46.767553974Z",
+  "model": "glm-5.3"
+}

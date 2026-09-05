@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És felebarátod feleségéhez ne add fekvésedet magvul, hogy tisztátalanná légy ⟨általa⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "és –hoz"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségéhez"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "felebarátod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "add"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "fekvésedet"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "magvul"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "hogy tisztátalanná légy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "általa"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:42.598279850Z",
+  "model": "glm-5.3"
+}

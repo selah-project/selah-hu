@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Azért, mert hallgatott Avraham (Ábrahám) a szavamra, és megtartotta őrzésem parancsolataimat, rendeleteimet és Tóráimat (törvényeimet).",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "azért, mert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mivel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatott"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "a szavamra"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "és megtartotta"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "őrzésemet"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parancsolataimat"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "rendeleteimet"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "és Tóráimat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:31:25.339032351Z",
+  "model": "glm-5.3"
+}

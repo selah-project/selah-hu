@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "„Tudtad ⟨את⟩ Avnert, Ner fiát, hogy megcsalásra jött hozzád, és hogy megismerje ⟨את⟩ a kimeneteledet és ⟨את⟩ a bejöveteledet, és hogy megismerje ⟨את⟩ mindazt, amit teszel.”",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Tudtad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnert"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "megcsalásra"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "és hogy megismerje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kimeneteledet"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "kimeneteledet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bejövödeled"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "bejövödeled"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "és megismerje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teszel"
+    }
+  ],
+  "timestamp": "2026-09-04T19:23:25.244611722Z",
+  "model": "glm-5.3"
+}

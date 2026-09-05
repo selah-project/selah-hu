@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És megerősödik a dél királya, és ⟨az ő⟩ fejedelmei közül ⟨egy⟩; erősebb lesz nála, és uralkodik — nagy uralom az ő uralma.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "és megerősödik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "a dél"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és ⟨közül⟩"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "fejedelmei ⟨egye⟩"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "erősebb lesz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nála (föléje)"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "és uralkodik"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "uralmat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagyat"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "az ő uralma"
+    }
+  ],
+  "timestamp": "2026-09-04T23:55:48.547662813Z",
+  "model": "glm-5.3"
+}

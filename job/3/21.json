@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "akik a halálra várnak, de ⟨az⟩ nincsen, és rejtett kincseknél is inkább ássák azt,",
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "akik a halálra várnak"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a halálra"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "de ⟨az⟩ nincsen"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ássák azt"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "mint rejtett kincseket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:57.958646603Z",
+  "model": "glm-5.3"
+}

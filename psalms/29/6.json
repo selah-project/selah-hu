@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És táncra perdítja ⟨őket⟩, mint a borjút — Libanon és Szirjon, mint a reem-fiakat.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "és táncra perdítja őket"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "a borjút"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "és Szirjon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mint"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "a reemeknek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:08.734278858Z",
+  "model": "glm-5.3"
+}

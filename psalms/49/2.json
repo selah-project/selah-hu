@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "Halljátok ezt, minden népek, füleljetek, ⟨akik⟩ a mulandó világ minden lakói ⟨vagytok⟩!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "füleljetek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "a mulandó világnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:14.728336910Z",
+  "model": "glm-5.3"
+}

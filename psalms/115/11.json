@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Jahve-félők, bízzatok Jahvéban! ⟨Ő⟩ ⟨az⟩ segítségük és pajzsuk!",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Jahve-félők"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bízzatok"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "segítségük"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "és pajzsuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ő⟩ ⟨az⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:06.253250848Z",
+  "model": "glm-5.3"
+}

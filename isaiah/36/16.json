@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 36:16",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Ne hallgassatok Chizkijáhura, mert ezt mondja Assur királya: kössetek velem ⟨את⟩ áldást, és jöjjetek ki hozzám, és egyen mindenki ⟨a⟩ szőlőjéből, és mindenki ⟨a⟩ fügéjéből, és igyék mindenki a maga kutának vizéből.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hallgassatok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Chizkijáhura"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijáhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kössetek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem",
+      "marks": "engem"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "áldást"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "és jöjjetek ki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "és egyen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "szőlőjéből"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és mindenki"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "fügéjéből"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "és igyék"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizéből"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "kútjának"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:27.353554785Z",
+  "model": "glm-5.3"
+}

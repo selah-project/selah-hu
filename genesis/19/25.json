@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És felforgatta ⟨את⟩ ezeket a városokat és ⟨את⟩ az egész környéket, és ⟨את⟩ a városok minden lakóját és a föld növényzetét.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "És felforgatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket a városokat"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ezeket a városokat"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az egész környéket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egészet"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "környéket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a városok minden lakóját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "lakóját"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "a városok"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "és a növényzetét"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T16:28:02.397812526Z",
+  "model": "glm-5.3"
+}

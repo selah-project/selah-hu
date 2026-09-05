@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És most menj, és én leszek a te száddal, és megtanítlak arra, amit mondanod kell.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "és én"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "leszek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a te szádad"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "és megtanítlak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "arra, amit"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "mondanod kell"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:20.084684237Z",
+  "model": "glm-5.3"
+}

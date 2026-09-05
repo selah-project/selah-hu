@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Amikor kivonulsz ⟨a⟩ táborba ellenségeid ellen, őrizkedj minden gonosz dologtól.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kivonulsz"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "táborba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeid"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "őrizkedj"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden…-tól"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dolog"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gonosz"
+    }
+  ],
+  "timestamp": "2026-09-04T18:26:29.246338169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És felépítette ⟨את⟩ a kövekből az oltárt Jahve nevében, és árkot készített az oltár körül — két véka vetőmag területű nagyságút.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "És felépítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kövekből az oltárt"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "a kövekből"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és készített"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "árkot"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "olyan területűt, mint"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "két véka"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "vetőmag"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körül"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "az oltár"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:27.187220433Z",
+  "model": "glm-5.3"
+}

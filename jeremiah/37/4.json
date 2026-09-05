@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És Jeremijáhu szabadon járt ki-be a nép körében, mert nem tették ⟨את⟩ ⟨őt⟩ a fogházba.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "És Jeremijáhu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bement"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "és kiment"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepette"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mert nem"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "tették"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨őt⟩",
+      "marks": "a fogházba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ház"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "a fogva tartás"
+    }
+  ],
+  "timestamp": "2026-09-04T20:48:24.641725253Z",
+  "model": "glm-5.3"
+}

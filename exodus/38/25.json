@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És a felszámoltak ezüstje ⟨az⟩ egész gyülekezettől: száz talentum, és ezer és hétszáz és hetvenöt sékel, a szentély sékelje szerint.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "És az ezüstje"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "a felszámoltaknak"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gyülekezetnek"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "száz"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talentum"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "és ezer"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "és hét"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "és öt"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "és hetven"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sékel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "a sékel szerint"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentély"
+    }
+  ],
+  "timestamp": "2026-09-04T17:03:27.799043518Z",
+  "model": "glm-5.3"
+}

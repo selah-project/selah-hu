@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Paró (Fáraó), Micrajim királya felment, és elfoglalta ⟨את⟩ Gázert, és elégette tűzben, és ⟨את⟩ a Kenaani városban lakót megölte; és odaadta azt hozományul a lányának, Sulomo feleségének.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "felment"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "és elfoglalta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gázert"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gázert"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "és elégette"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Kenaanit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a Kenaanit"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "lakót"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "városban"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "megölte"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "és odaadta"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "hozományul"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "a lányának"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "feleségének"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sulomo"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:57.656282741Z",
+  "model": "glm-5.3"
+}

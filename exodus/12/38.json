@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És keveréknép is, nagy sokaság, ment fel ⟨את⟩ velük, és juhok és szarvasmarha — very nehéz jószág, nagyon sok.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És … is"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "keveréknép"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy sokaság"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ment fel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ velük"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "és juhok"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "és szarvasmarha"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "jószág"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "very nehéz"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon sok"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:55.967286100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Saul nagybátyja ezt mondta: „Beszéld el kérlek nekem, mit mondott nektek Samuel (Sámuel).”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "nagybátyja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "beszéld el"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondott"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:28:42.446165362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Mert hamut, mint kenyeret, ettem, és italomat könnyel kevertem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "hamut"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "mint kenyeret"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ettem"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "és italomat"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "könnyel"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "kevertem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:35.490405024Z",
+  "model": "glm-5.3"
+}

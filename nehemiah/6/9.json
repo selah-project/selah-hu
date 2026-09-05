@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Mert mindnyájan félelembe akartak ⟨את⟩minket ejteni, mondván: Ellankadnak a kezek a munkától, és nem készül el. Most tehát erősítsd meg ⟨את⟩ a kezeimet!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "félelembe ejtenek"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩minket",
+      "marks": "minket"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ellankadnak"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "a kezek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "a munka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "készül el"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "most tehát"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "erősítsd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kezeimet"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "a kezeimet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:56:04.822191179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "A gazdagnak vagyoma ⟨az⟩ ő erős városa, a szegények romlása ⟨az⟩ ő szegénységük.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "vagyona"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "a gazdagnak"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "városa"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "erős"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "romlása"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "a szegényeknek"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "szegénységük"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:24.683702978Z",
+  "model": "glm-5.3"
+}

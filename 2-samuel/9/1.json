@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És mondta Dávid: Vajon van-e még valaki, aki megmaradt Sául házából, hogy heszedet cselekedjem vele Jehonátán miatt?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "vajon"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "megmaradt"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "hogy cselekedjem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszedet"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonátán"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:12.500899025Z",
+  "model": "glm-5.3"
+}

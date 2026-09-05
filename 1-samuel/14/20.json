@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És felkiáltott Saúl és az egész nép, aki ⟨את⟩-vel vele ⟨volt⟩, és eljutottak a csatáig; és íme, ⟨az lett⟩, hogy minden ember kardja felebarátja ellen ⟨volt⟩ — igen-igen nagy zűrzavar.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "és felkiáltott"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-vel (vele)",
+      "marks": "az egész nép — a vele lévő nép"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és eljutottak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "a csatáig"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "(a csata)"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨az lett⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "minden embernek"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "felebarátja ellen"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "zűrzavar"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "igen-igen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:10:37.860221740Z",
+  "model": "glm-5.3"
+}

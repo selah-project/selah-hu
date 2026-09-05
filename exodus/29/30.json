@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Hét napon át öltse fel ⟨azokat⟩ a pap, aki helyette ⟨áll⟩ az ő fiai közül, amikor bemegy a találkozás sátrába, hogy szolgáljon a szentélyben.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "hét"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nap(ján át)"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "öltesse fel ⟨azokat⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "helyette"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "fiai közül"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amikor\/aki"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bemegy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑ba"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátor"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "találkozás"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "hogy szolgáljon"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a szent(ély)ben"
+    }
+  ],
+  "timestamp": "2026-09-04T16:57:48.532870245Z",
+  "model": "glm-5.3"
+}

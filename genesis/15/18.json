@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Azon a napon kötött Jahve ⟨את⟩ Avrammal (Ábrahámmal) szövetséget, mondván: A te magodnak adtam ⟨את⟩ ezt a földet, Micrajim (Egyiptom) folyójától a nagy folyóig, a Prát (Eufrátesz) folyójáig.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kötötte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrammal"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrammal"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "a te magodnak"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "folyójától"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "a folyó"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "folyó"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Prát"
+    }
+  ],
+  "timestamp": "2026-09-04T16:27:11.490798723Z",
+  "model": "glm-5.3"
+}

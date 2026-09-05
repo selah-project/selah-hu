@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És megszorította őt a veje, a leány apja, és maradt ⟨את⟩ vele három napig; és ettek és ittak, és megszálltak ott.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "megszorította"
+    },
+    {
+      "surface": "בו",
+      "gloss": "őt"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "veje"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apja"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "a leánynak"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és maradt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "ő (a veje)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "és ettek"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "és ittak"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "és megszálltak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T19:00:19.757481471Z",
+  "model": "glm-5.3"
+}

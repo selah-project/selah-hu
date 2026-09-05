@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Az őt félnők kivánságát megteszi, és ⟨את⟩ kiáltásukat meghallja, és megszabadítja őket.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "kivánságát"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "őt félnök"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "megteszi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kiáltásukat"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "kiáltásukat"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "meghallja"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "és megszabadítja őket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:13.717506655Z",
+  "model": "glm-5.3"
+}

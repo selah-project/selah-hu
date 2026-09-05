@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Amit volt, már régén az ⟨az⟩, és ami lesz, már régén volt; és az Elohim keresi ⟨את⟩ az üldözöttet.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Amit"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "már régén"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "és ami"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "már régén"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "és az Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "keresi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az üldözöttet"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "az üldözöttet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:44.004418409Z",
+  "model": "glm-5.3"
+}

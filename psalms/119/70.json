@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Elkövéredett szívük, mint a zsír; én a Tórádat ⟨szeretem⟩.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "elkövéredett"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "mint a zsír"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "szívük"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "a Tórádat"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "⟨szeretem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:19.152784371Z",
+  "model": "glm-5.3"
+}

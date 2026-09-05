@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Szabadíts, Jahve! ⟨Az⟩ ⟨a⟩ király feleljen meg nekünk a napon, amikor hívjuk.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "Szabadíts"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "feleljen meg nekünk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "a napon"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "amikor hívjuk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:43.776210409Z",
+  "model": "glm-5.3"
+}

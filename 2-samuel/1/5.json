@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És monda Dávid (Dávid) a ifjúnak, a ki megmondotta néki: Honnan tudod, hogy meghalt Saul (Saul) és Jonatán (Jonatán), az ő fia?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a ifjúnak"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a ifjú"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "a ki megmondotta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Honnantudod"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tudod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "és Jonatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fia"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:42.247113544Z",
+  "model": "glm-5.3"
+}

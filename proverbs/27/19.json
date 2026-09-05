@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Mint a vízben az arc ⟨áll⟩ az arccal szemben, úgy az ember szíve ⟨áll⟩ az ember ⟨előtt⟩.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "Mint a vízben"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "az arc"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "az arccal szemben"
+    },
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szíve"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "az ember ⟨előtt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:25.803008156Z",
+  "model": "glm-5.3"
+}

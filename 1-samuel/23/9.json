@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És megtudta Dávid (Dávid), hogy Saul ellene készíti a rosszat, és így szólt Avjátár (Ebjátár)hoz, a kohénhoz (paphoz): „Hozd ide az efodot!”",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "És megtudta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ellene"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "titkon készíti"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és így szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–hoz"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjátár"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohén"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Hozd ide"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "az efodot"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:52.359637294Z",
+  "model": "glm-5.3"
+}

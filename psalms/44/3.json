@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Te ⟨az⟩ kezeddel népeket űztél ki, és elplántáltad ⟨őket⟩; néptörzseket összetörtél, és elűzted ⟨őket⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezeddel"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "népeket"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "űztél ki"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "és elplántáltad ⟨őket⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "összetörtél"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "néptörzseket"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "és elűzted ⟨őket⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:28.651315847Z",
+  "model": "glm-5.3"
+}

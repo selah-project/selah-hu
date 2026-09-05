@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És a serege és az ő megszámláltjaik: negyvenegy ezer és ötszáz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "és a serege"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "és az ő megszámláltjaik"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "és negyven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "és öt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:48.545853053Z",
+  "model": "glm-5.3"
+}

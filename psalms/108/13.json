@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Adj nekünk segítséget a szorongattatásból, mert hiábavaló ⟨az⟩ ember szabadítása.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Adj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "segítséget"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "a szorongattatásból"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "mert hiábavaló"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "szabadítása"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:51.436029428Z",
+  "model": "glm-5.3"
+}

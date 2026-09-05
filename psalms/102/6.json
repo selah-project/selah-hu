@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Fohászom hangjától csontom a testemhez tapadt.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "hangjától"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "fohászomnak"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "tapadt"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "csontom"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "a testemhez"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:28.342974980Z",
+  "model": "glm-5.3"
+}

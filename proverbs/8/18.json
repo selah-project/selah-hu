@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Gazdagság és dicsőség ⟨van⟩ velem ⟨את⟩, maradandó vagyon és igazságosság.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Gazdagság"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "és dicsőség"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ velem",
+      "marks": "Gazdagság és dicsőség"
+    },
+    {
+      "surface": "הון",
+      "gloss": "vagyon"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "maradandó"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "és igazságosság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:09:26.459983175Z",
+  "model": "glm-5.3"
+}

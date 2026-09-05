@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 45,
+  "translation": "Fakad szívemből ⟨a⟩ jó dolog, mondom én: művem ⟨szól⟩ a királyról; nyelvem a gyors írnök tolla.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "Fakad"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "szívemből"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dolog"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "művem"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "a királyról"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "nyelvem"
+    },
+    {
+      "surface": "עט",
+      "gloss": "tolla"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "írnök"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "gyors"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:22.966989884Z",
+  "model": "glm-5.3"
+}

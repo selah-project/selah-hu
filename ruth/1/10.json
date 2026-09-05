@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondták neki: mert veled ⟨את⟩ visszatérünk a te népedhez.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "és mondták"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ veled",
+      "marks": "veled"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "visszatérünk"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "népedhez"
+    }
+  ],
+  "timestamp": "2026-09-04T22:31:29.594082173Z",
+  "model": "glm-5.3"
+}

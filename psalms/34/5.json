@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Kutattam ⟨את⟩ Jahvét, és megfelelt nekem, és minden rettegésemtől megmentett engem.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Kutattam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "és megfelelt nekem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "rettegésemtől"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "megmentett engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:11.806062375Z",
+  "model": "glm-5.3"
+}

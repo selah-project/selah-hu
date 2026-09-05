@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És elment ⟨את⟩ velük, és megérkeztek a Járdénhez, és kivágták a fákat.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "velük"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és megérkeztek"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "a Járdénhez"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "és kivágták"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "a fákat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:54:44.766357795Z",
+  "model": "glm-5.3"
+}

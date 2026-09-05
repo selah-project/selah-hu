@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És Shelomo megmagyarázta neki ⟨את⟩ az ő minden szavát; nem volt szó elrejtve a király elől, amelyet meg ne magyarázott volna neki.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "És-megmagyarázta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő minden szavát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szó"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "elrejtve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a-király-elől"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨a⟩-király"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "megmagyarázott"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T19:43:11.371746311Z",
+  "model": "glm-5.3"
+}

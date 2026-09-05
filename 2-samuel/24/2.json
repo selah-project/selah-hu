@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És ezt mondta a király Jóábnak, a vele lévő sereg vezérének: „Járj be, kérlek, minden Izrael-törzsön Dántól egészen Beér-Sebáig, és írjátok össze ⟨את⟩ a népet, hogy megtudjam a nép számát.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ahhoz"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóáb"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vezére"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "a seregnek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-vel (vele)"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "járj körül"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "törzsén"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dántól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és egészen"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beér"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sebáig"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "és írjátok össze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "és megtudjam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a számát"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "számát"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    }
+  ],
+  "timestamp": "2026-09-04T19:36:26.797236213Z",
+  "model": "glm-5.3"
+}

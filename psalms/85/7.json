@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Nem-é te fordulsz vissza, megeleveníteni minket, és néped örvendezhet benned?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nem-é"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "fordulsz vissza"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "megeleveníteni minket"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "és néped"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "örvendezhet"
+    },
+    {
+      "surface": "בך",
+      "gloss": "benned"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:36.702870937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Állítsd közel ⟨את⟩ a Lévi törzsét, és állítsd ⟨את⟩ Aharon (Áron) pap elé, és szolgálják ⟨את⟩ őt.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Állítsd közel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Lévi törzsét"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "törzsét"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "és állítsd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Áron)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "és szolgálják"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:34.954068637Z",
+  "model": "glm-5.3"
+}

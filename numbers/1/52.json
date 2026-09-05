@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És táborozzanak Izrael fiai, mindenki a maga táboránál, és mindenki a maga zászlójánál, seregeik szerint.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "És táborozzanak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "על",
+      "gloss": "-nál"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "a maga táboránál"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és mindenki"
+    },
+    {
+      "surface": "על",
+      "gloss": "-nál"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "a maga zászlójánál"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "seregeik szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:06.249410974Z",
+  "model": "glm-5.3"
+}

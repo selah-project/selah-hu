@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Sőt nyelvem is egész napon át ⟨a te⟩ igazságodat hangoztatja, mert megszégyenültek, mert zavarba jöttek rosszam keresői.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "nyelvem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "hangoztatja"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "igazságod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "megszégyenültek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "zavarba jöttek"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "keresői"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "rosszam"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:21.812536084Z",
+  "model": "glm-5.3"
+}

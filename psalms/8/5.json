@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Mi ⟨a⟩ halandó ember, hogy megemlékezel róla, és az embernek fia, hogy meglátogatod őt?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "halandó ember"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "megemlékezel róla"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "és fia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "embernek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "meglátogatod őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:32.012691911Z",
+  "model": "glm-5.3"
+}

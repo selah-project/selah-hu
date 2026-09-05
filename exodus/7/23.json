@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És Paroh elfordult, és bement ⟨a⟩ házába, és nem vette szívére ezt sem.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "És elfordult"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és bement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨a⟩ házába"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שת",
+      "gloss": "vette...-re"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "szívére"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ezt is"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "⟨ezt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:18.955613748Z",
+  "model": "glm-5.3"
+}

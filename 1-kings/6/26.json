@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Az egyik kerub magassága tíz könyök volt, és így ⟨volt⟩ a második kerub is.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "magassága"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "a kerubnak"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyik"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "és így"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "a kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:50.341787297Z",
+  "model": "glm-5.3"
+}

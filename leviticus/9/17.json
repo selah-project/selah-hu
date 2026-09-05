@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És odavitt ⟨את⟩ a minhát, és megtöltötte vele a tenyerét, és füstölővé tette ⟨az⟩ oltáron, a reggeli égőáldozaton felül.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "odavitt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a minhát"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "a minhát"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "megtöltötte"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "a tenyerét"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "vele"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "füstölővé tette"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨az⟩ oltáron"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáron"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "felül"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "égőáldozaton"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "a reggeli"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:20.587727465Z",
+  "model": "glm-5.3"
+}

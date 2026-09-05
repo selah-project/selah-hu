@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És abbahagyták e három ember ⟨את⟩ Ijóv (Jób) megválaszolását, mert ő igaz ⟨a⟩ maga szemében.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "És abbahagyták"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ember"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "megválaszolását"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijóv"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijóv (Jób)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igaz"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "a maga szemében"
+    }
+  ],
+  "timestamp": "2026-09-04T22:26:21.221853364Z",
+  "model": "glm-5.3"
+}

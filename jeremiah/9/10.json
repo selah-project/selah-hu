@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És adom Jerusaláimet (Jeruzsálemet) ⟨את⟩ romhalmokká, sakálok tanyájává, és Jehúda (Júda) városait pusztasággá teszem, lakó nélkül.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "És adom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusaláimet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusaláimet"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "romhalmokká"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tanyájává"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "sakálok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jehúda városait"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városait"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "teszem"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "pusztasággá"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nélkül"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "lakó"
+    }
+  ],
+  "timestamp": "2026-09-04T20:35:20.926228810Z",
+  "model": "glm-5.3"
+}

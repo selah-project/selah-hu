@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És kinyújtotta Aharon ⟨את⟩ kezét Micrajim vize fölé, és feljött a béka, és betakarta ⟨את⟩ Micrajim földjét.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "És kinyújtotta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "vize"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "és feljött"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "a béka"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "és betakarta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:57.195375045Z",
+  "model": "glm-5.3"
+}

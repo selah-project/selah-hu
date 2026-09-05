@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És letelepedett Esav a Szeír (Szeír) hegyén: Esav ⟨az⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "és letelepedett"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "a hegyén"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Szeír"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-04T16:35:48.293381017Z",
+  "model": "glm-5.3"
+}

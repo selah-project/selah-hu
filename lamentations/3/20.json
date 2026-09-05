@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Emlékezel, emlékezel, és meghajlik bennem a lelkem.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Emlékezel"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "emlékezel"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "és meghajlik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:44.164609434Z",
+  "model": "glm-5.3"
+}

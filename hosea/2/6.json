@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ⟨את⟩ fiait nem könyörülöm meg, mert paráznaság fiai ők.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "könyörülök"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "paráznaság"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    }
+  ],
+  "timestamp": "2026-09-04T21:18:47.283639597Z",
+  "model": "glm-5.3"
+}

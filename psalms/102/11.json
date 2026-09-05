@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Haragodtól és búsulásodtól — mert felemeltél, és elhajítottál engem.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "-tól \/ miatt"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "haragod"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "és búsulásod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "felemeltél engem"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "és elhajítottál engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:35.490581038Z",
+  "model": "glm-5.3"
+}

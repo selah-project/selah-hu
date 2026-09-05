@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Simron-Meron királya egy; Aksaf királya egy;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Simron"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Aksaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    }
+  ],
+  "timestamp": "2026-09-04T18:40:26.740828148Z",
+  "model": "glm-5.3"
+}

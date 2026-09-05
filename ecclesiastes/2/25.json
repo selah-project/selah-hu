@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Mert ki ehet, és ki élvezhet ⟨ezt⟨⟩⟩ — ⟨én⟩nélkem nélkül?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehet"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "élvezhet"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "kívül"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tőlem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:50.732828807Z",
+  "model": "glm-5.3"
+}

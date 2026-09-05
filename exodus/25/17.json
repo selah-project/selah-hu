@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És készítsd a kegyelemtrónt tiszta aranyból: két könyök és fél a hossza, és egy könyök és fél a szélessége.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "És készítsd"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "a kegyelemtrónt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyból"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "két könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "a hossza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és egy könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "a szélessége"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.208547961Z",
+  "model": "glm-5.3"
+}

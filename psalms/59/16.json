@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Ők — tévelyegnek eledelért, ha nem laknak jól, panaszkodnak.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Ők"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "tévelyegnek"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "eledelért"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "laknak jól"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "panaszkodnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:29.982174164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "A sötétség és a halál árnyékának lakói, a nyomorúság és a vas foglyai,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "a sötétség"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "és a halál árnyékának"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "foglyai"
+    },
+    {
+      "surface": "עני",
+      "gloss": "a nyomorúságnak"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "és a vasnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:53.365030661Z",
+  "model": "glm-5.3"
+}

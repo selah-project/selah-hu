@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Útjaidat, Jahve, ismertesd meg velem, ösvényeidet tanítsd meg nekem.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "útjaidat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ismertesd meg velem"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ösvényeidet"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "tanítsd meg nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:09.778801489Z",
+  "model": "glm-5.3"
+}

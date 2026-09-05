@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Mert Jahve ⟨van⟩ pajzsunk, és Izrael Szentjének ⟨van⟩ királyunk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve(nak)"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "pajzsunk"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "és Szentjének"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "királyunk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:00.935622188Z",
+  "model": "glm-5.3"
+}

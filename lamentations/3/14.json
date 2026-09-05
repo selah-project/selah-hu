@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Gúnnyá lettem egész népem számára, énekükké egész napon.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "lettem"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "gúnnyá"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "egész... számára"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "énekükké"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:36.680381038Z",
+  "model": "glm-5.3"
+}

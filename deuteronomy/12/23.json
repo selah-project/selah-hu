@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Csak vigyázz, ne edd meg a vért, mert a vér ⟨az⟩ a nefes, és ne edd a nefest a hússal ⟨együtt⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "vigyázz"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "edd meg"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "a vér"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "a nefest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "edd"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "a nefest"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨együtt⟩"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "a hússal"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:33.826573515Z",
+  "model": "glm-5.3"
+}

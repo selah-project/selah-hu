@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És fogta Elijáhu ⟨את⟩ köpenyét, és összehajtotta, és megütötte ⟨את⟩ a vizet, és kettéváltak ide és oda, és átkeltek mindketten a szárazon.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "köpenyét"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "köpenyét"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "és összehajtotta"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "és megütötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vizet"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizet"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "és kettéváltak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ide"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és oda"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "és átkeltek"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mindketten"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "a szárazon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:20.247446454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Aki bemegy a házba az elzárásának minden napján, tisztátalan lesz estig.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "és aki bemegy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "elzárásának"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨őt⟩",
+      "marks": "az elzárás tárgyát: őt"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tisztátalan lesz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "estig"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "az estig"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:20.913870620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Ne hallgassatok rájuk; szolgáljátok ⟨את⟩ Bábel királyát, és éljetek; miért legyen ez a város pusztasággá?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hallgassatok"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "rájuk"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgáljátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bábel királyát"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bábel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "és éljetek"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "pusztasággá"
+    }
+  ],
+  "timestamp": "2026-09-04T20:43:50.389773714Z",
+  "model": "glm-5.3"
+}

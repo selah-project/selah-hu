@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És azt tették Jiszráél fiai, amit rossz ⟨את⟩ Jahve szemében, és elfelejtették ⟨את⟩ Jahvét, az ő Elohimjukat, és szolgálták ⟨את⟩ a Baalokat és ⟨את⟩ az Asérákat.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "És tették"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit rossz"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "a rosszat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "szemében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "és elfelejtették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimjukat"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "és szolgálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Baalokat"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "a Baalokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az Asérákat"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "az Asérákat"
+    }
+  ],
+  "timestamp": "2026-09-04T18:50:21.414957522Z",
+  "model": "glm-5.3"
+}

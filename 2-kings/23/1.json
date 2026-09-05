@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És elküldte a király, és összegyűjték hozzá Jehúda és Jerusálájim minden vénjét.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elküldte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "és összegyűjték"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vénjét"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "és Jerusálájim"
+    }
+  ],
+  "timestamp": "2026-09-05T00:12:23.362353249Z",
+  "model": "glm-5.3"
+}

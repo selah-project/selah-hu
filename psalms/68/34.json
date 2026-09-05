@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Annak, aki az egek egein, az ősi egeken lovagol — íme, ad a hangjával, erő hangját.",
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "annak, aki lovagol"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "az egeken"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "egein"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "az ősi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "íme"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "a hangjával"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hang"
+    },
+    {
+      "surface": "עז",
+      "gloss": "erő"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:12.293689069Z",
+  "model": "glm-5.3"
+}

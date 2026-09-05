@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Tiszteld ⟨את⟩ Jahvét a vagyonodból, és minden termésed zsengéiből!",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Tiszteld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "a vagyonodból"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "és zsengéiből"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "termésedből"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:12.331157191Z",
+  "model": "glm-5.3"
+}

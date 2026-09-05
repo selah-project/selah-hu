@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "„Atyád keménnyé tette ⟨את⟩ igánkat, és most könnyíts atyád kemény szolgálatán és nehéz igáján, amelyet ránk tett, és szolgálunk téged.”",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "keménnyé tette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igánkat"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "igánkat"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "könnyíts"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "szolgálatán"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "kemény"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "és igáján"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "nehéz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ránk tett"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ránk"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "és szolgálunk téged"
+    }
+  ],
+  "timestamp": "2026-09-04T23:14:07.795034341Z",
+  "model": "glm-5.3"
+}

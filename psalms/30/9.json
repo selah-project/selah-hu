@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Hozzád, Jahve, kiáltok, és az Adonájhoz esedezem.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Hozzád"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és az"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonájhoz"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "esedezem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:57.418449144Z",
+  "model": "glm-5.3"
+}

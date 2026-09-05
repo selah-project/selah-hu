@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És Dávid kémeket küldött, és megtudta, hogy Sául bizonyosan megérkezett.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és küldött"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "kémekeket"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "és megtudta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "megérkezett"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "bizonyosan"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:49.537382850Z",
+  "model": "glm-5.3"
+}

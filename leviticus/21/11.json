@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És minden halott lélek ⟨a⟩ holttest mellé ne menjen; apjáért és anyjáért ne tegye magát tisztátalanná.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "és…mellé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "lélek"
+    },
+    {
+      "surface": "מת",
+      "gloss": "halott"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "menjen"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "apjáért"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "és anyjáért"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tegye magát tisztátalanná"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:02.657075280Z",
+  "model": "glm-5.3"
+}

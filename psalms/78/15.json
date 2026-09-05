@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "Sziklákat hasított meg a pusztában, és itatta őket, mint nagy mélységeket.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "hasított meg"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "sziklákat"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "és itatta"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "mint mélységeket"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:45.195081490Z",
+  "model": "glm-5.3"
+}

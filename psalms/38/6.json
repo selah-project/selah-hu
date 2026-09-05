@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Bűzlenek, elgennyesedtek csapásaim balgaságom miatt.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Bűzlenek"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "elgennyesedtek"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "csapásaim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "balgaságom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:27.198835638Z",
+  "model": "glm-5.3"
+}

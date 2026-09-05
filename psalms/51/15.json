@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Bűnösöket tanítok then útjaidra, és vétkesek hozzád térnek meg.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "tanítom"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "a vétkeseket"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "útjaidat"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "és bűnösök"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "térnek meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:36.099709883Z",
+  "model": "glm-5.3"
+}

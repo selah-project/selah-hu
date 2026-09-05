@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 110,
+  "translation": "Megesküdött Jahve, és meg nem bánja: „Pap vagy örökre, Malki-Cedek (Melkisédek) rendje szerint.”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Megesküdött"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "bánja meg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pap"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rendjében"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Cedek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:06.842641255Z",
+  "model": "glm-5.3"
+}

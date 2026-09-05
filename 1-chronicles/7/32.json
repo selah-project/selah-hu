@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És Hever nemzette ⟨את⟩ Jaftét és ⟨את⟩ Somert és ⟨את⟩ Hotámot és ⟨את⟩ Suát, az ő nővérüket.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "és Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaftét"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Somert"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Somer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Hotámot"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Suát"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Sua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nővérük"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:46.571579962Z",
+  "model": "glm-5.3"
+}

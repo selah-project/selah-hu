@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Csakhogy, mivel ↝ megvetéssel megvetted ⟨את⟩ Jahve ellenségeit ezzel a dologmal, még a fiú is, aki neked született, meghal ↝ bizonyosan.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Csakhogy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mivel"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "↝ megvetéssel"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "megvetted"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ellenségeit"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ellenségeit"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ezzel a dologgal"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezzel"
+    },
+    {
+      "surface": "גם",
+      "gloss": "még…is"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "a fiú"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "aki született"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "מות",
+      "gloss": "↝ bizonyosan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "meghal"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:23.804815435Z",
+  "model": "glm-5.3"
+}

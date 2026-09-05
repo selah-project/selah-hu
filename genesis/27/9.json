@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 27:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Menj, kérlek, a nyájhoz, és végy nekem onnan két jó kecskegödölyét, és készítek ⟨את⟩ őket ínyencséggé apádnak, úgy, ahogyan szereti.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Menj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...hez"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a nyáj"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "és végy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "két"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "gödölyét"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kecske-"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "jót"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "és készítek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket (az ínyencségeket)"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "ínyencséggé"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "apádnak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "úgy, ahogyan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    }
+  ],
+  "timestamp": "2026-09-04T16:32:46.106685070Z",
+  "model": "glm-5.3"
+}

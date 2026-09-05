@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Mert a király Jahvéban bízik, és az Elijon heszedjében nem inog meg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "bízik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvéban"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "és a heszedben"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "az Elijon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "inog meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:57.349080179Z",
+  "model": "glm-5.3"
+}

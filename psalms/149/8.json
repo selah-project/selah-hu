@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 149,
+  "translation": "hogy királyaikat láncokba kössék, és nemeseik vasbékókkal —",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "hogy kössék"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "királyaikat"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "láncokba"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "és nemeseik"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "vasbékókkal"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vas"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:50.410575793Z",
+  "model": "glm-5.3"
+}

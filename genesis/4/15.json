@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 4:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És szólt Jahve neki: ezért Kajin minden megölőjére hétszeres bosszú száll; és adott Jahve Kajinnak ⟨את⟩ jelet, hogy ne sújtson le rá bárki, aki rátalál.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "megölője"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "hétszeres"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "bosszú száll"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kajinnak"
+    },
+    {
+      "surface": "אות",
+      "gloss": "jelet"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "sújtson le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rá őt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bárki"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "aki rátalál"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:33.859554270Z",
+  "model": "glm-5.3"
+}

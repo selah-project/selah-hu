@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És a kohaniták fiai közül ⟨voltak⟩ a keverék keverői a fűszerekhez.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "és …-ból"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a kohanitáknak"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "keverői"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "a keveréknek"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "a fűszerekhez"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:57.800460244Z",
+  "model": "glm-5.3"
+}

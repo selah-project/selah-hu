@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És hallottam ⟨את⟩ szavainak hangját, és mikor hallottam ⟨את⟩ szavainak hangját, én mély álomba merültem arcomra, és arcom ⟨a⟩ föld felé ⟨volt⟩.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "és hallottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szavainak hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "szavainak"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "és mikor hallottam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szavainak hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "szavainak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "én"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "merültem"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "mély álomba"
+    },
+    {
+      "surface": "על",
+      "gloss": "arcomra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arcom"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "és arcom"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a föld felé"
+    }
+  ],
+  "timestamp": "2026-09-04T22:47:10.009429735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És felrakta ⟨את⟩ a lámpákat Jahve színe előtt, ahogparancsolta Jahve ⟨את⟩ Moshe-nak (Mózesnek).",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "és felrakta"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "a lámpákat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe-nak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe-nak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:05:00.383053139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Ellenségeim rosszat mondanak rólam: „Mikor hal meg, és pusztul el a neve?”",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Ellenségeim"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mondanak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "rólam"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Mikor"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "és pusztul el"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a neve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:17.229003616Z",
+  "model": "glm-5.3"
+}

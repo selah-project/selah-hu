@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Láttam ⟨את⟩ minden élőt, aki a nap alatt jár, ⟨a⟩ második gyermekkel, aki az ő helyébe áll.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden élőt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "élőt"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "aki jár"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "gyermek"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "áll"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "az ő helyébe"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:30.697839070Z",
+  "model": "glm-5.3"
+}

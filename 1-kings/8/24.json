@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "amit megtartottál szolgádnak, Dávidnak, az én apámnak, ⟨את⟩ azt, amit beszéltél neki; és a te száddal szóltál, és a te kezeddel betöltötted, úgy, mint ezen a napon.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "megtartottál"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "szolgádnak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "az én apámnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit beszéltél neki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "beszéltél"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "és szóltál"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "a te száddal"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "és a te kezeddel"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "betöltötted"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "úgy, mint ezen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "a napon"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:43.001494263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Leánya Babilonnak, a kifosztottnak: boldog, aki visszafizeti neked ⟨את⟩ jutalmadat, amit velünk tettél.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Leánya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonnak"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "a kifosztottnak"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "boldog"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "aki visszafizeti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jutalmadat"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "jutalmadat"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "tettél"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "velünk"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:33.127324264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "akkor visszahozza Jahve, a te Elohimod, ⟨את⟩ fogságodat, és megkönyörül rajtad, és visszatér, és összegyűjt minden népek közül, amelyek közé szétszórt Jahve, a te Elohimod, oda.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "akkor visszahozza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fogságodat"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "fogságodat"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "és megkönyörül rajtad"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "és visszatér"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "és összegyűjt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "népek közül"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "szétszórt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oda"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:37.125634896Z",
+  "model": "glm-5.3"
+}

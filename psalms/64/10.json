@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "És fél minden ember, és hirdetik ⟨az⟩ Elohim tettét, és cselekedetét bölcsen megfontolják.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "és fél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "és hirdetik"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tettét"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "és cselekedetét"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bölcsen megfontolják"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:06.994628327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "A gonoszok erőszakja elragadja ⟨őket⟩, mert megtagadták a jog megtevését.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "erőszakja"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszoknak"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "elragadja őket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "megtagadták"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "megtevését"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "a jog"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:27.469394689Z",
+  "model": "glm-5.3"
+}

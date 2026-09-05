@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Mizmor, ének ⟨a⟩ ház felavatására, Dávidtól.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ének"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "felavatására"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨a⟩ ház"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-05T00:30:36.053384265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Egy szél által sodort levelet riasztasz el, és ⟨את⟩ a szalmát, a szárazat, üldözöd?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "levelet"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "szél-sodorta"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "riasztasz el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szalmát, a szárazat"
+    },
+    {
+      "surface": "קש",
+      "gloss": "szalmát"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "szárazat"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "üldözöd"
+    }
+  ],
+  "timestamp": "2026-09-04T22:21:14.503400823Z",
+  "model": "glm-5.3"
+}

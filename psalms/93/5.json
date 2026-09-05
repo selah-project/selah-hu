@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 93,
+  "translation": "A te bizonyságaid nagyon biztosak, házadnak illik ⟨az⟩ ádosság, Jahve, hosszú napokig.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "a te bizonyságaid"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "biztosak"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "házadnak"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "illik"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ádosság"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napokig"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:09.716432002Z",
+  "model": "glm-5.3"
+}

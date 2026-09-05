@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "Dicsérjétek Jah-t! Dicsérjétek ⟨את⟩ Jahvét az egekből, dicsérjétek őt a magasságokban!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah-t"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "מן",
+      "gloss": "az egekből"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egekből"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dicsérjétek őt"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "a magasságokban"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:12.173116673Z",
+  "model": "glm-5.3"
+}

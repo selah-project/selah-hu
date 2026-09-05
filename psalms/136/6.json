@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "Annak, aki kiterjesztette a földet a vizek fölé, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "aki kiterjesztette"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "על",
+      "gloss": "a ... fölé"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:34.959500491Z",
+  "model": "glm-5.3"
+}

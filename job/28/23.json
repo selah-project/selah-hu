@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Elohim érti annak útját, és ⟨ő⟩ ismeri ⟨את⟩ annak helyét.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "érti"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "annak útját"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ⟨ő⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak helyét"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "annak helyét"
+    }
+  ],
+  "timestamp": "2026-09-04T23:52:01.942439718Z",
+  "model": "glm-5.3"
+}

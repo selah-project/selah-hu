@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 88,
+  "translation": "Mert betelt gonoszságokkal a lelkem, és az életem a Seolig ért el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "betelt"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "gonoszságokkal"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "és az életem"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "a Seolig"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "ért el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:22.884464448Z",
+  "model": "glm-5.3"
+}

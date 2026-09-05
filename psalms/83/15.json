@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Mint a tűz, amely felgyújtja az erdőt, és mint a láng, amely megperzseli a hegyeket —",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "Mint a tűz"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "felgyújtja"
+    },
+    {
+      "surface": "יער",
+      "gloss": "az erdőt"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "és mint a láng"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "megperzseli"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyeket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:30.978780075Z",
+  "model": "glm-5.3"
+}

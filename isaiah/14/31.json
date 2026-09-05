@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 14:31",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Jajgass, kapu! Kiálts, város! Olvadozol, Peleset, egészed; mert északról füst jön, és nincs egyedül maradó sorai között.",
+  "tokens": [
+    {
+      "surface": "הילילי",
+      "gloss": "Jajgass"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapu"
+    },
+    {
+      "surface": "זעקי",
+      "gloss": "Kiálts"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "város"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "Olvadozol"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "egészed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "északról"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "füst"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "egyedül maradó"
+    },
+    {
+      "surface": "במועדיו",
+      "gloss": "sorai között"
+    }
+  ],
+  "timestamp": "2026-09-04T20:13:14.554369738Z",
+  "model": "glm-5.3"
+}

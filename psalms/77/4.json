@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "Megemlékeztem Elohimról, és felzúdok; elmélkedem, és elgyöngül a lelkem. Szelah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "megemlékeztem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimról"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "és felzúdok"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "elmélkedem"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "és elgyöngül"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "lelkem"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelah"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:33.568371274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És ha érvénytelenítve érvénytelenítette ⟨את⟩ őket meghallása után, akkor ⟨ő⟩ hordozza ⟨את⟩ annak vétkét.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "érvénytelenítve"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "érvénytelenítette"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket (a fogadalmakat)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "meghallásának"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "akkor ⟨ő⟩ hordozza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "annak vétkét"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "annak vétkét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:46:09.761313006Z",
+  "model": "glm-5.3"
+}

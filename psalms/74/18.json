@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Emlékezz erre: az ellenség gyalázta Jahvét, és a balga nép megvetette a nevedet.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezz"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "erre"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "gyalázta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és a nép"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "balga"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "megvetette"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "a nevedet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:00.949393563Z",
+  "model": "glm-5.3"
+}

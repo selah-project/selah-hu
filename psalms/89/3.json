@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Mert mondtam: örökké épül a heszed, az egekben — a te hűségedet azokban állapítod meg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondottam"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "épül"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egekben"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "állapítod meg"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "hűségedet"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azokban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:38.127040431Z",
+  "model": "glm-5.3"
+}

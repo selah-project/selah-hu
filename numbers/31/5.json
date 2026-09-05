@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És odaadattak Izráél ezereiből ezer törzsenként, tizenkétezer fegyverbe öltözött harcos.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "odaadattak"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ezereiből"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "törzsenként"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "fegyverbe öltözött"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "harci sereg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:46:18.837790267Z",
+  "model": "glm-5.3"
+}

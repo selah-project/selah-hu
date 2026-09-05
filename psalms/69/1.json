@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "A karmesternek, a Susannim szerint, Dávidtól (lé-Micpo) — Davíd (Dávid) zsoltára.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint („a liliomokról”)"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Susannim (liliomok)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:26.052370208Z",
+  "model": "glm-5.3"
+}

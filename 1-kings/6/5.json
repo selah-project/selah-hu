@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És épített a ház falára szárnyépítményt köröskörül, ⟨את⟩ a ház falait köröskörül — a heikhálra és a debírre —, és csinált oldalszobákat köröskörül.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "és épített"
+    },
+    {
+      "surface": "על",
+      "gloss": "erre"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "falra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "szárnyépítményt"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ház falait"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "falait"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "a heikhálra"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "és a debírre"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és csinált"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "oldalszobákat"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "köröskörül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:40:05.751409934Z",
+  "model": "glm-5.3"
+}

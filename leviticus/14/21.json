@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 14:21",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És ha szegény ő, és keze nem éri el, akkor vegyen egy bárányt vétekáldozatul meglendítésre, hogy engeszteljen érte, és egy tized éfa kivált lisztet olajjal összekeverve ételáldozatul, és egy log olajat,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "És ha"
+    },
+    {
+      "surface": "דל",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "keze"
+    },
+    {
+      "surface": "משגת",
+      "gloss": "nem éri el"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "vegyen"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "egy bárányt"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "vétekáldozatul"
+    },
+    {
+      "surface": "לתנופה",
+      "gloss": "meglendítésre"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "hogy engeszteljen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "érte"
+    },
+    {
+      "surface": "ועשרון",
+      "gloss": "és egy tized éfa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "kivált lisztet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "összekeverve"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "ételáldozatul"
+    },
+    {
+      "surface": "ולג",
+      "gloss": "és egy log"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olajat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:59.701372950Z",
+  "model": "glm-5.3"
+}

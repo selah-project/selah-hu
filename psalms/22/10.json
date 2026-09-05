@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Mert te vagy ⟨az⟩, aki kibocsájtottál engem a méhből; bizalmat adtál nekem anyám emlőin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te vagy"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "aki kibocsájtottál engem"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "a méhből"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "bizalmat adtál nekem"
+    },
+    {
+      "surface": "על",
+      "gloss": "…"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "anyám emlőin"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "anyám"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:41.167386851Z",
+  "model": "glm-5.3"
+}

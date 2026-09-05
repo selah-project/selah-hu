@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És arcuk formája: ember arc, és oroszlán arca a jobb oldalon — mind a négynek; és bika arca a bal oldalról — mind a négynek; és sas arca — mind a négynek.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "És formája"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "arcuk"
+    },
+    {
+      "surface": "פני",
+      "gloss": "arca"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "és arca"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "oroszlán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldalán"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "a jobb"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "mind a négynek"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "és arca"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bika"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "a bal oldalról"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "mind a négynek"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "és arca"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "sas"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "mind a négynek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:57:51.507217901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "Mert nem az én íjamban bízom, és az én kardom nem szabadít meg engem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "íjamban"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "bízom"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "és kardom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "szabadít meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:37.096197357Z",
+  "model": "glm-5.3"
+}

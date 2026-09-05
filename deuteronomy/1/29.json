@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondtam nektek: ne rettegjetek, és ne féljetek tőlük.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És mondtam"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "rettegjetek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "féljetek"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tőlük"
+    }
+  ],
+  "timestamp": "2026-09-04T17:49:39.533207725Z",
+  "model": "glm-5.3"
+}

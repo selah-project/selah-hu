@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És megmaradtak Izráél fiai közt ⟨akik⟩ nem osztották el ⟨את⟩ örökségüket: hét törzs.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "megmaradtak"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "fiai közt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨akik⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "osztották el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örökségüket"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "örökségüket"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "hét"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "törzs"
+    }
+  ],
+  "timestamp": "2026-09-04T18:44:44.970378966Z",
+  "model": "glm-5.3"
+}

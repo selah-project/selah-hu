@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És visszatért Jehosua abban az időben, és elfogalta ⟨את⟩ Hácort, és királyát karddal ütötte meg, mert Hácor azelőtt ⟨ő⟩ feje volt minden ezeknek a királyságoknak.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "visszatért"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "és elfogalta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hácort"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hácort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "királyát"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ütötte meg"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "karddal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hácor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "azelőtt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "feje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "királyságoknak"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeknek a"
+    }
+  ],
+  "timestamp": "2026-09-04T18:41:03.074383806Z",
+  "model": "glm-5.3"
+}

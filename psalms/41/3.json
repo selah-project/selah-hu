@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Jahve megőrzi őt és életben tartja őt, boldoggá teszi őt a földön, és ne add őt ellenségei nefesébe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "megőrzi őt"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "és életben tartja őt"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "boldoggá teszi őt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "add őt"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nefesébe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ellenségei"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:13.466638008Z",
+  "model": "glm-5.3"
+}

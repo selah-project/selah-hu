@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "hiszen az ember nyomorúságra születik, és a Rezef fiai felröppennek, hogy szárnyaljanak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hiszen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "nyomorúságra"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "születik"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és a ... fiai"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "Rezef"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "felröppennek"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "hogy szárnyaljanak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:55.345926145Z",
+  "model": "glm-5.3"
+}

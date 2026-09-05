@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Én ⟨vagyok⟩ Jahve, a ti Elohimotok, aki kihoztalak ⟨את⟩ titeket Micrajim (Egyiptom) földjéből, rabszolgáiként lenni nekik, és összetörtem igátok rúdjait, és felállítva vezettelek ⟨את⟩ titeket.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "kihoztalak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "Micrajim földjéből"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéből"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "lenni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "rabszolgáiként"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "és összetörtem"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "rúdjait"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "igátok"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "és vezettelek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "felállítva"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "felállítva"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:21.696017146Z",
+  "model": "glm-5.3"
+}

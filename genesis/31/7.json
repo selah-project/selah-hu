@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És a ti atyátok megcsalt engem, és megváltoztatta ⟨את⟩ a bérmet tízszer; és nem hagyta ⟨az⟩ Elohim, hogy ártson nekem.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "és a ti atyátok"
+    },
+    {
+      "surface": "התל",
+      "gloss": "megcsalt"
+    },
+    {
+      "surface": "בי",
+      "gloss": "engem"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "és megváltoztatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bérmet"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "a bérmet"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "-szer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hagyta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨az⟩ Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ártani"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nekiem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:01.850267038Z",
+  "model": "glm-5.3"
+}

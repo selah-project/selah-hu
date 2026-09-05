@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "⟨את⟩ az idegent megszoríthatod, de amid ⟨את⟩ testvéred van, kezed engedje el.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az idegent"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "az idegent"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "megszoríthatod"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "de amid"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "van"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéred"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéred"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "engedje el"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:34.057826298Z",
+  "model": "glm-5.3"
+}

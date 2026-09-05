@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És most felfedem ⟨את⟩ gyalázatát szerelmei szeme láttára, és senki nem menti ki ⟨את⟩ őt a kezemből.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "felfedem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyalázatát"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "gyalázatát"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "szeme láttára"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "szerelmei"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és senki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "menti ki őt"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "a kezemből"
+    }
+  ],
+  "timestamp": "2026-09-04T21:18:46.566666703Z",
+  "model": "glm-5.3"
+}

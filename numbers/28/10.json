@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "A szombati égőáldozat ⟨hévenként⟩ ⟨az⟩ örök égőáldozaton felül, és annak italáldozata.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "égőáldozat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "szombat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "saját szombatján"
+    },
+    {
+      "surface": "על",
+      "gloss": "felül"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "égőáldozat"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "az örök ⟨áldozat⟩"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "és annak italáldozata"
+    }
+  ],
+  "timestamp": "2026-09-04T18:21:03.179325192Z",
+  "model": "glm-5.3"
+}

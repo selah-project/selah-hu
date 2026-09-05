@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És megérkezett Dávid és az ő férfiai a városhoz, és íme, az tűzben égett, és az ő feleségeik, és az ő fiaik, és az ő leányaik fogságba vitettek.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És megérkezett"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "és az ő férfiai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városhoz"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "az égett"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "és az ő feleségeik"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "és az ő fiaik"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "és aző leányaik"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "fogságba vitettek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:41.649581963Z",
+  "model": "glm-5.3"
+}

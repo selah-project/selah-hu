@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 49,
+  "translation": "De én mondtam: hiába fáradtam, ürességre és hiábavalóságra fogyasztottam el erőmet; mindazonáltal az én igazságom ⟨את⟩ Jahvénál van, és a bérem ⟨את⟩ Elohimomnál.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "De én"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "mondtam"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "hiába"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "fáradtam"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "ürességre"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "és hiábavalóságra"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "erőmet"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "fogyasztottam el"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "mindazonáltal"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "az én igazságom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvénál"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "és a bérem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimomnál"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimom"
+    }
+  ],
+  "timestamp": "2026-09-04T23:37:24.860521676Z",
+  "model": "glm-5.3"
+}

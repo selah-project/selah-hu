@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És őutána ítélkezett ⟨את⟩ Izráel felett Ivcan (Ibcán), Bet-Lechemből (Betlehem).",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "és ítélkezett"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "őutána"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivcan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "-ből"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lechem"
+    }
+  ],
+  "timestamp": "2026-09-04T18:56:24.745694600Z",
+  "model": "glm-5.3"
+}

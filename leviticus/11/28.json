@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És aki viszi ⟨את⟩ dögüket, mossa ki ruháit, és tisztátalan estig — tisztátalanok azok nektek.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "És aki viszi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dögüket"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "dögüket"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mossa ki"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "és tisztátalan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "estig"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "az estig"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "tisztátalanok"
+    },
+    {
+      "surface": "המה",
+      "gloss": "azok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:11:19.158968387Z",
+  "model": "glm-5.3"
+}

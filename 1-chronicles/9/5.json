@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨a⟩ silóniak közül: Aszajá (Asáiás), az elsőszülött, és az ő fiai.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "és ... közül"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "⟨a⟩ silóniak"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Aszajá"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "az elsőszülött"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és az ő fiai"
+    }
+  ],
+  "timestamp": "2026-09-04T23:02:33.339406660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "A karnagynak, Dávidé, zsoltár.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "a karnagynak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidé"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:25.866684086Z",
+  "model": "glm-5.3"
+}

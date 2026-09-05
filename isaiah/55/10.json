@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Mert ahogyan leszáll az eső és a hó az egekről, és oda nem tér vissza, hanem itatja ⟨את⟩ a földet, és megtermékenyíti, és kihajtja, és magot ad a vetőnek, és kenyeret az evőnek —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "leszáll"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "az eső"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "és a hó"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egekről"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "és oda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tér vissza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨csak⟩"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "itatja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "és megtermékenyíti"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "és kihajtja"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és ad"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magot"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "a vetőnek"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "és kenyeret"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "az evőnek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:26:55.643932978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Jó nekem szádból a Tóra: több ezért nekem ezernyi aranynál és ezüstnél.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "a Tóra"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "szádból"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ezernyinel"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranynál"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "és ezüstnél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:19.153300610Z",
+  "model": "glm-5.3"
+}

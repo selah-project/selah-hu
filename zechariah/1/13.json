@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megfelelt Jahve ⟨את⟩ az angyalt, a bennem szólót, jó szavakkal, vígasztaló szavakkal.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "És megfelelt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az angyalt"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "az angyalt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a szólót"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bennem"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "szavakkal"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "jókkal"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "szavakkal"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "vígasztalókkal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:32:28.088638033Z",
+  "model": "glm-5.3"
+}

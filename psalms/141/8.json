@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 141,
+  "translation": "Mert hozzád, Jahve, Adonáj, ⟨van⟩ az én szemem, benned bíztam; ne csupaszítsd meg az én lelkemet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "az én szemem"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "benned"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תער",
+      "gloss": "csupaszítsd meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:34.982842014Z",
+  "model": "glm-5.3"
+}

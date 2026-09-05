@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És felemelte szemeit, és meglátta ⟨את⟩ az embert, az utazót a város terén; és az ember, az öreg, ezt mondta: Hová mész, és honnan jössz?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "És felemelte"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "szemeit"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és meglátta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert, az utazót"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "az utazót"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "a terén"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "az öreg"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hová"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mész"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "és honnan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "jössz"
+    }
+  ],
+  "timestamp": "2026-09-04T19:00:24.681959623Z",
+  "model": "glm-5.3"
+}

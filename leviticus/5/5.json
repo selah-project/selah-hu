@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És ⟨legyen⟩, ha bűnössé válik egy ezek közül ⟨a dolgok⟩ közül, vallást tesz arról, amivel vétkezett ⟨abban⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "és ⟨legyen⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "bűnössé válik"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "egy"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ezek közül"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "vallást tesz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vétkezett"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨abban⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:01.832201966Z",
+  "model": "glm-5.3"
+}

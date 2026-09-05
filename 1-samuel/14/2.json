@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 14:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És Sául a Givá (Gibeah) szélén ült, a Rimmón alatt, amely Migronnál van; és a nép, amely vele volt, hatszáz férfi körül.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "És Sául"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ült"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "a szélén"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "a Givának"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "a Rimmónnak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "Migronnál"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "és a nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "hatszáz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    }
+  ],
+  "timestamp": "2026-09-05T00:28:48.934301956Z",
+  "model": "glm-5.3"
+}

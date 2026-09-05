@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Elohim szólt az ő szentségében: ujjongok, felosztom ⟨את⟩ Sikemet, és lemérem ⟨את⟩ Szukkót völgyét.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "az ő szentségében"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ujjongok"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "felosztom"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikemet"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "és … völgyét"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Szukkót"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "lemérem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:28.229596433Z",
+  "model": "glm-5.3"
+}

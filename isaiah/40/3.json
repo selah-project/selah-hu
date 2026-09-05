@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Hang kiált: „a pusztában készítsétek Jahve útját, egyengessétek a síkságon ⟨az⟩ ösvényt Elohimunknak.”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hang"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "kiált"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "készítsétek"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "útját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "egyengessétek"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "a síkságon"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "⟨az⟩ ösvényt"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimunknak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:39.726171669Z",
+  "model": "glm-5.3"
+}

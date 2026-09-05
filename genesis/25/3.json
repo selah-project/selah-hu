@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És Joksán nemzette ⟨את⟩ Sebát és ⟨את⟩ Dedánt; és Dedán fiai lettek: Assurim, Letusim és Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "És Joksán"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sebát"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sebát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Dedánt"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedánt"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedánnak"
+    },
+    {
+      "surface": "היו",
+      "gloss": "lettek"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Assurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "és Letusim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "és Leummim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:31:13.273936060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 2:19",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És formált Jahve Elohim a földből minden mezei vadat és ⟨את⟩ minden égi madarat, és elhozta az emberhez, hogy lássa, minek nevezi ⟨az⟩; és mindaz, amit az ember élő léleknek nevezett, az lett ⟨a⟩ neve.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "És formált"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חית",
+      "gloss": "vadat"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "mezei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minden égi madarat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "égi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "madarat"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "és elhozta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy lássa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nevez"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨annak⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és mindaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nevez"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨annak⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "léleknek"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "élő"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a neve"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:26.868278443Z",
+  "model": "glm-5.3"
+}

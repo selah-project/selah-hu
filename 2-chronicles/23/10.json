@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "És felállította ⟨את⟩ az egész népet, és minden ember ⟨az⟩ ő fegyverét ⟨a⟩ kezében, a ház jobb vállától a ház bal válláig, az oltárnál és a háznál, a király körül körös-körül.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "És felállította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész népet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "népet"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és minden ember"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "fegyverét"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezében"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "váltól"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "jobbjától"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "válláig"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "baljáig"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "az oltárnál"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "és a háznál"
+    },
+    {
+      "surface": "על",
+      "gloss": "körül"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körös-körül"
+    }
+  ],
+  "timestamp": "2026-09-05T00:01:11.123917040Z",
+  "model": "glm-5.3"
+}

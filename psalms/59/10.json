@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Erőmhöz Hozzád őrködöm, mert Elohim ⟨az⟩ én menedékváram.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Erőmhöz"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Hozzád"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "őrködöm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "menedékváram"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:03.431420719Z",
+  "model": "glm-5.3"
+}

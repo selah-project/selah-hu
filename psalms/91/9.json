@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 91,
+  "translation": "Mert te, Jahve, ⟨vagy⟩ menedékem; a Magasságost tetted lakhelyeddé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "menedékem"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "a Magasságos"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "tetted"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "lakhelyeddé"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:38.555848147Z",
+  "model": "glm-5.3"
+}

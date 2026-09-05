@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Őrizd, fiam, atyád parancsát, és ne hagyd el anyád Toráját (törvényét),",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Őrizd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsát"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "hagyd el"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toráját"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anyád"
+    }
+  ],
+  "timestamp": "2026-09-04T22:09:22.902700721Z",
+  "model": "glm-5.3"
+}

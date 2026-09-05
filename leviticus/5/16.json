@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És ⟨את⟩ azt, amiben vétkezett a szent dolgokból, megfizeti, és az ötöd részét hozzáadja, és odaadja ⟨את⟩ azt a papnak; és a pap engesztelést szerez neki a vétekáldozat kosával, és megbocsáttatik neki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "azt, amiben vétkezett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amiben"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vétkezett"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent dolgokból"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "megfizeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ötöd részét"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "az ötöd részét"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "hozzáadja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ahhoz"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és odaadja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "a papnak (adandó dolgot)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "a papnak"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "és a pap"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "engesztelést szerez"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "a kosával"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "a vétekáldozat"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "és megbocsáttatik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:27.457534676Z",
+  "model": "glm-5.3"
+}

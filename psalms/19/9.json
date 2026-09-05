@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Jahve rendelései egyenesek, megörvendeztetik ⟨a⟩ szívet; Jahve parancsa tiszta, megvilágosítja a szemet.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "rendelései"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "egyenesek"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "megörvendeztetik"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívet"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "megvilágosítja"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "szemet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:02.342605984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "Efrájim és Binyámín és Menasse előtt ébreszd fel ⟨את⟩ hatalmadat, és jőjj el segítségül nekünk!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrájim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "és Binyámín"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "és Menasse"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "ébreszd fel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatalmadat"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "hatalmadat"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "és jőjj el"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "segítségül"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:39.792421002Z",
+  "model": "glm-5.3"
+}

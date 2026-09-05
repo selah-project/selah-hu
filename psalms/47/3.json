@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "Mert Jahve Felséges, félelmes, nagy Király az egész föld felett!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Felséges"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "félelmes"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Király"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:19.197282677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És ⟨volt⟩ a háború hosszú Saul háza és Dávid háza között, Dávid (Dávid) pedig ment és erősödött, Saul háza pedig ment és gyengült.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "És ⟨volt⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "a háború"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "hosszú"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és között"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "és Dávid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ment"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "és erősödött"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "és háza"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "mentek"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "és gyengültek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:22:06.680742386Z",
+  "model": "glm-5.3"
+}

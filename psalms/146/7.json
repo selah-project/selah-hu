@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 146,
+  "translation": "Igazságot tesz az elnyomottaknak, kenyeret ad az éhezőknek; Jahve megoldja a megkötözötteket.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "tesz"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ígéletet"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "az elnyomottaknak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "az éhezőknek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "megoldja"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "a megkötözötteket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:44.309155469Z",
+  "model": "glm-5.3"
+}

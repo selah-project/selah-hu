@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Ezt mondom: Én El-em, ne vegyél el engem napjaimnak felében; nemzedékről nemzedékre ⟨vannak⟩ éveid.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ezt mondom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Én El-em"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "vegyél el engem"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "…-nek felében"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjaim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "nemzedékről"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nemzedékre"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "éveid"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:09.209963997Z",
+  "model": "glm-5.3"
+}

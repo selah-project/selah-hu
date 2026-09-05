@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Amíg el nem jött az ő szava, Jahve beszéde megolvasztotta őt.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Amíg"
+    },
+    {
+      "surface": "עת",
+      "gloss": "el nem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "szava"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "beszéde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "megolvasztotta őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:01.908826055Z",
+  "model": "glm-5.3"
+}

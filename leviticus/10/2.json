@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És kiment tűz Jahve színe elől, és megemésztette ⟨את⟩ őket, és meghaltak Jahve színe előtt.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "És kiment"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és megemésztette"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "Nadáv és Avihú"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "és meghaltak"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:06.349110594Z",
+  "model": "glm-5.3"
+}

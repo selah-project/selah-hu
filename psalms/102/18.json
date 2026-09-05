@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 102,
+  "translation": "Fordult a kietlen könyörgése felé, és nem vetette meg ⟨את⟩ az ő imádságukat.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Fordult"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "könyörgése"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "a kietlen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "vetette meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő imádságukat"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "az ő imádságukat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:56.668350324Z",
+  "model": "glm-5.3"
+}

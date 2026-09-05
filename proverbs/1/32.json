@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert a balgatagok elfordulása megöli őket, és a bolondok nyugalma pusztítja el őket.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "elfordulása"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "a balgatagok"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "megöli őket"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "és a nyugalma"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "a bolondok"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "pusztítja el őket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:57.082121329Z",
+  "model": "glm-5.3"
+}

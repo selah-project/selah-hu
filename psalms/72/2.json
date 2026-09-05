@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Ítélje ⟨meg⟩ népedet igazsággal, és szegényeidet joggal.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ítélje"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "igazsággal"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "és szegényeidet"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "joggal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.401989169Z",
+  "model": "glm-5.3"
+}

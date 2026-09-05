@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És összegyűltek a filiszteusok, és eljövénk tábort vertek Sunemnél; és Saul összegyűjtötte ⟨את⟩ egész Izraelt, és tábort vertek Gilboán.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "És összegyűltek"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a filiszteusok"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és eljövénk"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "tábort vertek"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "Sunemnél"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "és összegyűjtötte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Izraelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "és tábort vertek"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Gilboán"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:13.136558673Z",
+  "model": "glm-5.3"
+}

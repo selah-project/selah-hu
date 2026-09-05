@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "A romlás előtt ⟨jár⟩ a gőg, és a botlás előtt a fennhéjázó lélek.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "romlás"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gőg"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "és előtt"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "botlás"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "fennhéjázó"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "lélek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:56.611170064Z",
+  "model": "glm-5.3"
+}

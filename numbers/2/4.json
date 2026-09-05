@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És a serege és számba vettjeik: hetvennégyezer-hatszáz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "És a serege"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "és számba vettjeik"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "-négy"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "-ezer"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és hat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:14.023518183Z",
+  "model": "glm-5.3"
+}

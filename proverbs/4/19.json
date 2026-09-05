@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "A gonoszak útja olyan, mint ⟨a⟩ sötétség: nem tudják, miben botlanak meg.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "útja"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszak"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "olyan, mint ⟨a⟩ sötétség"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tudják"
+    },
+    {
+      "surface": "במה",
+      "gloss": "miben"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "botlanak meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:50:25.889352653Z",
+  "model": "glm-5.3"
+}

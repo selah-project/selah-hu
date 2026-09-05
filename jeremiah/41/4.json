@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És történt a második napon, miután megölték ⟨את⟩ Gedaljáhut — és egy férfi sem tudta ⟨ezt⟩,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "megölni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljáhut"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljáhut"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "és egy férfi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudta"
+    }
+  ],
+  "timestamp": "2026-09-04T20:51:52.737743161Z",
+  "model": "glm-5.3"
+}

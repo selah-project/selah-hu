@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 8:9",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Joáv fiai közül: Ovadjá, Jechiél fia, és vele kétszáz tizennyolc férfi.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "fiai közül"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáv"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadjá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jechiél"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "és vele"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kétszáz"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "tizennyolc—nyolc"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(a tíz)"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "férfi"
+    }
+  ],
+  "timestamp": "2026-09-04T23:56:29.711942885Z",
+  "model": "glm-5.3"
+}

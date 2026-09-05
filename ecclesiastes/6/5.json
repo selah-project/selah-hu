@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Még ⟨a⟩ napot sem látta, és nem ismerte; nagyobb nyugalma van ennek, mint amannak.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "még"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "⟨a⟩ napot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismerte"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nyugalma"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ennek"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "mint amannak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:59.703107589Z",
+  "model": "glm-5.3"
+}

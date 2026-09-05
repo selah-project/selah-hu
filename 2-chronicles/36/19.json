@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 36:19",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És elégették ⟨את⟩ az Elohim házát, és lerombolták ⟨את⟩ Jerusálajim falát, és minden palotáját tűzzel égették el, és minden becses edényét — pusztításra.",
+  "tokens": [
+    {
+      "surface": "וישרפו",
+      "gloss": "és elégették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohim házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "וינתצו",
+      "gloss": "és lerombolták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusálajim falát"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "falát"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "palotáját"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "égették"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzzel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edényét"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "becses"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "pusztításra"
+    }
+  ],
+  "timestamp": "2026-09-04T23:24:32.701786694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És készítse a pap ⟨את⟩ az egyiket vétekáldozatul, és ⟨את⟩ az egyiket égőáldozatul, és engeszteljen érte a pap Jahve előtt folyása tisztátalanságáért.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "És készítse"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egyiket"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyiket"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "vétekáldozatul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az egyiket"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyiket"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "égőáldozatul"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engeszteljen"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "érte"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "folyása"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "tisztátalanságáért"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:31.925231852Z",
+  "model": "glm-5.3"
+}

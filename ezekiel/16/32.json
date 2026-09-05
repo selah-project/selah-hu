@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "A házasságtörő asszony — férje helyett idegeneket vesz ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "házasságtörő"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "helyett"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "férje"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idegeneket"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "idegeneket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:02:38.808658371Z",
+  "model": "glm-5.3"
+}

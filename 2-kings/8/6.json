@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megkérdezte a király az asszonyt, és elmesélte neki; és adott neki a király egy eunuchot, mondván: Add vissza ⟨את⟩ mind, ami az övé, és ⟨את⟩ a mező minden termését attól a naptól, hogy elhagyta ⟨את⟩ az országot, mindmostanáig.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "És megkérdezte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "az asszonyt"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "és elmesélte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunuchot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondva"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Add vissza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind, ami az övé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לה",
+      "gloss": "az övé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a mező minden termését"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "termését"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mező"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "attól a naptól"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "elhagyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az országot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az országot"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és eddig"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    }
+  ],
+  "timestamp": "2026-09-04T23:34:29.705097387Z",
+  "model": "glm-5.3"
+}

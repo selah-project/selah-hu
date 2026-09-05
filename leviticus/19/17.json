@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne gyűlöld ⟨את⟩ testvéredet szívedben; bizony fedd meg ⟨את⟩ társadat, és ne vegyél fel rá vétket.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "gyűlöld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "testvéredet"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéredet"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "szívedben"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "fedd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "társadat"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "társadat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "vegyél fel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vétket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:19:24.794226174Z",
+  "model": "glm-5.3"
+}

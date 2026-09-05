@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Te, ember fia, mutasd meg ⟨את⟩ Izrael házának ⟨את⟩ a házat, és szégyeníttessenek meg vétkeiktől, és mérjék meg ⟨את⟩ a tervét.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "embernek"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "mutasd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael házának"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "és szégyeníttessenek meg"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "vétkeiktől"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "és mérjék meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tervét"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "a tervét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:16:26.694866745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Az ember, aki szereti a bölcseséget, megörvendezteti apját; de a paráznák társa vagyonát elveszíti.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcseséget"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "megörvendezteti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apját"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "de társa"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "paráznáknak"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "elveszíti"
+    },
+    {
+      "surface": "הון",
+      "gloss": "vagyonát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:31.253455305Z",
+  "model": "glm-5.3"
+}

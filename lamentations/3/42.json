@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mi vétkeztünk és lázadoztunk; ⟨te⟩ nem bocsájtottál meg.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "vétkeztünk"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "és lázadoztunk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "bocsájtottál meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:35.547733477Z",
+  "model": "glm-5.3"
+}

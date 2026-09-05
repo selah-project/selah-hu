@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "A balga terv bűn, és az ember ⟨a⟩⟨undorítója⟩ a csúfoló.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "terv"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "balga"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "bűn"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "és undorítója"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "a csúfoló"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:03.637221843Z",
+  "model": "glm-5.3"
+}

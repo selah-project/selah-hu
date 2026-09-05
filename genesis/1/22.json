@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És megáldotta ⟨את⟩ őket Elohim, mondván: „Szaporodjatok és sokasodjatok, és töltsétek meg ⟨את⟩ a vizeket a tengerekben; és a madarakszaporodjék a földön.”",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "És megáldotta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Szaporodjatok"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "és sokasodjatok"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "és töltsétek meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a vizeket"
+    },
+    {
+      "surface": "המים",
+      "gloss": "a vizeket"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "a tengerekben"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "és a madarak"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "szaporodjék"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T18:13:33.281736858Z",
+  "model": "glm-5.3"
+}

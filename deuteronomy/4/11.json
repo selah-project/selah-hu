@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És közeledtetek, és megálltatok a hegy alatt, és a hegy égett tűzben az ég szívéig — sötétség, felhő és sűrű homály.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "És közeledtetek"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "és megálltatok"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegy"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "és a hegy"
+    },
+    {
+      "surface": "בער",
+      "gloss": "égett"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívéig"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sötétség"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "felhő"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "és sűrű homály"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:51.234648362Z",
+  "model": "glm-5.3"
+}

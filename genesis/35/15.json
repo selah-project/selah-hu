@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És elnevezte Jaakob ⟨את⟩ azt a helyet, ahol beszélt vele ⟨את⟩ ott az Elohim: Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "és elnevezte"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt a helyet \/ a hely nevét"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "a helynek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "ő — Jaakob"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:21.555754855Z",
+  "model": "glm-5.3"
+}

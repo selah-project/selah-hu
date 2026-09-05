@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Féljenek téged a nappal ⟨együtt⟩, és a hold előtt, nemzedek — nemzedékekig.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "féljenek téged"
+    },
+    {
+      "surface": "עם",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "a nappal"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "és a hold előtt"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "a hold"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nemzedék"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "nemzedékekig"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:05.543237100Z",
+  "model": "glm-5.3"
+}

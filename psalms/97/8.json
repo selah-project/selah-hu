@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "Hallotta és örvendezett Cion (Sion), és ujjongtak Jehúda (Júda) leányai a te ítéleteid miatt, Jahve.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "hallotta"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "és örvendezett"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cion (Sion)"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "és ujjongtak"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "leányai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda (Júda)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ítéleteid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:13.876980808Z",
+  "model": "glm-5.3"
+}

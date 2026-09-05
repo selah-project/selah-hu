@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És utálatosak legyenek nektek; húsukból ne egyetek, és ⟨את⟩ dögüket utáljátok.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "és utálatosak"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "legyenek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "húsukból"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ezetek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dögüket"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "dögüket"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "utáljátok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:46.816272790Z",
+  "model": "glm-5.3"
+}

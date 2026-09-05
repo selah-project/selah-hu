@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Simon (Simeon) fiai nemzetségeik szerint: a Nemuel-itől a nemzetség, a Jaminitől a nemzetség, a Jachinitől a nemzetség.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nemzetségeik szerint"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "Nemuel-itől"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a nemzetség"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "a Nemuel-i"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "Jaminitől"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a nemzetség"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "a Jamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "Jachinitől"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "a nemzetség"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "a Jachini"
+    }
+  ],
+  "timestamp": "2026-09-04T17:42:45.133049600Z",
+  "model": "glm-5.3"
+}

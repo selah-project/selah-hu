@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Vesszen el a nap, amelyen születtem, és az éjszaka, amelyen mondatott: fiat fogant egy férfi.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Vesszen el"
+    },
+    {
+      "surface": "יום",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "születtem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "amelyen"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "és az éjszaka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondatott"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "fogant"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "fiat ... egy férfi"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:59.629901987Z",
+  "model": "glm-5.3"
+}

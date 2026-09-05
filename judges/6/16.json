@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És monda neki Jahve: Bizony veled leszek, és megütsz ⟨את⟩ Midjánt, mint egyetlen egy embert.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "leszek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "és megütsz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjánt"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjánt"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "mint egy ember"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyetlen"
+    }
+  ],
+  "timestamp": "2026-09-04T18:52:02.207234977Z",
+  "model": "glm-5.3"
+}

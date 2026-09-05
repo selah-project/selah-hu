@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Uzijjáhu (Uzziás) király halálának évében láttam ⟨את⟩ Adonájt, amint trónon ül, magasra emelve, és szoknyája betöltötte ⟨את⟩ a templomot.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…évében"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halálának"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzijjáhu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "és láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonájt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonájt"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ül"
+    },
+    {
+      "surface": "על",
+      "gloss": "-on"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trónon"
+    },
+    {
+      "surface": "רם",
+      "gloss": "magasra"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "és emelve"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "és szoknyája"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "betöltötte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a templomot"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "a templomot"
+    }
+  ],
+  "timestamp": "2026-09-04T20:08:39.095905085Z",
+  "model": "glm-5.3"
+}

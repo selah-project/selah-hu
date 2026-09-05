@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És visszatért mögötte, és vette ⟨את⟩ az ökörjármot, és leölte azt, és az ökrök szerszámaival megfőzte ⟨את⟩ a húst, és adta a népnek, és ettek; és felkelt, és elment Elija után, és őt szolgálta.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "mögötte"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ökörjármot"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "az ökörjármot"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "az ökrök"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "és leölte azt"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "és a szerszámaival"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "az ökrök"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "megfőzte"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "a húst"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adta"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "és ettek"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "és őt szolgálta"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:55.413650971Z",
+  "model": "glm-5.3"
+}

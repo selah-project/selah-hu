@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Mert a halálban nincs emlékezés rád, a Seolban ki vall téged?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "במות",
+      "gloss": "a halálban"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "emlékezés rád"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "a Seolban"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "vall téged"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:28.909150993Z",
+  "model": "glm-5.3"
+}

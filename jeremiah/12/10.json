@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Sok pásztor pusztította el szőlőm, eltaposta ⟨את⟩ részemet; gyönyörűségem részét puszta romhalmazzá tették.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "pásztorok"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "pusztította"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "szőlőm"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "eltaposta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "részemet"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "részemet"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "tették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "részét"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "részét"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "gyönyörűségemnek"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "pusztasággá"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "romhalmazzá"
+    }
+  ],
+  "timestamp": "2026-09-04T20:37:05.953880613Z",
+  "model": "glm-5.3"
+}

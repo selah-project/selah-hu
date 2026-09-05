@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És bírákat állított az országban, Jehúda (Júda) minden erődített városában, városonként.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "És-állított"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "bírákat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az-országban"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden...-ban"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "városában"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "az-erődített"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "városonként"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "és-városonként"
+    }
+  ],
+  "timestamp": "2026-09-04T23:17:34.087677456Z",
+  "model": "glm-5.3"
+}

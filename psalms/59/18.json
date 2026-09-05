@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Erőmhöz, hozzád zenélek, mert Elohim ⟨az⟩ én menedéksom, az én heszedem Elohimja.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Erőmhöz"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zenélek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "menedéksom"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "heszedem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:04.609751408Z",
+  "model": "glm-5.3"
+}

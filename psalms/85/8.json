@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Mutasd meg nekünk, Jahve, a heszededet, és szabadításodat add nekünk!",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Mutasd meg nekünk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "a heszededet"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "és szabadításodat"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "add"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nekünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:36.703049745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Reú harminckettő évig, és nemzette ⟨את⟩ Serúgot.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reú"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "évig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serúgot"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serúgot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:58.726861180Z",
+  "model": "glm-5.3"
+}

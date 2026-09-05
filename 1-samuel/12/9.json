@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És elfelejtették ⟨את⟩ Jahvét, az Elohimjukat, és eladta ⟨את⟩ őket Sziszera kezébe, Hácór seregének fejedelmének, és a filiszteusok kezébe, és Moáb királyának kezébe, és azok hadakoztak ellenük.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "És elfelejtették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "az Elohimjukat"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "és eladta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sziszera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "fejedelem"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sereg"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hácór"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "és kezébe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiszteusok"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "és kezébe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "és hadakoztak"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ellenük"
+    }
+  ],
+  "timestamp": "2026-09-05T00:28:45.359752952Z",
+  "model": "glm-5.3"
+}

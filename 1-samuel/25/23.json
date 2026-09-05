@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 25:23",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És amikor Avigájil (Abigél) meglátta ⟨את⟩ Dávidot (Dávidot), sietett és leszállt a szamárról, és Dávid lábai elé arcára esett, és a földig meghajolt.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "És meglátta"
+    },
+    {
+      "surface": "אביגיל",
+      "gloss": "Avigájil (Abigél)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "sietett"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "leszállt"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "a szamárról"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "esett"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "lábai elé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "על",
+      "gloss": "arcára"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "arcára"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "meghajolt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a földig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:18:02.908801028Z",
+  "model": "glm-5.3"
+}

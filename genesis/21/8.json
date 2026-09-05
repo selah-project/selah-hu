@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És felnőtt a gyermek, és elválasztatott; és Avraham nagy lakomát készített azon a napon, amikor ⟨את⟩ Jichakot elválasztották.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "És felnőtt"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "a gyermek"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "és elválasztatott"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és készített"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "lakomát"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "azon a napon"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "elválasztásakor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jichakot"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichakot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:08.234065158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Aki kirabolja apját és anyját, és így szól: „nincs vétség” — társa ⟨ő⟩ a romboló embernek.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "kirabolja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "apját"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "és anyját"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és így szól"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "vétség"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "társa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a ... embernek"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "romboló"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:59.979639467Z",
+  "model": "glm-5.3"
+}

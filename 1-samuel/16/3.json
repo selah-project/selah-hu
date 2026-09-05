@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És hívatod Jisájt az áldozathoz, és én megismertetem veled ⟨את⟩ azt, amit cselekedned kell, és megkened nekem ⟨את⟩ azt, akit én monatok neked.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "És hívatod"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Jisájt"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "az áldozathoz"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "megismertetek veled"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit cselekedned kell"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "cselekednél"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "és megkened"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, akit én monatok neked"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "monatok"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:19.294099116Z",
+  "model": "glm-5.3"
+}

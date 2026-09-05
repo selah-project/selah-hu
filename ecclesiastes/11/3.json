@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Ha megtelnek ⟨eszővel⟩ a felhők, a földre zúdítják ⟨azt⟩; és ha a fa délre esik, és ha északra — ott lesz a hely, ahová a fa esik.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "megtelnek"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "a felhők"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "eszővel"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "zúdítják"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "esik"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "délre"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "északra"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "a hely"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ahová esik"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:56.742319258Z",
+  "model": "glm-5.3"
+}

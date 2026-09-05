@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "és rátörök, miközben ⟨az⟩ fáradt és lankadt kezű, és megrémítem ⟨את⟩ őt, és elfut mind a nép, amely ⟨את⟩ vele, és lesújtok ⟨את⟩ a királyra, egymagát.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "és rátörök"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "fáradt"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "és lankadt"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "kezű"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "és megrémítem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "őt"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "és elfut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "és lesújtok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyra"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egymagát"
+    }
+  ],
+  "timestamp": "2026-09-04T19:30:17.872494387Z",
+  "model": "glm-5.3"
+}

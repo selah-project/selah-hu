@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 115,
+  "translation": "Kegyeik vannak, de nem érintenek meg; lábaik vannak, de nem járnak; nem zengenek a torokukkal.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "kezeik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "érintenek meg"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "lábaik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "járnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "zengenek"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "a torokukkal"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:24.949685227Z",
+  "model": "glm-5.3"
+}

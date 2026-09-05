@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És összetöröm ⟨את⟩ gőgös erőtteteket, és adom ⟨את⟩ egeiteket mint a vasat, és ⟨את⟩ földeteket mint az ércet.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "és összetöröm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gőgös erőtteteket"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gőg"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "erőtteteket"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "és adom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egeiteket"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "egeiteket"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "mint a vasat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "földeteket"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "földeteket"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "mint az ércet"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:53.398708186Z",
+  "model": "glm-5.3"
+}

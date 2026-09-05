@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 140,
+  "translation": "Ragadj ki engem, Jahve, a gonosz embertől, az erőszakos férfi elől őrizz meg engem.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Ragadj ki engem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "az embertől"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gonosztól"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "a férfi elől"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "erőszakos"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "őrizz meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:11.418620714Z",
+  "model": "glm-5.3"
+}

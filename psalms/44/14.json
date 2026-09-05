@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "szégyenpéldává teszel minket szomszédjainknak, csúffá és gúnyolódássá a körülöttünk élőknek",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "teszel minket"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "szégyenpéldává"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "szomszédjainknak"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "csúffá"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "és gúnyolódássá"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "a körülöttünk élőknek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:57.690791982Z",
+  "model": "glm-5.3"
+}

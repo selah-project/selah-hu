@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És tudd meg a szíveddel, hogy ahogyan fenyíti az ember ⟨את⟩ az ő fiát, úgy fenyít Jahve, a te Elohimod téged.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "És tudd meg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a szíveddel"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "(szív)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "fenyíti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő fiát"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "fenyít téged"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:53.085539738Z",
+  "model": "glm-5.3"
+}

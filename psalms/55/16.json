@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Pusztaságok övezik ⟨őt⟩: szálljanak le élve a Seolba, mert gonoszság ⟨van⟩ lakóhelyükön, ⟨van⟩ midőnükben.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Pusztaságok"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "övezik"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "szálljanak le"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "a Seolba"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "gonoszság"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "lakóhelyükön"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "midőnükben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:03.885011994Z",
+  "model": "glm-5.3"
+}

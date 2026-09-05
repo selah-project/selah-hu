@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Ez a te sorsod, a te részed mértéke ⟨את⟩ tőlem — Jahve beszéde —, mert elfelejtettél ⟨את⟩ engem, és a hazugságban bíztál.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "a te sorsod"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "a te részed"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "mértéked"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ tőlem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "beszéde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "elfelejtettél"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "és bíztál"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "a hazugságban"
+    }
+  ],
+  "timestamp": "2026-09-04T20:36:58.117368701Z",
+  "model": "glm-5.3"
+}

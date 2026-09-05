@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És Mikhájáhu mondta: Él Jahve, hogy amit Jahve mond nekem, ⟨את⟩ azt mondom ⟨את⟩ el.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhájáhu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Él"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amit (Jahve mond)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (mondom el)"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mondom el"
+    }
+  ],
+  "timestamp": "2026-09-04T23:33:08.272569371Z",
+  "model": "glm-5.3"
+}

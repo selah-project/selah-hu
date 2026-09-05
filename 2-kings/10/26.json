@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És kivitték ⟨את⟩ a Baal házának szentoszlopait, és elégették azokat.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "És kivitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szentoszlopokat"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "a szentoszlopok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "és elégették azokat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:50.660486819Z",
+  "model": "glm-5.3"
+}

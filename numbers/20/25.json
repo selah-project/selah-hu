@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Vedd ⟨את⟩ Aharont és ⟨את⟩ Elazart, a fiát, és vezesd fel ⟨את⟩ őket a Hór hegyére,",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Vedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharont"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Elazart"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazart"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "a fia"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "és vezesd fel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hór"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegyre"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:22.471923436Z",
+  "model": "glm-5.3"
+}

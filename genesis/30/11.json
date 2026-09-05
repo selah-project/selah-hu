@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És mondta Lea: „Szerencse!” — és nevét Gádnak hívta.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Szerencse!"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "és hívta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gádnak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:05.224009069Z",
+  "model": "glm-5.3"
+}

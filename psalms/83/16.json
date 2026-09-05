@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "úgy üldözd őket viharoddal, és rémítsd meg őket fergetegeddel!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "úgy"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "üldözd őket"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "viharoddal"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "fergetegeddel"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "rémítsd meg őket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:30.978936533Z",
+  "model": "glm-5.3"
+}

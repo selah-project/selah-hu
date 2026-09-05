@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Nyisd ki kapuidat, Levanon, és tűz elfogyasztja cebrusaidban lévőket!",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Nyisd ki"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "kapuidat"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és elfogyasztja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "cedrusaidban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:34:44.498042592Z",
+  "model": "glm-5.3"
+}

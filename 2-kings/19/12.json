@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Megszabadították-e ⟨את⟩ őket a nemzetek istenei, amelyeket atyáim pusztítottak el — ⟨את⟩ Gózánt és ⟨את⟩ Háránt, és Recéfet és Éden fiait, akik Telászárban vannak?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Megszabadították-e"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "istenei"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a nemzetek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "pusztítottak el"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "atyáim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gózánt"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gózánt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Háránt"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Háránt"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "és Recéfet"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és fiait"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Éden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "Telászárban"
+    }
+  ],
+  "timestamp": "2026-09-04T20:02:48.389845421Z",
+  "model": "glm-5.3"
+}

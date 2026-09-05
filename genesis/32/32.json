@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És felkelt neki a nap, amikor átkelt ⟨את⟩ Penuelen, és ő sántított a csípőjére.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "És felkelt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "amikor"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "átkelt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sántított"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ra"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "a csípőjére"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:24.611003825Z",
+  "model": "glm-5.3"
+}

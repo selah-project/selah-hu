@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Hanem mindenki a maga vétkéért hal meg: minden ember, aki éretlen szőlőt eszik, annak a fogai tompulnak meg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "vétkéért"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hal meg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "aki eszik"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "éretlen szőlőt"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "tompulnak meg"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "fogai"
+    }
+  ],
+  "timestamp": "2026-09-04T20:46:26.143322650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Minden ételt útál ⟨a⟩ lelkük, és eljutnak a halál kapuiig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ételt"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "útál"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lelkük"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "és eljutnak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "kapui"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a halálnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:30.464190491Z",
+  "model": "glm-5.3"
+}

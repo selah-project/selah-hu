@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Moshe (Mózes) pedig ⟨volt⟩, legeltette ⟨את⟩ Jitró (Jetró), a Midjánban lévő kohén apósának nyáját, és elhajtotta ⟨את⟩ a nyájat a pusztán túlra, és eljött az Elohim hegyéhez, Hórebhez.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe pedig"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨volt⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "legeltette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitró … nyáját"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nyáját"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitró"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "apósának"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohénjának"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midján"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "elhajtotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nyájat"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a nyájat"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "túlra"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "a pusztán"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "eljött"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑hez"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Hórebhez"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:33.864603982Z",
+  "model": "glm-5.3"
+}

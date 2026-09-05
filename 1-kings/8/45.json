@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Akkor halld meg az égből ⟨את⟩ az ő imájukat és ⟨את⟩ az ő esedezésüket, és cselekedjed az ő ügyüket.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Akkor halld meg"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az égből"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő imájukat"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "az ő imájukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő esedezésüket"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "az ő esedezésüket"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és cselekedjed"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "az ő ügyüket"
+    }
+  ],
+  "timestamp": "2026-09-04T19:42:32.004807152Z",
+  "model": "glm-5.3"
+}

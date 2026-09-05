@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ne járjatok idegen istenek után, a körülöttetek élő népek istenei ⟨sem⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "járjatok"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "istenek"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "…istenei ⟨közül⟩"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "körülöttetek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:34.041490313Z",
+  "model": "glm-5.3"
+}

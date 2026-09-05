@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És kiáltott a nép Moshe (Mózes) felé, és imádkozott Moshe Jahvéhoz, és elhamvadt a tűz.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "És kiáltott"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "és imádkozott"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "és elhamvadt"
+    },
+    {
+      "surface": "האש",
+      "gloss": "a tűz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:39.589673173Z",
+  "model": "glm-5.3"
+}

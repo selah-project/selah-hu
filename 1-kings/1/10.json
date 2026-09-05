@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "De ⟨את⟩ Nátánt (Nátán) a prófétát és Benájáhut (Benája) és ⟨את⟩ a vitézeket és ⟨את⟩ Selomót (Salamon) testvérét nem hívta meg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nátánt"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátánt"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "a prófétát"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "és Benájáhut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a vitézeket"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "a vitézeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Selomót"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomót"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "testvérét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hívta meg"
+    }
+  ],
+  "timestamp": "2026-09-04T19:36:38.606321782Z",
+  "model": "glm-5.3"
+}

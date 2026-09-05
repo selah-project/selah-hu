@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 54,
+  "translation": "Mert a hegyek elmozdulnak, és a halmok meginognak, de az én heszedem ⟨את⟩ tőled el nem távozik, és békességem szövetsége nem inog meg — mondja a téged irgalmazó Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "a hegyek"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "elmozdulnak"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "és a halmok"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "meginognak"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "de az én heszedem"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ tőled",
+      "marks": "tőled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "el nem távozik"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "és... szövetsége"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "békességemnek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "inog meg"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondja"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "a téged irgalmazó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T23:36:53.430299257Z",
+  "model": "glm-5.3"
+}

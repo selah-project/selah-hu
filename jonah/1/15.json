@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És felvették ⟨את⟩ Jónát, és bedobták a tengerbe, és megállt a tenger az indulatjától.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "és felvették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jónát"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jóná"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "és bedobták"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tengerbe"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "és megállt"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "az indulatjától"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:04.382342634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És lakhelyemet adom közétek, és nem utál meg ⟨את⟩ titeket a lelkem.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "és adom"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "lakhelyemet"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "közétek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "utál meg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "a lelkem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "titeket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:02.530871086Z",
+  "model": "glm-5.3"
+}

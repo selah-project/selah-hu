@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Nyújtsd ki kezeidet a magasságból, ments ki engem, és szabadíts meg engem a sok vizen, az idegenek fiai kezéből.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nyújtsd ki"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "kezeidet"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "a magasságból"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ments ki engem"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "és szabadíts meg engem"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "a vizen"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sok"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "idegenek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:29.095042964Z",
+  "model": "glm-5.3"
+}

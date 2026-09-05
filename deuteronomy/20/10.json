@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Ha közeledsz egy városhoz, hogy harcolj ellene, szólítsd fel békére.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "közeledsz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "egy város"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "hogy harcolj"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ellene"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "szólítsd"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "békére"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:54.874914415Z",
+  "model": "glm-5.3"
+}

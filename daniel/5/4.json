@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ittak a borból, és dicsőítették az arany és ezüst, a réz, a vas, a fa és a kő isteneit.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "ittak"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "a bort"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "és dicsőítették"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "az isteneit"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "az arany"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "és az ezüst"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "a réz"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "a vas"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "és a kő"
+    }
+  ],
+  "timestamp": "2026-09-04T22:43:47.581823082Z",
+  "model": "glm-5.3"
+}

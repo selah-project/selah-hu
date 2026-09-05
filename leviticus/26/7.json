@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És kergetni fogjátok ⟨את⟩ ellenségeiteket, és hullanak majd orcátok előttára kardra.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "és kergetni fogjátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellenségeiteket"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ellenségeiteket"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "és hullanak"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "orcátok előtt"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kardra"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:09.650701232Z",
+  "model": "glm-5.3"
+}

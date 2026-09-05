@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Csontjaimban ⟨mint⟩ ölés ⟨ként⟩ gyaláznak engem szorongatóim, amikor egész napon át mondják nekem: „hol van a te Elohimod?”",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "ölésként"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "csontjaimban"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "gyaláznak engem"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "szorongatóim"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "amikor mondanak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hol van"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:13.965367313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Paraszt (Perzsia), Kús és Pút ⟨את⟩-ükkel, mindnyájan pajzzsal és sisakkal.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paraszt"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "és Pút"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "velük"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "mindnyájan"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "pajzzsal"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "és sisakkal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:13:31.250635870Z",
+  "model": "glm-5.3"
+}

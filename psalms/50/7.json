@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Hallgasd meg, népem, és szólok, Izráel, és bizonyságot teszek ellened: Elohim, a te Elohimod vagyok én.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Hallgasd meg"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "és szólok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "és bizonyságot teszek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ellened"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimod"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én vagyok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:26.881630760Z",
+  "model": "glm-5.3"
+}

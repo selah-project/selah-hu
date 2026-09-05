@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Nem egyesülsz ⟨את⟩ velük a sírba temetésben, mert földedet elpusztítottad, népedet megölted; a gonosztevők magvát nem nevezik meg örökké.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "egyesülsz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ velük",
+      "marks": "velük"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "a sírba temetésben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "földedet"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "elpusztítottad"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "népedet"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "megölöd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nevezik meg"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magva"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "a gonosztevők"
+    }
+  ],
+  "timestamp": "2026-09-04T20:13:04.056459164Z",
+  "model": "glm-5.3"
+}

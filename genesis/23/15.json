@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "„Uram, hallgass meg: föld, négy száz sékel ezüst — köztünk és közötted mi az? Temesd el ⟨את⟩ halottadat.”",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Uram"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "hallgass meg"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "száz"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sékel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüst"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "köztünk"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "és közötted"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "halottadat"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "halottadat"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "Temesd el"
+    }
+  ],
+  "timestamp": "2026-09-04T18:15:16.179530674Z",
+  "model": "glm-5.3"
+}

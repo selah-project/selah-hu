@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "És elkészítették ⟨את⟩ az ajándékot Joszéf (József) délben érkezéséig, mert hallották, hogy ott étkeznek kenyeret.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "elkészítették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ajándékot"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "az ajándékot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "érkezéséig"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joszéf"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "délben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hallották"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "esznek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    }
+  ],
+  "timestamp": "2026-09-04T16:39:36.179997651Z",
+  "model": "glm-5.3"
+}

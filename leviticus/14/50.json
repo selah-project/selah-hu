@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És vágja le ⟨את⟩ az egyik madarat cserépedény fölé, élő víz fölé.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "és vágja le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egyik madarat"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "a madarat"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "az egyiket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edény"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "cserép"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "מים",
+      "gloss": "víz"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élő"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:51.137711856Z",
+  "model": "glm-5.3"
+}

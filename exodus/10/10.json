@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És mondta nekik: legyen így — Jahve ⟨legyen⟩ veletek, ahogyan elbocsátlak titeket ⟨את⟩ és ⟨את⟩ kicsinyeiteket! Lássátok, hogy rossz ⟨van⟩ arcotok előtt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "elbocsátlak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "kicsinyeiteket"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "kicsinyeiteket"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Lássátok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "arcotok"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:37.289437Z",
+  "model": "glm-5.3"
+}

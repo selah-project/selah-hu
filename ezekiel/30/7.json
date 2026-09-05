@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 30:7",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És elpusztultan lesznek elpusztult országok ⟨közepette⟩, és az ő városai elpusztult városok ⟨közepette⟩ lesznek.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "és elpusztultan lesznek"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨közepette⟩"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "országok"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "elpusztult"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "és az ő városai"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "⟨közepette⟩"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "városok"
+    },
+    {
+      "surface": "נחרבות",
+      "gloss": "elpusztult"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "lesznek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:10:15.726530212Z",
+  "model": "glm-5.3"
+}

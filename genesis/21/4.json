@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És körülmetélte Avraham ⟨את⟩ Jichakot (Izsákot), az ő fiát, nyolcnapos fiút, ahogyan parancsolta ⟨את⟩ neki Elohim.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "És körülmetélte"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jichakot"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichakot (Izsákot)"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "az ő fiát"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiút"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "nyolc"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napos"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": " Avraham — 'neki'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:34.622099824Z",
+  "model": "glm-5.3"
+}

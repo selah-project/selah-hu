@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Az asszony pedig fogta és kiterítette ⟨את⟩ a takarót a kút szájára, és rászitálta a durrát, és nem lett tudtáva a dolog.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "fogta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "és kiterítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a takarót"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "a takarót"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "szájára"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "a kútnak"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "és rászitálta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "arra"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "durrát"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "lett tudtáva"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a dolog"
+    }
+  ],
+  "timestamp": "2026-09-04T19:31:55.103490807Z",
+  "model": "glm-5.3"
+}

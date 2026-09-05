@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Aki igazsággá tesz gonoszt, és bűnössé tesz igazat — Jahve utálatossága mindkettő ⟨az⟩.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "aki-igazsággá-tesz"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gonoszt"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "és-bűnössé-tesz"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igazat"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "utálatossága"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mind"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kettő"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:32.495042295Z",
+  "model": "glm-5.3"
+}

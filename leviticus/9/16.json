@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És odavette ⟨את⟩ az égőáldozatot, és elvégezte azt a rendelet szerint.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "és odavette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az égőáldozatot"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozatot"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "és elvégezte azt"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "a rendelet szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:48.118934636Z",
+  "model": "glm-5.3"
+}

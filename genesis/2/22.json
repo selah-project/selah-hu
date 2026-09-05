@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És megépítette Jahve Elohim ⟨את⟩ a bordát, amelyet vett az emberből, asszonnyá, és bevezette őt az emberhez.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "és megépítette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bordát"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "a bordát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vett"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ből"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az emberből"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "asszonnyá"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "és bevezette őt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…hez"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az emberhez"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:13.166298747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Jahve hangja ⟨van⟩ az erőben, Jahve hangja ⟨van⟩ a fényességben.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "erőben"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "fényességben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:20.574502417Z",
+  "model": "glm-5.3"
+}

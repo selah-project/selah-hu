@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És csinált ⟨את⟩ ⟨a⟩ magaslatok házát, és papokat tett a nép szélsőiből, akik nem voltak Lévi fiai közül.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És csinált"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "במות",
+      "gloss": "magaslatok"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "és tett"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "papokat"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "szélsőiből"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voltak"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "fiai közül"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    }
+  ],
+  "timestamp": "2026-09-04T19:45:11.727238395Z",
+  "model": "glm-5.3"
+}

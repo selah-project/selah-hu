@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Azért, mert nem gondolt heszedet cselekedni, hanem üldözött nyomorult és szegény embert, és megtört szívűeket, hogy megölje.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Azért, mert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gondolt"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "cselekedni"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "heszedet"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "hanem üldözött"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embert"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nyomorult"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és szegény"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "és megtört"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívűeket"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "hogy megölje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:50.502958088Z",
+  "model": "glm-5.3"
+}

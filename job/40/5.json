@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Egyszer szóltam, és nem felelek; kétszer, és nem teszek hozzá többet.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Egyszer"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "szóltam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "felelek"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kétszer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "teszek hozzá többet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:28:47.135298447Z",
+  "model": "glm-5.3"
+}

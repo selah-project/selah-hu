@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "A talptól a fejig nincs benne ép hely: seb és véraláfekvés és friss csapás; nem szorították össze, és nem kötötték be, és nem puhították olajjal.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "a talptól"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "a láb"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "(é)s"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "benne"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ép hely"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "seb"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "és véraláfekvés"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "és csapás"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "friss"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "szorították össze"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "kötötték be"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "puhították"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olajjal"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:52.080071016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 77,
+  "translation": "És azt mondtam: ez az én gyengeségem ⟨van⟩ — ⟨és⟩ észben tartom a Magasságos jobbkezének esztendeit.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És azt mondtam:"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "gyengeségem"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ez⟨van⟩"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "esztendeit"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobbkezének"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "a Magassagosé"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:23.301771325Z",
+  "model": "glm-5.3"
+}

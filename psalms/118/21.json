@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 118,
+  "translation": "Hálát adok neked, mert megválaszoltál, és ⟨els⟩ üdvösségemmé.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "hálát adok neked"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "megválaszoltál"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "üdvösségemmé"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:08.837869374Z",
+  "model": "glm-5.3"
+}

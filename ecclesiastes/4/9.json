@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Jobbak a ketten, mint ⟨az⟩ egyedül való, mert van nekik jó jutalom fáradozásukból.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Jobbak"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "a ketten"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mint"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨az⟩ egyedül való"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "jutalom"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "fáradozásukból"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:07.443541988Z",
+  "model": "glm-5.3"
+}

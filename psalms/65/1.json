@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "A karmesternek. Zsoltár Dávidtól. Ének.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:04.799384860Z",
+  "model": "glm-5.3"
+}

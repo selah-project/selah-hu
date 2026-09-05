@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Az igazak tervei ⟨a⟩ jog szerint vannak, a gonoszok cselszövései csalás.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "tervei"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazak"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "jog"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "cselszövései"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszok"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "csalás"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:39.103471806Z",
+  "model": "glm-5.3"
+}

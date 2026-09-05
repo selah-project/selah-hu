@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Az pedig azt mondta neki: Nem megyek, hanem a magam földjére és a magam szülőhazájára megyek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és azt mondta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "megyek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-re"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "földemre"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és -ra"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "szülőhazámra"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "megyek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:29.788422571Z",
+  "model": "glm-5.3"
+}

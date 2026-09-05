@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Mert megvadultak a pásztorok, és ⟨את⟩ Jahvét nem keresték, ezért nem jártak okosan, és egész nyájuk szétszóródott.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "megvadultak"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "a pásztorok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "keresték"
+    },
+    {
+      "surface": "על",
+      "gloss": "emiatt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ezért"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "jártak okosan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és egész"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "nyájuk"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "szétszóródott"
+    }
+  ],
+  "timestamp": "2026-09-04T20:35:10.862140793Z",
+  "model": "glm-5.3"
+}

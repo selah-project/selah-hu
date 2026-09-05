@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Tövisek, csapdák ⟨vannak⟩ a görbe úton; aki őrzi ⟨az⟩ ⟨ő⟩ lelkét, messze marad tőlük.",
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "Tövisek"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "csapdák"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "görbe"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lelkét"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "messze marad"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tőlük"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:53.137615472Z",
+  "model": "glm-5.3"
+}

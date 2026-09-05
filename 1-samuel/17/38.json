@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És felöltöztette Saúl ⟨את⟩ Davidot a maga ruháiba, és rézsisakot tett a fejére, és felöltöztette őt ⟨את⟩ páncélba.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "És felöltöztette"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "a maga ruháiba"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és tett"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "sisakot"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "réz-"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "fejé"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "és felöltöztette"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "páncélba (שריון)"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "páncélba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:13:07.720921823Z",
+  "model": "glm-5.3"
+}

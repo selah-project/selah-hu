@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 100,
+  "translation": "Menjetek be kapuin hálaadással, tornácaiba dícsérettel; háláladjatok ⟨neki⟩, áldjátok a nevét!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Menjetek be"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "kapuin"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "hálaadással"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "tornácaiba"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "dícsérettel"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "háláladjatok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "áldjátok"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a nevét"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:01.456549670Z",
+  "model": "glm-5.3"
+}

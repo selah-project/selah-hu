@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Dicsőséged fenségének fényességéről és csodáid beszédeiről elmélgek.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "fényességéről"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dicsőséged"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "fenségének"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "és beszédeiről"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "csodáidnak"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "elmélgek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:58.501736554Z",
+  "model": "glm-5.3"
+}

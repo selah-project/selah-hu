@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 108,
+  "translation": "Magasztaltassál az egek fölött, Elohim, és minden földön ⟨álljon⟩ a dicsőséged!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Magasztaltassál"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és … on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földön"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "a dicsőséged"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:28.229279677Z",
+  "model": "glm-5.3"
+}

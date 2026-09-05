@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "hogy megerősítsen ⟨את⟩ téged ma magának népéül, és ő lesz néked Elohimul, ahogyan szólt hozzád, és ahogyan megesküdött atyáidnak: Avrahamnak (Ábrahám), Jichaknak (Izsák) és Jaakovnak (Jákob).",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "megerősítsen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "téged"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "magának"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "népéül"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "néked"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimul"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "és ahogyan"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "megesküdött"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "atyáidnak"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamnak (Ábrahám)"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jichaknak (Izsák)"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "és Jaakovnak (Jákob)"
+    }
+  ],
+  "timestamp": "2026-09-04T18:29:45.341760664Z",
+  "model": "glm-5.3"
+}

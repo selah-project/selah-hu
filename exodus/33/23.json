@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "és elveszem ⟨את⟩ tenyerem, és látod ⟨את⟩ hátamat, de arcom nem láttatik.”",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "és elveszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenyerem"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tenyerem"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "és látod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hátamat"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hátamat"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "de arcom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "láttatik"
+    }
+  ],
+  "timestamp": "2026-09-04T16:59:37.612802644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És ti felkeltök az lesből, és elfoglaljátok ⟨את⟩ a várost, és odaadja Jahve, a ti Elohimotok, a kezetekbe.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "És ti"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "felkeltek"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "az lesből"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "és elfoglaljátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a várost"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "és odaadja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "a kezetekbe"
+    }
+  ],
+  "timestamp": "2026-09-04T18:38:35.839351539Z",
+  "model": "glm-5.3"
+}

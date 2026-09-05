@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 20:16",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Mert ⟨את⟩ ítéleteimet megvetették, és ⟨את⟩ rendeleteimben nem jártak, és ⟨את⟩ szombatjaimat meggyalázták, mert a bálványaik után járt az ő szívük.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "mert"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "ítéleteimet"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "megvetették"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rendeleteimet"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "rendeleteimet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "jártak"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azokban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "szombatjaimat"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "szombatjaimat"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "meggyalázták"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "bálványaik"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "szívük"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "járt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:05:23.808167974Z",
+  "model": "glm-5.3"
+}

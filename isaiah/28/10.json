@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Mert cav a cavra, cav a cavra, kav a kavra, kav a kavra, kevés itt, kevés ott.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "צו",
+      "gloss": "cav"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "a cavra"
+    },
+    {
+      "surface": "צו",
+      "gloss": "cav"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "a cavra"
+    },
+    {
+      "surface": "קו",
+      "gloss": "kav"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "a kavra"
+    },
+    {
+      "surface": "קו",
+      "gloss": "kav"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "a kavra"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "שם",
+      "gloss": "itt"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kevés"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T20:16:26.499628196Z",
+  "model": "glm-5.3"
+}

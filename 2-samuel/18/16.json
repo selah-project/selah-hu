@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És megfújta Joáb a kürtöt, és visszatért a nép Izrael üldözéséből, mert Joáb visszatartotta ⟨את⟩ a népet.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "És megfújta"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "a kürtöt"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "üldözéséből"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "után"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "visszatartotta"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    }
+  ],
+  "timestamp": "2026-09-04T19:32:21.145043542Z",
+  "model": "glm-5.3"
+}

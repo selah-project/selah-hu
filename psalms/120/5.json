@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 120,
+  "translation": "Jaj nekem, hogy Mesekben (Mesek) vendégeskedtem, Kédárral (Kédár), a sátrak lakójával laktam!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Jaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "vendégeskedtem"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Mesekben (Mesek)"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "laktam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Kédárral"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "a sátraknak"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kédár (Kédár)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:48.259014491Z",
+  "model": "glm-5.3"
+}

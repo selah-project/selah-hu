@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "Jahve ⟨az⟩ ereje ⟨népének⟩, és menedéke szabadulásainak az ő Mashiahja — ő ⟨ez⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ereje"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨népének⟩"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "és menedéke"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "szabadulásainak"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "az ő Mashiahja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő ⟨ez⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:22.990631098Z",
+  "model": "glm-5.3"
+}

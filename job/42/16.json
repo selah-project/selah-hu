@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "És élt Ijov ezután száz és negyven esztendőt, és látta ⟨את⟩ fiait és ⟨את⟩ fiaitól való fiait, négy nemzedéket.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ezután"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "és negyven"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiaitól való fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaitól való"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "négy"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "nemzedéket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:29:14.144862504Z",
+  "model": "glm-5.3"
+}

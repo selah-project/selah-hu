@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És városaik külvárosainak földje el nem adatik, mert örök birtok ⟨az⟩ nekik.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "És földje"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "külvárosainak"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "városaiknak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "adatik el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "birtok"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örök"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T17:21:49.656979179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És odaadta Hizkijá ⟨את⟩ az összes ezüstöt, amely megtalálható volt Jahve házában és a király házának kincstáraiban.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És odaadta"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkijá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az összes ezüstöt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az összes"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ezüstöt"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "amely megtalálható"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "és kincstáraiban"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T20:01:34.196145666Z",
+  "model": "glm-5.3"
+}

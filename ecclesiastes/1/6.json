@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "A dél felé megy, és körbejár az észak felé; körbejárva körbejár, megy a szél, és keringései mentén visszatér a szél.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "megy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "a dél"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "és körbejár"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felé"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "az észak"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "körbejárva"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "körbejár"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "megy"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "a szél"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ... mentén"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "keringései"
+    },
+    {
+      "surface": "שב",
+      "gloss": "visszatér"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "a szél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:02.147194784Z",
+  "model": "glm-5.3"
+}

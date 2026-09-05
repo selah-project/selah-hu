@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Mi haszonom ⟨van⟩ a véremben, ha leszállok a gödörbe? Hirdeti-e a por a te hűségedet, hirdeti-e téged a por?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "haszonom"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "a véremben"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "ha leszállom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gödörbe"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "dicsér-e téged"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "a por"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "hirdeti-e"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "a te hűségedet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:57.418853698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Jobb a szegény, aki tökéletességben jár, mint az ajkában csavaros, miközben ⟨ő⟩ bolond.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Jobb"
+    },
+    {
+      "surface": "רש",
+      "gloss": "a szegény"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "aki jár"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "tökéletességben"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "mint a csavaros"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "az ő ajkában"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ⟨ő⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "bolond"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:55.607208121Z",
+  "model": "glm-5.3"
+}

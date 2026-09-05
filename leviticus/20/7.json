@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És szentelődjétek meg, és legyetek szentek, mert én ⟨vagyok⟩ Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "És szentelődjétek meg"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "és legyetek"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:36.568540824Z",
+  "model": "glm-5.3"
+}

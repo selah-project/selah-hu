@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 1:27",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Vajon ⟨את⟩ uramtól, a királytól lett ez a dolog, és nem tudattad ⟨את⟩ szolgáddal, ki ül uramnak, a királynak a trónusára utána?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "vajon"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "uramtól, a királytól"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uramtól"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királytól"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "lett"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ez a dolog"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "tudattad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáddal"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáddal"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ül"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-ra"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trónusára"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uramnak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "utána"
+    }
+  ],
+  "timestamp": "2026-09-04T19:38:13.768245598Z",
+  "model": "glm-5.3"
+}

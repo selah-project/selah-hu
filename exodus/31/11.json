@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "és ⟨את⟩ a felkenés olaját és ⟨את⟩ a fűszerek füstölőáldozatát a szentélyhez; mindent, amit parancsoltam neked, megteszik.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a felkenés olaját"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olaját"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "felkenés"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a füstölőáldozatát"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "füstölőáldozatát"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "fűszerek"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "a szentélyhez"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "parancsoltam neked"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "megteszik"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:10.950942667Z",
+  "model": "glm-5.3"
+}

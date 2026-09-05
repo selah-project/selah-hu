@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 53,
+  "translation": "Egészen elhajlottak, együtt váltak romlottá; nincs, aki jót cselekszik, nincs, egyetlenegy sem.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Egészen"
+    },
+    {
+      "surface": "סג",
+      "gloss": "elhajlottak"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "egyenként, együtt"
+    },
+    {
+      "surface": "נאלחu",
+      "gloss": "váltak romlottá"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "aki cselekszik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egyetlenegy sem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:06.677684824Z",
+  "model": "glm-5.3"
+}

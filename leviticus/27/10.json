@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Ne cserélje el, és ne változtassa meg ⟨את⟩ azt — jót rosszra vagy rosszat jóra; és ha mégis változtat, állatot állatért: akkor ⟨az⟩ legyen — ⟨az⟩ és az ő cseréje szent lesz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "cserélje el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "változtassa meg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "rosszra"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "jóra"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "המר",
+      "gloss": "bizony változtat"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "változtat"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "állatot"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "állatért"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "akkor legyen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "és az ő cseréje"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:52.619926458Z",
+  "model": "glm-5.3"
+}

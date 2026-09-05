@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És felemelte Dávid és a nép, aki ⟨את⟩-vele volt, ⟨את⟩ az ő hangjukat, és sírtak, míg nem volt bennük erő a síráshoz.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "És felemelte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "és a nép"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-vele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő hangjukat"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "az ő hangjukat"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "és sírtak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "míg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem volt"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bennük"
+    },
+    {
+      "surface": "כח",
+      "gloss": "erő"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "a síráshoz"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:41.649770341Z",
+  "model": "glm-5.3"
+}

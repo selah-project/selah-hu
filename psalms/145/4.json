@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 145,
+  "translation": "Nemzedék nemzedéknek dicséri tetteidet, és hőstetteidet hirdetik.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Nemzedék"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "nemzedéknek"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "dicséri"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tetteidet"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "és hőstetteidet"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "hirdetik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:21.598595511Z",
+  "model": "glm-5.3"
+}

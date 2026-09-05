@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 81,
+  "translation": "Rövidesen meghajtottam volna ellenségeiket, és szorongatóik ellen fordítottam volna kezem.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "rövidesen"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ellenségeiket"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "meghajtottam volna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ellen"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "szorongatóik"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "fordítottam volna"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:31.247808453Z",
+  "model": "glm-5.3"
+}

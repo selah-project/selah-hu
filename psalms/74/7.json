@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Tűzzel bocsátották ⟨el⟩ szentélyedet, a földig gyalázták neved lakóhelyét.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "bocsátották"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzzel"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "szentélyedet"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földig"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "gyalázták"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "lakóhelyét"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "neved"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:28.668718158Z",
+  "model": "glm-5.3"
+}

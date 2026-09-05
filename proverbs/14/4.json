@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Ahol nincsenek ökrök, üres a jászol, és bőséges a termés az ökör erejével.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "ahol nincsenek"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ökrök"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "a jászol"
+    },
+    {
+      "surface": "בר",
+      "gloss": "üres"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "és bőséges"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "a termés"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "erejével"
+    },
+    {
+      "surface": "שור",
+      "gloss": "az ökör"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:49.506028523Z",
+  "model": "glm-5.3"
+}

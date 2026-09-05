@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 44:24",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És peres ügyben ők állnak meg ítélkezni az én ítéleteimben, és megítélik ⟨את⟩; és ⟨את⟩ Tórámat és ⟨את⟩ rendeleteimet minden ünnepemen megtartják, és ⟨את⟩ szombatjaimat megszentelik.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "És peres ügyben"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "per"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ők"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "állnak meg"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ítélkezni"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "az én ítéleteimben"
+    },
+    {
+      "surface": "ושפטהו",
+      "gloss": "és megítélik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "(azt)"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tórámat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rendeleteimet"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "rendeleteimet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ünnepemen"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "megtartják"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "szombatjaimat"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "szombatjaimat"
+    },
+    {
+      "surface": "יקדשו",
+      "gloss": "megszentelik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:16:26.089577125Z",
+  "model": "glm-5.3"
+}

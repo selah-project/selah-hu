@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 78,
+  "translation": "milyen gyakran lázadtak ellene a pusztában, keserítették őt a kietlen pusztaságban!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "milyen gyakran"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "lázadtak ellene"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "keserítették őt"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "a kietlen pusztaságban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:06.337167420Z",
+  "model": "glm-5.3"
+}

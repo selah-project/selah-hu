@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És a lázadók mélyre merültek a mészárlásban, de én fegyelem ⟨leszek⟩ mindnyájuknak.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "a mészárlás"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "lázadók"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "mélyre merültek"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "de én"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "fegyelem"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "mindnyájuknak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:46.307326956Z",
+  "model": "glm-5.3"
+}

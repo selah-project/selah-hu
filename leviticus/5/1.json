@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És ha egy lélek vétkezik, és hallotta az átok ⟨szavát⟩, és ő tanú — látott vagy tudott —, ha nem jelenti meg, akkor hordozza az ő vétkét.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "És ha egy lélek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "vétkezik"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "és hallotta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "⟨szavát⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "átok"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanú"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látott"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudott"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "jelenti meg"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "hordozza"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "az ő vétkét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:09:19.289543614Z",
+  "model": "glm-5.3"
+}

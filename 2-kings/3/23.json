@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És mondták: „Vér ez! A királyok bizonyosan megsemmisültek, és mindenki a társát ütötte — most hát zsákmányra, Moáb!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondták"
+    },
+    {
+      "surface": "דם",
+      "gloss": "Vér"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "bizonyosan megsemmisültek"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "megsemmisültek"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "a királyok"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és ütötte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a társát"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "a társát"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "most hát"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "zsákmányra"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    }
+  ],
+  "timestamp": "2026-09-04T19:53:18.335991233Z",
+  "model": "glm-5.3"
+}

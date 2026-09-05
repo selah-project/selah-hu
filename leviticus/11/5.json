@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ⟨את⟩ a szajkót ⟨azért⟩, mert felhozza ⟨a⟩ kérődzést ⟨ő⟩, de patát nem hasítja ketté — tamé ⟨ő⟩ nektek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "a szajkót"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "a szajkó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨azért⟩, mert"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "felhozza"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "⟨a⟩ kérődzést"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "de patát"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "hasítja ketté"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tamé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:20.095810567Z",
+  "model": "glm-5.3"
+}

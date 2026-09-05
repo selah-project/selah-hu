@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Egy esztendős ⟨fia⟩ volt Shaúl (Saul) az ő uralkodása kezdetén, és két esztendeig uralkodott Jiszraél (Izráel) felett.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨fia⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "egy esztendős"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "volt Shaúl"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "az ő uralkodása kezdetén"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "és két"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendeig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uralkodott"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszraél"
+    }
+  ],
+  "timestamp": "2026-09-04T19:08:31.333776947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 135,
+  "translation": "Felhozza a felhőket a föld széléből, villámokat készít az esőre, előhozza a szelet ⟨az⟩ ő raktáraiból.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "Felhozza"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "a felhőket"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "a föld széléből"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "villámokat"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "az esőre"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készít"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "előhozza"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a szelet"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "⟨az⟩ ő raktáraiból"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:02.631303960Z",
+  "model": "glm-5.3"
+}

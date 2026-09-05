@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 65,
+  "translation": "Imádságot hallgató ⟨vagy⟩, hozzád minden test eljön.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hallgató"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "imádságot"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "test"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "eljön"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:04.800251591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Az ő megszámláltjaik a Gád törzséből: ötven-egynégyezer-hatszázötven ⟨volt⟩.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "megszámláltjaik"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "törzséből"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "öt"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "és negyven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és hat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "és ötven"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:02.490149088Z",
+  "model": "glm-5.3"
+}

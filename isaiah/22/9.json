@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És ⟨את⟩ részeit láttátok Dávid (David) városának, mert megsokasodtak, és összegyűjtöttétek ⟨את⟩ vizeit az alsó medencének.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "részeit Dávid városának"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "részeit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "városának"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid (David)"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "láttátok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "megsokasodtak"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "és összegyűjtöttétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vizeit az alsó medencének"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizeit"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "a medencének"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "az alsó"
+    }
+  ],
+  "timestamp": "2026-09-04T20:15:14.612581788Z",
+  "model": "glm-5.3"
+}

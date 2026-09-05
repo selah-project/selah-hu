@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Hallgass meg, Jahve, és könyörülj rajtam; Jahve, légy segítőmnek!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hallgass meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "és könyörülj rajtam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "légy"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "segítőmnek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨nekem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:57.419037815Z",
+  "model": "glm-5.3"
+}

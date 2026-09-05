@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És ezek által tisztátalanok lesztek: mindenki, aki megérinti a tetemüket, tisztátalan lesz estig.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "És ezek által"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "tisztátalanok lesztek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "aki megérinti"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "a tetemüket"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tisztátalan lesz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "estig"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨est⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:19.282046770Z",
+  "model": "glm-5.3"
+}

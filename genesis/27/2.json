@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És ezt mondta: Íme, kérlek, megöregtem, nem tudom halálom napját.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És ezt mondta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "megöregtem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napját"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "halálomnak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:35.097630008Z",
+  "model": "glm-5.3"
+}

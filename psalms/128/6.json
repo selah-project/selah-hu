@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 128,
+  "translation": "és lásd fiaid fiait! Salom Izráelen!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "és lásd"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "fiad"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salom"
+    },
+    {
+      "surface": "על",
+      "gloss": "Izráelen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:04.374344956Z",
+  "model": "glm-5.3"
+}

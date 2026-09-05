@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És most kelj fel hajnalban, te és a te urad szolgái, akik veled ⟨את⟩ jöttek, és keljetek fel hajnalban, és amint világosodik nektek, menjetek el.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "kelj fel hajnalban"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "és a szolgái"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "a te urad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "באו",
+      "gloss": "jöttek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "veled"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "és keljetek fel hajnalban"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "és amint világosodik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nektek"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "menjetek el"
+    }
+  ],
+  "timestamp": "2026-09-04T19:17:34.156557253Z",
+  "model": "glm-5.3"
+}

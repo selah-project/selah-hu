@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Nem áll meg ember a gonoszságban, de az igazak gyökere semmiképpen nem inog meg.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "áll meg"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "a gonoszságban"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "de gyökere"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazaknak"
+    },
+    {
+      "surface": "בל",
+      "gloss": "semmiképpen"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "inog meg"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:07.057633743Z",
+  "model": "glm-5.3"
+}

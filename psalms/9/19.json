@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Mert nem örökre marad elfeledve a szegény, a szelídek reménysége nem vész el mindörökre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "marad elfeledve"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "a szegény"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "reménysége"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "a szelídek"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "vész el"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mindörökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:48.369172073Z",
+  "model": "glm-5.3"
+}

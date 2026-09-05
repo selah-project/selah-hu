@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 20:3",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "A szégyenemre szóló feddést hallom, és megértésem lelke felel ⟨nekem⟩.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "feddést"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "szégyenemre szóló"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hallom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "és lelke"
+    },
+    {
+      "surface": "מבינתי",
+      "gloss": "megértésemnek"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "felel ⟨nekem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:23:04.005994187Z",
+  "model": "glm-5.3"
+}

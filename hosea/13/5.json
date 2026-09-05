@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Én ismertelek a pusztában, a szomjúság földjén.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ismerlek\/ismertelek"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "szomjúságnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:14.413937590Z",
+  "model": "glm-5.3"
+}

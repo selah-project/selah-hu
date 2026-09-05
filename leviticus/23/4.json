@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ezek Jahve kijelölt idejei, szent összehívások, amelyeket hirdetnetek kell ⟨את⟩ őket a maguk idejében.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ezek"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "kijelölt idejei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "összehívások"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "hirdetnetek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "az ő idejük"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "őket az idejükben"
+    }
+  ],
+  "timestamp": "2026-09-04T17:20:00.822819197Z",
+  "model": "glm-5.3"
+}

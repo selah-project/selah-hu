@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Jószef (József) fiaihoz: Efrájimhoz ⟨tartozik⟩ Elísama, Ammihud fia; Menassehéhez Gamliél, Pedácúr (Pedahczúr) fia.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "fiaihoz"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jószef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrájimhoz"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elísama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "Menassehéhez"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliél"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedácúr"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:36.877225361Z",
+  "model": "glm-5.3"
+}

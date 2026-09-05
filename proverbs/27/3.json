@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Súlyos ⟨a⟩ kő, és teher ⟨a⟩ homok, de a bolond haragja súlyosabb mindkettőnél.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Súlyos"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kő"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "és teher"
+    },
+    {
+      "surface": "החול",
+      "gloss": "a homok"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "de a haragja"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "a bolond"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "súlyosabb"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "mindkettőnél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:35.903246750Z",
+  "model": "glm-5.3"
+}

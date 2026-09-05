@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Hordoztad néped bűnösségét, betakartad minden vétküket. Szelá.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Hordoztad"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bűnösségét"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "betakartad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "vétküket"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szelá"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:21.235565570Z",
+  "model": "glm-5.3"
+}

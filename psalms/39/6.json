@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Íme, tenyérnyivé tetted napjaimat, és életem mint semmi előtted; bizony csupa pára minden ember, ott állva — Szela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "tenyérnyivé"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "tetted"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napjaimat"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "és életem"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "mint semmi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "אך",
+      "gloss": "bizony"
+    },
+    {
+      "surface": "כל",
+      "gloss": "csupa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pára"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ott állva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "— Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:29.502461162Z",
+  "model": "glm-5.3"
+}

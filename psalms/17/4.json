@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Az emberek tetteivel ⟨szemben⟩ ajkaid szavára én őriztem ⟨magamat⟩ a garázda útjaitól.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "tetteivel"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ember"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ajkaid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "őriztem"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "útjait"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "garázdának"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:13.774119272Z",
+  "model": "glm-5.3"
+}

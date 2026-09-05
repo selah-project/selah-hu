@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És készíts⟨él⟩ füstölőáldozat-oltárt, akáciafából készítsd ⟨את⟩-őt.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "és készíts"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "füstölésre"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "füstölőáldozat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fáiból"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akácia"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "készítsd"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-őt",
+      "marks": "ő (az oltár)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:00.282917950Z",
+  "model": "glm-5.3"
+}

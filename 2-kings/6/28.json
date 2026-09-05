@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És a király ezt mondta neki: Mi a bajod? És az asszony így szólt: Ez az asszony mondta nekem: Add ⟨את⟩ a fiadat, és együk meg ma, és ⟨את⟩ az én fiamat holnap együk meg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "(van) neked"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Add"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiadat"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "a fiadat"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "és együk meg"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az én fiamat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "az én fiamat"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "együk meg"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "holnap"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:30.443673633Z",
+  "model": "glm-5.3"
+}

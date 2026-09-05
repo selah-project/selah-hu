@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 44:30",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "És most, midőn megérkezem szolgád atyámhoz, és a fiú nincs ⟨את⟩ velünk — lévén az ő lelke összekötve az ő lelkével —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "כבאי",
+      "gloss": "midőn megérkezem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgád"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "és a fiú"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ velünk"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "és az ő lelke"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "összekötve van"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "az ő lelkével"
+    }
+  ],
+  "timestamp": "2026-09-04T16:40:41.636776107Z",
+  "model": "glm-5.3"
+}

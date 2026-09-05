@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És közelhozott ⟨את⟩ téged, és ⟨את⟩ minden testvéredet, Lévi fiait veled ⟨את⟩ — és még papságot is kerestek?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "És közelhozott"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ téged",
+      "marks": "téged"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden testvéredet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "testvéredet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "veled ⟨את⟩"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "és kerestek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "még… is"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "papságot"
+    }
+  ],
+  "timestamp": "2026-09-04T17:36:58.274131857Z",
+  "model": "glm-5.3"
+}

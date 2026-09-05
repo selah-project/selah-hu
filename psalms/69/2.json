@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 69,
+  "translation": "Ments meg engem, Elohim, mert vizek értek ⟨engem⟩, egészen a lélekig.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Ments meg engem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "באו",
+      "gloss": "értek"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "egészen"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "a lélekig"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:26.052700306Z",
+  "model": "glm-5.3"
+}

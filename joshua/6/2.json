@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És szólt Jahve Jehosuának (Józsué): „Lásd, kezedbe adtam ⟨את⟩ Jerichót és ⟨את⟩ királyát, a vitézség hőseit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosuának"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "adtam"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "kezedbe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerichót"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerichót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "királyát"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "hősei"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "a vitézségnek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:40:09.090902778Z",
+  "model": "glm-5.3"
+}

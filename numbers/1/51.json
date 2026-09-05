@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mikor indul a hajlék, a léviták bontják le ⟨את⟩ azt; és mikor letáborozik a hajlék, a léviták állítják fel ⟨את⟩ azt; és az idegen, aki közeledik, halállal haljon.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "És mikor indul"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a hajlék"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "bontják le"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a léviták"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "és mikor letáborozik"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a hajlék"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "állítják fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azt",
+      "marks": "azt"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "a léviták"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "és az idegen"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "aki közeledik"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "haljon halállal"
+    }
+  ],
+  "timestamp": "2026-09-04T17:25:06.249277846Z",
+  "model": "glm-5.3"
+}

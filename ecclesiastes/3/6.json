@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Idő keresni és idő elveszteni; idő megőrizni és idő elhajítani.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Idő"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "keresni"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "elveszteni"
+    },
+    {
+      "surface": "עת",
+      "gloss": "idő"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "megőrizni"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és idő"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "elhajítani"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:15.653196361Z",
+  "model": "glm-5.3"
+}

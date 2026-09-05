@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 123,
+  "translation": "Kegyelmezz meg minket, Jahve, kegyelmezz meg minket, mert igen beteltünk megvetéssel.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "kegyelmezz meg minket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "kegyelmezz meg minket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רב",
+      "gloss": "igen"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "beteltünk"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "megvetéssel"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:19.124984227Z",
+  "model": "glm-5.3"
+}

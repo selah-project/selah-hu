@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "„Jahve, nincs hozzád hasonló, és nincs Elohim rajtad kívül, mindabban, amit a fülünkkel hallottunk.”",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hozzád hasonló"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "rajtad kívül"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mindabban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "hallottunk"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "a fülünkkel"
+    }
+  ],
+  "timestamp": "2026-09-04T23:06:01.183925870Z",
+  "model": "glm-5.3"
+}

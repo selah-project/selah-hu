@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "Mert te, Jahve, a legfelsőbb ⟨ vagy⟩ az egész föld felett; igen magasan felsőbb vagy minden isteneknél.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "a legfelsőbb"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "igen magasan"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "felsőbb vagy"
+    },
+    {
+      "surface": "על",
+      "gloss": "felett"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "isteneknél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:29.008285320Z",
+  "model": "glm-5.3"
+}

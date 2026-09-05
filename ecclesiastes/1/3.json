@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Micsoda haszna van az embernek minden fáradozásában, amelyikkel fáradozik a nap alatt?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Micsoda"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "haszna"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "fáradozásában"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "fáradozik"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:22.889136319Z",
+  "model": "glm-5.3"
+}

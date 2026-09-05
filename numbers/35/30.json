@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Minden népét megölőt tanúk szavára öljék meg ⟨את⟩ a gyilkost, és egy tanú ne tanúskodjék egy nép ellen ⟨azért⟩, hogy meghaljon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "megölőt"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "népét"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "tanúk"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "öljék meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyilkost"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "a gyilkost"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és tanú"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "tanúskodjék"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "egy nép ellen"
+    },
+    {
+      "surface": "למות",
+      "gloss": "hogy meghaljon"
+    }
+  ],
+  "timestamp": "2026-09-04T17:47:58.782225517Z",
+  "model": "glm-5.3"
+}

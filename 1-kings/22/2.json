@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És történt a harmadik esztendőben, hogy leszállt Jehosafát (Jósafát), Jehúda királya, Jiszráél királyához.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "esztendőben"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "a harmadik"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "hogy leszállt"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosafát"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyá"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-04T19:51:44.143827295Z",
+  "model": "glm-5.3"
+}

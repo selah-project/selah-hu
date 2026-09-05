@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Mert Jahve nevét hirdetem; adjatok nagyságot Elohimunknak!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hirdetem"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "adjatok"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "nagyságot"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimunknak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:21.157734521Z",
+  "model": "glm-5.3"
+}

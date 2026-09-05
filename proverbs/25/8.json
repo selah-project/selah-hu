@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "ne siess perre kelni, nehogy ⟨ne tudd⟩, mit cselekedj annak végén, amikor megszégyít ⟨את⟩ téged a te felebarátod.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "siess perre kelni"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "perre"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hamar"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "cselekedj"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "annak végén"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "amikor megszégyít"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "téged"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "a te felebarátod"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:00.050114117Z",
+  "model": "glm-5.3"
+}

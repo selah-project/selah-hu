@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És ültetett Jahve Elohim kertet Édenben, keleten, és odahelyezte ⟨את⟩ az embert, akit formált.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "és ültetett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "kertet"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "Édenben"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "keleten"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és odahelyezte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "formált"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:52.211919076Z",
+  "model": "glm-5.3"
+}

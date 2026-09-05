@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Áldott leszel minden népnél ⟨inkább⟩; nem lesz köztmed meddő férfi és meddő nő, sem a barmaid közt.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Áldott"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "leszel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden…nél ⟨inkább⟩"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "népnél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "בך",
+      "gloss": "köztmed"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "meddő férfi"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "és meddő nő"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "sem a barmaid közt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:54:14.614280903Z",
+  "model": "glm-5.3"
+}

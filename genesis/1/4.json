@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És látta Elohim ⟨את⟩ a világosságot, hogy jó ⟨az⟩, és elválasztotta Elohim a világosság ⟨közé⟩ és a sötétség ⟨közé⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "És látta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a világosságot"
+    },
+    {
+      "surface": "האור",
+      "gloss": "a világosságot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "és elválasztotta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨közé⟩"
+    },
+    {
+      "surface": "האור",
+      "gloss": "a világosság"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és ⟨közé⟩"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "a sötétség"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:09.800200674Z",
+  "model": "glm-5.3"
+}

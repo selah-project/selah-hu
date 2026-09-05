@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 31:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És monda: Emeld fel most szemeidet, és lásd: mind a bakok, amelyek a jószágra felhágnak, csíkosak, pettyesek és tarkák, mert láttam ⟨את⟩ mindazt, amit Lavan (Lábán) cselekszik ellened.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És monda"
+    },
+    {
+      "surface": "שא",
+      "gloss": "Emeld fel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "most"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "szemeidet"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és lásd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "העתדים",
+      "gloss": "a bakok"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "felhágnak"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a jószág"
+    },
+    {
+      "surface": "עקדים",
+      "gloss": "csíkosak"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "pettyesek"
+    },
+    {
+      "surface": "וברדים",
+      "gloss": "és tarkák"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan (Lábán)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "cselekszik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ellened"
+    }
+  ],
+  "timestamp": "2026-09-04T16:33:55.503038751Z",
+  "model": "glm-5.3"
+}

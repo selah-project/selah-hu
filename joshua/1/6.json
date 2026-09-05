@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Légy erős és bátor, mert te örökségül adod ⟨את⟩ ennek a népnek ⟨את⟩ a földet, amelyről megesküdtem atyáiknak, hogy nekik adom.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Légy erős"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "és bátor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "örökségül adod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ennek a népnek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyről"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "megesküdtem"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "atyáiknak"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "adni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T18:36:53.783436080Z",
+  "model": "glm-5.3"
+}

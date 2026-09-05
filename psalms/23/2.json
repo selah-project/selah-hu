@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Zöld füves legelőn kényeztet ⟨engem⟩, csendes vizek mellé terel ⟨engem⟩.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "legelőn"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "zöld füves"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "kényeztet ⟨engem⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellé"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "csendes"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "terel ⟨engem⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:27.409948412Z",
+  "model": "glm-5.3"
+}

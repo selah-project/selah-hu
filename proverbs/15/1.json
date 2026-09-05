@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "A szelíd felelet elfordítja a haragot, de a bántó szó fölkelti az orr hevét.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "felelet"
+    },
+    {
+      "surface": "רך",
+      "gloss": "szelíd"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "elfordítja"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "a haragot"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "de a szó"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "bántó"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "fölkelti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "az orr hevét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:02.285951279Z",
+  "model": "glm-5.3"
+}

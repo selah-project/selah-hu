@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És rendre elrendezte ⟨את⟩ a fákat, és feldarabolta ⟨את⟩ a bikát, és a fákra helyezte.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "és rendre elrendezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fákat"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "a fákat"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "és feldarabolta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bikát"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a bikát"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "és helyezte"
+    },
+    {
+      "surface": "על",
+      "gloss": "rá"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "a fákra"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:07.226368425Z",
+  "model": "glm-5.3"
+}

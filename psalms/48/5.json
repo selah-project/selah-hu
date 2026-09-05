@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Mert íme, a királyok összegyűltek, együtt vonultak el.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "a királyok"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "összegyűltek"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "vonultak el"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "együtt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:58.143746156Z",
+  "model": "glm-5.3"
+}

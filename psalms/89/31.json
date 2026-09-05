@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Ha elhagyják fiai a Torámat, és rendeléseimben nem járnak,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "elhagyják"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "a Torámat"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "és rendeléseimben"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "járnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:18.666750115Z",
+  "model": "glm-5.3"
+}

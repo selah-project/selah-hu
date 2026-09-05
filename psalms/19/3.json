@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Nap a napnak szót áraszt, és éj az éjnek tudást nyilvánít.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "a napnak"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "áraszt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szót"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "és éj"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "az éjnek"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "nyilvánít"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tudást"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:59.143985838Z",
+  "model": "glm-5.3"
+}

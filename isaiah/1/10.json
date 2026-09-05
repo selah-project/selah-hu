@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Halljátok Jahve szavát, Szodoma fejedelmei; figyeljetek a mi Elohimunk Tórájára, Amorá népe!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Halljátok"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "fejedelmei"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Szodoma"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "figyeljetek"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tórájára"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorá"
+    }
+  ],
+  "timestamp": "2026-09-04T23:35:24.779518962Z",
+  "model": "glm-5.3"
+}

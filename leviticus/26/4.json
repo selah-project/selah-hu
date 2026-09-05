@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "és adom esőiteket a maguk idejében, és megadja a föld ⟨a⟩ termését, és a mező fája megadja gyümölcsét.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "és adom"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "esőiteket"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "a maguk idejében"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "és megadja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "termését"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "és fája"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőnek"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "megadja"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "gyümölcsét"
+    }
+  ],
+  "timestamp": "2026-09-04T17:23:24.083955147Z",
+  "model": "glm-5.3"
+}

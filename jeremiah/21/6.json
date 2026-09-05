@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "és megütöm e város lakóit — ⟨את⟩ az embert és ⟨את⟩ az állatot —, nagy dögvészben halnak meg.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "megütöm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e város lakóit"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "lakói"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "az állatot"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "az állat"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dögvészben"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "halnak meg"
+    }
+  ],
+  "timestamp": "2026-09-04T20:40:35.897101280Z",
+  "model": "glm-5.3"
+}

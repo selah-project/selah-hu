@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 29:28",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "Mert azért küldött hozzánk Babilonba, mondván: Hosszú ⟨az⟩ — építsetek házakat és lakjatok, és ültessetek kerteket, és egyétek meg ⟨את⟩ azok gyümölcsét!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "על",
+      "gloss": "azért"
+    },
+    {
+      "surface": "כן",
+      "gloss": "küldött"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hozzánk"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "Babilonba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "Hosszú"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "építsetek"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "házakat"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "és lakjatok"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "és ültessetek"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "kerteket"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "és egyétek meg"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פריהן",
+      "gloss": "azok gyümölcsét"
+    }
+  ],
+  "timestamp": "2026-09-04T20:44:56.281899548Z",
+  "model": "glm-5.3"
+}

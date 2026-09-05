@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "Állatias ember nem ismeri, és a balga nem érti ⟨את⟩ ezt:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "בער",
+      "gloss": "állatias"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "és a balga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "érti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ezt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:10.018648386Z",
+  "model": "glm-5.3"
+}

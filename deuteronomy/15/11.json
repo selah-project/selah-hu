@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Mert nem szűnik meg a szegény az ország közepéből, azért én parancsolom neked, mondván: Kinyitva nyisd ki ⟨את⟩ kezed a testvérednek, a szegényednek és a nincstelenednek a földeden.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "szűnik meg"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "a szegény"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "a közepéből"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az ország"
+    },
+    {
+      "surface": "על",
+      "gloss": "ez"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ért"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parancsolom neked"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Kinyitva"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "nyisd ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezed"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezed"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "a testvérednek"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "a szegényednek"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "és a nincstelenednek"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "a földeden"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:46.049287181Z",
+  "model": "glm-5.3"
+}

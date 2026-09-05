@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 117,
+  "translation": "Dicsérjétek ⟨את⟩ Jahvét, minden nemzetek; magasztaljátok őt, minden népek!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dicsérjétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nemzetek"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "magasztaljátok őt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "népek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:41.769446912Z",
+  "model": "glm-5.3"
+}

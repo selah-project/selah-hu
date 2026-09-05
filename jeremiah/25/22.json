@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "és ⟨את⟩ Czor (Türosz) minden királyát és ⟨את⟩ Cidon (Szidon) minden királyát és ⟨את⟩ a tengeren túli sziget királyait",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Czor minden királyát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Czor (Türosz)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Cidon minden királyát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyát"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Cidon (Szidon)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a sziget királyait"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyait"
+    },
+    {
+      "surface": "האי",
+      "gloss": "a sziget"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "túli"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengeren"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:00.278717236Z",
+  "model": "glm-5.3"
+}

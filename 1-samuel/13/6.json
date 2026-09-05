@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És Izráél férfiai látták, hogy szorult ⟨a helyzet⟩ — mert a nép szorongattatott —, és elrejtőzött a nép a barlangokban, és a bozótosokban, és a sziklák között, és a rejtekhelyeken, és a gödrökben.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "És … férfiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráél"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "látták"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "צר",
+      "gloss": "szorult"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨neki⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "szorongattatott"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "és elrejtőzött"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "a barlangokban"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "és a bozótosokban"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "és a sziklák között"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "és a rejtekhelyeken"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "és a gödrökben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:09:21.671101400Z",
+  "model": "glm-5.3"
+}

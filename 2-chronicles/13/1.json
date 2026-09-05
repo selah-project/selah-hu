@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Jarovám király tizennyolcadik évében Avijá lett király Jehúda fölé.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "évében"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "tizennyolcadik"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(nyolc)-tíz"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovám"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "király lett"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avijá"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    }
+  ],
+  "timestamp": "2026-09-04T23:15:55.580917072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 26:3",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "Talán meghallják, és visszatér ki-ki a maga gonosz útjáról, és megbánom a gonoszt, amelyet én szándékozom tenni velük gonosz tetteik miatt.",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "talán"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "meghallják"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "és visszatér"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ki-ki"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "az ő útjáról"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a gonosz"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "és megbánom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "felől",
+      "marks": "a gonoszt"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a gonoszt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "szándékozom"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tenni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "tetteik"
+    }
+  ],
+  "timestamp": "2026-09-04T20:42:34.185152958Z",
+  "model": "fable-5-hand"
+}

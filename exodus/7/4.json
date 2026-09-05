@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "De nem hallgat rátok Paró, és ráteszem ⟨את⟩ kezemet Micrajimra, és kihozosd ⟨את⟩ seregeimet, ⟨את⟩ népemet, Jiszráél fiait, Micrajim földjéről nagy ítéletekkel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "De nem"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hallgat"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "rátok"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "és ráteszem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezemet"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezemet"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micrajimra"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "és kihozom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seregeimet"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "seregeimet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "ítéletekkel"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:49.030487373Z",
+  "model": "glm-5.3"
+}

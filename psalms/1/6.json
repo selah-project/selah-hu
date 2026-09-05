@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert ismeri Jahve az igazak útját, de a rosáim útja elvész.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "az útját"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazaknak"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "de az útja"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a rosáimnak"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "elvész"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:02.258710110Z",
+  "model": "glm-5.3"
+}

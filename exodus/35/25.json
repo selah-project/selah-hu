@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És minden szívűles nő font a kezével, és hoztak fonalat: ⟨את⟩ a kékt ∙ ⟨את⟩ a bíbort, ⟨את⟩ a karmazsint és ⟨את⟩ a lent.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nő"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bölcs"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívű"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "kezével"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "font"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "és hoztak"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "fonalat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kék"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "a kék"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bíbor"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "a bíbor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a karmazsint"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "a karmazsint"
+    },
+    {
+      "surface": "השני",
+      "gloss": "(skarlák)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lent"
+    },
+    {
+      "surface": "השש",
+      "gloss": "a lent"
+    }
+  ],
+  "timestamp": "2026-09-04T17:01:38.622367975Z",
+  "model": "glm-5.3"
+}

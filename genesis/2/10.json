@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És folyóvíz jön ki Édenből, hogy öntözze ⟨את⟩ a kertet, és onnan szétválik, és lesz négy fejjé.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "És folyóvíz"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jön ki"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Édenből"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "hogy öntözze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kertet"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "a kertet"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "és onnan"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "szétválik"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "négy"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "fejjé"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:52.251740932Z",
+  "model": "glm-5.3"
+}

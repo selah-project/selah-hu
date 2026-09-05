@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És visszaszerezte David ⟨את⟩ mindazt, amit Amalek (Amálek) elvitt, és ⟨את⟩ az ő két feleségét megmentette David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "visszaszerezte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt, amit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "elvitt"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az ő két feleségét"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "két"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "megmentette"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-04T23:29:42.562451455Z",
+  "model": "glm-5.3"
+}

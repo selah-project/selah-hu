@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "az ácsoknak, az építőknek és a kőfaragóknak — és fa és faragott kő vásárlására, ⟨את⟩ a ház megerősítésére.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "az ácsoknak"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "és az építőknek"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "és a kőfaragóknak"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "és vásárlásra"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "fát"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "és köveket"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "faragott"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "megerősítésére"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ház"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a ház"
+    }
+  ],
+  "timestamp": "2026-09-05T00:48:03.300798493Z",
+  "model": "glm-5.3"
+}

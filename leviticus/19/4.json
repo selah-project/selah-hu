@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne forduljatok a bálványokhoz, és öntött isteneket ne készítsetek magatoknak; én ⟨vagyok⟩ Jahve, a ti Elohimotok.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "forduljatok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(bálványok)hoz"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "a bálványok"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "és isteneket"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "öntött"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "készítsetek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "magatoknak"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    }
+  ],
+  "timestamp": "2026-09-04T17:17:02.144850141Z",
+  "model": "glm-5.3"
+}

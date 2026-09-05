@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Hét esztendős fiú ⟨volt⟩ Jehoás (Jóás), amikor király lett.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "fiú"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hét"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "esztendős"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoás"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "amikor király lett"
+    }
+  ],
+  "timestamp": "2026-09-04T19:58:26.311872071Z",
+  "model": "glm-5.3"
+}

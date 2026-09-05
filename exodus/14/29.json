@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 14:29",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És Izrael (Jiszráél) fiai mentek a szárazföldön a tenger belsejében, és a vizek nekik fal voltak jobb kezük felől és bal kezük felől.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "És … fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mentek"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "a szárazföldön"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "a belsejében"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "és a vizek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "fal"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "jobb kezük felől"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "és bal kezük felől"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:46.013402896Z",
+  "model": "glm-5.3"
+}

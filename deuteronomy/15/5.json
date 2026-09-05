@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Csak ha hallva hallgatsz Jahve, a te Elohimod szavára, hogy megőrizd és megcselekedd ⟨את⟩ ezt a whole parancsolatot, amelyet én parancsolok neked ma —",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "hallva"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hallgatsz"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hogy megőrizd"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "és megcselekedd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész parancsolatot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parancsolatot"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parancsolok neked"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-04T18:22:00.838580098Z",
+  "model": "glm-5.3"
+}

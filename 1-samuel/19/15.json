@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És elküldte Sául ⟨את⟩ a követeket, hogy lássák ⟨את⟩ Dávidot, ezt mondván: Vigyétek fel ⟨את⟩ őt az ágyban hozzám, hogy megöljem őt.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a követeket"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "a követeket"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy lássák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ezt mondván"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Vigyétek fel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "az ágyban"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "hogy megöljem őt"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:46.990647775Z",
+  "model": "glm-5.3"
+}

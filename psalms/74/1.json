@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 74,
+  "translation": "Oktató ének Asáfnak (Ászáf). Miért vetettél el ⟨minket⟩ mindörökre, Elohim? Miért füstölög haragod legelőd nyáján?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Oktató ének"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asáfnak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "vetettél el"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mindörökre"
+    },
+    {
+      "surface": "י עשן",
+      "gloss": "füstölög"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "haragod"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "nyájon"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "legelőd"
+    }
+  ],
+  "timestamp": "2026-09-04T21:53:22.336992098Z",
+  "model": "glm-5.3"
+}

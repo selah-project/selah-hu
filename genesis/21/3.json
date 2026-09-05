@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És nevet adott Avraham (Ábrahám) az ő fiának, a neki születettnek, akit szült néki Sara: Jichak (Izsák).",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És nevet adott"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham (Ábrahám)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fia nevét"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nevet"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "fia"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "a született"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "szült"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jichak (Izsák)"
+    }
+  ],
+  "timestamp": "2026-09-04T16:29:34.621967184Z",
+  "model": "glm-5.3"
+}

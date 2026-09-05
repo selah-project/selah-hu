@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Őrizd ⟨את⟩ a szombat napját, hogy megszenteld, ahogyan megparancsolta neked Jahve, a te Elohimod.",
+  "tokens": [
+    {
+      "surface": "שָׁמוֹר",
+      "gloss": "Őrizd"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "a szombat napját"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "a napját"
+    },
+    {
+      "surface": "הַשַּׁבָּת",
+      "gloss": "szombat"
+    },
+    {
+      "surface": "לְקַדְּשׁוֹ",
+      "gloss": "hogy megszenteld"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צִוְּךָ",
+      "gloss": "megparancsolta neked"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "a te Elohimod"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:55.092726281Z",
+  "model": "glm-5.3"
+}

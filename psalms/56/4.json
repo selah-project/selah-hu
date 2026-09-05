@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "A napon, amelytől félek, én — reád hagyatkozom.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "A napon"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "félek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "reád"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "hagyatkozom"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:36.647761686Z",
+  "model": "glm-5.3"
+}

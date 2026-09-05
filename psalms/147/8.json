@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 147,
+  "translation": "⟨Aki⟩ beborítja az eget felhőkkel, ⟨aki⟩ készít a földnek esőt, ⟨aki⟩ füvet hajt a hegyeken.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "beborítja"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "az eget"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "felhőkkel"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "készít"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "a földnek"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "esőt"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "füvet hajt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyeken"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "füvet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:40.665141830Z",
+  "model": "glm-5.3"
+}

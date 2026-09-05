@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "Mily nagyok műveid, Jahve! Nagyon mélyek gondolataid!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mily"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nagyok"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "műveid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "Nagyon"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "mélyek"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "gondolataid"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:10.018496748Z",
+  "model": "glm-5.3"
+}

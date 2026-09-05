@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Zábád nemzette ⟨את⟩ Eflált, és Eflál nemzette ⟨את⟩ Ovedet;",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Zábád"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflált"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflált"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "és Eflál"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedet"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovedet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:59:39.954915573Z",
+  "model": "glm-5.3"
+}

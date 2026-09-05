@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És most küldj, gyűjtsd össze hozzám ⟨את⟩ egész Izraelt a Kármel hegyére, és ⟨את⟩ a Baal prófétáit — négyszázötvenet — és az Aséra prófétáit — négyszárat —, akik Izével asztaláról esznek.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "És most"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "küldj"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "gyűjtsd össze"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Izraelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(a) hegyére"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hegyére"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "a Kármel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Baal prófétáit"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "prófétáit"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "a Baal"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "és ötven"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "és prófétáit"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "az Aséra"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "négy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "esznek"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "asztaljáról"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izével"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:42.592498780Z",
+  "model": "glm-5.3"
+}

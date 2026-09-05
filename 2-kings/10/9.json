@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 10:9",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És lőn reggel, hogy kiment, odaállt, és szólt az egész néphez: „Igazak vagytok ti! Íme, én összeesküdtem az én uram ellen, és megöltem őt; de ki ütötte meg ⟨את⟩ mindezeket?”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És lőn"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggel"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "kiment"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "odaállt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és szólt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "Igazak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vagytok ti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "קשרתי",
+      "gloss": "összeesküdtem"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "uram"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "és megöltem őt"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "de ki"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ütötte meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindezeket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezeket"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:16.036415631Z",
+  "model": "glm-5.3"
+}

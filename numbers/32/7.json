@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "És miért akadályozzátok ⟨את⟩ Jiszráel fiainak szívét attól, hogy átkeljenek arra a földre, amelyet adott nekik Jahve?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "És miért"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "akadályozzátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "attól, hogy átkeljenek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adott"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:45:37.016716021Z",
+  "model": "glm-5.3"
+}

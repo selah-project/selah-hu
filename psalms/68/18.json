@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Az Elohim szekerei számtalan-sokaság, ezernyi ismétlés; Adonáj köztük van, Színái, a szentségben.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "szekerei"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "számtalan-sokaság"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ezernyi"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "ismétlés"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "בם",
+      "gloss": "köztük"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Színái"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "a-szentségben"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:31.736623746Z",
+  "model": "glm-5.3"
+}

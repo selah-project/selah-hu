@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Áldozatot és ételáldozatot nem kivántál, fület vájtál ⟨nekem⟩; égőáldozatot és vétekáldozatot nem kértél.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Áldozatot"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "és ételáldozatot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "kivántál"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "fület"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "vájtál"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "égőáldozatot"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "és vétekáldozatot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "kértél"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:21.081610231Z",
+  "model": "glm-5.3"
+}

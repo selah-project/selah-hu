@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Elnyomott ⟨az⟩ Efrajim, összetörve ⟨a⟩ jog által, mert szívesen akart ⟨a⟩ parancs után járni.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "Elnyomott"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "⟨az⟩ Efrajim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "összetörve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨a⟩ jog által"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "szívesen akart"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "járni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "... után"
+    },
+    {
+      "surface": "צו",
+      "gloss": "⟨a⟩ parancs"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:51.564267830Z",
+  "model": "glm-5.3"
+}

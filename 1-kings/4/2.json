@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És ezek ⟨voltak⟩ a fejedelmei, akik neki ⟨voltak⟩: Azarjáhu (Azaria), Cádók (Cádók) fia, ⟨a⟩ pap.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "És ezek"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "a fejedelmei"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarjáhu (Azaria)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cádóknak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pap"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:01.508184283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És az egész nép látta ⟨את⟩ a hangokat, és ⟨את⟩ a villámokat, és ⟨את⟩ a sófár hangját, és ⟨את⟩ a füstölgő hegyet; és látta ⟨את⟩ a népet, és remegtek, és távolban álltak meg.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "És az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "látta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a hangokat"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "a hangokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a villámokat"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "a villámokat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a sófár hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "a sófár"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a füstölgő hegyet"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "a hegyet"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "füstölgő"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨a⟩ népet"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "és remegtek"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "és álltak meg"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "távolban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:43.639743043Z",
+  "model": "glm-5.3"
+}

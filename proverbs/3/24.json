@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Ha lefekszel, nem ijedsz meg, és ha lefeküdtél, édes lesz álmod.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "lefekszel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "ijedsz meg"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "és ha lefeküdtél"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "édes lesz"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "álmod"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:10.839514120Z",
+  "model": "glm-5.3"
+}

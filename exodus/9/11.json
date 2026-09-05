@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És nem bírtak ⟨a⟩ jósok ⟨állni⟩ Moshe színe elé a kelés miatt, mert a kelés a jósokon volt és az egész Micrajimon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bírtak"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "a jósok"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "állni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe elé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "a kelés"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "a kelés"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "a jósokon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "és az egész"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimon"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:28.761880142Z",
+  "model": "glm-5.3"
+}

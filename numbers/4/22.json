@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Vedd számba ⟨את⟩ a Gerson (Gersón) fiainak a fejét, ők is, atyáik háza szerint, családjaik szerint;",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Vedd számba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Gerson fiainak a fejét"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a fejét"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gerson (Gersón)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ők"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ház szerint"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "atyáik"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "családjaik szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:00.324993749Z",
+  "model": "glm-5.3"
+}

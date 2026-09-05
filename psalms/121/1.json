@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 121,
+  "translation": "Ének a lépcsőfokokhoz. Felemelem szemeimet a hegyekhez – honnan jön segítségem?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ének"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "a lépcsőfokokhoz"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Felemelem"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "szemeimet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz (a hegyekhez)"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "a hegyekhez"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "honnan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jön"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "segítségem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:29.923615603Z",
+  "model": "glm-5.3"
+}

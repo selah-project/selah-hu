@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Aki köveket mozgat, azokban bántódást szenved; és aki fákat hasít, azokban veszélyeztetett ⟨lesz⟩.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "mozgat"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "köveket"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "bántódást szenved"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azokban"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "hasít"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "fákat"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "veszélyeztetett"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azokban"
+    }
+  ],
+  "timestamp": "2026-09-04T23:53:21.325715782Z",
+  "model": "glm-5.3"
+}

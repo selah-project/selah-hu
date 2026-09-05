@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 131,
+  "translation": "A feljáratok éneke, Dávidtól. Jahve, nem gőgösködött a szívem, és nem emelkedtek fel a szemeim, és nem jártam nagy dolgokban és csodálatos dolgokban ⟨túl⟩ rajtam.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a feljáratoknak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dávidtól"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "gőgösködött"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "a szívem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "emelkedtek fel"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "a szemeim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "jártam"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "nagy dolgokban"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "és csodálatos dolgokban"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "túl rajtam"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.362176916Z",
+  "model": "glm-5.3"
+}

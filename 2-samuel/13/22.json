@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "És nem szólt Avsalóm (Absalom) Amnonnal sem rosszat, sem jót, mert gyűlölte Avsalóm ⟨את⟩ Amnont a dolog miatt, amellyel megalázta ⟨את⟩ Tamart, a nővérét.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "És nem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalóm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "rosszat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jót"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "gyűlölte"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsalóm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnont"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnont"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a dolog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "megalázta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamart"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamart"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "a nővérét"
+    }
+  ],
+  "timestamp": "2026-09-04T19:27:01.323413986Z",
+  "model": "glm-5.3"
+}

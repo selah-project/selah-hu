@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Megelégedtek Jahve fái, a Libanon cédrusai, amelyeket ő ültetett.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "megelégedtek"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fái"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cédrusai"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "a Libanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ültetett"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:14.694251209Z",
+  "model": "glm-5.3"
+}

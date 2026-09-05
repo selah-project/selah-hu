@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 20:1",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És megérkeztek Izrael (Jiszráél) fiai, az egész gyülekezet, a Cin (Cín) pusztájába, az első hónapban, és letáborozott a nép Kádesben; és meghalt ott Mirjam (Míriám), és eltemettetett ott.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "és megérkeztek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gyülekezet"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztájába"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Cin"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "hónapban"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "az első"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és letáborozott"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "Kádesben"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Mirjam"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "és eltemettetett"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    }
+  ],
+  "timestamp": "2026-09-04T17:39:43.858390636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És meghallgatta Jahve Jechizkijáhut, és meggyógyította ⟨את⟩ a népet.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "és meghallgatta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jechizkijáhut"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "és meggyógyította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:22:17.313776892Z",
+  "model": "glm-5.3"
+}

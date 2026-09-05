@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Jobb ⟨a⟩ jó név, mint a jó illatú olaj, és a halál napja, mint a születés napja.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨a⟩ név"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mint az illatú olaj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "a jó"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "és a napja"
+    },
+    {
+      "surface": "המות",
+      "gloss": "a halálnak"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "mint a napja"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "a születésnek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:35.255484831Z",
+  "model": "glm-5.3"
+}

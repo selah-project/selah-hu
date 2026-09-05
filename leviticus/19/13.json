@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne nyomorgasd ⟨את⟩ felebarátodat, és ne orozd el; ne maradjon éjjel nálad ⟨את⟩ a napszámos bére reggelig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "nyomorgasd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátodat"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "felebarátodat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "orozd el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "maradjon éjjel"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "a bére"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "napszámos"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nálad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "reggelig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "reggelig"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:33.128714700Z",
+  "model": "glm-5.3"
+}

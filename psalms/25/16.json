@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Fordulj felém, és kegyelmezz meg, mert egyedül való és nyomorult vagyok én.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "fordulj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "felém"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "és kegyelmezz meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "egyedül való"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "és nyomorult"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:07.933896644Z",
+  "model": "glm-5.3"
+}

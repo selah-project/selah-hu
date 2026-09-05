@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 76,
+  "translation": "Mert az ember haragja dicsőíteni fog téged; a harag maradékát felövezed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "haragja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "dicsőíteni fog téged"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "maradékát"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "a harag"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "felövezed"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:07.947060003Z",
+  "model": "glm-5.3"
+}

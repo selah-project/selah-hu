@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És kiosztott mindenkinek Izráelben, férfiaktól nőkig: mindenkinek egy kenyérkört, egy es párót és egy asísát.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "És kiosztott"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindenkinek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfiaknak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelben"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "férfiaktól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "–ig"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nőkig"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mindenkinek"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "egy kenyérkört"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "és egy es pár"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "és egy asísát"
+    }
+  ],
+  "timestamp": "2026-09-04T23:05:35.824906727Z",
+  "model": "glm-5.3"
+}

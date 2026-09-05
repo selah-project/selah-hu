@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És engeszteljen ⟨את⟩ a szentek szentélyét, és ⟨את⟩ a találkozás sátrát, ⟨את⟩ az oltárt engesztelje, és a papokért és a gyülekezet egész népéért engeszteljen.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "engeszteljen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szentek szentélyét"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "szentélyét"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szentek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a találkozás sátrát"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrát"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a találkozás"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az oltárt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "az oltárt"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "engesztelje"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ...ért"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ...ért"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népéért"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "a gyülekezet"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "engeszteljen"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:49.044990589Z",
+  "model": "glm-5.3"
+}

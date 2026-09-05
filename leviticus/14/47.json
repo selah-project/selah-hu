@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "Aki a házban alszik, mossa ⟨את⟩ ruháit, és aki a házban eszik, mossa ⟨את⟩ ruháit.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "és aki alszik"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házban"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mossa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "és aki eszik"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "a házban"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mossa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruháit"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ruháit"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:20.914032316Z",
+  "model": "glm-5.3"
+}

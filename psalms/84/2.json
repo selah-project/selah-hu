@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Mennyire szeretett ⟨a⟩ lakóhelyeid, Jahve Cevaót!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mennyire"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "szeretett ⟨a⟩"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "lakóhelyeid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaót"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:42.774923274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Ne irigyelj gonosz emberekre, és ne kívánd, hogy ⟨את⟩ velük légy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "irigyelj"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "emberekre"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "kívánd"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "lenni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ velük",
+      "marks": "velük"
+    }
+  ],
+  "timestamp": "2026-09-04T22:14:27.750738314Z",
+  "model": "glm-5.3"
+}

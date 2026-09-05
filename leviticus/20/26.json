@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "És szentek lesztek nekem, mert szent vagyok én, Jahve, és elkülönítettem ⟨את⟩ titeket a népektől, hogy az enyéim legyetek.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "és szentek lesztek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "és elkülönítettem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "a népek"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hogy legyetek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "az enyéim"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:26.593807570Z",
+  "model": "glm-5.3"
+}

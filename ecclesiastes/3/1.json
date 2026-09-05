@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Mindenkinek ⟨van⟩ ideje, és ⟨van⟩ idő minden szándéknak az egek alatt.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Mindenkinek"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ideje"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "és ⟨van⟩ idő"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "szándéknak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:41.435789788Z",
+  "model": "glm-5.3"
+}

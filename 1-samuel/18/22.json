@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 18:22",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "És megparancsolta Saul ⟨את⟩ szolgáinak: Beszéljetek Dáviddal titkon, mondván: Íme, a király kedvel téged, és minden szolgája szeret téged; most hát légy a király veje.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "És megparancsolta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáinak"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "szolgáinak"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Beszéljetek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dáviddal"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "titkon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kedvel"
+    },
+    {
+      "surface": "בך",
+      "gloss": "téged"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgája"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "szeret téged"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "most hát"
+    },
+    {
+      "surface": "התחתן",
+      "gloss": "légy veje"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "a királynak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:12:14.587356267Z",
+  "model": "glm-5.3"
+}

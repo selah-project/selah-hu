@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 6:23",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ⟨ezt⟩: Mentsetek ki engem a nyomor kezéből, és a zsarnokok kezéből váltsatok meg engem?",
+  "tokens": [
+    {
+      "surface": "ומלטוני",
+      "gloss": "És mentsetek ki engem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "צר",
+      "gloss": "a nyomor"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "és kezéből"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "zsarnokok"
+    },
+    {
+      "surface": "תפדוני",
+      "gloss": "váltsatok meg engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:17:43.542984571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "és barmodnak, és a földeden lévő vadállatnak: minden termése eledelül lesz.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "és barmodnak"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "és a vadállatnak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "földeden van"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "termése"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "eledelül"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:04.079325294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Ha nem hiszem ⟨⟨azt⟩⟩, hogy látom Jahve javát ⟨az⟩ élők földjén —",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "ha nem"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "hiszem"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hogy látom"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "javát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "élők"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:29.213035066Z",
+  "model": "glm-5.3"
+}

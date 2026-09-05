@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Ellen néped ravaszul tanácsot szőnek, és összebeszélnek elrejtettjeid ellen.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ellen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "néped"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "ravaszul"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "tanácsot szőnek"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "és összebeszélnek"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "elrejtettjeid"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:12.425047575Z",
+  "model": "glm-5.3"
+}

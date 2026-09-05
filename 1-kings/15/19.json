@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "Szövetség van köztem és közted, atyám és a te atyád között; íme, küldtem neked ajándékul ezüstöt és aranyat; menj, törd meg ⟨את⟩ a te szövetségedet, amely ⟨את⟩ Baásával, Jiszráél királyával ⟨köttetett⟩, és vonuljon fel ellenem.",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Szövetség"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "köztem"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "és közted"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "és"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "atyád"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "küldtem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ajándékul"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ezüstöt"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "és aranyat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "menj"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "törd meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te szövetségedet"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "a te szövetségedet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baásával"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baásával"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "és vonuljon fel"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ellenem"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:19.383686010Z",
+  "model": "glm-5.3"
+}

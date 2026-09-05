@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Mert jogos Jahve, a jogosságot szereti; az egyenes ⟨az⟩ ő arcát látja.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "jogos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "a jogosságot"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "szereti"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "az egyenes"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "látja"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "arcát"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:46.359163440Z",
+  "model": "glm-5.3"
+}

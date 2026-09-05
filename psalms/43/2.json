@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 43,
+  "translation": "Mert te vagy erősségem Elohimja; miért taszítottál el? Miért járok gyászosan az ellenség szorításában?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "erősségem"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "taszítottál el"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "gyászosan"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "járok"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "szorításában"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:31.324897784Z",
+  "model": "glm-5.3"
+}

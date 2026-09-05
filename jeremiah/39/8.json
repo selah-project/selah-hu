@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És ⟨את⟩ a király házát és ⟨את⟩ a nép házát elégették a kaszdimok tűzzel; és ⟨את⟩ Jerusálajim falait lerombolták.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királynak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a nép házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "elégették"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "a kaszdimok"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzzel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "falait"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "falait"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajimnak"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "lerombolták"
+    }
+  ],
+  "timestamp": "2026-09-04T20:48:42.588704924Z",
+  "model": "glm-5.3"
+}

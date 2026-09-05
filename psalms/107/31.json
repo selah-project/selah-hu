@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 107,
+  "translation": "Vallják meg Jahvének a heszedjét és csodáit az emberek fiai ⟨előtt⟩!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Vallják meg"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvének"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedjét"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "és csodáit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "az … fiai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "emberek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:32.039399699Z",
+  "model": "glm-5.3"
+}

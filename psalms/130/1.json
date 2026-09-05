@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 130,
+  "translation": "A lépcsők éneke. A mélységekből hívtalak téged, Jahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "éneke"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "a lépcsők"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "A mélységekből"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "hívtalak téged"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:47.522004500Z",
+  "model": "glm-5.3"
+}

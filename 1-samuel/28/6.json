@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És megkérdezte Saul ⟨az⟩ Jahvét, de nem felelt neki Jahve — sem álomban, sem Urimban, sem a próféták által.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "és megkérdezte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "⟨az⟩ Jahvét"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "felelt neki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "álomban"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sem"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urimban"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "a próféták által"
+    }
+  ],
+  "timestamp": "2026-09-04T19:19:29.885165598Z",
+  "model": "glm-5.3"
+}

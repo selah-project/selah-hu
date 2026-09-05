@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 121,
+  "translation": "Jahve megőrzi a te kimeneteledet és a te bejöteledet, mostantól mindörökké.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "megőrzi"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "a te kimeneteledet"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "és a te bejöteledet"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mostantól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mind…-ig"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:27.845638605Z",
+  "model": "glm-5.3"
+}

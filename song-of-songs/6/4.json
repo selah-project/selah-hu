@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Szép vagy te, én drágám, mint Tirca, kedves mint Jeruzsálem, félelmes mint a zászlós seregek.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Szép"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "drágám"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "drágám"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "mint Tirca"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kedves"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "mint Jeruzsálem"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "félelmes"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "mint a zászlós seregek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:31:26.858944247Z",
+  "model": "fable-5-hand"
+}

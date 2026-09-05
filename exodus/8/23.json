@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 8:23",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Három napi útra megyünk a pusztába, és áldozunk Jahvénak, a mi Elohimunknak, ahogyan mondja nekünk.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "útra"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "megyünk"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztába"
+    },
+    {
+      "surface": "וזבחנו",
+      "gloss": "és áldozunk"
+    },
+    {
+      "surface": "ליהווה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunknak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mond"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nekünk"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:24.760969785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 112,
+  "translation": "Mert sosem inog meg: emlékezetül lesz örökre az igaz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sová"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "inog meg"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "emlékezetül"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:49.142425037Z",
+  "model": "glm-5.3"
+}

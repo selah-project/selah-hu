@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "A papjaid öltsenek magukra igazságot, és a hűséges híveid ujjongva énekeljenek.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "a papjaid"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "öltsenek magukra"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "és a hűséges híveid"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ujjongva énekeljenek"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:03.486271821Z",
+  "model": "glm-5.3"
+}

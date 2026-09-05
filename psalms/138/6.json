@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 138,
+  "translation": "Mert magas Jahve, és a sülyedőt ⟨meglátja⟩, és a kevélyet messziről ismeri.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רם",
+      "gloss": "magas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "és a sülyedőt"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "látja"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "és a kevélyt"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "messziről"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ismeri"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:23.406751254Z",
+  "model": "glm-5.3"
+}

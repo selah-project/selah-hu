@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És meghalt Rachel (Ráhel), és eltemettetett az Efrata felé vezető úton — ez ⟨az⟩ Beit-Lechem (Bethlehem).",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "És meghalt"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "és eltemettetett"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "az úton"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efrata felé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez ⟨az⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:00.580133398Z",
+  "model": "glm-5.3"
+}

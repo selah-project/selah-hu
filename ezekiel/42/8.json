@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "mert a szárnyak hossza, amelyek a külső udvar felé ⟨voltak⟩, ötven könyök; és íme, a templom színe előtt száz könyök.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hossza"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "a szárnyaknak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "az udvar felé"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "külső"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ötven"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "על",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színén"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "a templomnak"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "száz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    }
+  ],
+  "timestamp": "2026-09-04T21:15:16.424951692Z",
+  "model": "glm-5.3"
+}

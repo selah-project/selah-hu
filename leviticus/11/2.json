@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Szóljatok Izrael fiainak, mondván: ez az élőlény, amelyet ehettek minden állat közül, amely a földön ⟨van⟩:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Szóljatok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "az élőlény"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ehettek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden … közül"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "állat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "על",
+      "gloss": "…on"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földön"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:27.897424564Z",
+  "model": "glm-5.3"
+}

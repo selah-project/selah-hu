@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Fölkelnek erőszakos tanúk, amit nem ismertem, azt kérdik tőlem.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Fölkelnek"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tanúk"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszakos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ismertem"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "azt kérdik tőlem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:17.606717150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Láttam ⟨את⟩ a földet, és íme: puszta és üres; és az egek felé — és nincs fényük.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Láttam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "puszta"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "és üres"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és(felé)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "fényük"
+    }
+  ],
+  "timestamp": "2026-09-04T20:32:24.545331820Z",
+  "model": "glm-5.3"
+}

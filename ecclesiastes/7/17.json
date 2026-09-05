@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ne légy nagyon gonosz, és ne légy balga: miért halnál meg nem a te idődben?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "légy gonosz"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "légy"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "balga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "halnál meg"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "a te idődben"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:43.700386311Z",
+  "model": "glm-5.3"
+}

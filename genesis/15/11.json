@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És leszálltak a ragadozó madarak a dögökre, de Avram (Ábrahám) elriasztotta ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "és leszálltak"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "a ragadozó madarak"
+    },
+    {
+      "surface": "על",
+      "gloss": "erre"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "a dögökre"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "de elriasztotta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-09-05T00:24:45.702826293Z",
+  "model": "glm-5.3"
+}

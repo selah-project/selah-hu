@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 59,
+  "translation": "Az én heszedem Elohimja elébem jön; Elohim láttatja velem az én szorongatóimat.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "az én heszedem"
+    },
+    {
+      "surface": "יקדדמני",
+      "gloss": "elébem jön"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "láttatja velem"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "az én szorongatóimat"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:05.573412717Z",
+  "model": "glm-5.3"
+}

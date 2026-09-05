@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 67,
+  "translation": "A karmesternek, húros hangszerekkel. Zsoltár, ének.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "húros hangszerekkel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Zsoltár"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:44.997449256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "Adtál a téged félőknek zászlót, hogy fölvessék az igazság miatt. Szela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Adtál"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "a téged félőknek"
+    },
+    {
+      "surface": "נס",
+      "gloss": "zászlót"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "hogy fölvessék"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "az igazság"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:36.348164489Z",
+  "model": "glm-5.3"
+}

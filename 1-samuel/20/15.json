@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "hanem ne vágd el ⟨את⟩ a heszededet az én házamtól örökre, és ne akkor, amikor kiirtja Jahve ⟨את⟩ Dávid ellenségeit, minden férfit a föld színéről.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hanem ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "vágd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a heszededet"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "heszededet"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "házamtól"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "amikor kiirt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávid ellenségeit"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ellenségeit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "minden férfit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "פני",
+      "gloss": "színéről"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "a föld"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:42.015511871Z",
+  "model": "glm-5.3"
+}

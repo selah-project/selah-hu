@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És történt: ⟨az⟩ ország népe ernyesztette Jehúda népének kezeit, és megrémítették ⟨את⟩ őket az építésben.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "az országnak"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "ernyesztette"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kezeit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népének"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "és megrémítették"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket — Jehúda népét"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "az építésben"
+    }
+  ],
+  "timestamp": "2026-09-04T23:55:04.488287094Z",
+  "model": "glm-5.3"
+}

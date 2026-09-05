@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 29,
+  "translation": "És ⟨את⟩ Áhront (Áron) és ⟨את⟩ fiait közelítsd a kijelentés sátrának bejáratához, és mosd meg ⟨את⟩ őket vízzel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "Áhront"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áhront (Áron)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "közelítsd"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "bejáratához"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátrának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a találkozásnak"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "és mosd meg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vízzel"
+    }
+  ],
+  "timestamp": "2026-09-04T16:58:09.066538243Z",
+  "model": "glm-5.3"
+}

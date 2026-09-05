@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És minden nyüzsgő ⟨lény⟩, amely nyüzsgő a földön, utálatos ⟨az⟩, nem ehető meg.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "a nyüzsgő"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "amely nyüzsgő"
+    },
+    {
+      "surface": "על",
+      "gloss": "rajta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földön"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "utálatos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehető meg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:10:45.124962074Z",
+  "model": "glm-5.3"
+}

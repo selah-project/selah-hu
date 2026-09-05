@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És eltávolították ⟨את⟩ az idegen isteneket a körükből, és szolgálták ⟨את⟩ Jahvét; és megrövidült a lelke Jiszráél nyomorúságától.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "És eltávolították"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az idegen isteneket"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "isten"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "a körükből"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "és szolgálták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "és megrövidült"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "a lelke"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "nyomorúságától"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:28.770433990Z",
+  "model": "glm-5.3"
+}

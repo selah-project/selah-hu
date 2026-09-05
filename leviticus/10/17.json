@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Miért nem ettétek meg ⟨את⟩ a bűnáldozatot a szent helyen? Hiszen szentségek szentsége ⟨az⟩, ⟨את⟩ és ⟨azt⟩ adta nektek, hogy hordozzátok ⟨את⟩ a gyülekezet vétkeit, hogy engeszteljetek értük Jahve színe előtt.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ettétek meg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a bűnáldozatot"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a bűnáldozatot"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "… helyen"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "a szent"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hiszen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szentsége"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "szentségek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "⟨את⟩ és ⟨azt⟩",
+      "marks": "adta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "adta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "neked"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hogy hordozzátok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a gyülekezet vétkeit"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vétkeit"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "a gyülekezet"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "hogy engeszteljetek"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "értük"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:11:39.848374749Z",
+  "model": "glm-5.3"
+}

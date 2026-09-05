@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "De a férfi meghal és legyengül; az ember kileheli ⟨a lelkét⟩ — és hol van ő?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "de a férfi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "meghal"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "és legyengül"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "kileheli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "és hol van ő?"
+    }
+  ],
+  "timestamp": "2026-09-04T22:21:16.820621442Z",
+  "model": "glm-5.3"
+}

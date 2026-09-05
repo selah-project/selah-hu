@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És felkeltek, és eltávolították ⟨את⟩ az oltárokat, amelyek Jerusalaimban ⟨voltak⟩; és ⟨את⟩ minden füstölő oltárt eltávolítottak, és behajítták ⟨azokat⟩ a Kidron-patakba.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "és felkeltek"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "és eltávolították"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az oltárokat"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "az oltárokat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusalaimban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden füstölő oltárt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "füstölő oltárt"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "eltávolítottak"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "és behajítták"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "a patakba"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronba"
+    }
+  ],
+  "timestamp": "2026-09-04T23:22:09.010709408Z",
+  "model": "glm-5.3"
+}

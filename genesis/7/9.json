@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Kettesével jöttek Noach (Noé)hoz, a bárkába, hím és nőstény, ahogyan elrendelte Elohim ⟨את⟩ Noachot.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "kettesével"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettesével"
+    },
+    {
+      "surface": "באו",
+      "gloss": "jöttek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachhoz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bárkába"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hím"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "és nőstény"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "elrendelte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noachot"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:24:13.796929970Z",
+  "model": "glm-5.3"
+}

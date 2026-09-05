@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És elment, hogy vegyen; és ő utána kiáltott, és mondta: Kérlek, hozz nekem egy darab kenyeret a kezedben.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hogy vegyen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és kiáltott"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "utána (hozzá)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "hozz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "פת",
+      "gloss": "egy darab"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kenyeret"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "a kezedben"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:14.567983762Z",
+  "model": "glm-5.3"
+}

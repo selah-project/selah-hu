@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "mert akit Jahve szeret, ⟨את⟩ őt megfenyíti, és mint apa ⟨את⟩ a fiát, úgy gyönyörködik ⟨benne⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "őt (akit szeret)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "szeret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "megfenyíti"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "és mint apa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a fiát"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "gyönyörködik (benne)"
+    }
+  ],
+  "timestamp": "2026-09-04T22:07:12.331854404Z",
+  "model": "glm-5.3"
+}

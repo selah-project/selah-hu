@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Paró megharagudott az ő szolgáira, és adott ⟨את⟩ engem őrizetbe, a szakácsok (a testőrség kapitánya) feje házába, engem és ⟨את⟩ a sütők fejét.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "megharagudott"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "szolgái"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem",
+      "marks": "őrizetbe adás"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "őrizetbe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házába"
+    },
+    {
+      "surface": "שר",
+      "gloss": "feje"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "a szakácsok"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ engem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a sütők feje"
+    },
+    {
+      "surface": "שר",
+      "gloss": "feje"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "a sütők"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:45.132566612Z",
+  "model": "glm-5.3"
+}

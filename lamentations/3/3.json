@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "Bizony ellenem fordul vissza, megforgatja ⟨a⟩ kezét egész napon át.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bizony"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "fordul vissza"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "megforgatja"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "napon át"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:46.707401321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "és ⟨את⟩ a hallgató hallja a sófár hangját, és nem intetik meg — és bejön a kard, és elveszi őt: vére a fején lesz.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "és hallja"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "a hallgató"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a sófár hangját"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangját"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "a sófár"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "intetik meg"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "és bejön"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "a kard"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "elveszi őt"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "vére"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "a fején"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:10:35.527204978Z",
+  "model": "glm-5.3"
+}

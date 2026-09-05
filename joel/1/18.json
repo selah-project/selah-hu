@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joel 1:18",
+  "book": "joel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Miért sóhajt a barom? Zavarodottan bolyonganak a marhanyájak, mert nincs legelőjük, sőt a juhnyájak is elpusztultak.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Miért"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "sóhajt"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "a barom"
+    },
+    {
+      "surface": "נבכו",
+      "gloss": "Zavarodottan bolyonganak"
+    },
+    {
+      "surface": "עדרי",
+      "gloss": "a nyájak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "marha-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "legelőjük"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨nekik⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "עדרי",
+      "gloss": "a nyájak"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "juh-"
+    },
+    {
+      "surface": "נאשמו",
+      "gloss": "elpusztultak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:22:59.332253877Z",
+  "model": "glm-5.3"
+}

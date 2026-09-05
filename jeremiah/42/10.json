@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 42,
+  "translation": "Ha megmaradtok és ebben a földben lakoztok, akkor felépítlek ⟨את⟩ titeket, és nem rontalak le; és elültetlek ⟨את⟩ titeket, és nem kitéplek; mert megsajnáltalak a rossz miatt, amelyet cselekedtem veletek.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "megmaradtok"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "lakoztok"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földben"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ebben a"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "akkor felépítlek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket — az építés tárgya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "rontalak le"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "és elültetlek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket — az ültetés tárgya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "kitéplek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "megsajnáltalak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a rossz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "cselekedtem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "veletek"
+    }
+  ],
+  "timestamp": "2026-09-04T23:39:41.276091798Z",
+  "model": "glm-5.3"
+}

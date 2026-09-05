@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 70,
+  "translation": "Forduljanak vissza szégyenük nyomán, akik így szólnak: „Hah, hah!”",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Forduljanak vissza"
+    },
+    {
+      "surface": "על",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nyomán"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "szégyenük"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "akik szólnak"
+    },
+    {
+      "surface": "האח",
+      "gloss": "„Hah,"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hah!”"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:28.081827887Z",
+  "model": "glm-5.3"
+}

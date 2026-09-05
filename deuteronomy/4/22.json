@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Mert én meghalok ebben a földben, nem megyek át ⟨את⟩ a Jardenen, ti pedig átmegyek, és birtokba vesztek ⟨את⟩ azt a jó földet, ezt itt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalok"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ebben a földben"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nem"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "megyek át"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a Jardent"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "a Jarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ti pedig"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "átmegytek"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "és birtokba vesztek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "a jót"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "azt"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:59.467251477Z",
+  "model": "glm-5.3"
+}

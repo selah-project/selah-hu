@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "A jó Jahvétől nyer kedveltetést, de a cselszövényt szövő embert ⟨Jahve⟩ elítéli.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "A jó"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "nyer"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kedveltetést"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvétől"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "de ⟨az⟩ ember"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "cselszövényt"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "elítéli"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:07.057430488Z",
+  "model": "glm-5.3"
+}

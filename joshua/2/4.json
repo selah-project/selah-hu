@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És elvette az asszony a két férfit, és elrejtette ⟨őket⟩, és így szólt: Igaz, betértek hozzám az emberek, de nem tudtam, honnan valók.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "És elvette"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "az asszony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a két férfit"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "férfiakat"
+    },
+    {
+      "surface": "ויצפנו",
+      "gloss": "és elrejtette"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és így szólt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Igaz"
+    },
+    {
+      "surface": "באו",
+      "gloss": "betértek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tudtam"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "honnan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "valók ⟨ők⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T18:36:06.070277839Z",
+  "model": "glm-5.3"
+}

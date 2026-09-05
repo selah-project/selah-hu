@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És tett Jahve Moshe szava szerint, és meghaltak a békák a házakból, az udvarokból és a mezőkről.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "és tett"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "szava szerint"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Mózes)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "és meghaltak"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "a békák"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ból"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "a házak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ból"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "az udvarok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "és …ból"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "a mezők"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:29.773075474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És szólt Ester Hataknak, és őt Mordéchaihoz küldte ⟨parancsal⟩.",
+  "tokens": [
+    {
+      "surface": "ויתאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hataknak"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "és őt megbízta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordéchaihoz"
+    }
+  ],
+  "timestamp": "2026-09-04T23:54:36.983908629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És Achitúb nemzette ⟨את⟩ Cádokot, és Cádok nemzette ⟨את⟩ Sallúmot;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "és Achitúb"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cádokot"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cádokot"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "és Cádok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sallúmot"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sallúmot"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:49.781647535Z",
+  "model": "glm-5.3"
+}

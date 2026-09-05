@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "Mert ő áll a szegény jobbján, hogy megszabadítsa ⟨őt⟩ az ő életét elítélőktől.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "áll"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "a jobbján"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "a szegény"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "hogy megszabadítsa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "elítélőktől"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "az ő életét"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:30.948183017Z",
+  "model": "glm-5.3"
+}

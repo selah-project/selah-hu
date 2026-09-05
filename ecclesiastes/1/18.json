@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Mert a bölcsesség sokaságában ⟨a⟩ bosszúság is sok, és aki növeli a tudást, növeli a fájdalmat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "a sokaságában"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bölcsesség"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sok"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "a bosszúság"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "és aki növeli"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "a tudást"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "növeli"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "a fájdalmat"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:39.924532999Z",
+  "model": "glm-5.3"
+}

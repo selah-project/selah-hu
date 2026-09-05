@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 64,
+  "translation": "Eleidbe találtál ⟨את⟩ az örvendezővel, aki igazságot cselekszik, útaidon emlékeznek rád; íme, te megharagudtál, és vétkeztünk — bennük ⟨maradva⟩ örökké, és megsegéltetünk.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "eleidbe találtál"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az örvendezővel"
+    },
+    {
+      "surface": "שש",
+      "gloss": "az örvendező"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és cselekvő"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "útaidon"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "emlékeznek rád"
+    },
+    {
+      "surface": "הן",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "megharagudtál"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "és vétkeztünk"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bennük"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "és megsegéltetünk"
+    }
+  ],
+  "timestamp": "2026-09-04T20:30:11.877177504Z",
+  "model": "glm-5.3"
+}

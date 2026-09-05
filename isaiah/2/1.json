@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Az igét, amelyet Jesajáhu (Ézsaiás), Ámóc fia látott, Júdáról és Jerúsálámról (Jeruzsálemről).",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "az igét"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "látott"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajáhu (Ézsaiás)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Ámóc"
+    },
+    {
+      "surface": "על",
+      "gloss": "felől"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júdáról"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "és Jerúsálámról (Jeruzsálemről)"
+    }
+  ],
+  "timestamp": "2026-09-04T20:06:43.209853096Z",
+  "model": "glm-5.3"
+}

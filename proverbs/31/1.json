@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "Lemuél királyának szavai, a terhem, amelyet az anyja tanított neki:",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "szavai"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuél"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királyának"
+    },
+    {
+      "surface": "משא",
+      "gloss": "a terhem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "tanította"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "az anyja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:16:43.668970075Z",
+  "model": "glm-5.3"
+}

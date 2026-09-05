@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "És leboruljon előtte minden király, minden nemzet szolgálja őt.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "és leboruljon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "előtte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "király"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nemzet"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "szolgálja őt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:16.487204421Z",
+  "model": "glm-5.3"
+}

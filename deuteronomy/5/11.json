@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Ne vedd hiába ⟨את⟩ Jahve, a te Elohimod nevét, mert nem hagyja büntetlenül Jahve ⟨את⟩ azt, aki hiába viseli ⟨את⟩ a nevét.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תִשָּׂא",
+      "gloss": "vedd"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, a te Elohimod nevét"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "לַשָּׁוְא",
+      "gloss": "hiába"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יְנַקֶּה",
+      "gloss": "hagyja büntetlenül"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "viseli"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "a nevét"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "לַשָּׁוְא",
+      "gloss": "hiába"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:55.092575481Z",
+  "model": "glm-5.3"
+}

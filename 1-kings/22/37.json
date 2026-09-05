@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És meghalt a király, és eljutott Somronba (Számaria), és eltemették ⟨את⟩ a királyt Somronban.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "És meghalt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "és eljutott"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Somronba (Számaria)"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "és eltemették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a királyt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a királyt"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Somronban"
+    }
+  ],
+  "timestamp": "2026-09-04T19:50:42.867630643Z",
+  "model": "glm-5.3"
+}

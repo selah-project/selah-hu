@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És felvette, és bement a városba, és látta ⟨את⟩ azt, amit szedett, az ő napa, és elővett és adott neki ⟨את⟩ azt, ami megmaradt jóllakása után.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "és felvette"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "és bement"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a városba"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "az ő napa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit szedett"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "sedett"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "és elővett"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "és adott"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, ami megmaradt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "megmaradt"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "jóllakása után"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:17.257628059Z",
+  "model": "glm-5.3"
+}

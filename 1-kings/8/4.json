@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És felvitték ⟨את⟩ Jahve ládáját és ⟨את⟩ a kijelentés sátorát és ⟨את⟩ minden szentség edényeit, amelyek a sátorban vannak; és felvitték ⟨את⟩ azokat a papok és a léviták.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "és felvitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kijelentés sátorát"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátorát"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a kijelentés"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden szentség edényeit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "edényeit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "szentség"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "a sátorban"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "és felvitték"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azokat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "és a léviták"
+    }
+  ],
+  "timestamp": "2026-09-04T19:41:20.012597327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Csak ⟨את⟩ az egész királyságot nem tépem szét; egy törzset adok a fiadnak, Dávidért, az én szolgámért, és Jerusálajimért, amelyet kiválasztottam.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Csak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész királyságot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "a királyságot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "tépem szét"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "törzset"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adok"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "a fiadnak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "érdekében"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "az én szolgámért"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "és érdekében"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "kiválasztottam"
+    }
+  ],
+  "timestamp": "2026-09-04T19:43:52.669031232Z",
+  "model": "glm-5.3"
+}

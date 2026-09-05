@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És eljött Moshe, és elbeszélte a népnek ⟨את⟩ minden Jahve szavát és ⟨את⟩ minden rendeletét, és felelt az egész nép egyhangon, és mondták: mindent, amit Jahve szólt, megteszünk.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És eljött"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "és elbeszélte"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden Jahve szavát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden rendeletét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "rendeletét"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "és felelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hangon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondták"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "…amit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "megteszünk"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:12.206165221Z",
+  "model": "glm-5.3"
+}

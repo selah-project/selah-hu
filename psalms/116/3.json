@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 116,
+  "translation": "Körülfogtak a halál kötelei, és a Seol szorongásai megtaláltak; nyomorúságot és bánatot találtam.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Körülfogtak"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "kötelei"
+    },
+    {
+      "surface": "מות",
+      "gloss": "a halálnak"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "és szorongásai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Seolnak"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "megtaláltak"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nyomorúságot"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "és bánatot"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "találtam"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:42.014064660Z",
+  "model": "glm-5.3"
+}

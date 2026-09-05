@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Van egy nemzedék, amely atyját gyalázza, és ⟨את⟩ anyját nem áldja meg.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "nemzedék"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "atyját"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "gyalázza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anyját"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "anyját"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "áldja meg"
+    }
+  ],
+  "timestamp": "2026-09-04T23:51:46.852695020Z",
+  "model": "glm-5.3"
+}

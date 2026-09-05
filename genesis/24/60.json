@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És megáldották ⟨את⟩ Rivkát, és mondák neki: Mi nővérünk, te légy ezrérezres tízezrévé, és örökölje a te magod ⟨את⟩ gyűlölőinek kapuját.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "És megáldották"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkát"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkát"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "és mondák"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "Mi nővérünk"
+    },
+    {
+      "surface": "את",
+      "gloss": "te",
+      "marks": "היי — te légy (itt nem tárgyjelölő, hanem a te névmás)"
+    },
+    {
+      "surface": "היי",
+      "gloss": "légy"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "ezrérezres…-vé"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "tízezrévé"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "és örökölje"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "a te magod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyűlölőinek kapuját"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kapuját"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "gyűlölőinek"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:42.185294127Z",
+  "model": "glm-5.3"
+}

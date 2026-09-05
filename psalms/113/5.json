@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 113,
+  "translation": "Ki ⟨ van ⟩, mint Jahve, a mi Elohimunk, aki felmagasztalja magát, hogy ⟨ a ⟩ magasban lakjék?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "mint Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "aki felmagasztalja magát"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hogy lakjék"
+    }
+  ],
+  "timestamp": "2026-09-04T23:49:14.211717524Z",
+  "model": "glm-5.3"
+}

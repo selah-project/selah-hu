@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "Megkönyörül a gyönge fölött és a szegényen, és a szegények lelkét megszabadítja.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "Megkönyörül"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölötte"
+    },
+    {
+      "surface": "דל",
+      "gloss": "a gyönge"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "és a szegényen"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "és a lelkét"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "a szegények"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "megszabadítja"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:54.157827253Z",
+  "model": "glm-5.3"
+}

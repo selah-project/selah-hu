@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És hívatott Paroh Moshet (Mózest) és Aharont, és mondta: Menjetek, áldozzatok a ti Elohimotoknak az országban.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "És hívatott"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshet"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "és Aharont"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Menjetek"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "áldozzatok"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "a ti Elohimotoknak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "az országban"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:24.760574172Z",
+  "model": "glm-5.3"
+}

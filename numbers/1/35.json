@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "Az ő megszámláltjaik a Binjámín nemztségéből: kettő és harmincezer, és kétszáz.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "az ő megszámláltjaik"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "a nemzetségéből"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjámín"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kettő"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "és harminc"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "és kétszáz"
+    }
+  ],
+  "timestamp": "2026-09-04T17:24:48.389433913Z",
+  "model": "glm-5.3"
+}

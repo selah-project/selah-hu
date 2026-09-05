@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És mondta Jehú: „Szenteljetek ünnepi gyülekezést a Baalnak.” És kihirdették.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "szenteljetek"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "ünnepi gyülekezést"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "a Baalnak"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "és kihirdették"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:58.961871009Z",
+  "model": "glm-5.3"
+}

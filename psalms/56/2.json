@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Kegyelmezz meg, Elohim, mert elnyelt ⟨engem⟩ a halandó; egész nap harcolva nyomorgat engem.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kegyelmezz meg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "elnyelt engem"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "a halandó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "harcolva"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "nyomorgat engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:36.647186567Z",
+  "model": "glm-5.3"
+}

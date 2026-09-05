@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És bement ⟨az⟩ anyósához, és ⟨az⟩ mondta: „Ki vagy te, leányom?” És elmondotta neki ⟨את⟩ mindazt, amit tett érte a férfi.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "és bement"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hez"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "anyósához"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "te"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "leányom"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "és elmondotta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "לה",
+      "gloss": "érte"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "a férfi"
+    }
+  ],
+  "timestamp": "2026-09-04T22:32:09.010457376Z",
+  "model": "glm-5.3"
+}

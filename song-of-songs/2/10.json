@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Válaszolt szerelmem, és ezt mondta nekem: „Kelj fel, édesem, szépem, és menj el ⟨magadtól⟩!”",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Válaszolt"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "szerelmem"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨magadért⟩"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "édesem"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "szépem"
+    },
+    {
+      "surface": "ו לכי",
+      "gloss": "és menj"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨magadért⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:29:36.217939184Z",
+  "model": "glm-5.3"
+}

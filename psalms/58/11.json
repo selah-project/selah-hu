@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 58,
+  "translation": "Örül az igaz, mert bosszút látott; lépteit megmossa ⟨a⟩ gonosz vérében.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "örül"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "látott"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "bosszút"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "lépteit"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "megmossa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vérében"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "a gonosz"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:33.413591530Z",
+  "model": "glm-5.3"
+}

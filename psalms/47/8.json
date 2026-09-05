@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 47,
+  "translation": "Mert az egész föld királya ⟨az⟩ Elohim; zengjetek értelmes énekkel!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨az⟩ Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zengjetek"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "értelmes énekkel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:46:11.271712567Z",
+  "model": "glm-5.3"
+}

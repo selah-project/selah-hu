@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És megépítette ⟨את⟩ a házat, és bevégezte azt, és befedte ⟨את⟩ a házat gerendákkal és cédrusdeszkákkal.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "és megépítette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "és bevégezte azt"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "és befedte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a házat"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a házat"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "gerendákkal"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "és deszkasorokkal"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "cédrusból"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:14.770672507Z",
+  "model": "glm-5.3"
+}

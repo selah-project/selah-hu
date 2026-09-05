@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És megépített ⟨את⟩ húsz könyöknyit a ház végső részén cédrusdeszkákkal, a padlótól a falakig; és megépítette annak belsejében a debírt (a belső szentélyt), a szentségek szentjéül.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "és megépített"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "húsz könyöknyit"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "végső részén"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "deszkákkal"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cédrus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-tól"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "a padlótól"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "a falakig"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "és megépítette"
+    },
+    {
+      "surface": "לו",
+      "gloss": "annak"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "belsejében"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "a debír céljára"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "szentélyül"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "a szentségek"
+    }
+  ],
+  "timestamp": "2026-09-04T19:40:09.600074809Z",
+  "model": "glm-5.3"
+}

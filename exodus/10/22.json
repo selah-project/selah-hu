@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "És kinyújtotta Moshe ⟨את⟩ kezét az ég felé, és lett sűrű sötétség Micrajim egész földjén, három napig.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "És kinyújtotta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kezét"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezét"
+    },
+    {
+      "surface": "על",
+      "gloss": "felé"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sötétség"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "sűrű"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "három"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napig"
+    }
+  ],
+  "timestamp": "2026-09-04T16:46:13.070540887Z",
+  "model": "glm-5.3"
+}

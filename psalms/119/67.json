@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Mielőtt megaláztattam, én eltévedtem, de most a te igédet megtartottam.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "megaláztattam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "eltévedtem"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "de most"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "a te igédet"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "megtartottam"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:03.569812970Z",
+  "model": "glm-5.3"
+}

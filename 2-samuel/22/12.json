@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 22:12",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "És sötétséget tett ⟨sátrakként⟩ körülötte: felhőzet — vizek, felhőgomolyágok az egekből.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "És tett"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sötétséget"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "körülötte"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "⟨sátrakként⟩"
+    },
+    {
+      "surface": "חשרת",
+      "gloss": "felhőzet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "felhőgomolyágok"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "az egekből"
+    }
+  ],
+  "timestamp": "2026-09-04T19:34:13.059767152Z",
+  "model": "glm-5.3"
+}

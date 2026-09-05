@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "és ⟨את⟩ minden hollót fajtája szerint",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden hollót"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hollót"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "fajtája szerint"
+    }
+  ],
+  "timestamp": "2026-09-04T17:56:30.170862838Z",
+  "model": "glm-5.3"
+}

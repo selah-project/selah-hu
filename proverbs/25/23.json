@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Az északi szél esőt kavar, és a rejtegető nyelv haragos arcokat ⟨kavar⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "szél"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "északi"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "kavar"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "esőt"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "és arcokat"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "haragosakat"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nyelv"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "rejtegető"
+    }
+  ],
+  "timestamp": "2026-09-04T22:15:16.760610015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "és Achimác nemzette ⟨את⟩ Azarját, és Azarjá nemzette ⟨את⟩ Jochánánt;",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "és Achimác"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarját"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarját"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "és Azarjá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochánánt"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochánánt"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:55.030177466Z",
+  "model": "glm-5.3"
+}

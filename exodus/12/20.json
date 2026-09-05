@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Minden kovászoltat ne egyetek; minden lakóhelyeteken mácót egyetek.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "kovászoltat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyetek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "lakóhelyeteken"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "egyetek"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mácót"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:34.431632926Z",
+  "model": "glm-5.3"
+}

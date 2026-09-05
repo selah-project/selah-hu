@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És a pelistimiek (filiszteusok) vitték ⟨את⟩ az Elohim ládáját, és bevitték azt Eben-ha-Ezerből (a Segítség Köve) Asdódba.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "És a pelistimiek (filiszteusok)"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohim ládáját"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ládáját"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "és bevitték azt"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "…kövéből"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Eben-ha-Ezerből (a Segítség Köve)"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Asdódba"
+    }
+  ],
+  "timestamp": "2026-09-04T19:04:32.643152457Z",
+  "model": "glm-5.3"
+}

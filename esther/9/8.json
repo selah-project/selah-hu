@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És ⟨את⟩ Poratát, és ⟨את⟩ Adalját, és ⟨את⟩ Aridatát",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Poratát"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Poratát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Adalját"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Adalját"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Aridatát"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Aridatát"
+    }
+  ],
+  "timestamp": "2026-09-04T22:39:30.643346097Z",
+  "model": "glm-5.3"
+}

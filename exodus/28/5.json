@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 28,
+  "translation": "És ⟨ők⟩ vegyék ⟨את⟩ az aranyat, és ⟨את⟩ a kékt, és ⟨את⟩ a bíborpirost, és ⟨את⟩ a karmazsín féreg ⟨pirosát⟩, és ⟨את⟩ a lenvásznat.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "és ⟨ők⟩"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "vegyék"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az aranyat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az aranyat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kékt"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "a kékt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bíborpirost"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "a bíborpirost"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a karmazsín féreg pirosát"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "a karmazsín féreg"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨pirosát⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a lenvásznat"
+    },
+    {
+      "surface": "השש",
+      "gloss": "a lenvásznat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:55:51.948703613Z",
+  "model": "glm-5.3"
+}

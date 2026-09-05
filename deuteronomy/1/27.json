@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És zúgolódtátok sátraitokban, és mondátok: „Jahve gyűlöletében ⟨את⟩ minket hozott ki Micrajim (Egyiptom) földjéről, hogy ⟨את⟩ minket az emóri kezébe adja, hogy elpusztítson minket.”",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "zúgolódtátok"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "sátraitokban"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "és mondátok"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "gyűlöletében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ minket",
+      "marks": "minket (a gyűlölet tárgya)"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "kihozott minket"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hogy adjon"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ minket",
+      "marks": "minket (az átadás tárgya)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emóri"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "hogy elpusztítson minket"
+    }
+  ],
+  "timestamp": "2026-09-05T00:41:07.815064338Z",
+  "model": "glm-5.3"
+}

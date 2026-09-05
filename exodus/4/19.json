@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondta Jahve Moshe-nak Midjánban: „Menj, térj vissza Micrajimba, mert meghaltak mindazok az emberek, akik ⟨את⟩ életedet keresik.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-nak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midjánban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Menj"
+    },
+    {
+      "surface": "שב",
+      "gloss": "térj vissza"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "meghaltak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazok"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "akik keresnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "életedet"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "életedet"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:05.845206184Z",
+  "model": "glm-5.3"
+}

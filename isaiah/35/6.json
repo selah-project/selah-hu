@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Akkor szökell, mint a szarvas, a sánta, és ujjong a néma nyelve, mert szakadnak ki vizek a pusztában, és patakok az Arabában.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Akkor"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "szökkel"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "mint a szarvas"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "a sánta"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "és ujjong"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "nyelve"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "a néma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "szakadnak ki"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "a pusztában"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "és patakok"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "az Arabában"
+    }
+  ],
+  "timestamp": "2026-09-04T20:19:28.006415667Z",
+  "model": "glm-5.3"
+}

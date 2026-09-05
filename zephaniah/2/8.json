@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Hallottam Moáv gyalázkodását és az Ammon fiainak szidalmait, akik gyalázták ⟨את⟩ népemet, és felfuvalkodtak az ő területük ellen.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Hallottam"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "gyalázkodását"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáv"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "és szidalmait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiainak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akik"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "gyalázták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "és felfuvalkodtak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "területük"
+    }
+  ],
+  "timestamp": "2026-09-04T21:31:16.321074135Z",
+  "model": "glm-5.3"
+}

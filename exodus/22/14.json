@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha a gazdája ⟨volt⟩ vele, ne fizessen; ha napszámos ⟨ő⟩, a bére fejében jött.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "a gazdája"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fizessen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "napszámos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "a bére fejében"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:37.788436130Z",
+  "model": "glm-5.3"
+}

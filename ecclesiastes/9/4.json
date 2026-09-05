@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Mert aki a kiválasztott minden élőhöz ⟨tartozik⟩, van bizodalma; mert az élő kutya jobb, mint a holt oroszlán.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨aki⟩"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "a kiválasztott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "élőhöz"
+    },
+    {
+      "surface": "יש",
+      "gloss": "van"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "bizodalma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "az kutya"
+    },
+    {
+      "surface": "חי",
+      "gloss": "élő"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mint"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "a holt"
+    },
+    {
+      "surface": "המת",
+      "gloss": "oroszlán"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:35.795051508Z",
+  "model": "glm-5.3"
+}

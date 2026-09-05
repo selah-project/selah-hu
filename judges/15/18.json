@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 15:18",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És megszomjazott nagyon, és kiáltott Jahvéhoz, és mondta: Te adtad szolgád kezébe ⟨את⟩ ezt a nagy szabadulást, és most meghalok a szomjúságtól, és a körülmetéletlenek kezébe esem.",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "És megszomjazott"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és kiáltott"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Te"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "adtad"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "szolgád"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezt a nagy szabadulást"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "⟨a⟩ szabadulást"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "meghalok"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "a szomjúságtól"
+    },
+    {
+      "surface": "ונפלתי",
+      "gloss": "és esem"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezébe"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "a körülmetéletleneknek"
+    }
+  ],
+  "timestamp": "2026-09-05T00:12:48.499151032Z",
+  "model": "glm-5.3"
+}

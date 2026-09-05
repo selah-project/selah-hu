@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "Légy kegyes, Jahve, hogy megmenthetsz engem; Jahve, segítségemre siess!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Légy kegyes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "megmenteni engem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "segítségemre"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "siess"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:17.499135617Z",
+  "model": "glm-5.3"
+}

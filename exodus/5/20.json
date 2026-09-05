@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És beletalálkozott Móse (Mózes) ⟨את⟩ és Áhronba ⟨את⟩ is — ott álltak velük szemben, mikor kimentek ⟨את⟩ mellől a fáraóétól.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "és beletalálkoztak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mósét"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Móse (Mózes)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Áhront"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áhron"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ott állva"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "velük szemben"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "mikor kimentek"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ mellől"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "a fáraó"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:48.572833076Z",
+  "model": "glm-5.3"
+}

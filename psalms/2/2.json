@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Fölálltak a föld királyai, és a fejedelmek együtt tanácskoztak Jahve ellen és az ő Mashiahja (felkentje) ellen:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Fölálltak"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "és a fejedelmek"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "tanácskoztak"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "együtt"
+    },
+    {
+      "surface": "על",
+      "gloss": "ellen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ellen"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "az ő Mashiahja"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:30.053839171Z",
+  "model": "glm-5.3"
+}

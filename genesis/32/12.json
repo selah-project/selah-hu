@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 32,
+  "translation": "Szabadíts meg kérlek testvérem kezéből, Eszáv kezéből, mert félek őt ⟨את⟩, hogy el ne jöjjön és meg ne üssön engem, anyát a fiakon.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Szabadíts meg"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kérlek"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvérem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eszáv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "félek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ őt",
+      "marks": "őt (Eszáv)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "el ne jöjjön"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "és meg ne üssön engem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anyát"
+    },
+    {
+      "surface": "על",
+      "gloss": "a fiakon"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiak"
+    }
+  ],
+  "timestamp": "2026-09-04T16:34:46.363648806Z",
+  "model": "glm-5.3"
+}

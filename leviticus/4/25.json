@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És vegye a kohen a chatszát véreiből az ujjával, és tegye az égőáldozat oltárának szarvaira, és ⟨את⟩ annak vérét öntse ki az égőáldozat oltárának lábazatára.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "és vegye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "véreiből"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "a chatszát"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "az ujjával"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és tegye"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "szarvaira"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárának"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "annak vérét"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "annak vérét"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "öntse ki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ra"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "lábazatára"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltárának"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "az égőáldozat"
+    }
+  ],
+  "timestamp": "2026-09-04T17:07:22.519458755Z",
+  "model": "glm-5.3"
+}

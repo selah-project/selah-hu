@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "Keleti széllel zúzod szét Tarshis hajóit.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "széllel"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "keleti"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "zúzod szét"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "hajóit"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshis"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:58.144277552Z",
+  "model": "glm-5.3"
+}

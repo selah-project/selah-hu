@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És a hús, amely bármilyen tisztátalanhoz ér, nem ehető meg; tűzben égettessék el; és a húsból minden tiszta ehet húst.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "és a hús"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "hozzáér"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bármilyen"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tisztátalanhoz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehető meg"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "égettessék el"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "és a húsból"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tiszta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ehet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húst"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:22.865263040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 103,
+  "translation": "Ahogy egy apa könyörül fiain, úgy könyörül Jahve az őt félőkin.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "ahogy könyörül"
+    },
+    {
+      "surface": "אב",
+      "gloss": "egy apa"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "fiain"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "úgy könyörül"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "az őt félőkin"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:49.705105767Z",
+  "model": "glm-5.3"
+}

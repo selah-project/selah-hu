@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És visszatért Jahve követője másodszor, és hozzáért, és mondta: Kelj fel, egyél, mert nagy ⟨tőled⟩ az út!",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "követője"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "másodszor"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "és hozzáért"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hozzá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Kelj fel"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "egyél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨tőled⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "az út"
+    }
+  ],
+  "timestamp": "2026-09-04T19:48:10.760817469Z",
+  "model": "glm-5.3"
+}

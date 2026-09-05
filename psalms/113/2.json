@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 113,
+  "translation": "Legyen áldott Jahve neve mostantól fogva és örökké!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Legyen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "neve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "áldott"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mostantól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és örökké"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨örökre⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:03.085025950Z",
+  "model": "glm-5.3"
+}

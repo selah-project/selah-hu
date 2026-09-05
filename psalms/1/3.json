@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És lesz olyan, mint ⟨a⟩ vízcsatornák mellé ültetett fa, amelynek gyümölcse megadatik a maga idejében, és levele nem hervad el; és mindazt, amit tesz, sikerül.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "És lesz"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "olyan, mint ⟨a⟩ … fa"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "ültetett"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellé"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "vízcsatornák"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelynek"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "gyümölcse"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "megadatik"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "a maga idejében"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "és levele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "hervad el"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tesz"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "sikerül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:37:07.728250874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Edom sátrai és az ismaeliták, Moáb és a hágárok,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "sátrai"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "és az ismaeliták"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "és a hágárok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:50.264145749Z",
+  "model": "glm-5.3"
+}

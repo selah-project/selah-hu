@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Jericho pedig zárva volt és elzárva Jiszráel (Izrael) fiai elől — nem jött ki senki, és nem ment be senki.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Jericho pedig"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "zárva volt"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "és elzárva"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "jött ki"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ment be"
+    }
+  ],
+  "timestamp": "2026-09-04T18:40:09.090618710Z",
+  "model": "glm-5.3"
+}

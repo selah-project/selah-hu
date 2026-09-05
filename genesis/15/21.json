@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "és ⟨את⟩ az Emorit (emórit), és ⟨את⟩ a Kenaanit (kenaani), és ⟨את⟩ a Girgasít (girgasi), és ⟨את⟩ a Jevuszit (jevuszi)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "az Emorit"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az Emorit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Kenaanit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a Kenaanit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Girgasít"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "a Girgasít"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a Jevuszit"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "a Jevuszit"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:48.088404400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És mondta Navót Ahávnak: Távol legyen tőlem, a Jahvétől, hogy adjam néked ⟨את⟩ atyáim örökségét.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navót"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nak"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Aháv"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Távol legyen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tőlem"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "a Jahvétől"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "adnom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az örökséget"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "örökségét"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "atyáim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "néked"
+    }
+  ],
+  "timestamp": "2026-09-04T19:52:19.130642048Z",
+  "model": "glm-5.3"
+}

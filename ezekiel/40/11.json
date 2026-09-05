@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És megmérte ⟨את⟩ a kapu nyílásának szélességét: tíz sing; a kapu hosszúsága: tizenhárom sing.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "és megmérte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kapu nyílásának szélességét"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélességét"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nyílásának"
+    },
+    {
+      "surface": "השער",
+      "gloss": "a kapu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hosszúsága"
+    },
+    {
+      "surface": "השער",
+      "gloss": "a kapu"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tizen"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "három"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "sing"
+    }
+  ],
+  "timestamp": "2026-09-04T23:43:18.782488326Z",
+  "model": "glm-5.3"
+}

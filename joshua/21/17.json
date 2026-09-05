@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És Binjámin törzséből ⟨את⟩ Gívont (Gibeon) annak külterületeivel, ⟨את⟩ Gévát (Géba) annak külterületeivel.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "és … törzséből"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjámin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gívont"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gívont"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "külterületeivel"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "külterületeivel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gévát"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gévát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "külterületeivel"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "külterületeivel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:45:57.998187544Z",
+  "model": "glm-5.3"
+}

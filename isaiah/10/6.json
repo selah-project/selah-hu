@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Képmutató népre küldöm őt, és haragom népe ellen parancsolom neki: zsákmányt zsákmányolni, prédát rabolni, és tapodóvá tenni ⟨azt⟩, mint az utcák sarát.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "népre"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "képmutató"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "küldöm őt"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és ellen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "népe"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "haragom"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "parancsolom neki"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "zsákmányolni"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "zsákmányt"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "és rabolni"
+    },
+    {
+      "surface": "בז",
+      "gloss": "prédát"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "és tenni"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "tapodóvá"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "mint a sár"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "az utcák"
+    }
+  ],
+  "timestamp": "2026-09-04T23:35:35.318239457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És a Keni (Kénita) fiai — Moshe (Mózes) veje — felmentek a pálmafák városából ⟨את⟩ Jehuda (Júda) fiaival Jehuda pusztájába, amely Arad negevjében van, és elmentek, és letelepedtek ⟨את⟩ a néppel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "és a fiai"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "a Keni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "veje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "felmentek"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "a városából"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "a pálmafák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ (vele)",
+      "marks": "Jehuda fiaival"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaival"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pusztájába"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amely"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "negevjében"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Arad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "és elmentek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és letelepedtek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ (vele)",
+      "marks": "a néppel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a néppel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:48:44.199624744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Ha szétszórattatott kidobottad az ég szélén is, onnan gyűjt össze Jahve, a te Elohimod, és onnan vesz el téged.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "van"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "kidobottad"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "szélén"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "משם",
+      "gloss": "onnan"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "gyűjt össze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "és onnan"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "vesz el téged"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:37.125845276Z",
+  "model": "glm-5.3"
+}

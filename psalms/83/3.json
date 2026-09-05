@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 83,
+  "translation": "Mert íme, ellenségeid zajonganak, és gyűlölőid fejet emelnek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "íme"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ellenségeid"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "zajonganak"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "és gyűlölőid"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "emelnek"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fejet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:48:12.424731656Z",
+  "model": "glm-5.3"
+}

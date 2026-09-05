@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 146,
+  "translation": "Jahve őrzi ⟨את⟩ a jövevényeket, az árvát és az özvegyet felkelleti, a gonoszoknak pedig az útját félrekeríti.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "őrzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a jövevényeket"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "a jövevényeket"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "az árvát"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "és az özvegyet"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "felkelleti"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "és útját"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszoknak"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "félrekeríti"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:30.753869489Z",
+  "model": "glm-5.3"
+}

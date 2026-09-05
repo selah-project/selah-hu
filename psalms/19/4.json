@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Nincs szó, és nincsenek beszédek; ⟨anélkül⟩ hogy hangjuk meghallatnék.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szó"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincsenek"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "beszédek"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨anélkül⟩"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "meghallatnék"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hangjuk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:59.144185182Z",
+  "model": "glm-5.3"
+}

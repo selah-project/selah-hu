@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Az első neve Pison: ez az, amely körülöleli ⟨את⟩ egész Hávila földjét, ahol ⟨van⟩ az arany.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "neve"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "Az első"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pison"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ez az"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "amely körülöleli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egész Hávila földjét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Hávila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ahol"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "az arany"
+    }
+  ],
+  "timestamp": "2026-09-04T16:22:52.252152331Z",
+  "model": "glm-5.3"
+}

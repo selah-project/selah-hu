@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "És bujdossanak-szüntessenek bujdokolni fiai, és kolduljanak, és keressék ⟨a⟩ kenyerüket romjaikból.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "és szüntessenek bujdokolni"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "bujdossanak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "és kolduljanak"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "és keressék"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "romjaikból ⟨a⟩ kenyerüket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:14.566151256Z",
+  "model": "glm-5.3"
+}

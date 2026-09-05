@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Gyászomat táncra fordítottad nekem,Őzsákomat kioldottad, és örömmel öveztél körül.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "fordítottad"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "gyászomat"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "táncra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "kioldottad"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "zsákomat"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "és öveztél körül"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "örömmel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:57.419211176Z",
+  "model": "glm-5.3"
+}

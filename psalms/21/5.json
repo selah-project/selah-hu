@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "Életet kért tőled, neki adtad ⟨azt⟩: napok hosszát, örökké és mindörökre.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Életet"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "kért"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "tőled"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "adtad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hosszát"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napok"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és mindörökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:40:57.348215123Z",
+  "model": "glm-5.3"
+}

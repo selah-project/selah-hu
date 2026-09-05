@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 15:3",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És járt az ő apjának minden bűnében, amelyet elkövetett az ő előtte, és nem volt az ő szíve tökéletes Jahvéval, az ő Elohimjával, mint Dávidnak, az ő apjának a szíve.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És járt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "bűnében"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő apjának"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "elkövetett"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "az ő előtte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "az ő szíve"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tökéletes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "az ő Elohimja"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "mint ... szíve"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "az ő apjának"
+    }
+  ],
+  "timestamp": "2026-09-04T19:47:44.843250256Z",
+  "model": "glm-5.3"
+}

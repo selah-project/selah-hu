@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Lásd ellenségeimet, mert megsokasodtak, és erőszak gyűlöletével gyűlölnek engem.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lásd"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ellenségeimet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "megsokasodtak"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "és gyűlöletével"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszak"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "gyűlölnek engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:34.607669061Z",
+  "model": "glm-5.3"
+}

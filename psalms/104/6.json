@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "A mélységet mint ruhát terítetted rá, a hegyek fölött vizek álltak meg.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "A mélységet"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "mint ruha"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "terítetted"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölé"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "a hegyeknek"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "álltak meg"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vizek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:53.065096113Z",
+  "model": "glm-5.3"
+}

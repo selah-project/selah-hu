@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 100,
+  "translation": "Mert jó ⟨a⟩ Jahve, örökké tart a heszedje, és nemzedékről nemzedékre ⟨áll⟩ az emunája.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "a heszedje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és nemzedékről"
+    },
+    {
+      "surface": "דר",
+      "gloss": "nemzedékre"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "és nemzedékre"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "az emunája"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:11.070791585Z",
+  "model": "glm-5.3"
+}

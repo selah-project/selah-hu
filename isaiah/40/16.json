@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 40,
+  "translation": "És a Libánon nem elegendő az égetésre, és az ő állatai nem elegendők az égőáldozatra.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "És a Libánon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem"
+    },
+    {
+      "surface": "די",
+      "gloss": "elegendő"
+    },
+    {
+      "surface": "בער",
+      "gloss": "az égetésre"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "és az ő állatai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nem"
+    },
+    {
+      "surface": "די",
+      "gloss": "elegendők"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "az égőáldozatra"
+    }
+  ],
+  "timestamp": "2026-09-04T20:21:06.789913190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 148,
+  "translation": "A föld királyai és minden népek, fejedelmek és minden föld bírái",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "királyai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "fejedelmek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "bírái"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "föld"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:39.185376821Z",
+  "model": "glm-5.3"
+}

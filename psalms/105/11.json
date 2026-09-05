@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "„Neked adom ⟨את⟩ Kenaán (Kánaán) földjét, örökségetek kötelékeként.”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "adom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaán földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaán"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kötelékeként"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "örökségetek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:38.642102954Z",
+  "model": "glm-5.3"
+}

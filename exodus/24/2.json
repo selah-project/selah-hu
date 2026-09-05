@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És közelít Moshe egyedül Jahvéhoz, ők pedig ne közelítsenek, és a nép ne menjen fel vele.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "És közelítsen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ők pedig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "közelítsenek"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "és a nép"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "menjen fel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vele"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:12.205933050Z",
+  "model": "glm-5.3"
+}

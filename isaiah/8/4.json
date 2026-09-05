@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Mert mielőtt tudja a gyermek apámat, anyámat szólítani, elvitetik ⟨את⟩ Damaszek java és ⟨את⟩ Szaméria zsákmánya Assur királya elé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "mielőtt"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tudja"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "a gyermek"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "szólítani"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "apámat"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "anyámat"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "elvitetik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Damaszek javát"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "java"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaszek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Szaméria zsákmányát"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "zsákmánya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Szaméria"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-09-04T20:10:36.310025767Z",
+  "model": "glm-5.3"
+}

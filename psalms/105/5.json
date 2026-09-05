@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Emlékezzetek csodáira, amelyeket tett, jeleire és szájának ítéleteire,",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Emlékezzetek"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "csodáira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tett"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "jeleire"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "és ítéleteire"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "szájának"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:36.949021064Z",
+  "model": "glm-5.3"
+}

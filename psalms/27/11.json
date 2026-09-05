@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Taníts engem, Jahve, a te útodra, és vezess engem egyenes úton ellenségeim miatt!",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "taníts engem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "utadra"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "és vezess engem"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "úton"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "egyen(es)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miatt"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ellenségeim"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:26.498873730Z",
+  "model": "glm-5.3"
+}

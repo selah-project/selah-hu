@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És összeírta ⟨את⟩ őket Moshe Jahve szája szerint, ahogy megparancsoltatott.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "És összeírta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "פי",
+      "gloss": "szája"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogy"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "megparancsoltatott"
+    }
+  ],
+  "timestamp": "2026-09-04T17:26:27.614716918Z",
+  "model": "glm-5.3"
+}

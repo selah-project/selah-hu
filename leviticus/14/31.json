@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "⟨את⟩ azt, amit keze elér: ⟨את⟩ az egyiket vétekáldozatul, és ⟨את⟩ a másikat égőáldozatul az ételáldozat mellé; és engesztelést szerez a kohan a megtisztulandóért Jahve színe előtt.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit keze elér"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "elér"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "keze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egyiket"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egyiket"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "vétekáldozatul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a másikat"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "a másikat"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "égőáldozatul"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "az ételáldozat"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "és engesztelést szerez"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "a megtisztulandóért"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:12:29.458539988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És a papok is, akik közelítenek Jahvéhoz, szentelődjenek meg, nehogy Jahve kitörjön ellenük.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És ... is"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "a papok"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "akik közelítenek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvéhoz"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "szentelődjenek meg"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "kitörjön"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T16:49:56.340093769Z",
+  "model": "glm-5.3"
+}

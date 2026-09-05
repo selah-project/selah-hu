@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És szólt Elohim Noahnak (Noénak): „Vége minden testnek jött el előttem, mert megtelt a föld erőszakkal előlük — és íme, elpusztítom őket ⟨את⟩ a földdel együtt.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Noahnak (Noénak)"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "vége"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "testnek"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jött el"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előttem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "megtelt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszakkal"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "előlük"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "elpusztítom őket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földdel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földdel"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:10.168644880Z",
+  "model": "glm-5.3"
+}

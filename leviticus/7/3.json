@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ⟨את⟩ minden zsírját felkínálja abból: ⟨את⟩ a farkát, és ⟨את⟩ azt a zsírt, amely be fedi ⟨את⟩ a belső részeket.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "És ⟨את⟩",
+      "marks": "minden zsírját"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "zsírját"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "felkínálja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "abból"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a farkát"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "a farkát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "azt a zsírt"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "azt a zsírt"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "amely be fedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a belső részeket"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "a belső részeket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:11.125435107Z",
+  "model": "glm-5.3"
+}

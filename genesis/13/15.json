@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Mert ⟨את⟩ az egész földet, amelyet látsz, neked adom azt, és a magvadnak, örökre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész földet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "földet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "látsz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "adom azt"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "és a magvadnak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:12.113729422Z",
+  "model": "glm-5.3"
+}

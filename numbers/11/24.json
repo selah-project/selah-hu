@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 11:24",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Kiment tehát Moshe (Mózes), és beszélt a néphez ⟨את⟩ Jahve szavait, és összegyűjtött hetven férfit a nép vénei közül, és ⟨את⟩ őket felállította a sátór köré.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "kiment"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "és beszélt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve szavait"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "szavait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "és összegyűjtött"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "a vénei közül"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "és felállította"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "köré"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "a sátornak"
+    }
+  ],
+  "timestamp": "2026-09-05T00:26:15.366540308Z",
+  "model": "glm-5.3"
+}

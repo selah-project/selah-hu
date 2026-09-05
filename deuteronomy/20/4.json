@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "mert Jahve, a ti Elohimotok ⟨az⟩, aki veletek megy, hogy harcoljon értetek ellenségeitekkel, hogy megszabadítson ⟨את⟩ titeket.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "a ti Elohimotok"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "⟨az⟩, aki megy"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "veletek"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "hogy harcoljon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "értetek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "—"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ellenségeitekkel"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "hogy megszabadítson"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titenket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:57.224261067Z",
+  "model": "glm-5.3"
+}

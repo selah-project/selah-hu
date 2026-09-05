@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És kilehelte a lelkét, és meghalt Avrahám jó öregségben, vénen és betelten, és elgyűjtetett a népéhez.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "És kilehelte a lelkét"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahám"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "öregségben"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "jó"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "véne"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "és betelten"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "és elgyűjtetett"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "a népéhez"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:20.083335546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 13,
+  "translation": "Az igazak világossága örvendez, de a gonoszok lámpása kialszik.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "világossága"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "az igazak"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "örvendez"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "de a lámpása"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszoknak"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "kialszik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:20.627253021Z",
+  "model": "glm-5.3"
+}

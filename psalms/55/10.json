@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 55,
+  "translation": "Nyeld el, Adonáj, és hasítsd ketté nyelvüket, mert erőszakot és viszályt láttam a városban.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "nyeld el"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "hasítsd ketté"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "nyelvüket"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "láttam"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "erőszakot"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "és viszályt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:45.552229638Z",
+  "model": "glm-5.3"
+}

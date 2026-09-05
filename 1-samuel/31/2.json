@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 31,
+  "translation": "És odaérkeztek szorosan a pelisteusok ⟨את⟩ Saúlt és ⟨את⟩ fiait, és leverték a pelisteusok ⟨את⟩ Jehonatánt és ⟨את⟩ Avinadávot és ⟨את⟩ Malki-Suát, Saúl fiait.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "És odaérkeztek szorosan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelisteusok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saúlt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúlt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és leverték"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a pelisteusok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehonatánt"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatánt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Avinadávot"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadávot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Malki-Suát"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "-Suát"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saúl"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:46.349680318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "A király pedig elfedte ⟨את⟩ arcát, és a király nagy hanggal felkiáltott: fiam, Avsálom (Absalom), Avsálom, fiam, fiam!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "a király pedig"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "elfedte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcát"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "arcát"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "és felkiáltott"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hanggal"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsálom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsálom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiam"
+    }
+  ],
+  "timestamp": "2026-09-04T19:33:54.872651953Z",
+  "model": "glm-5.3"
+}

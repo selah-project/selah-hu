@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "Ez a tenger, nagy és kéz-szélességű ⟨a⟩ mozgó lényekkel, szám nélkül valókkel, kis és nagy élőlényekkel.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tenger"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "és széles"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "két oldal (kéz)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mozgó lény"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "és nincs"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "szám"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "élőlények"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "kicsik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-val"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nagyok"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:46.789356884Z",
+  "model": "glm-5.3"
+}

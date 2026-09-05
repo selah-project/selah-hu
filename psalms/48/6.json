@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 48,
+  "translation": "⟨Ők⟩ látták — így megdöbbentek; megrettentek, hirtelen menekültek.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "⟨Ők⟩"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "látták"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "megdöbbentek"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "megrettentek"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "hirtelen menekültek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:58.144013111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 36:25",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "És Elnátán, Delájáhu és Gemarjáhu is a király elé járultak, hogy ne égesse el ⟨את⟩ a tekercset, de nem hallgatott rájuk.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "És ... is"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnátán"
+    },
+    {
+      "surface": "ודליהו",
+      "gloss": "és Delájáhu"
+    },
+    {
+      "surface": "וגמריהו",
+      "gloss": "és Gemarjáhu"
+    },
+    {
+      "surface": "הפגעו",
+      "gloss": "a király elé járultak"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "hogy ne"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "égesse el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tekercset"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "a tekercset"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "de nem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatott"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "rájuk"
+    }
+  ],
+  "timestamp": "2026-09-04T23:40:38.541209596Z",
+  "model": "glm-5.3"
+}

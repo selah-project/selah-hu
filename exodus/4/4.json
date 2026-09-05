@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És mondta Jahve Moshenek: nyújtsd ki a kezedet, és fogd meg a farkánál! És kinyújtotta a kezét, és megragadta azt — és bottá lett a tenyerében.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nyújtsd ki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a kezedet"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "és fogd meg"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "a farkánál"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és kinyújtotta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "a kezét"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "és megragadta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azt"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "és lett"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bottá"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "a tenyerében"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:07.862527169Z",
+  "model": "fable-5-hand"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "És Izrael minden embere, amikor meglátták ⟨את⟩ az embert, elfutottak az ő színe elől, és igen féltek.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "איש",
+      "gloss": "embere"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "amikor látták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az embert"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "az embert"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "és elfutottak"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "a színe elől"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "és féltek"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "igen"
+    }
+  ],
+  "timestamp": "2026-09-04T19:11:53.894072920Z",
+  "model": "glm-5.3"
+}

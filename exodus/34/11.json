@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "Őrizd meg magadnak ⟨את⟩ azt, amit én ma parancsolok neked; íme, én kiűzöm színed elől ⟨את⟩ az emorit és a kenaanit és a hittit és a perizzit és a hivvit és a jebuszit.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Őrizd meg"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit parancsolok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parancsolok neked"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "íme, én"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "kiűzöm"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "színed elől"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az emorit"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "az emorit"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "és a kenaanit"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "és a hittit"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "és a perizzit"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "és a hivvit"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "és a jebuszit"
+    }
+  ],
+  "timestamp": "2026-09-04T17:00:37.761174748Z",
+  "model": "glm-5.3"
+}

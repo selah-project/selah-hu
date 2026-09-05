@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És bocsátotta Jahve a döghalált Izráelre a reggeltől a kitűzött időig, és meghalt a népből Dántól Beér-Sebáig hetvenezer férfi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És bocsátotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a döghalált"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izráelre"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "a reggeltől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ideje"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "a kitűzött"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "és meghalt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dántól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beér"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sebá"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "hetven"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    }
+  ],
+  "timestamp": "2026-09-04T19:36:19.413688105Z",
+  "model": "glm-5.3"
+}

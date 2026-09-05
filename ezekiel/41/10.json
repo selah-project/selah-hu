@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "És a cellák között húsz könyök ⟨a⟩ szélesség, körös-körül a ház körül, körös-körül.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "És között"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "a cellák"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélesség"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "húsz"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körös-körül"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körül"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "körös-körül"
+    }
+  ],
+  "timestamp": "2026-09-04T21:14:03.480527757Z",
+  "model": "glm-5.3"
+}

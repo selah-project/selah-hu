@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 109,
+  "translation": "És tudják meg, hogy a te kezed ⟨az⟩ — te, Jahve, tetted!",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "És tudják meg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "a te kezed"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨az⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "tetted"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:07.010642255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "„Szólj Izráel fiaihoz, és mondd nekik: ha valaki közületek ajándékot (korvánt) akar közelíteni Jahvénak, az állatokból — a szarvasmarhából vagy a juhnyájból — vigye közel ⟨את⟩ az ő ajándékát (korvánját).”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Szólj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hoz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaihoz"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "valaki (ember)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "akar közelíteni"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "közületek"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ajándékot (korvánt)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "az állatokból"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "szarvasmarhából"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "vagy a"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "juhnyájból"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "vigye közel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő ajándékát (korvánját)"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "ajándékátokat (korvánjatokat)"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:26.410674298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 80,
+  "translation": "A karmesternek, a Susán-édut szerint, Aszáf bizonyságtétele, zsoltár.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "a liliomok"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "édut-(bizonyságtétel)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Aszáfnak"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltár"
+    }
+  ],
+  "timestamp": "2026-09-04T21:54:39.791826744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 15:20",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "A gonosznak minden napja gyötrődik ⟨ő⟩, és az évek száma el ⟨van⟩ rejtve az erőszakos elől —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a gonosznak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "מתחולל",
+      "gloss": "gyötrődik"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "és száma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "az éveknek"
+    },
+    {
+      "surface": "נצפנו",
+      "gloss": "el van rejtve"
+    },
+    {
+      "surface": "לעריץ",
+      "gloss": "az erőszakosnak"
+    }
+  ],
+  "timestamp": "2026-09-04T22:21:38.625606113Z",
+  "model": "glm-5.3"
+}

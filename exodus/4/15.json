@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És beszélj te vele, és helyezd ⟨את⟩ a szavakat az ő szájába; és én leszek a te száddal és az ő szájával, és megtanítlak titeket ⟨את⟩ ⟨את⟩ azt,amit cselekesztek.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "És beszélj"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "te vele"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "és helyezd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a szavakat"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "az ő szájába"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "és én"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "leszek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…val"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "a te száddal"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "és …val"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "az ő szájával"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "és megtanítlak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt,amit cselekesztek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "cselekesztek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:57.431100480Z",
+  "model": "glm-5.3"
+}

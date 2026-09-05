@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "Azért még perlek veletek – kijelentése Jahvénak –, és ⟨את⟩ fiaitok fiaival is perlek.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Azért"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "még"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "perlek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ veletek"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kijelentése"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiaitok fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiaitok"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "perlek"
+    }
+  ],
+  "timestamp": "2026-09-04T20:31:23.663134248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Hűséget fújva ⟨az⟩ igazságot jelenti, és a hazug tanú ⟨csalást⟩.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "fújva"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "hűséget"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "jelenti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságot"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és a tanú"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "hazug"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "csalás"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:55.957406288Z",
+  "model": "glm-5.3"
+}

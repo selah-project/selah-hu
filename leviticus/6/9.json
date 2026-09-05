@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 6:9",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És annak maradékát egyék meg Aharon (Áron) és az ő fiai; kovásztalanul egyék, szent helyen, a kijelentés sátorának udvarán egyék meg ⟨azt⟩.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "és-annak-maradékát"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "abból"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "egyék"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "és-fiai"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kovásztalanul"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "egyék"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "helyen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "szent"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "udvarán"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sátorának"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kijelentés(nek)"
+    },
+    {
+      "surface": "יאכלוה",
+      "gloss": "egyék-meg⟨azt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T18:18:11.437377556Z",
+  "model": "glm-5.3"
+}

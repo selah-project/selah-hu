@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Népem vétkét eszik, és lelküket a bűnükre emelik.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "vétkét"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "eszik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és … felé"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "bűnükre"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "emelik"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lelküket"
+    }
+  ],
+  "timestamp": "2026-09-04T21:19:04.927758527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És ezt mondta Dávidnak: Igazabb vagy nálam, mert te a jót tetted velem, én pedig a rosszat tettem veled.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "igazabb"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nálam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "tettél velem"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "a jót"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "én pedig"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "tettem veled"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "a rosszat"
+    }
+  ],
+  "timestamp": "2026-09-04T19:15:56.178969185Z",
+  "model": "glm-5.3"
+}

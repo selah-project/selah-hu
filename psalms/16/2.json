@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Mondtam Jahvénak: „Adonáj te ⟨vagy⟩, ⟨nincs⟩ az én jóm rajtad túl.”",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Mondtam"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "te"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "az én jóm"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "rajtad"
+    }
+  ],
+  "timestamp": "2026-09-04T21:39:34.026271086Z",
+  "model": "glm-5.3"
+}

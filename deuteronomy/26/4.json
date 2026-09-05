@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 26,
+  "translation": "És elveszi a kohan a kosarat kezedből, és leteszi ⟨את⟩ azt Jahve, a te Elohimod oltára elé.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "És elveszi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohan"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "a kosarat"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "kezedből"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "és leteszi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "elé"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.222216066Z",
+  "model": "glm-5.3"
+}

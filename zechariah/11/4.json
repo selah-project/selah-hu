@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Ezt mondta Jahve, az Elohimom: Legeltesd ⟨את⟩ a levágásra ítélt nyájat!",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ezt"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "az Elohimom"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Legeltesd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nyájat"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "nyáj"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "a levágásra ítélt"
+    }
+  ],
+  "timestamp": "2026-09-04T21:34:44.498541789Z",
+  "model": "glm-5.3"
+}

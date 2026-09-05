@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "Akinek aratását az éhes megeszi, és tövisbokrok közül viszi el ⟨את⟩ azt, és a szomjas{s} felfalják vagyonukat.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Akinek"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "aratását"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "az éhes"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "megeszi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "tövisbokrok közül"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "viszi el azt"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "és felfalják"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "a szomjas{s}"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "vagyonukat"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.210767062Z",
+  "model": "glm-5.3"
+}

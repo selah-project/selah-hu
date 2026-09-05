@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 106,
+  "translation": "Vétkeztünk atyáinkkal, gonoszat cselekedtünk, hitványanactedtünk.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "vétkeztünk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "atyáinkkal"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": ""
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "gonoszat cselekedtünk"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "hitványan actedtünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:04.122259750Z",
+  "model": "glm-5.3"
+}

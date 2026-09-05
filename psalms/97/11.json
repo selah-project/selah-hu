@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 97,
+  "translation": "Világosság van vetve az igaznak, és az egyenes szívűeknek öröm.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Világosság"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "van vetve"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "az igaznak"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "és az egyenes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívűeknek"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "öröm"
+    }
+  ],
+  "timestamp": "2026-09-04T21:57:29.008973103Z",
+  "model": "glm-5.3"
+}

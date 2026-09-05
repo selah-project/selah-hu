@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "Hálát adok neked örökké, mert megtetted ⟨azt⟩, és nevedre várok, mert jó ⟨ez⟩ híveid színe előtt.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "hálát adok neked"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "megtetted"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "és várok"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nevedre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jó"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "híveid"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:37.989754554Z",
+  "model": "glm-5.3"
+}

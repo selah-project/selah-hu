@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Davíd (Dávid) [zsoltára]. Hozzád, Jahve, emelem fel lelkemet.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davíd (Dávid) [zsoltára]"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lelkemet"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "emelem fel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:09.778236775Z",
+  "model": "glm-5.3"
+}

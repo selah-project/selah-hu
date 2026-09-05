@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Boldog ⟨a⟩ férfiad, boldog ⟨az⟩ ezek a szolgáid, akik szüntelenül állnak előtted, akik hallják ⟨את⟩ a te bölcsességedet!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "a férfiad"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "a szolgáid"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "akik állnak"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "szüntelenül"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "akik hallják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a te bölcsességedet"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "a te bölcsességedet"
+    }
+  ],
+  "timestamp": "2026-09-04T23:32:43.512152089Z",
+  "model": "glm-5.3"
+}

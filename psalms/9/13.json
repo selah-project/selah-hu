@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Mert aki a vért követeli, megemlékezett ⟨את⟩ róluk; nem feledte a nyomorultak kiáltását.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "követeli"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "a vért"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "róluk"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "megemlékezett"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "feledte"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "kiáltását"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "a nyomorultaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:48.192766926Z",
+  "model": "glm-5.3"
+}

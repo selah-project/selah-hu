@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 89,
+  "translation": "Mint a hold ⟨lesz⟩ megalapítva örökké, és hű tanú az égbolton. Szela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "mint a hold"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "megalapítva"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és ⟨a⟩ tanú"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "az égbolton"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "hű"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Szela."
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:17.498644868Z",
+  "model": "glm-5.3"
+}

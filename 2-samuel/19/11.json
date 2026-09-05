@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És Avsálom, akit fölkentünk fölénk, meghalt a csatában; és most miért hallgattok ⟨את⟩ a király visszahozásán?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "és Avsálom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akit"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "felkentünk"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "fölénk"
+    },
+    {
+      "surface": "מת",
+      "gloss": "meghalt"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "a csatában"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "és most"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miért"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "hallgattok"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "visszahozásán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a király"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    }
+  ],
+  "timestamp": "2026-09-04T19:32:39.423755188Z",
+  "model": "glm-5.3"
+}

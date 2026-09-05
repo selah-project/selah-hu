@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 104,
+  "translation": "És bor, amely megörvendezteti a halandó szívét, hogy az arc csillogjon az olajtól, és kenyér, amely megerősíti a halandó szívét.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "és bor"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "megörvendezteti"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "a halandó"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "csillogtattya"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "az arcot"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "olajtól"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "és kenyér"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "a halandó"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "megerősíti"
+    }
+  ],
+  "timestamp": "2026-09-04T21:59:14.694115636Z",
+  "model": "glm-5.3"
+}

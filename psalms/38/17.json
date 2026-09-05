@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "Mert ezt mondtam: nehogy örvendezzenek fölöttem; lábam megcsúszásakor ellenem fennhéjáztak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ezt mondtam"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nehogy"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "örvendezzenek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fölöttem"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "megcsúszásakor"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "lábam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ellenem"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "fennhéjáztak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:43.736802362Z",
+  "model": "glm-5.3"
+}

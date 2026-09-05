@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 41,
+  "translation": "Jahve megtámasztja őt a gyötrelem ágyán, egész fekvését átfordítottad betegségében.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "megtámasztja őt"
+    },
+    {
+      "surface": "על",
+      "gloss": "(rajta)"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ágyán"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "gyötrelem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "fekvését"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "átfordítottad"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "betegségében"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:13.467024682Z",
+  "model": "glm-5.3"
+}

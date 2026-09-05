@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Eljön a mi Elohimunk, és ne hallgasson: tűz emészti ⟨előtte⟩, és körülötte nagyon viharzik.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Eljön"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "a mi Elohimunk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "hallgasson"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tűz"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨előtte⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "emészt"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "és körülötte"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "viharzik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:46.130827806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Aki pusztítja apját, és elűzi anyját, az olyan fiú, aki szégyent hoz és gyalázatot okoz.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "aki pusztítja"
+    },
+    {
+      "surface": "אב",
+      "gloss": "apját"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "elűzi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "anyját"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiú"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "szégyent hoz"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "és gyalázatot okoz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:12:53.597625700Z",
+  "model": "glm-5.3"
+}

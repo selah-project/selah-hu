@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 18,
+  "translation": "Anyád nővérének meztelenségét ne fedd fel, mert anyád húsa ⟨az⟩ ⟨ő⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "meztelenségét"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "nővérének"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anyádnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "fedd fel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "húsa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anyádnak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:15:15.823932078Z",
+  "model": "glm-5.3"
+}

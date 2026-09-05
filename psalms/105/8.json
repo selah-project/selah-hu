@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 105,
+  "translation": "Emlékezett örökké szövetségére, az igére, amelyet ezer nemzedékre parancsolt,",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Emlékezett"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "szövetségére"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "az igére"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parancsolt"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ezer"
+    },
+    {
+      "surface": "דור",
+      "gloss": "nemzedékre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:58:36.949526686Z",
+  "model": "glm-5.3"
+}

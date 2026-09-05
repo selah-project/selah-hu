@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ⟨את⟩ a kost készítse békeáldozattá Jahvénak a maceszok kosarával együtt; és elkészíti a pap ⟨את⟩ annak ételáldozatát és ⟨את⟩ annak italáldozatát.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a kost"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "a kos"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "készítse"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "áldozattá"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "béke-"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "על",
+      "gloss": "mellett"
+    },
+    {
+      "surface": "סל",
+      "gloss": "kosarával"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "a maceszoknak"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "és elkészíti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ételáldozatát"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ételáldozatát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "italáldozatát"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "italáldozatát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:29:37.269508818Z",
+  "model": "glm-5.3"
+}

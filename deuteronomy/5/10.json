@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "és heszedet cselekszik ezrekig, az engem szeretőknek és parancsolataim megtartóinak.",
+  "tokens": [
+    {
+      "surface": "וְעֹשֶׂה",
+      "gloss": "és cselekszik"
+    },
+    {
+      "surface": "חֶסד",
+      "gloss": "heszedet"
+    },
+    {
+      "surface": "לָאֲלָפִים",
+      "gloss": "ezrekig"
+    },
+    {
+      "surface": "לְאֹהֲבַי",
+      "gloss": "az engem szeretőknek"
+    },
+    {
+      "surface": "וּלְשֹׁמְרֵי",
+      "gloss": "és a megtartóinak"
+    },
+    {
+      "surface": "מִצְוֹתָיו",
+      "gloss": "parancsolatait"
+    }
+  ],
+  "timestamp": "2026-09-04T17:51:55.092424122Z",
+  "model": "glm-5.3"
+}

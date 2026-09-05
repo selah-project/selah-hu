@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Én ⟨vagyok⟩ Jahve, a ti Elohimotok, aki kihoztam ⟨את⟩ titeket Micrajim (Egyiptom) földjéről, hogy adjam néktek ⟨את⟩ Kenaan földjét, hogy Elohimotokká legyek néktek.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimotok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "kihoztam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ titeket",
+      "marks": "titeket"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hogy adjam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "néktek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaan földjét"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hogy legyek"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "néktek"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimotokká"
+    }
+  ],
+  "timestamp": "2026-09-04T17:22:23.217593267Z",
+  "model": "glm-5.3"
+}

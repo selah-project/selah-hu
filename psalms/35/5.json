@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "Legyenek, mint a polyva a szél előtt, és a Jahve angyala űzze ⟨őket⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Legyenek"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "mint polyva"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a szél"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "és az angyala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "űzze"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:48.058354023Z",
+  "model": "glm-5.3"
+}

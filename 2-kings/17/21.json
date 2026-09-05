@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 17,
+  "translation": "Mert leszakadt Jiszráél Dávid házától, és királlyá tették ⟨את⟩ Jaravámot, Návát fiát, és Jaravám elvonta ⟨את⟩ Jiszráélt Jahve követésétől, és nagy vétkezésre vitte őket.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "leszakadt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házától"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "királlyá tették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaravámot"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravámot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiát"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Návát"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "elvonta"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaravám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiszráélt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráélt"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "követésétől"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "vétkezésre vitte őket"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "vétkezésre"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nagy"
+    }
+  ],
+  "timestamp": "2026-09-04T20:00:44.730509686Z",
+  "model": "glm-5.3"
+}

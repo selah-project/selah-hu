@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És szólt Jahve hozzám: „Vegyél magadnak nagy gilájont (táblát), és írj rá ember vésszővel: Mahér-Sálál-Hás-Baz.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "hozzám"
+    },
+    {
+      "surface": "קח",
+      "gloss": "vegyél"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magadnak"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "gilájont (táblát)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "és írj"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "vésszővel"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ember-"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Mahér"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Sálál"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hás"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-09-04T20:10:36.309295731Z",
+  "model": "glm-5.3"
+}

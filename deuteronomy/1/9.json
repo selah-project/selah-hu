@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondtam nektek abban az időben, mondván: nem tudom én magam egyedül hordozni ⟨את⟩benneteket.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "És mondtam"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "nekemek"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "abban az időben"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tudom"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "én magam egyedül"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "hordozni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩benneteket",
+      "marks": "benneteket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:48:42.496035419Z",
+  "model": "glm-5.3"
+}

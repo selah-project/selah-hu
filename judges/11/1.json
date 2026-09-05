@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 11:1",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Jafta (Jefte) a Giladi akkoriban ⟨volt⟩ vitéz harcos, és ő egy parázna nőnek ⟨volt⟩ a fia; és Gilad nemzette ⟨את⟩ Jaftát.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "Jafta"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "a Giladi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "vitéz"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "harcos"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "és ő"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fia"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nőnek"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "parázna"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaftát"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jaftát"
+    }
+  ],
+  "timestamp": "2026-09-04T18:56:38.036746893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És Ester ezt mondta: Ellenség és gyűlölő — ez a gonosz Hámán. És Hámán megrémült a király és a királynő színe elől.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "És ezt mondta"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ellenség"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "és gyűlölő"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámán"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "gonosz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "És Hámán"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "megrémült"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "színe elől"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "és a királynő"
+    }
+  ],
+  "timestamp": "2026-09-04T23:54:54.933921679Z",
+  "model": "glm-5.3"
+}

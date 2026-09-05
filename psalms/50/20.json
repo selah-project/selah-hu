@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Ülsz, testvéred ellen beszélsz, anyádnak fiát gyanúba ⟨adod⟩.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Ülsz"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "testvéred ellen"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "beszélsz"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "…-nak fiát"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "anyádnak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "⟨adod⟩"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "gyanúba"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:54.617087400Z",
+  "model": "glm-5.3"
+}

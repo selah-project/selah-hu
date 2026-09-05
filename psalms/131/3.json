@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 131,
+  "translation": "Várjon reménykedve Izrael Jahvéra, mostantól és mindörökké!",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Várjon reménykedve"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "mostantól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mindörökké"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.362608152Z",
+  "model": "glm-5.3"
+}

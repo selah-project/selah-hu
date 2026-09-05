@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 12:20",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ha kiszélesíti Jahve, a te Elohimod ⟨את⟩ határodat, ahogyan beszélt neked, és mondod: Húst eszem, mert kívánja a lelked, hogy húst egyél — minden sóvárgásod szerint eheted a húst.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "kiszélesíti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "határodat"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "határodat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ahogyan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "beszélt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondod"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "Húst eszem"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "kívánja"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "a lelked"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hogy… egyél"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "húst"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אות",
+      "gloss": "sóvárgásod"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lelked"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eheted"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "a húst"
+    }
+  ],
+  "timestamp": "2026-09-04T18:20:47.278480858Z",
+  "model": "glm-5.3"
+}

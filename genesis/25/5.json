@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "És adott Avrahám (Ábrahám) ⟨את⟩ mindent, ami az övé volt, Jichaknak (Izsáknak).",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "És adott"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "az övé volt"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jichaknak"
+    }
+  ],
+  "timestamp": "2026-09-04T18:14:20.073705457Z",
+  "model": "glm-5.3"
+}

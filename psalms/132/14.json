@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 132,
+  "translation": "„Ez ⟨az⟩ én nyugalmam örökre, örökké; itt lakom, mert kívántam őt.”",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ez"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "nyugalmam"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "עד",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "פה",
+      "gloss": "itt"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "lakom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "kívántam őt"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:33.495593503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "hanem holnap ilyenkor elküldöm ⟨את⟩ szolgáimat hozzád, és átkutatják ⟨את⟩ házadat és ⟨את⟩ szolgáid házait; és lesz: mindent, amit szemeid kívánnak, kezükbe tesznek, és elviszik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hanem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ha⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ilyenkor"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "holnap"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "elküldöm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "szolgáimat"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "szolgáimat"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "és átkutatják"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "házadat"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "házadat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szolgáid házait"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "házait"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "szolgáid"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "és lesz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "ami kívánatos"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "szemeid"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "tesznek"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "kezükbe"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "és elviszik"
+    }
+  ],
+  "timestamp": "2026-09-04T19:49:51.272379038Z",
+  "model": "glm-5.3"
+}

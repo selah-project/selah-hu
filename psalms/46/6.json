@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 46,
+  "translation": "Elohim ⟨van⟩ annak közepében, nem mozdul meg; Elohim segíti őt hajnal szökkenéskor.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "annak közepében"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "mozdul meg"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "segíti őt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "szökkenéskor"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hajnal"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:55.908044331Z",
+  "model": "glm-5.3"
+}

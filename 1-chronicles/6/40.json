@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És adtak nekik ⟨את⟩ Chebront (Hebrón) Jehúda földjén, és ⟨את⟩ annak legelőit annak környékét.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "És adtak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebront"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebront"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "földjén"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "legelőit"
+    },
+    {
+      "surface": "מגרashיה",
+      "gloss": "legelőit"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "környékét"
+    }
+  ],
+  "timestamp": "2026-09-04T23:01:39.456916387Z",
+  "model": "glm-5.3"
+}

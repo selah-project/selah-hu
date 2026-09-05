@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Mert a sziklák tetejéről látom őt, és a halmokról szemlélem őt: íme, ⟨ez⟩ ⟨az⟩ a nép, amely egyedül lakik, és a népek közé nem számíttatik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "a tetejéről"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "sziklák"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "látom őt"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "és a halmokról"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "szemlélem őt"
+    },
+    {
+      "surface": "הן",
+      "gloss": "íme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nép"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "egyedül"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "lakik"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "és a népek közé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "számíttatik"
+    }
+  ],
+  "timestamp": "2026-09-04T17:41:37.099058614Z",
+  "model": "glm-5.3"
+}

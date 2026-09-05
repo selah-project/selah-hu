@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "hogy elvigye a királyságot Saul (Saul) házától, és felállítsa ⟨את⟩ David trónját Izráel és Júda fölött, Dántól Beer-Seváig.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "hogy elvigye"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "a királyságot"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házától"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "és felállítsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David trónját"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trónját"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "fölött"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és... fölött"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dántól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és... -ig"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Seváig"
+    }
+  ],
+  "timestamp": "2026-09-04T19:21:35.422128089Z",
+  "model": "glm-5.3"
+}

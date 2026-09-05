@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "És elbocsátotta Jehosua ⟨את⟩ a népet, mindenkit a maga örökségéhez.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "És elbocsátotta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenkit"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "örökségéhez"
+    }
+  ],
+  "timestamp": "2026-09-04T18:46:51.150976915Z",
+  "model": "glm-5.3"
+}

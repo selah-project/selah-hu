@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És ha a nyájból ⟨van⟩ a korbanja, a kosok közül vagy a kecskék közül, égőáldozatul: hímöt, épet ⟨állatot⟩ vigye közel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ból"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "a nyáj"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "az ő korbanja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…közül"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "a kosok"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…közül"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "a kecskék"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "égőáldozatul"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hím"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ép"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "vigye közel ⟨őt⟩"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:25.750055576Z",
+  "model": "glm-5.3"
+}

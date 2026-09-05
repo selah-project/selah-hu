@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Kifáradtam sóhajtásomtól, minden éjjel úsztatom ágyamat, könnyeimmel oldom fel nyugágyamat.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Kifáradtam"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "sóhajtásomtól"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "úsztatom"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "éjjel"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ágyamat"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "könnyeimmel"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "nyugágyamat"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "oldom fel"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:28.909309965Z",
+  "model": "glm-5.3"
+}

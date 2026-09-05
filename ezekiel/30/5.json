@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Kús és Pút, Lúd és minden kevert nép, és Húb, és a szövetség földjének fiai — velük ⟨את⟩ együtt esnek el a kard által.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "és Pút"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "és Lúd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kevert nép"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "és Húb"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "és fiai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "földje"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "a szövetségnek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ velük",
+      "marks": "velük (Kús, Pút, Lúd, a kevert nép, Húb és a szövetség földjének fiai)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "a kard által"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "esnek el"
+    }
+  ],
+  "timestamp": "2026-09-04T21:10:15.726149682Z",
+  "model": "glm-5.3"
+}

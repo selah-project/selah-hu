@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És szólt Jahve Moshének (Mózesnek): Menj be Parhóhoz (a fáraóhoz), és mondd neki: Így szólt Jahve: Bocsásd el ⟨את⟩ népemet, hogy szolgáljanak nekem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hez (Moshénak)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshé"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Menj be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz (Parhóhoz)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parhó"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "és mondd"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Bocsásd el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népemet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemet"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "hogy szolgáljanak nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:45:16.859005566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 136,
+  "translation": "Annak, aki kettévágta a Szúf-tengert darabokra, mert örökké tart a heszedje.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "annak, aki kettévágta"
+    },
+    {
+      "surface": "ים",
+      "gloss": "tengert"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Szúf-"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "darabokra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökké"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tart a heszedje"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:28.996501592Z",
+  "model": "glm-5.3"
+}

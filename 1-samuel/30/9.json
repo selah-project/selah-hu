@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "És elment David (Dávid), ő és hatszáz férfi, aki volt ⟨את⟩-vel vele, és elérkeztek a Besor patakjáig; a hátramaradottak pedig megálltak.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "és elment"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ő"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "és hat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "száz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "férfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ vele",
+      "marks": "ő (Davidmal volt férfiak)"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "és elérkeztek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "patak"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "a Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "és a hátramaradottak"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "megálltak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:20:48.101310215Z",
+  "model": "glm-5.3"
+}

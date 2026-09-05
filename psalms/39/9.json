@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "Minden vétkeimből szabadíts meg, a balga gyalázatává ne tegyél engem.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "minden...ből"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "vétkeimből"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "szabadíts meg"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "gyalázatává"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "a balga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "tegyél engem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:44:47.605176015Z",
+  "model": "glm-5.3"
+}

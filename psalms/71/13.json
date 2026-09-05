@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Szégyenüljenek meg és vesszenek el a népem vádlói, borítsa be őket ⟨a⟩ gyalázat és a megszégyenülés — gonoszomat keresők.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Szégyenüljenek meg"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "vesszenek el"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "vádlói"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "népem"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "borítsa be"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "gyalázat"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "és megszégyenülés"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "keresői"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "gonoszomat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:09.272965611Z",
+  "model": "glm-5.3"
+}

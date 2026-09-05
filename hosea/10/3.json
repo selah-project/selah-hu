@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": "Mert most majd mondják: „Nincs királyunk, mert nem féltük ⟨את⟩ Jahvét; és a király, mit tesz értünk?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "majd mondják"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Nincs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "unk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "féltük"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "és a király"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tesz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "érettünk"
+    }
+  ],
+  "timestamp": "2026-09-04T21:21:42.704379825Z",
+  "model": "glm-5.3"
+}

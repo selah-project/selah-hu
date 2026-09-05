@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És ez lesz az ő tisztátalansága a folyásában: csöpög a teste ⟨את⟩ az ő folyásával, vagy el van zárva a teste a folyásától — az ő tisztátalansága az ⟨⟨az⟩⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "És ez"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "az ő tisztátalansága"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "a folyásában"
+    },
+    {
+      "surface": "רר",
+      "gloss": "csöpög"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "a teste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő folyását"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "az ő folyása"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "el van zárva"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "a teste"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "a folyásától"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "az ő tisztátalansága"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "az"
+    }
+  ],
+  "timestamp": "2026-09-04T17:14:32.004153515Z",
+  "model": "glm-5.3"
+}

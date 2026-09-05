@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Vezérelj engem parancsolataid ösvényén, mert abban gyönyörködöm.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Vezérelj engem"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "ösvényén"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parancsolataidnak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "בו",
+      "gloss": "abban"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "gyönyörködöm"
+    }
+  ],
+  "timestamp": "2026-09-04T22:02:39.923487122Z",
+  "model": "glm-5.3"
+}

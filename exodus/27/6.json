@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "És készíts rúdakat az oltárhoz, sita-fa rúdakat, és vond be ⟨את⟩ őket rézzel.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "és készíts"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "rúdakat"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "az oltárhoz"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "rúdakat"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "fájából"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sita"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "és vond be"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "rézzel"
+    }
+  ],
+  "timestamp": "2026-09-05T00:25:07.936092178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 72,
+  "translation": "És áldott az ő dicsőségének neve örökre, és teljék meg az ő dicsőségével ⟨את⟩ az egész föld, Ámen és Ámen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "És áldott"
+    },
+    {
+      "surface": "שם",
+      "gloss": "neve"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "az ő dicsőségének"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökre"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "és teljék meg"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "az ő dicsőségével"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az egész föld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "föld"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ámen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "és Ámen"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:51.811067131Z",
+  "model": "glm-5.3"
+}

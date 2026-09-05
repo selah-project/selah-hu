@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Ne kívánd szépségét szívedben, és ne kapjon el téged szempilláival!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "kívánd"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "szépségét"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "szívedben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "kapjon el téged"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "szempilláival"
+    }
+  ],
+  "timestamp": "2026-09-04T22:09:41.948789847Z",
+  "model": "glm-5.3"
+}

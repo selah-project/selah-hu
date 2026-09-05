@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 38,
+  "translation": "És fogant ismét, és fiat szült, és elnevezte ⟨את⟩ a nevét Onánnak.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "És fogant"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ismét"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "és szült"
+    },
+    {
+      "surface": "בן",
+      "gloss": "fiat"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "és elnevezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nevét"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "a nevét"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onán"
+    }
+  ],
+  "timestamp": "2026-09-04T16:37:12.307211617Z",
+  "model": "glm-5.3"
+}

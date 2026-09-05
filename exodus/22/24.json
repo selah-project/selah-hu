@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Ha pénzt adsz kölcsön ⟨את⟩ népemnek, ⟨את⟩ a veled élő szegénynek, ne légy neki hitelező módjára; ne vessetek rá kamatot.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pénzt"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "adsz kölcsön"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "népem"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "népemnek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szegény"
+    },
+    {
+      "surface": "העני",
+      "gloss": "a szegénynek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "légy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "hitelező módjára"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "vessetek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "rá"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "kamatot"
+    }
+  ],
+  "timestamp": "2026-09-04T16:51:57.524114604Z",
+  "model": "glm-5.3"
+}

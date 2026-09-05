@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És elfogadták a Jehudák ⟨את⟩ azt, amit elkezdhettek tenni, és ⟨את⟩ azt, amit Mordecháj írt nekik.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "és elfogadták"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "a Jehudák"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azt, amit elkezdhettek tenni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "elkezdhettek"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tenni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "azt, amit Mordecháj írt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "írt"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecháj"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nekik"
+    }
+  ],
+  "timestamp": "2026-09-04T22:40:53.568855780Z",
+  "model": "glm-5.3"
+}

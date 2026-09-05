@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 149,
+  "translation": "Dicsérjék nevét körtáncban, dobbal és lanttal zenéljenek neki!",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Dicsérjék"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nevét"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "körtáncban"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "dobbal"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "és lanttal"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "zenéljenek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neki"
+    }
+  ],
+  "timestamp": "2026-09-04T22:05:55.342128588Z",
+  "model": "glm-5.3"
+}

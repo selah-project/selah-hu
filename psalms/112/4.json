@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 112,
+  "translation": "Fény ragyog a sötétségben ⟨az⟩ egyeneseknek: kegyelmes és irgalmas és igaz.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "ragyog"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "a sötétségben"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Fény"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "az egyeneseknek"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "kegyelmes"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "és irgalmas"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "és igaz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:00:21.650745696Z",
+  "model": "glm-5.3"
+}

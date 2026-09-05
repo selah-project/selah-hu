@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Van út, egyenes az ember előtt, de annak vége ⟨a⟩ halál útjai.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Van"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "út"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "egyenes"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "de annak vége"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "útjai"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halál"
+    }
+  ],
+  "timestamp": "2026-09-05T00:31:11.009676112Z",
+  "model": "glm-5.3"
+}

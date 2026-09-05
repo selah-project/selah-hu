@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Mert ha hallgatsz a szavára, és megcselekszel mindent, amit én szólok: ellenségeid ellensége leszek, és szorongatom a te szorongatóidat ⟨את⟩ ellenségeidet, és ⟨את⟩ a szorongatóidat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ha"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hallgatsz"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "lesz a szavára"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "a szavára"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és megcselekszel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "én szólok"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ellenségeid ellensége leszek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ellenségeidet"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ellenségeidet"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "és szorongatom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a szorongatóidat"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "a szorongatóidat"
+    }
+  ],
+  "timestamp": "2026-09-04T16:52:35.857267394Z",
+  "model": "glm-5.3"
+}

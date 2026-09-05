@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "judges 9:43",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "És vette ⟨את⟩ a népet, és szétosztotta őket három csapatra, és lesben állt a mezőn; és látta, és íme, a nép kijön a városból, és rájuk támadt, és megverte őket.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És vette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népet"
+    },
+    {
+      "surface": "ויחצם",
+      "gloss": "és szétosztotta őket"
+    },
+    {
+      "surface": "לשלשה",
+      "gloss": "három"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "csapatra"
+    },
+    {
+      "surface": "ויארב",
+      "gloss": "és lesben állt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és látta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a nép"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kijön"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ból"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "a város"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "és felkelt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ellenük"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "és megverte őket"
+    }
+  ],
+  "timestamp": "2026-09-04T18:53:37.812218669Z",
+  "model": "glm-5.3"
+}

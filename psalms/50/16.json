@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "A gonoszhoz pedig így szólt Elohim: „Mi közöd ahhoz, hogy elmondod rendeleteimet, és szájadra veszed szövetségemet?”",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "és a gonoszhoz"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "szólt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "elmondani"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "rendeleteimet"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "és hordanád"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "szövetségemet"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "föl"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "szájadra"
+    }
+  ],
+  "timestamp": "2026-09-04T21:48:11.570732418Z",
+  "model": "glm-5.3"
+}

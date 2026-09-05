@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Ne siess elmenni az ő színe elől, ne állj meg rossz dologban, mert mindazt, amit akar, megteszi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "siess"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "az ő színe elől"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "elmenni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "állj meg"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dologban"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "akar"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "megteszi"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:45.236429131Z",
+  "model": "glm-5.3"
+}

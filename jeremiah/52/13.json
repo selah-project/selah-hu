@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 52,
+  "translation": "És felgyújtotta ⟨את⟩ Jahve házát és ⟨את⟩ a király házát, és ⟨את⟩ Jerúsálim minden házát, és ⟨את⟩ minden nagy házat felégetett tűzben.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "és felgyújtotta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a király házát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házát"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Jerúsálim minden házát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "házait"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsálim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden nagy házat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házat"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "felégetett"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzben"
+    }
+  ],
+  "timestamp": "2026-09-04T20:56:55.902240928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 25,
+  "translation": "Váltsd meg, Elohim, ⟨את⟩ Izráelt minden szorongattatásából!",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Váltsd meg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izráelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráelt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "szorongattatásából"
+    }
+  ],
+  "timestamp": "2026-09-04T21:41:39.720640722Z",
+  "model": "glm-5.3"
+}

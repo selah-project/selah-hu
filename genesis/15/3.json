@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 15,
+  "translation": "És mondta Avram: Íme, nekem nem adtál utódot, és íme, házam „fia” fog ⟨את⟩ engem örökölni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Íme"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "adtál"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "utódot"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "בן",
+      "gloss": "„fia”"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "házam"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "fog örökölni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "engem"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:53.717827148Z",
+  "model": "glm-5.3"
+}

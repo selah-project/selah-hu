@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne köss velük és isteneikkel szövetséget.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "köss"
+    },
+    {
+      "surface": "להם",
+      "gloss": "velük"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "és isteneikkel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "szövetséget"
+    }
+  ],
+  "timestamp": "2026-09-04T16:53:46.047582953Z",
+  "model": "glm-5.3"
+}

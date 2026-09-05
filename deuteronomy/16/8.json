@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Hat napon át egyél mácót, és a hetedik napon ünnepi gyülekezet ⟨legyen⟩ Jahvenak, a te Elohimodnak; ne végezz semmi munkát.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Hat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "napon át"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "egyél"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mácót"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "és a ... napon"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "hetedik"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ünnepi gyülekezet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvenak"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimodnak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "végezz"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "semmi munkát"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:31.616481889Z",
+  "model": "glm-5.3"
+}

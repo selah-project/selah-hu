@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 76,
+  "translation": "A karmesternek, húros hangszerekkel, Aszáf (Ászáf) zsoltara, ének.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "A karmesternek"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "húros hangszerekkel"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zsoltara"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Aszáf (Ászáf)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ének"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:22.039534197Z",
+  "model": "glm-5.3"
+}

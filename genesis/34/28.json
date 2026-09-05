@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 34,
+  "translation": "⟨את⟩ Juhot és ⟨את⟩ szarvasmarhájukat és ⟨את⟩ szamaraikat, és ⟨את⟩ mindent ami a városban volt, és ⟨את⟩ mindent ami a mezőn volt, elvitték.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juhot"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "Juhot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szarvasmarhájukat"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "szarvasmarhájukat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szamaraikat"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "szamaraikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "amit a városban volt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a városban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "amit a mezőn volt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "a mezőn"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "elvitték"
+    }
+  ],
+  "timestamp": "2026-09-04T16:36:20.907810035Z",
+  "model": "glm-5.3"
+}

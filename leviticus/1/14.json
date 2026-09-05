@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És ha a madarak közül ⟨van⟩ égőáldozat az ő áldozatául Jahvénak, akkor ⟨az⟩ odavisz ⟨az⟩ áldozatából a torokgalambok közül vagy a galambok fiai közül ⟨את⟩ az ő áldozatát.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "és ha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a … közül"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "a madarak"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "égőáldozat"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "az ő áldozatául"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvénak"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "és odavigyen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a … közül"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "a torokgalambok"
+    },
+    {
+      "surface": "או",
+      "gloss": "vagy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a … közül"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a fiai"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "a galambnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő áldozatát"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "az ő áldozatát"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:37.489289717Z",
+  "model": "glm-5.3"
+}

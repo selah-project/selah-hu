@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 61,
+  "translation": "A föld széléről hozzád kiáltok, mikor elborul a szívem; a sziklához, amely magasabb nálam, vezetsz engem.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "a széléről"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a föld"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hozzád"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kiáltok"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "mikor elborul"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "a szívem"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "a sziklához"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "amely magasabb"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nálam"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vezetsz engem"
+    }
+  ],
+  "timestamp": "2026-09-04T23:47:06.166394029Z",
+  "model": "glm-5.3"
+}

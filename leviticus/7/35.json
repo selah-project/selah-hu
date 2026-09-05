@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ez a felkenése Ahárónnak és a felkenése az ő fiainak, Jahve tűzáldozataiból, azon a napon, amikor előhozta ⟨את⟩ őket, hogy papok legyenek Jahvének.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "felkenése"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahárónnak"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "és felkenése"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "az ő fiainak"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tűzáldozataiból"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napján"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "előhozta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "papoknak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "pappá"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvének"
+    }
+  ],
+  "timestamp": "2026-09-04T17:08:15.482846668Z",
+  "model": "glm-5.3"
+}

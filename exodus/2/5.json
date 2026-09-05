@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És leszállt Paroh lánya, hogy fürödjék a folyónál, és az ő szolgálóleányai jártak a folyó partján, és meglátta ⟨את⟩ a ládát a sás közepette, és elküldte ⟨את⟩ az ő szolgálóját, és az felvette ⟨őt⟩.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "és leszállt"
+    },
+    {
+      "surface": "בת",
+      "gloss": "lánya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "hogy fürödjék"
+    },
+    {
+      "surface": "על",
+      "gloss": "–nál"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "a folyó"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "és az ő szolgálóleányai"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "jártak"
+    },
+    {
+      "surface": "על",
+      "gloss": "mentén"
+    },
+    {
+      "surface": "יד",
+      "gloss": "partján"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "a folyó"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "és meglátta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a ládát"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "a ládát"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "közepette"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "a sásnak"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "és elküldte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az ő szolgálóját"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "az ő szolgálóját"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "és az felvette őt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:15.286097371Z",
+  "model": "glm-5.3"
+}

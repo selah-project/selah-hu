@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És fogta Moshe ⟨את⟩ feleségét és ⟨את⟩ fiait, és szamárra ültette őket, és visszatért Micrajim földjére; és fogta Moshe ⟨את⟩ az Elohim botját a kezében.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "És fogta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feleségét"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "feleségét"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "fiait"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "és ültette őket"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ra"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "a szamárra"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "és visszatért"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "földjére"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és fogta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az Elohim botját"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "botját"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "az Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "kezében"
+    }
+  ],
+  "timestamp": "2026-09-04T16:44:05.845371372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 30,
+  "translation": "Te pedig visszatérsz, és hallgatsz Jahve szavára, és megcselekszed ⟨את⟩ minden parancsolatát, amelyeket én parancsolok neked ma.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "te pedig"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "visszatérsz"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "és hallgatsz"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "szavára"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "és megcselekszed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minden parancsolatát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "parancsolatát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parancsolok neked"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-09-04T18:32:48.012454256Z",
+  "model": "glm-5.3"
+}

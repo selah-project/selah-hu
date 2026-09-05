@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És ⟨את⟩ a ház padlóját bevonatta arannyal — belül és kívül.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "a ház padlóját"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "padlóját"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "a háznak"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "bevonatta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "arannyal"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "belül"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "és kívül"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:34.033059513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "És bement, és megjelent az ő urának, mondván: Ezt és ezt mondta a leány, aki Izrael földjéről ⟨való⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "És bement"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és megjelent"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "az ő urának"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mondván"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "és ezt"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "a leány"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:00.358683616Z",
+  "model": "glm-5.3"
+}

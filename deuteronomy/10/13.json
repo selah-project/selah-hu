@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 10,
+  "translation": " ⟨את⟩ Jahve parancsolatainak megőrzésére és ⟨את⟩ rendeleteire, amelyeket én parancsolok neked ma, a javadra.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "megőrzésére"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve parancsolatainak"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parancsolatainak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "rendeleteire"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "rendeleteire"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeket"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "parancsolok neked"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ma"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "a javadra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:33.660471869Z",
+  "model": "glm-5.3"
+}

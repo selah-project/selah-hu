@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 24,
+  "translation": "Áldást vesz ⟨את⟩ Jahvétól, és megigazultságot az ő szabadulásának Elohimjától.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "elvesz"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "áldást"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvétól — az áldás forrása"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvétól"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "és megigazultságot"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohimjától"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "az ő szabadulása"
+    }
+  ],
+  "timestamp": "2026-09-04T21:42:36.878685891Z",
+  "model": "glm-5.3"
+}

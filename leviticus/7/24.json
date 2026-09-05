@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "A dögrejtett állat kövér része és a széttépetté kövér része bármilyen munkára felhasználható, de enni nem ehetitek meg.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "és a kövér része"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "dögrejtett állatnak"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "és a kövér része"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "széttépetté"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "felhasználható"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bármilyen"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "munkára"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "de enni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "ehetitek meg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:06:57.706157360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Nem küldtem ⟨את⟩ a prófétákat, és ők futottak; nem beszéltem hozzájuk, és ők prófétáltak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nem"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "küldtem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a prófétákat"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "a prófétákat"
+    },
+    {
+      "surface": "והם",
+      "gloss": "és ők"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "futottak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "beszéltem"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "hozzájuk"
+    },
+    {
+      "surface": "והם",
+      "gloss": "és ők"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "prófétáltak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:41:32.809588019Z",
+  "model": "glm-5.3"
+}

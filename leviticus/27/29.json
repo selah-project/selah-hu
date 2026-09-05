@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 27,
+  "translation": "Minden irtásra szánt, amelyet irtás alá rendelnek az emberek közül, nem váltható meg — halállal hal meg.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Minden"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "irtásra szánt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "irtás alá rendelnek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "közül"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "az emberek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "váltható meg"
+    },
+    {
+      "surface": "מות",
+      "gloss": "halállal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hal meg"
+    }
+  ],
+  "timestamp": "2026-09-04T18:19:06.324025577Z",
+  "model": "glm-5.3"
+}

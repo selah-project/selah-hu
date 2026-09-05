@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 8:10",
+  "book": "esther",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És megírták Ahavséros király nevében, és lepecsételték a király gyűrűjével, és leveleket küldtek a futárok kezével, lovakon, a mének, a királyi csődörök közül való üszők lovaglóival.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "és megírták"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nevében"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Ahavséros"
+    },
+    {
+      "surface": "ויחתם",
+      "gloss": "és lepecsételték"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "gyűrűjével"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "és elküldték"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "leveleket"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kezével"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "a futároknak"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "lovakon"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "lovaglóival"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "a méneknek"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "az üszőknek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "… közül valói"
+    },
+    {
+      "surface": "הרמכים",
+      "gloss": "a királyi csődöröknek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:41:23.886118063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És találták ⟨את⟩ Adoní-Bezket Bezékben, és harcoltak ellene, és leverték ⟨את⟩ a kánaánit és ⟨את⟩ a perizit.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "És találták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoní-Bezket"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoní-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezket"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezékben"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "és harcoltak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ellene"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "és leverték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a kánaánit"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "a kánaánit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a perizit"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "a perizit"
+    }
+  ],
+  "timestamp": "2026-09-04T23:27:41.912820395Z",
+  "model": "glm-5.3"
+}

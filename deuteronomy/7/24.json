@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "És ⟨adja⟩ királyaikat a kezedbe, és eltörlöd nevüket az ég alól; nem áll meg ember előtted, amíg meg nem semmisíted ⟨את⟩ őket.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "És ⟨adja⟩"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "királyaikat"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "a kezedbe"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "és eltörlöd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nevüket"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nevüket"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alól"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az ég"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "áll meg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ember"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "előtted"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amíg"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "meg nem semmisíted"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ őket",
+      "marks": "őket"
+    }
+  ],
+  "timestamp": "2026-09-04T17:53:34.299237789Z",
+  "model": "glm-5.3"
+}

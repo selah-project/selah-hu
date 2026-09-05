@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "Vajon kövek ereje-e az erőm, vajon réz-e a testem?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Vajon"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ereje"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "köveknek"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "az erőm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vajon"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "a testem"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "réz-e"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:09.722477889Z",
+  "model": "glm-5.3"
+}

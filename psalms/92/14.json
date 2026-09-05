@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 92,
+  "translation": "Beültetve Jahve házában, az Elohimunk udvaraiban kivirágzanak.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "beültetve"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨a⟩ házában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "⟨az⟩ udvaraiban"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunk"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "kivirágzanak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:52.444307183Z",
+  "model": "glm-5.3"
+}

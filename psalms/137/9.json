@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 137,
+  "translation": "Boldog ⟨az⟩, aki megragadja és ⟨את⟩ a csecsszégeidet a sziklához csapja.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Boldog"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "aki megragadja"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "és szétszaggatja"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "a csecsszégeidet"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "a csecsszégeidet"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "a"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "sziklához"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:26.787792056Z",
+  "model": "glm-5.3"
+}

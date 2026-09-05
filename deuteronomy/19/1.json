@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ha kiirtja Jahve, a te Elohimod, ⟨את⟩ a népeket, amelyeknek ⟨את⟩ a földjüket neked adja Jahve, a te Elohimod, és birtokba veszed őket, és laksz városaikban és házaikban —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "kiirtja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a népeket"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "a népeket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyeknek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "neked"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földjüket"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "a földjüket"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "és birtokba veszed őket"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "és laksz"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "városaikban"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "és házaikban"
+    }
+  ],
+  "timestamp": "2026-09-04T18:24:23.858950692Z",
+  "model": "glm-5.3"
+}

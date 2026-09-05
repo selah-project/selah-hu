@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "Ha megigazulok, saját szám ítél el ⟨engem⟩; ha ártatlan ⟨vagyok⟩, ⟨ő⟩ görbe útra fordít engem.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "megigazulok"
+    },
+    {
+      "surface": "פי",
+      "gloss": "saját szám"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "ítél el engem"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ártatlan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "vagyok"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "és görbe útra fordít engem"
+    }
+  ],
+  "timestamp": "2026-09-04T22:19:55.182559795Z",
+  "model": "glm-5.3"
+}

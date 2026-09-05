@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Jobb a nyugalommal telt tenyér, mint a fáradsággal és a szél gyötrésével telt két ököl.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "telt"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tenyér"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nyugalommal"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "mint telt"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "két ököl"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fáradsággal"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "és gyötrésével"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a szél"
+    }
+  ],
+  "timestamp": "2026-09-04T22:37:19.863194430Z",
+  "model": "glm-5.3"
+}

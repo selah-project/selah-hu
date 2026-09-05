@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 7:4",
+  "book": "amos",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Így mutatott meg nekem Adonáj Jahve: és íme, Adonáj Jahve perre hívott ⟨a⟩ tűzzel, és az megemésztette ⟨את⟩ a nagy mélységet, és emésztette ⟨את⟩ a földnek ⟨a⟩ részét.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Így"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mutatott meg nekem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "és íme"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hívott"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "perre"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tűzzel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "és az megemésztette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a nagy mélységet"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "mélységet"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nagy"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "és emésztette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földnek a részét"
+    },
+    {
+      "surface": "החלק",
+      "gloss": "a földnek ⟨a⟩ részét"
+    }
+  ],
+  "timestamp": "2026-09-05T00:13:15.460642673Z",
+  "model": "glm-5.3"
+}

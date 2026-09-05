@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Jobb a harag, mint a nevetés, mert a kedvtelés Miatt rossz arc detrás a szív jobb lesz.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "jobb"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "a harag"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "mint a nevetés"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "a rossz Miatt"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "arc detrás"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "jobb lesz"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a szív"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:35.255974528Z",
+  "model": "glm-5.3"
+}

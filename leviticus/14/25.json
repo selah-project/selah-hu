@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És levágja ⟨את⟩ az áldozati bárányt, és a kohen felvesz az áldozat véréből, és tesz a megtisztulandó jobb fülének cimpájára, és jobb kezének hüvelykjére, és jobb lábának nagylábujjára.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "és levágja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az áldozati bárányt"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "az áldozati bárányt"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "bárányt"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "és felvesz"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a kohen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "véréből"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "az áldozatnak"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "és tesz"
+    },
+    {
+      "surface": "על",
+      "gloss": "arra"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "cimpájára"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "fülének"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "a megtisztulandónak"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "jobbnak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és arra"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "hüvelykjére"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kezének"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "jobbnak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "és arra"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nagylábujjára"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "lába"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "jobbnak"
+    }
+  ],
+  "timestamp": "2026-09-04T17:13:59.557939941Z",
+  "model": "glm-5.3"
+}

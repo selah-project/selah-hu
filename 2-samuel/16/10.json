@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És szólt a király: Mi ⟨nekem⟩ és ⟨nektek⟩, Ceruja fiai? Hagyjátok, hogy szidalmaz, mert Jahve mondta néki: Szidalmazd Dávidot! És ki mondhatná: Miért cselekedted így?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a király"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "és nektek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Ceruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "szidalmaz"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "és mert"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mondta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "néki"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "Szidalmazd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dávidot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "és ki"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mondhatná"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miért"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "cselekedted"
+    },
+    {
+      "surface": "כן",
+      "gloss": "így"
+    }
+  ],
+  "timestamp": "2026-09-04T19:29:26.043594030Z",
+  "model": "glm-5.3"
+}

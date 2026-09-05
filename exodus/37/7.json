@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 37,
+  "translation": "És készített két kerubot aranyból, kalapált munkát készített róluk, ⟨את⟩ a fedőlap két végén.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "És készített"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kettőt"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubot"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aranyból"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kalapált munkát"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "készített"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "két kerubot"
+    },
+    {
+      "surface": "משני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "végén"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "a fedőlap"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:32.022915054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 119,
+  "translation": "Bárcsak rendületlenek lennének útjaidat őrző módban — bárcsak szilárdulnának útjaim, hogy őrizzem rendelkezéseidet!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Bárcsak"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "szilárdulnának"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "útjaim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hogy őrizzem"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "rendelkezéseidet"
+    }
+  ],
+  "timestamp": "2026-09-04T22:01:38.652477648Z",
+  "model": "glm-5.3"
+}

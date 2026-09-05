@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "A nő pedig ezt mondta a kígyónak: „A kert fáinak gyümölcséből eszünk.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "és ezt mondta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "a nő"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–nak"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "a kígyó"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "gyümölcséből"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "fáinak"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "a kert"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "eszünk"
+    }
+  ],
+  "timestamp": "2026-09-04T16:23:55.454825903Z",
+  "model": "glm-5.3"
+}

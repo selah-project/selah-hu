@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "És összegyűjtötték ⟨את⟩ azt reggelenként, reggelenként, mindenki az evése szerint; és amikor melegedett a nap, elolvadt.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "és összegyűjtötték"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggelenként"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "reggelenként"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "szerint"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "az evése"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "és melegedett"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "elolvadt"
+    }
+  ],
+  "timestamp": "2026-09-04T18:17:05.246004885Z",
+  "model": "glm-5.3"
+}

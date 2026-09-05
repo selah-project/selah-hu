@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 21,
+  "translation": "És David szívébe helyezte ⟨את⟩ ezeket a szavakat, és nagyon félt Akís elől, Gát királya elől.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "és helyezte"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezeket a szavakat"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "a szavakat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ezeket"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "szívébe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "és félt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nagyon"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akís"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gát"
+    }
+  ],
+  "timestamp": "2026-09-04T19:14:28.822694129Z",
+  "model": "glm-5.3"
+}

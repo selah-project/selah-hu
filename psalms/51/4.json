@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 51,
+  "translation": "Mosd meg alaposan bűnömtől, és vétkeimtől tisztíts meg engem.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "alaposan"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Mosd meg"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "bűnömtől"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "és vétkeimtől"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "tisztíts meg"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:31.072038032Z",
+  "model": "glm-5.3"
+}

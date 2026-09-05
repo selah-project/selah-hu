@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 1:14",
+  "book": "judges",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És történt, amint ⟨hozá⟩ eljött, rávette őt, hogy kérjen apjától ⟨את⟩ a mezőt; és leszállt a szamárról, és Kalev (Káléb) mondta neki: „Mi ⟨van⟩ veled?\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "És történt"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "amint eljött"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "rávette őt"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "hogy kérjen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "a mezőt (az apjától)"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "apjától"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "a mezőt"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "és leszállt"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-ról"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "a szamárról"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondott"
+    },
+    {
+      "surface": "לה",
+      "gloss": "neki"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "veled"
+    }
+  ],
+  "timestamp": "2026-09-05T00:27:28.017749629Z",
+  "model": "glm-5.3"
+}

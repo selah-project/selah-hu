@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És Moshe és Aharon (Áron) megtették ⟨את⟩ mind e csodákat Paró színe előtt, és Jahve megkeményítette ⟨את⟩ Paró szívét, és nem bocsátotta el ⟨את⟩ Izrael fiait az ő földjéről.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "És Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "és Aharon (Áron)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "megtették"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind e csodákat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "csodákat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "e"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "színe előtt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "és megkeményítette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paró szívét"
+    },
+    {
+      "surface": "לב",
+      "gloss": "szívét"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bocsátotta el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael fiait"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiait"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "az ő földjéről"
+    }
+  ],
+  "timestamp": "2026-09-04T18:16:01.856212828Z",
+  "model": "glm-5.3"
+}

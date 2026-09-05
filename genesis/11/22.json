@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És élt Szerug harminc esztendőt, és nemzette ⟨את⟩ Náchort.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "És élt"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Szerug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "harminc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "esztendőt"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "és nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Náchort"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchort"
+    }
+  ],
+  "timestamp": "2026-09-04T16:25:46.190033957Z",
+  "model": "glm-5.3"
+}

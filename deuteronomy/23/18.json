@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 23,
+  "translation": "Ne legyen kedesa Izrael leányai között, és ne legyen kades Izrael fiai között.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kedesa"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "…közt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael leányai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "legyen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kades"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…közt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael fiai"
+    }
+  ],
+  "timestamp": "2026-09-04T18:27:10.602545376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Ez a termeted pálmafához hasonló, és kebleid a szőlőfürtökhöz.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ez"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "termeted"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "hasonló"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "a pálmafához"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "és kebleid"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "a szőlőfürtökhöz"
+    }
+  ],
+  "timestamp": "2026-09-04T22:30:55.374158104Z",
+  "model": "glm-5.3"
+}

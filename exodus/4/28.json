@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És elmondta Moshe Aharonnak ⟨את⟩ mind Jahve beszédeit, amelyekkel elküldte őt, és ⟨את⟩ mind ⟨az⟩ jeleket, amelyekkel megbízta őt.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "és elmondta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mind Jahve beszédeit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "beszédeit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyekkel"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "elküldte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "mind az jeleket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "az jeleket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyekkel"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "megbízta őt"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:55.621051443Z",
+  "model": "glm-5.3"
+}

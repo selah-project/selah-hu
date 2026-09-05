@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "hu",
+  "chapter": 33,
+  "translation": "És eltávolította ⟨את⟩ az idegen isteneket és ⟨את⟩ a bálványszobrot Jahve házából, és minden oltárt, amelyet épített Jahve házának hegyén és Jerusálajimban, és kidobta ⟨azokat⟩ a városon kívülre.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "és eltávolította"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az idegen isteneket"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "isteneket"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "idegen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a bálványszobrot"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "a bálványszobrot"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "oltárt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "épített"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "hegyén"
+    },
+    {
+      "surface": "בית",
+      "gloss": "házának"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "és Jerusálajimban"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "és kidobta"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "kívülre"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "a városon"
+    }
+  ],
+  "timestamp": "2026-09-04T23:24:07.952111868Z",
+  "model": "glm-5.3"
+}

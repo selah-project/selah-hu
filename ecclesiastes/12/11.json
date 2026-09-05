@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "A bölcsek szavai mint ösztökék, és mint mélyen leszúrt szögek — a gyűlések mestereié —; egy pásztortól adattak.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "szavai"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "a bölcsek"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "mint ösztökék"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "és mint szögek"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "leszúrtak"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "mesterei"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "a gyűléseknek"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "adattak"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "pásztor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egytől"
+    }
+  ],
+  "timestamp": "2026-09-04T22:38:03.343962709Z",
+  "model": "glm-5.3"
+}

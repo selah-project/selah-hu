@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 35,
+  "translation": "És az én nyelvem a te igazságodról beszél, a te dicséretedről szól az egész nap.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "És az én nyelvem"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "beszél (morog, elmélkedik)"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "a te igazságodról"
+    },
+    {
+      "surface": "כל",
+      "gloss": "az egész"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "a te dicséretedről"
+    }
+  ],
+  "timestamp": "2026-09-04T21:43:58.948671906Z",
+  "model": "glm-5.3"
+}

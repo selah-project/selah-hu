@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És tíz könyök ⟨volt⟩ a második kerub: egy mérték és egy forma ⟨volt⟩ a két kerubnak.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "És tíz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "a kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "egy mérték"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨volt⟩"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "és egy forma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨volt⟩"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "a két"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubnak"
+    }
+  ],
+  "timestamp": "2026-09-04T19:39:50.341564065Z",
+  "model": "glm-5.3"
+}

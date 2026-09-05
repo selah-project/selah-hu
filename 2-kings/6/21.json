@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 6,
+  "translation": "És szólt Jiszráél (Izrael) királya Elisához (Elizeushoz), amikor meglátta ⟨את⟩ őket: „Atyám, megverjem, megverjem őket?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És szólt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "királya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-hoz"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisá"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "amikor meglátta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "őket"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "megverjem"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "megverjem"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyám"
+    }
+  ],
+  "timestamp": "2026-09-04T19:55:38.884569299Z",
+  "model": "glm-5.3"
+}

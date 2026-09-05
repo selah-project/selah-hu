@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "A szegény minden testvére gyűlöli őt — még inkább távolodnak el tőle a barátai; szavakkal üldözi ⟨őket⟩, de ⟨azok⟩ nincsenek.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "testvére"
+    },
+    {
+      "surface": "רש",
+      "gloss": "szegény"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "gyűlöli őt"
+    },
+    {
+      "surface": "אף",
+      "gloss": "még inkább"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨inkább⟩"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "barátai"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "távolodnak el"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "üldözi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "szavakkal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨azok⟩ nincsenek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:13:06.745588023Z",
+  "model": "glm-5.3"
+}

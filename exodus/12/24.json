@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "És megőrizzétek ⟨את⟩ e dolgot rendelésül magatoknak és fiaitoknak örökre.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "És megőrizzétek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "e dolgot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "e dolgot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ezt"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "rendelésül"
+    },
+    {
+      "surface": "לך",
+      "gloss": "magatoknak"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "és fiaitoknak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ig"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T16:47:20.785477525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És elapadnak a vizek a tengertől, és a folyam kiszárad és elszárad.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "és elapadnak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "a vizek"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "a tengertől"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "és a folyam"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "kiszárad"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "elszárad"
+    }
+  ],
+  "timestamp": "2026-09-04T20:12:33.625652335Z",
+  "model": "glm-5.3"
+}

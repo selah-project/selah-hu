@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "hu",
+  "chapter": 39,
+  "translation": "És eltemeti őket Jiszráél háza, hogy megtisztítsa ⟨את⟩ a földet — hét hónapon át.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "És eltemeti őket"
+    },
+    {
+      "surface": "בית",
+      "gloss": "háza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jiszráél"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hogy"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "megtisztítsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a földet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a földet"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "hét"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "hónapon át"
+    }
+  ],
+  "timestamp": "2026-09-04T21:14:40.642418915Z",
+  "model": "glm-5.3"
+}

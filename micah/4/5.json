@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Mert minden népek elmennek, kiki az ő istenének nevében; de mi a Jahve, a mi Elohimunk nevében megyünk, örökkön és örökre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "népek"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "elmennek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiki"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nevében"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "istenének"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "de mi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "megyünk"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nevében"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimunk"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "örökkön"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és örökre"
+    }
+  ],
+  "timestamp": "2026-09-04T21:29:10.801504133Z",
+  "model": "glm-5.3"
+}

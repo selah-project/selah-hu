@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "És odaadta ⟨a⟩ pap a százasok parancsnokainak ⟨את⟩ a lándzsákat és ⟨את⟩ a pajzsokat, amelyek Dávid királyéi voltak, amelyek Jahve házában ⟨voltak⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "és odaadta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "a pap"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "a parancsnokainak"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "százasok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a lándzsákat"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "a lándzsákat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a pajzsokat"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "a pajzsokat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávidnak (Dávid)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyek"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "házában"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvének"
+    }
+  ],
+  "timestamp": "2026-09-05T00:47:28.559222070Z",
+  "model": "glm-5.3"
+}

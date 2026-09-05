@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 84,
+  "translation": "Mennek erőről erőre, ⟨meg⟩jelennek Elohim előtt Cijonban.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Mennek"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "erőről"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "erőre"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "megjelennek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "előtt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cijonban"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:56.292990716Z",
+  "model": "glm-5.3"
+}

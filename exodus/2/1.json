@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És elment egy férfi a Lévi házából, és vett ⟨את⟩ egy Lévi-lányt.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "És elment"
+    },
+    {
+      "surface": "איש",
+      "gloss": "egy férfi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "a házából"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "és vett"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egy Lévi-lányt"
+    },
+    {
+      "surface": "בת",
+      "gloss": "egy Lévi-lányt"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    }
+  ],
+  "timestamp": "2026-09-04T16:43:21.948656177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "És gyűlöltem ⟨את⟩ az életet, mert rossz nekem a munka, amely a nap alatt készült, mert minden hiábavalóság és a lélek gyötrelme.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "És gyűlöltem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "az életet"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "az életet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "רע",
+      "gloss": "rossz"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nekem"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "a munka"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "amely készült"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alatt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "a nap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hiábavalóság"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "és a gyötrelme"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a léleknek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:35:47.944602766Z",
+  "model": "glm-5.3"
+}

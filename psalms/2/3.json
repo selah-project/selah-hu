@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 2,
+  "translation": "„Szaggassuk le ⟨את⟩ kötözőköteleiket, és hajítsuk el tőlünk pánthélikat!”",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Szaggassuk le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kötözőköteleiket"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "kötözőköteleiket"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "és hajítsuk el"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőlünk"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "pánthélikat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:36:30.053998981Z",
+  "model": "glm-5.3"
+}

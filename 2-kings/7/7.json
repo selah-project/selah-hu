@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "hu",
+  "chapter": 7,
+  "translation": "Felkeltek tehát, és megfutamodtak alkonyatkor, és ott Hagyták ⟨את⟩ sátraikat és ⟨את⟩ lovaikat és ⟨את⟩ szamaraikat — a tábort úgy, ahogy ⟨volt⟩ — és életükért menekültek.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "és felkeltek"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "és megfutamodtak"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "alkonyatkor"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "és ott Hagyták"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sátraikat"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "sátraikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "lovaikat"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "lovaikat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "szamaraikat"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "szamaraikat"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "a tábort"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "úgy, ahogy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "van"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "és menekültek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ért"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "életük"
+    }
+  ],
+  "timestamp": "2026-09-04T19:57:20.972240827Z",
+  "model": "glm-5.3"
+}

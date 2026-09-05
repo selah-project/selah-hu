@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 3,
+  "translation": "És elkezdte Jónás bejárni a várost egynapi járásra, és kiáltott, és mondta: „Még negyven nap, és Ninive felfordíttatik.”",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "És elkezdte"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jónás"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "bejárni"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "a várost"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "járásra"
+    },
+    {
+      "surface": "יום",
+      "gloss": "napi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "egy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "és kiáltott"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Még"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "negyven"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nap"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "és Ninive"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "felfordíttatik"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:12.580538412Z",
+  "model": "glm-5.3"
+}

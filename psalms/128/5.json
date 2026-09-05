@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 128,
+  "translation": "Áldjon meg Jahve Cionból, és lásd Jerusálajim javát életed minden napján!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "áldjon meg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Cionból"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "és lásd"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "javát"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusálajim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "napján"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "életed"
+    }
+  ],
+  "timestamp": "2026-09-04T22:03:04.374030015Z",
+  "model": "glm-5.3"
+}

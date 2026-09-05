@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 68,
+  "translation": "Az árvák atyja és az özvegyek bírája: Elohim az ő szent lakóhelyén.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "atyja"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "az árvák"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "és bírája"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "az özvegyeknek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "lakóhelyén"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "szent"
+    }
+  ],
+  "timestamp": "2026-09-04T21:50:58.037630388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 20,
+  "translation": "Én ⟨vagyok⟩ Jahve, a te Elohimod, aki kivittellek Micrajim (Egyiptom) földjéről, a szolgák házából.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "a te Elohimod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "kivittellek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "földjéről"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim (Egyiptom)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "házából"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "szolgák"
+    }
+  ],
+  "timestamp": "2026-09-04T16:50:20.948535270Z",
+  "model": "glm-5.3"
+}

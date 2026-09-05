@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "hu",
+  "chapter": 36,
+  "translation": "Tíz könyök ⟨volt⟩ a deszka hossza, és egy könyök meg fél ⟨könyök⟩ az egy deszka szélessége.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Tíz"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "könyök"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hossza"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "a deszka"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "és egy könyök"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "meg fél"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "⟨könyök⟩"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "szélessége"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "a deszka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "az egy"
+    }
+  ],
+  "timestamp": "2026-09-04T17:02:58.146668990Z",
+  "model": "glm-5.3"
+}

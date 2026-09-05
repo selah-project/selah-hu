@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "És felírta ott a kövekre ⟨את⟩ a Moshe Tórájának a mását, amelyet Izráel fiai szeme láttára írt.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "És felírta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ott"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "a kövekre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a mását"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mását"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tórájának"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amelyet"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "írt"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "szeme láttára"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fiai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-04T18:39:20.295987572Z",
+  "model": "glm-5.3"
+}

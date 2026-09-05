@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Ismeri az igaz állatának lelkét, de a gonoszok irgalmai kegyetlenek.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ismeri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "az igaz"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "a lelkét"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "állatának"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "de az irgalmái"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "a gonoszoknak"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "kegyetlenek"
+    }
+  ],
+  "timestamp": "2026-09-04T22:10:33.694409492Z",
+  "model": "glm-5.3"
+}

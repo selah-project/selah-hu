@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "És Esheton nemzette ⟨את⟩ Bét-Ráfát, és ⟨את⟩ Pászeachot, és ⟨את⟩ Tichinát, Ír-Náchás atyját; ezek Rekha férfiai.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "És Esheton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nemzette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bét-Ráfát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bét-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Ráfát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Pászeachot"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pászeachot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Tichinát"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tichinát"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "atyját"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ír-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Náchás"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ezek"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "férfiai"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-09-04T23:00:33.423808066Z",
+  "model": "glm-5.3"
+}

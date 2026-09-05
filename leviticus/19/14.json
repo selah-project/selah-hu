@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "Ne átkozd a süketet, és a vak elé ne tegyél botlást; és féljed a te Elohimodat: én vagyok Jahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "átkozd"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "a süketet"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "és elé"
+    },
+    {
+      "surface": "עור",
+      "gloss": "a vak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "tegyél"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "botlást"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "és féljed"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimodat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T17:18:06.112043487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 85,
+  "translation": "Heszed és igazság találkoztak, igazságosság és békesség csókot váltottak ⟨egymással⟩.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Heszed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "és igazság"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "találkoztak"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "igazságosság"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "és békesség"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "csókot váltottak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:55:13.872380666Z",
+  "model": "glm-5.3"
+}

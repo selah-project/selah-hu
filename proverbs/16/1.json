@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "hu",
+  "chapter": 16,
+  "translation": "Az embernek ⟨a⟩ szív rendelkezései, de Jahvétól ⟨jön⟩ a nyelv felelete.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "az embernek"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "rendelkezései"
+    },
+    {
+      "surface": "לב",
+      "gloss": "a szív"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "de Jahvétól"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "felelete"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "a nyelv"
+    }
+  ],
+  "timestamp": "2026-09-04T22:11:56.919858384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És megszabadította Jahve ⟨את⟩ Izraelt aznap, és a harc átvonult ⟨את⟩ Bet-Avenen (Áven háza).",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "és megszabadította"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "napon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "azon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraelt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelt"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "és a harc"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "átvonult"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Avenen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "Áven"
+    }
+  ],
+  "timestamp": "2026-09-04T19:10:28.861072823Z",
+  "model": "glm-5.3"
+}

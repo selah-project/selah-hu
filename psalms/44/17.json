@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 44,
+  "translation": "A gyalázkodó és szidalmazó szava miatt, az ellenség és a bosszúálló elől.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "szava miatt"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "a gyalázkodó"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "és szidalmazó"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elől"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "az ellenség"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "és a bosszúálló"
+    }
+  ],
+  "timestamp": "2026-09-04T21:45:46.452555861Z",
+  "model": "glm-5.3"
+}

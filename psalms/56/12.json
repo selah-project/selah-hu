@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 56,
+  "translation": "Elohimban bíztam, nem félek; mit tehet nekem az ember?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimban"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "bíztam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "félek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mit"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tehet"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "az ember"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nekem"
+    }
+  ],
+  "timestamp": "2026-09-04T21:47:52.795072123Z",
+  "model": "glm-5.3"
+}

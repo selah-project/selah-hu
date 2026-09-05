@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Villámot szórva szórj szét ⟨őket⟩, nyilaidat küldd el, és zavarod meg ⟨őket⟩.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "villámot szórva"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "villám"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "és szórd szét őket"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "küldd el"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "nyilaidat"
+    },
+    {
+      "surface": "ויתהמם",
+      "gloss": "és zavard meg őket"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:29.094699247Z",
+  "model": "glm-5.3"
+}

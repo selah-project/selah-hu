@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Nincs vége mind a népnek, mindenkinek, aki előttük volt; sőt az utolsók sem örvendeznek ő benne; mert ez is hiábavalóság és a szél utáni sóvárgás.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "nincs"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "vége"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mind"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a népnek"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mindenkinek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "volt"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "előttük"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sőt"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "az utolsók"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "örvendeznek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ő benne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mert"
+    },
+    {
+      "surface": "גם",
+      "gloss": "is"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ez"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hiábavalóság"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "és sóvárgás"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "a szél után"
+    }
+  ],
+  "timestamp": "2026-09-04T22:36:30.698032825Z",
+  "model": "glm-5.3"
+}

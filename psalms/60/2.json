@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 60,
+  "translation": "Amikor harcolt ⟨את⟩ Arám-Naharájim és ⟨את⟩ Arám-Cóva ellen, Joáv visszatért, és megverte ⟨את⟩ Edomot a só völgyében — tizenkétezer.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Amikor harcolt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arám-Naharájim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharájim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "Arám-Cóva"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arám"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cóva"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "visszatért"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáv"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "és megverte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomot"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomot"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "a völgyében"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "só"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "két"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezer"
+    }
+  ],
+  "timestamp": "2026-09-04T21:49:22.990015786Z",
+  "model": "glm-5.3"
+}

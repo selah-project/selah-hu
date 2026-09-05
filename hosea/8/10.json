@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "hu",
+  "chapter": 8,
+  "translation": "Még ha a nemzetek közt béreltek is: most összegyűjtöm őket, és gyötrődni kezdenek kevéssé a fejedelmek királyának terhe alatt.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Még"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "béreltek"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "a nemzetek közt"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "most"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "összegyűjtöm őket"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "és gyötrődni kezdenek"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kevéssé"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "…terhe alatt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "király"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "fejedelmek"
+    }
+  ],
+  "timestamp": "2026-09-04T21:20:19.583079191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "hu",
+  "chapter": 19,
+  "translation": "És ne kiméljen a szemed: élet életért, szem szemért, fog fogért, kéz kézért, láb lábért.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "és ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "kiméljen"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "a szemed"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "élet"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "életért"
+    },
+    {
+      "surface": "עין",
+      "gloss": "szem"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "szemért"
+    },
+    {
+      "surface": "שן",
+      "gloss": "fog"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "fogért"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kéz"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kézért"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "láb"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "lábért"
+    }
+  ],
+  "timestamp": "2026-09-04T18:23:03.740481123Z",
+  "model": "glm-5.3"
+}

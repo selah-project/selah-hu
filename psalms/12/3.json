@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 12,
+  "translation": "Hiúságot szól mindenki ⟨את⟩ felebarátjával, sima ajkakkal, szívvel és szívvel szólnak.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "hiúságot"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "szól(nak)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mindenki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "felebarátjával"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "felebarátjával"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ajkakkal"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "sima(k)"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "szívvel"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "és szívvel"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "szólnak"
+    }
+  ],
+  "timestamp": "2026-09-04T21:38:25.401766898Z",
+  "model": "glm-5.3"
+}

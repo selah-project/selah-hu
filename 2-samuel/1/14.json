@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondta neki Dávid: Hogyan nem féltél kinyújtani kezedet, hogy elpusztítsd ⟨את⟩ Jahve felkentjét?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "És mondta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "neki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dávid"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hogyan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nem"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "féltél"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kinyújtani"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kezedet"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "hogy elpusztítsd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve felkentjét"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "felkentjét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-04T19:21:00.690174574Z",
+  "model": "glm-5.3"
+}

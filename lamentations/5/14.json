@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "hu",
+  "chapter": 5,
+  "translation": "A vének megszűntek ⟨a⟩ kapuban ⟨ülni⟩, az ifjak a maguk zenéjétől.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "a vének"
+    },
+    {
+      "surface": "משער",
+      "gloss": "kaputól"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "megszűntek"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "az ifjak"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "zenéjüktől"
+    }
+  ],
+  "timestamp": "2026-09-04T22:34:35.321658520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "hu",
+  "chapter": 14,
+  "translation": "És vitték ⟨את⟩ Szodoma és Amora egész vagyonát, és ⟨את⟩ minden élelmüket, és elmentek.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "és vitték"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Szodoma és Amora egész vagyonát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "vagyonát"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Szodoma"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "és Amora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "minden élelmüket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "minden"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "élelmüket"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "és elmentek"
+    }
+  ],
+  "timestamp": "2026-09-04T16:26:29.094473676Z",
+  "model": "glm-5.3"
+}

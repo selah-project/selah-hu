@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "hu",
+  "chapter": 11,
+  "translation": "Elment a követ, megérkezett, és jelentette Davídnak (Dávid) ⟨את⟩ mindazt, amivel Joáb (Jóáb) őt elküldte.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Elment"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "a követ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "megérkezett"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "és jelentette"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davídnak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mindazt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mindazt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amit"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "küldött"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    }
+  ],
+  "timestamp": "2026-09-04T19:26:03.754073180Z",
+  "model": "glm-5.3"
+}

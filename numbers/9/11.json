@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "hu",
+  "chapter": 9,
+  "translation": "A második hónapban, tizennégy nappal, az esték között készítsék el ⟨את⟩; mázzal és keserű füvekkel egyék meg.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "hónapban"
+    },
+    {
+      "surface": "השני",
+      "gloss": "a második"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "tizennégy—"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—nap"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nappal"
+    },
+    {
+      "surface": "בין",
+      "gloss": "között"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "az esték"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "készítsék el"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azt (a peszáchot)"
+    },
+    {
+      "surface": "על",
+      "gloss": "-val"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mázzal"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "és keserű füvekkel"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "egyék meg"
+    }
+  ],
+  "timestamp": "2026-09-04T17:32:09.478920632Z",
+  "model": "glm-5.3"
+}

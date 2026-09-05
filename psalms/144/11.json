@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 144,
+  "translation": "Szabadíts meg és ments ki engem az idegenek kezéből, kiknek szájuk hiúságot szól, és jobbkezük hazugság jobb keze.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Szabadíts meg"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "és ments ki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kezéből"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…fiai"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "idegenek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kiknek"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "szájuk"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szól"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "hiúságot"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "és jobbkezük"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "jobb kéz"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hazugság"
+    }
+  ],
+  "timestamp": "2026-09-04T22:06:10.192998827Z",
+  "model": "glm-5.3"
+}

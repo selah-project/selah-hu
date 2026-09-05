@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 139,
+  "translation": "Utamat és pihenőmet megszórtad ⟨rokkáddal⟩, minden utammal tisztában vagy.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Utamat"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "és pihenőmet"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "megszórtad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "és minden"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "utammal"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "tisztában vagy"
+    }
+  ],
+  "timestamp": "2026-09-04T22:04:52.546049155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "hu",
+  "chapter": 4,
+  "translation": "Ha szót próbál valaki ⟨veled⟩, elfáradsz-e? És a szavak visszafogásában ki bírja?",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "Ha próbál"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "szót"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "veled"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "elfáradsz-e"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "és visszafogni"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "a szavak(ban)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bírja"
+    }
+  ],
+  "timestamp": "2026-09-04T22:18:05.341276333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 71,
+  "translation": "Elohim, ifjúságomtól tanítottál engem, és eddig hirdetem ⟨a⟩ csodáidat.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "tanítottál engem"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ifjúságomtól"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és eddig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ideig"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "hirdetem"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "csodáidat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:51:29.485750160Z",
+  "model": "glm-5.3"
+}

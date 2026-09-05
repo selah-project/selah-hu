@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "hu",
+  "chapter": 50,
+  "translation": "Mert feljött ellene egy nép északról; ⟨ő⟩ az, aki pusztasággá teszi ⟨את⟩ földjét, és nem lesz lakója benne; embertől állatig elvándoroltak, eltávoztak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mert"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "feljött"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ellene"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nép"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "északról"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ő⟩"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "az, aki tesz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "földjét"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "földjét"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "pusztasággá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "és nem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lesz"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "lakója"
+    },
+    {
+      "surface": "בה",
+      "gloss": "benne"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "embertől"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "és -ig"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "állat"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "elvándoroltak"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "eltávoztak"
+    }
+  ],
+  "timestamp": "2026-09-04T20:55:25.105210918Z",
+  "model": "glm-5.3"
+}

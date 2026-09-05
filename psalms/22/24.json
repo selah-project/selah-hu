@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 22,
+  "translation": "Jahve féltői, dicsérjétek ⟨את⟩ őt! Egész Jaakov (Jákob) magja, tiszteljétek ⟨את⟩ őt, és rettegjetek tőle, egész Izráel magva!",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "féltői"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dicsérjétek őt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Egész"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov (Jákob)"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "tiszteljétek őt"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "és rettegjetek"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tőle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "egész"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "magva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izráel"
+    }
+  ],
+  "timestamp": "2026-09-05T00:45:43.204926056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "hu",
+  "chapter": 1,
+  "translation": "És mondta nekik: „Ivri (héber) vagyok, és ⟨את⟩ Jahvét, az egek Elohimját félem, aki ⟨את⟩ a tengert és ⟨את⟩ a szárazföldet made.”\n",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "és mondta"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nekik"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ivri"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "én"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvét"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimja"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "az egek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "én"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "félem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teremtette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "a tengert"
+    },
+    {
+      "surface": "הים",
+      "gloss": "a tengert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "és ⟨את⟩",
+      "marks": "a szárazföldet"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "a szárazföldet"
+    }
+  ],
+  "timestamp": "2026-09-04T21:26:17.263644770Z",
+  "model": "glm-5.3"
+}

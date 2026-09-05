@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 73,
+  "translation": "Mint egy álom ébredéskor, Adonáj, felébredvén megveted az ő képmásukat.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Mint egy álom"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ébredéskor"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonáj"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "felébredvén"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "az ő képmásukat"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "megveted"
+    }
+  ],
+  "timestamp": "2026-09-04T21:52:41.402377482Z",
+  "model": "glm-5.3"
+}

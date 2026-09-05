@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "hu",
+  "chapter": 90,
+  "translation": "Örvendeztess minket azokkal a napokkal, amelyeken megaláztál minket, azokkal az évekkel, amelyekben rosszat láttunk.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Örvendeztess minket"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "azokkal a napokkal, amelyekben"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "megaláztál minket"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "azokkal az évekkel, amelyekben"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "láttunk"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "rosszat"
+    }
+  ],
+  "timestamp": "2026-09-04T21:56:44.276917935Z",
+  "model": "glm-5.3"
+}
