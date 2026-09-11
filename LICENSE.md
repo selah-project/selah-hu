@@ -11,7 +11,7 @@ Kiadva a **Creative Commons Attribution-ShareAlike 4.0 International
 
 Szabadon megoszthatod és átdolgozhatod ezt a művet bármilyen célra —
 kereskedelmire is —, ha megfelelő módon hivatkozol a
-**Selah-projektre** (https://selahproject.org), jelzed a
+**Selah-projektre** (https://selahproject.com), jelzed a
 változtatásaidat, és a származékos műveket ugyanezen licenc alatt
 terjeszted.
 
@@ -26,7 +26,7 @@ of the Hebrew Bible (one rendering per verse and one gloss per
 word-unit), together with its full revision history. Published under
 **CC BY-SA 4.0**. You are free to share and adapt this work for any
 purpose, including commercially, provided you give appropriate credit
-to the **Selah project** (https://selahproject.org), state your
+to the **Selah project** (https://selahproject.com), state your
 changes, and distribute derivatives under the same license. The
 underlying Hebrew text is the OpenScriptures Hebrew Bible (WLC), in
 the public domain; the rendering, glosses, markers and revision

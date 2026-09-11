@@ -116,7 +116,7 @@ olvasható legyen a magyarral. A fájl így áll:
 
 ## Támogasd a Selaht
 
-<https://selahproject.org>
+<https://selahproject.com>
 
 ---
 
