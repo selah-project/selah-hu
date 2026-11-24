@@ -9,7 +9,7 @@ Ez a dokumentum elmondja, hogyan segíthetsz.
 - Nyiss **Issue**-t a repozitóriumban:
   <https://github.com/selah-project/selah-hu>
 - Vagy, ha magad is tudod javítani, nyiss **Pull requestet**.
-- Vagy írj nekünk: <support@selahproject.com>
+- Vagy írj nekünk: <https://s33k3r.com/learn/support>
 
 ## Mi kell egy jelentésbe
 
@@ -42,7 +42,7 @@ pontosabbá teszi, kérjük.
 
 **English.** Contributions welcome: open an Issue or Pull request at
 <https://github.com/selah-project/selah-hu>, or write to
-<support@selahproject.com>. One file = one verse; unit count equals
+<https://s33k3r.com/learn/support>. One file = one verse; unit count equals
 gloss count; ⟨את⟩ markers are never deleted or added; the D1 Names
 (Jahve, Elohim…) never yield to titles; supplied words only in ⟨⟩.
 Letter-faithfulness outranks readability.
